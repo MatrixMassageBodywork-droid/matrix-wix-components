@@ -1,0 +1,34 @@
+{
+  "siteId": "cdec8df6-d518-4859-9f1e-f06bf5346d41",
+  "pageId": "l014i",
+  "url": "https://www.matrixmassage.net/swedish-massage-salem-wi",
+  "elementId": "matrixSwedishPage",
+  "tagName": "matrix-swedish-page",
+  "source": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@69731d469dc1c47d88eff4d1a1c954c028391875/pages/massage/swedish/renderer.js",
+  "sourceSha256": "c805b6fddd29dbe146f9edc1b5f4b95d01ed12d5f35f8a22f2733415be43015c",
+  "sectionId": "section4",
+  "desktop": {
+    "elementWidth": 980,
+    "elementHeight": 4947,
+    "sectionHeight": 4950,
+    "x": 0,
+    "y": 132
+  },
+  "mobile": {
+    "elementWidth": 320,
+    "elementHeight": 8177,
+    "sectionHeight": 8177,
+    "x": 0,
+    "y": 52
+  },
+  "removedSections": [
+    "Section1RegularMediaImage1RuleNoFaceImage",
+    "section2"
+  ],
+  "preservedReviews": "Section3SlideShow",
+  "faqSchemaId": "BGfTVDxa",
+  "faqCount": 7,
+  "pageCodeReadbackMatches": true,
+  "status": "PUBLISHED / VERIFIED",
+  "publishedAt": "2026-11-05T20:56:58.798Z"
+}

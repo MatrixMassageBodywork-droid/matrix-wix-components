@@ -1,0 +1,444 @@
+{
+  "getTags": [
+    {
+      "type": "meta",
+      "props": {
+        "name": "description",
+        "content": "Book your Swedish massage in Salem WI with Matrix Massage. Relax, reduce stress, and restore balance with light-to-medium pressure and calming aromatherapy.\n"
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "meta",
+      "props": {
+        "property": "og:image",
+        "content": "e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png"
+      },
+      "meta": {
+        "width": 1050,
+        "height": 600
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "title",
+      "children": "Swedish Massage Salem WI | Matrix Massage & Bodywork",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "BGfTVDxa",
+        "displayName": "FAQ Schema"
+      },
+      "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"FAQPage\",   \"mainEntity\": [     {       \"@type\": \"Question\",       \"name\": \"What is Swedish massage?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Swedish massage is a relaxing and therapeutic technique that uses long, gliding strokes, kneading, and circular movements to promote circulation, release muscle tension, and reduce stress.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"What are the benefits of Swedish massage?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Swedish massage may help reduce stress, ease muscle tension, improve blood flow, support sleep, and promote overall relaxation.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"Is Swedish massage good for stress relief?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Yes, Swedish massage is ideal for reducing stress and anxiety. It activates the parasympathetic nervous system, helping the body shift into a calmer, more relaxed state.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"How is Swedish massage different from deep tissue?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Swedish massage uses lighter pressure and is focused on relaxation, while deep tissue massage uses firm pressure to target deeper muscle layers and chronic tension.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"How often should I get a Swedish massage?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Most clients benefit from Swedish massage every 2 to 4 weeks, but frequency can vary based on stress levels, physical activity, and wellness goals.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"Do you offer Swedish massage in Salem, WI?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Yes, Matrix Massage provides Swedish massage at our location in Salem, Wisconsin. Sessions are customized with aromatherapy and optional wellness add-ons.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"Can I book Swedish massage if I live in Pleasant Prairie?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Yes, our Salem location is just a short drive from Pleasant Prairie, WI. Many clients from the area visit us for Swedish massage and wellness services.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"Is Matrix Massage near Kenosha, WI?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Yes, we're located close to Kenosha and regularly serve clients from the area seeking massage therapy, red light therapy, and lymphatic care.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"Do you serve clients from Antioch, IL?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Yes, Matrix Massage is near the Illinois border and welcomes clients from Antioch and surrounding communities looking for relaxing or therapeutic massage.\"       }     }   ] }",
+      "custom": false,
+      "disabled": false
+    }
+  ],
+  "setRequest": {
+    "itemSeoTags": {
+      "tags": [
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Book your Swedish massage in Salem WI with Matrix Massage. Relax, reduce stress, and restore balance with light-to-medium pressure and calming aromatherapy.\n"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:image",
+            "content": "e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png"
+          },
+          "meta": {
+            "width": 1050,
+            "height": 600
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "title",
+          "children": "Swedish Massage Salem WI | Matrix Massage & Bodywork",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "BGfTVDxa",
+            "displayName": "FAQ Schema"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Is Swedish massage the same as relaxation massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Swedish is a common style used for relaxation. It typically features broad, flowing strokes, with pressure adapted to the client.\"}},{\"@type\":\"Question\",\"name\":\"Is Swedish massage painful?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It should not require pain. Tell your therapist if the pressure is too strong, too light, or different from what you prefer. The session can be adjusted.\"}},{\"@type\":\"Question\",\"name\":\"Will I have to remove all my clothes?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. You can undress to your comfort level. Professional draping is used for your privacy, and you can discuss any concerns before the session begins.\"}},{\"@type\":\"Question\",\"name\":\"Can I request focus on my neck or back?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Tell your therapist where you would like extra attention, and the session can be adjusted within the service you booked.\"}},{\"@type\":\"Question\",\"name\":\"How is it different from deep tissue massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Swedish massage usually emphasizes longer, flowing movements and relaxation. Deep tissue uses slower, more focused work. Techniques can overlap depending on your goals. Explore deep tissue massage.\"}},{\"@type\":\"Question\",\"name\":\"Do I need to add aromatherapy?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Not at all. Enhancements are optional and their availability varies. Check the current booking menu and tell us about any sensitivities or preferences.\"}},{\"@type\":\"Question\",\"name\":\"How much does it cost, and how do I book?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Current prices, appointment lengths, and availability are displayed in our online booking menu. Choose an appointment or text 262-939-9325 for help.\"}}]}",
+          "custom": false,
+          "disabled": false
+        }
+      ]
+    },
+    "fieldMask": "tags",
+    "publish": false
+  },
+  "setResponse": {
+    "itemSeoTags": {
+      "id": "STATIC_PAGE:l014i",
+      "itemType": "STATIC_PAGE",
+      "itemId": "l014i",
+      "tags": [
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Book your Swedish massage in Salem WI with Matrix Massage. Relax, reduce stress, and restore balance with light-to-medium pressure and calming aromatherapy.\n"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:image",
+            "content": "e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png"
+          },
+          "meta": {
+            "width": 1050,
+            "height": 600
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "title",
+          "children": "Swedish Massage Salem WI | Matrix Massage & Bodywork",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "BGfTVDxa",
+            "displayName": "FAQ Schema"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Is Swedish massage the same as relaxation massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Swedish is a common style used for relaxation. It typically features broad, flowing strokes, with pressure adapted to the client.\"}},{\"@type\":\"Question\",\"name\":\"Is Swedish massage painful?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It should not require pain. Tell your therapist if the pressure is too strong, too light, or different from what you prefer. The session can be adjusted.\"}},{\"@type\":\"Question\",\"name\":\"Will I have to remove all my clothes?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. You can undress to your comfort level. Professional draping is used for your privacy, and you can discuss any concerns before the session begins.\"}},{\"@type\":\"Question\",\"name\":\"Can I request focus on my neck or back?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Tell your therapist where you would like extra attention, and the session can be adjusted within the service you booked.\"}},{\"@type\":\"Question\",\"name\":\"How is it different from deep tissue massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Swedish massage usually emphasizes longer, flowing movements and relaxation. Deep tissue uses slower, more focused work. Techniques can overlap depending on your goals. Explore deep tissue massage.\"}},{\"@type\":\"Question\",\"name\":\"Do I need to add aromatherapy?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Not at all. Enhancements are optional and their availability varies. Check the current booking menu and tell us about any sensitivities or preferences.\"}},{\"@type\":\"Question\",\"name\":\"How much does it cost, and how do I book?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Current prices, appointment lengths, and availability are displayed in our online booking menu. Choose an appointment or text 262-939-9325 for help.\"}}]}",
+          "custom": false,
+          "disabled": false
+        }
+      ],
+      "focusKeywords": [],
+      "hasOverride": true,
+      "resolvedTags": [
+        {
+          "tag": {
+            "type": "title",
+            "children": "Swedish Massage Salem WI | Matrix Massage & Bodywork",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE",
+          "inheritedTag": {
+            "type": "title",
+            "children": "SWEDISH MASSAGE | Matrix Massage & Bodywork",
+            "custom": false,
+            "disabled": false
+          }
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "description",
+              "content": "Book your Swedish massage in Salem WI with Matrix Massage. Relax, reduce stress, and restore balance with light-to-medium pressure and calming aromatherapy.\n"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE"
+        },
+        {
+          "tag": {
+            "type": "link",
+            "props": {
+              "rel": "canonical",
+              "href": "https://www.matrixmassage.net/swedish-massage-salem-wi"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:title",
+              "content": "Swedish Massage Salem WI | Matrix Massage & Bodywork"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE",
+          "inheritedTag": {
+            "type": "meta",
+            "props": {
+              "property": "og:title",
+              "content": "SWEDISH MASSAGE | Matrix Massage & Bodywork"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          }
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:description",
+              "content": "Book your Swedish massage in Salem WI with Matrix Massage. Relax, reduce stress, and restore balance with light-to-medium pressure and calming aromatherapy.\n"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:image",
+              "content": "https://static.wixstatic.com/media/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png/v1/fill/w_1050,h_600,al_c/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE",
+          "inheritedTag": {
+            "type": "meta",
+            "props": {
+              "property": "og:image",
+              "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          }
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:image:width",
+              "content": "1050"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE",
+          "inheritedTag": {
+            "type": "meta",
+            "props": {
+              "property": "og:image:width",
+              "content": "2500"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          }
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:image:height",
+              "content": "600"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE",
+          "inheritedTag": {
+            "type": "meta",
+            "props": {
+              "property": "og:image:height",
+              "content": "1330"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          }
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:url",
+              "content": "https://www.matrixmassage.net/swedish-massage-salem-wi"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:site_name",
+              "content": "Matrix Massage & Bodywork"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:type",
+              "content": "website"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "BGfTVDxa",
+              "displayName": "FAQ Schema"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Is Swedish massage the same as relaxation massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Swedish is a common style used for relaxation. It typically features broad, flowing strokes, with pressure adapted to the client.\"}},{\"@type\":\"Question\",\"name\":\"Is Swedish massage painful?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It should not require pain. Tell your therapist if the pressure is too strong, too light, or different from what you prefer. The session can be adjusted.\"}},{\"@type\":\"Question\",\"name\":\"Will I have to remove all my clothes?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. You can undress to your comfort level. Professional draping is used for your privacy, and you can discuss any concerns before the session begins.\"}},{\"@type\":\"Question\",\"name\":\"Can I request focus on my neck or back?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Tell your therapist where you would like extra attention, and the session can be adjusted within the service you booked.\"}},{\"@type\":\"Question\",\"name\":\"How is it different from deep tissue massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Swedish massage usually emphasizes longer, flowing movements and relaxation. Deep tissue uses slower, more focused work. Techniques can overlap depending on your goals. Explore deep tissue massage.\"}},{\"@type\":\"Question\",\"name\":\"Do I need to add aromatherapy?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Not at all. Enhancements are optional and their availability varies. Check the current booking menu and tell us about any sensitivities or preferences.\"}},{\"@type\":\"Question\",\"name\":\"How much does it cost, and how do I book?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Current prices, appointment lengths, and availability are displayed in our online booking menu. Choose an appointment or text 262-939-9325 for help.\"}}]}",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "google-site-verification",
+              "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_SITE"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "twitter:card",
+              "content": "summary_large_image"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "twitter:title",
+              "content": "Swedish Massage Salem WI | Matrix Massage & Bodywork"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE",
+          "inheritedTag": {
+            "type": "meta",
+            "props": {
+              "name": "twitter:title",
+              "content": "SWEDISH MASSAGE | Matrix Massage & Bodywork"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          }
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "twitter:description",
+              "content": "Book your Swedish massage in Salem WI with Matrix Massage. Relax, reduce stress, and restore balance with light-to-medium pressure and calming aromatherapy.\n"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "twitter:image",
+              "content": "https://static.wixstatic.com/media/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png/v1/fill/w_1050,h_600,al_c/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE",
+          "inheritedTag": {
+            "type": "meta",
+            "props": {
+              "name": "twitter:image",
+              "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          }
+        }
+      ],
+      "hostPageId": "l014i",
+      "publishStatus": "PUBLISH_STATUS_UNSPECIFIED",
+      "origin": "ORIGIN_USER"
+    }
+  },
+  "status": 200
+}

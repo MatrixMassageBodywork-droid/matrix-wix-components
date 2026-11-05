@@ -1,16 +1,19 @@
 # M3 — Swedish Massage
 
-Complete page-body design proof is ready for owner review. **Not installed or published.**
+**PUBLISHED / VERIFIED — 2026-11-05.** Owner approved publication with “Yes Publish!”
 
-- Existing page: `l014i`
-- Permanent URL: https://www.matrixmassage.net/swedish-massage-salem-wi
-- View the full proof source: [proofs/index.html](proofs/index.html)
-- Checkpoint and implementation boundaries: [REVIEW_CHECKPOINT_2026-11-05.md](REVIEW_CHECKPOINT_2026-11-05.md)
-- Body and scoped styles: `body.html`, `style.css`
-- Installation candidates: `renderer.js`, `WIX_PAGE_CODE_CANDIDATE.js`, `faq-schema.json`
+Live: https://www.matrixmassage.net/swedish-massage-salem-wi
 
-Run `python3 pages/massage/swedish/build.py` from the repository root to regenerate all candidates and the self-contained review HTML in `proofs/Matrix_Swedish_Massage_Full_Page_Proof.html`. The standalone delivery file is a generated copy of `proofs/index.html` with the existing approved images and fonts embedded; all source assets are already versioned in `../deep-tissue/assets/`. No network is needed to build it.
+- Current publication checkpoint: [PUBLICATION_CHECKPOINT_2026-11-05.md](PUBLICATION_CHECKPOINT_2026-11-05.md)
+- Installed Wix page code: [WIX_PAGE_CODE.js](WIX_PAGE_CODE.js)
+- Exact element, source and dimensions: [INSTALL_MANIFEST.json](INSTALL_MANIFEST.json)
+- QA and publication evidence: `qa/`
+- Before-change captures: `baseline/`
+- Approved design source: `body.html`, `style.css`, `renderer.js`, `faq-schema.json`
+- Historical design review: [REVIEW_CHECKPOINT_2026-11-05.md](REVIEW_CHECKPOINT_2026-11-05.md). Its pending-approval status is superseded by the publication checkpoint.
 
-Use the published M2 page as the visual reference. Keep the approved Bodywork logo, cream-and-teal palette, native Wix header/footer and genuine reviews. Preserve the current M3 URL, native SEO metadata and indexing.
+The installed renderer is pinned to approved source commit `69731d469dc1c47d88eff4d1a1c954c028391875`. Do not change the source URL to a moving branch. Existing fonts/images are versioned in `../deep-tissue/assets/` or use the verified approved Wix URLs.
 
-**Next step:** owner approves the design. Then capture current Wix page code and metadata before preparing the exact page-local merge. Do not replace existing page code with the candidate file or publish automatically.
+`build.py` regenerates the design candidates and self-contained review HTML. The candidate page-code file is a historical design deliverable; `WIX_PAGE_CODE.js` is the exact installed file.
+
+Preserve the page URL, native title/description/canonical, indexing, global header/footer and genuine reviews. Do not reinstall or republish this completed work merely because a historical checkpoint says approval was pending.
