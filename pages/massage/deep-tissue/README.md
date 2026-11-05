@@ -1,16 +1,20 @@
-# Deep Tissue Massage — saved Wix draft
+# Deep Tissue Massage — published Wix page
 
-**SAVED / VERIFIED / PREVIEW TESTED / NOT PUBLISHED** — 2026-11-05.
+**PUBLISHED / LIVE DESKTOP VERIFIED** — 2026-11-05.
 
-The approved body design is installed on the existing Wix page **DEEP TISSUE MASSAGE** (`cib7o`). The existing site header, footer and native reviews are retained. The public page still shows the previously published version.
+The approved body design is installed on the existing Wix page **DEEP TISSUE MASSAGE** (`cib7o`). The existing site header, footer and native reviews are retained. The approved redesign is now live at https://www.matrixmassage.net/deep-tissue-massage-salem-wi.
 
-## View the saved design
+## View the published design
+
+Open https://www.matrixmassage.net/deep-tissue-massage-salem-wi.
+
+To inspect the editor:
 
 1. Open **Matrix Massage & Bodywork** in Wix and choose **Edit Site**.
 2. In the page dropdown at the top left, select **DEEP TISSUE MASSAGE**.
 3. Click **Preview** at the top right. Use the desktop/mobile controls to inspect both layouts.
 
-The saved installation was reopened and verified. No production publication or Test Site deployment was performed. Do not reinstall the completed draft.
+The saved installation was reopened and verified before publication. The owner subsequently authorized publication, which succeeded. See `M2_PUBLICATION_RECEIPT_2026-11-05.md` for live verification and limits. No Test Site deployment was performed.
 
 ## Current implementation
 
@@ -31,7 +35,7 @@ The saved installation was reopened and verified. No production publication or T
 | `archive/approved-design-source/` | Earlier approved design source fragments, retained only as references |
 | `preview.html` | Lightweight local component preview, not the Wix header/footer or a deployment |
 
-To rebuild locally: `python build.py`. To inspect the component locally: serve this directory with a static HTTP server and open `preview.html`. The actual Wix draft remains the authoritative layout verification environment.
+To rebuild locally: `python build.py`. To inspect the component locally: serve this directory with a static HTTP server and open `preview.html`. The public Wix page is the released design; preserve it when preparing future drafts.
 
 ### Wix binding
 
@@ -48,7 +52,7 @@ The repository documentation/assets save does not change that pinned Wix binding
 
 The existing URL, native SEO title, description, canonical URL, social tags and indexing tags were retained. The body has one H1. All seven visible FAQs match the updated FAQ structured data. Page Code was read back after an editor reload and matched the installed source.
 
-Desktop/mobile Preview, FAQ expansion, asset loading and the Square booking destination passed. No booking was created. Live-source and indexing verification require a later authorized publication; Preview testing is not a ranking guarantee.
+Desktop/mobile Preview, FAQ expansion, asset loading and the Square booking destination passed. No booking was created. Live desktop rendering, booking navigation, metadata, FAQ schema and crawler HTML H1 were verified after publication. Native mobile Preview previously passed; a live phone-device test and indexing/ranking effects are not claimed. See the publication receipt for details.
 
 ## Canonical project references
 
@@ -57,4 +61,4 @@ Desktop/mobile Preview, FAQ expansion, asset loading and the Square booking dest
 - [Project scope](https://docs.google.com/document/d/14NDrwuldZnlengsGIaNKAy6vU8Axj9EBriBq2rJUo9I/edit)
 - [M2 source specification](https://docs.google.com/document/d/1FaWI5HDkd_FR-nHUJEgxSZrYId0CoQBgDMjfs7Gs1to/edit)
 
-Keep this page's implementation, assets, execution records and verification evidence in this repository. Preserve other pages and shared site files. Further live publication requires owner authorization.
+Keep this page's implementation, assets, execution records and verification evidence in this repository. Preserve other pages and shared site files. The owner authorized this publication. Future content changes and releases should follow the current project scope.

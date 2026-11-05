@@ -1,4 +1,19 @@
-# M2 Deep Tissue — current saved draft checkpoint
+# M2 Deep Tissue — current published checkpoint
+
+Status: **PUBLISHED / LIVE DESKTOP VERIFIED** — 2026-11-05.
+
+The owner authorized publication in the current conversation. Wix Publish Site returned HTTP 200 and the new design was verified on the public page.
+
+Live page: https://www.matrixmassage.net/deep-tissue-massage-salem-wi
+
+See [M2_PUBLICATION_RECEIPT_2026-11-05.md](M2_PUBLICATION_RECEIPT_2026-11-05.md) for live QA, scope and testing limits.
+Source commit and renderer binding remain unchanged. No reinstall, content edit, Test Site deployment or customer-data operation was performed.
+
+## Historical saved-draft checkpoint
+
+The record below describes the completed draft installation before the subsequent authorized publication. Its NOT PUBLISHED statements are historical, not current status.
+
+### Saved installation record
 
 Status: **SAVED / VERIFIED / PREVIEW TESTED / NOT PUBLISHED**.
 
@@ -56,3 +71,4 @@ The owner approved the complete design and authorized beginning installation on 
 ## Continuation boundaries
 
 This is a continuation of a completed draft installation. Do not reinstall, restore site history, delete native reviews, regenerate the design or replace the logo. Use this checkpoint and the pinned source above. Production publish and Test Site deployment were not performed. If publication is later authorized, review the scope of the Wix draft, publish through the agreed route and verify the live URL, rendered body, booking destination, canonical, one H1, matching FAQ JSON-LD, desktop/mobile layout and crawler-visible SEO markup. Do not describe Preview QA as live-site verification.
+
