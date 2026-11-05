@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is lymphatic drainage massage painful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is generally performed with gentle, rhythmic movements rather than deep pressure. Tell your provider if anything feels uncomfortable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is manual lymphatic drainage the same as deep tissue massage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The techniques differ in pressure and purpose. Deep tissue massage uses more focused muscle work; MLD uses light movement in a specific sequence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is MLD a detox massage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It should not be marketed as a proven general detoxification treatment. Your liver, kidneys and other organs handle normal waste processing; MLD has more specific clinical uses related to fluid management."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I schedule after surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ask your surgeon or treating healthcare professional first. Timing and suitability depend on the procedure, current healing and medical guidance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if my swelling has no clear cause?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "New, persistent or unexplained swelling should be medically evaluated before booking a massage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often do people need MLD?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is no universal schedule. Any treatment frequency for medical swelling should follow an individualized healthcare plan."
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "context": "Local isolated browser proof; native Wix QA pending",
+  "measurements": [
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "height": 8397,
+      "heroWidth": 320,
+      "overflows": []
+    },
+    {
+      "height": 7984,
+      "heroWidth": 390,
+      "overflows": [],
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "height": 6191,
+      "heroWidth": 700,
+      "overflows": [],
+      "scrollWidth": 700,
+      "width": 700
+    },
+    {
+      "height": 4851,
+      "heroWidth": 980,
+      "overflows": [],
+      "scrollWidth": 980,
+      "width": 980
+    },
+    {
+      "height": 4588,
+      "heroWidth": 1425,
+      "overflows": [],
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "height": 4632,
+      "heroWidth": 1920,
+      "overflows": [],
+      "scrollWidth": 1920,
+      "width": 1920
+    }
+  ],
+  "FAQ_click_open": true,
+  "FAQ_enter_close": true,
+  "keyboard_focus_outline": "3px",
+  "H1_count": 1,
+  "FAQ_count": 6,
+  "all_four_images_loaded": true,
+  "M2_M3_body_and_css_unchanged": true
+}
