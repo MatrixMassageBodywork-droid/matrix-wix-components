@@ -1,0 +1,31 @@
+{
+  "source_commit": "1e14a9b4cef60f3d8c8d35d141adc931652657fa",
+  "source_url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@1e14a9b4cef60f3d8c8d35d141adc931652657fa/pages/massage/deep-tissue/renderer.js",
+  "tag": "matrix-deep-tissue-page",
+  "element_id": "matrixDeepTissuePage",
+  "section_id": "section4",
+  "sha256": {
+    "faq-schema.json": "c08064c6c8daa6b122a5bec7d1e563a2d2e8d0022e609bc2910ef5279a3ebaf9",
+    "seo-verified-readback.json": "cde82c99872335a12756d5d2196f9c62500d2bddfbbb0ef9fd3c01a3c9608920",
+    "renderer.js": "47e95d0507edb6cabb820979aef2c1a2e95735664dcbad23870bca405ba391d1",
+    "qa-evidence.json": "0a6dc209a166a67cbef2f895208c1cfc87da11a920881624a56e89e673cf4918",
+    "body.html": "ce16949c95f8c6f887309301d25326037b5f70018098860d0267d3d9ce575f6c",
+    "WIX_PAGE_CODE.js": "49b62dd2aad3920b5c3cb76bf8366017fe57efae1f07b66c038774357ab497e4",
+    "style.css": "705ed50a6c4fdb66c4c4f12b056e3af0d3588864df0351896330f86465f03236"
+  },
+  "status": "SAVED / VERIFIED / PREVIEW TESTED / NOT PUBLISHED",
+  "desktop": {
+    "width": 980,
+    "height": 5666,
+    "x": 0,
+    "y": 132,
+    "sectionHeight": 5666
+  },
+  "mobile": {
+    "width": 320,
+    "height": 9364,
+    "x": 0,
+    "y": 62,
+    "sectionHeight": 9364
+  }
+}

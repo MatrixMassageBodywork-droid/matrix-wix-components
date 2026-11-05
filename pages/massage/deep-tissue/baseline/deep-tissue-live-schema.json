@@ -1,0 +1,64 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is deep tissue massage?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Deep tissue massage is a technique that targets deeper layers of muscles and connective tissues. It uses slow, firm pressure to release chronic tension and break up adhesions in the body."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is deep tissue massage painful?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Deep tissue massage can be intense, but it should never be intolerable. You may feel some discomfort during deeper work, but communication with your therapist ensures a safe and effective experience."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the benefits of deep tissue massage?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Benefits of deep tissue massage may include reduced muscle soreness, improved range of motion, tension relief, better posture, and enhanced recovery after physical activity."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How is deep tissue different from Swedish massage?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Swedish massage uses lighter pressure and long, flowing strokes to promote relaxation, while deep tissue massage applies slower, deeper pressure to target knots and chronic muscle issues."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How often should I get a deep tissue massage?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Most people benefit from deep tissue massage every 2 to 4 weeks, depending on stress levels, physical activity, and recovery needs. Athletes or those with chronic tension may come more often."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you offer deep tissue massage in Salem, WI?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, Matrix Massage offers deep tissue massage in Salem, Wisconsin. Sessions are customized to your comfort level and therapeutic needs."
+        }
+      }
+    ]
+  },
+  {
+    "@type": "Question",
+    "name": "Do you offer massage therapy in Salem, WI?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes, Matrix Massage is located at 24804 75th St, Salem, WI. We specialize in massage therapy, red light therapy, lymphatic drainage, and wellness add-ons for clients throughout the Salem area."
+    }
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Does deep tissue massage have to hurt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. More pressure is not always better. Your comfort matters, and you can request less or more pressure within the appropriate treatment approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is deep tissue the same as Swedish massage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Swedish massage usually emphasizes longer, flowing movements and relaxation, while deep tissue uses slower, more focused work. Techniques can overlap depending on your goals. Explore Swedish massage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I focus on my upper back and shoulders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Let your therapist know where you would like the time spent. The plan can be adjusted within the appointment you booked."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if I have an injury or medical condition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tell your provider about it before your session. Some situations require a modified approach or advice from your healthcare professional before massage. Massage should not delay medical care for a new or unexplained problem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I prepare for my session?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Complete your intake information and arrive ready to discuss your goals, health history and preferred areas of focus. Wear comfortable clothes and let us know about any changes since your last visit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much is deep tissue massage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current prices, appointment lengths and availability are displayed in our booking menu. Review the service details and any selected enhancements before reserving your appointment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book at Matrix?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose an available massage appointment in our online booking menu, or text 262-939-9325 for help. Your visit takes place at 24804 75th St, Salem, WI 53168."
+      }
+    }
+  ]
+}

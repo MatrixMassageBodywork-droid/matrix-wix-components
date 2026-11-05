@@ -1,0 +1,374 @@
+{
+  "itemSeoTags": {
+    "id": "STATIC_PAGE:cib7o",
+    "itemType": "STATIC_PAGE",
+    "itemId": "cib7o",
+    "tags": [
+      {
+        "type": "meta",
+        "props": {
+          "name": "description",
+          "content": "Book a deep tissue massage in Salem WI with Matrix Massage. Relieve tension, improve mobility, and recover naturally with expert care and added wellness perks.\n"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "meta",
+        "props": {
+          "property": "og:image",
+          "content": "e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png"
+        },
+        "meta": {
+          "width": 1050,
+          "height": 600
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "title",
+        "children": "Deep Tissue Massage Salem WI | Matrix Massage & Bodywork",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "script",
+        "props": {
+          "type": "application/ld+json"
+        },
+        "meta": {
+          "schemaType": "6jjGrWJ6",
+          "displayName": "FAQ Deep Tissue Schema"
+        },
+        "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"FAQPage\",   \"mainEntity\": [     {       \"@type\": \"Question\",       \"name\": \"What is deep tissue massage?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Deep tissue massage is a technique that targets deeper layers of muscles and connective tissues. It uses slow, firm pressure to release chronic tension and break up adhesions in the body.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"Is deep tissue massage painful?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Deep tissue massage can be intense, but it should never be intolerable. You may feel some discomfort during deeper work, but communication with your therapist ensures a safe and effective experience.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"What are the benefits of deep tissue massage?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Benefits of deep tissue massage may include reduced muscle soreness, improved range of motion, tension relief, better posture, and enhanced recovery after physical activity.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"How is deep tissue different from Swedish massage?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Swedish massage uses lighter pressure and long, flowing strokes to promote relaxation, while deep tissue massage applies slower, deeper pressure to target knots and chronic muscle issues.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"How often should I get a deep tissue massage?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Most people benefit from deep tissue massage every 2 to 4 weeks, depending on stress levels, physical activity, and recovery needs. Athletes or those with chronic tension may come more often.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"Do you offer deep tissue massage in Salem, WI?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Yes, Matrix Massage offers deep tissue massage in Salem, Wisconsin. Sessions are customized to your comfort level and therapeutic needs.\"       }     }   ] }",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "script",
+        "props": {
+          "type": "application/ld+json"
+        },
+        "meta": {
+          "schemaType": "3LTKCBia",
+          "displayName": "Geo FAQ Schema"
+        },
+        "children": "{   \"@type\": \"Question\",   \"name\": \"Do you offer massage therapy in Salem, WI?\",   \"acceptedAnswer\": {     \"@type\": \"Answer\",     \"text\": \"Yes, Matrix Massage is located at 24804 75th St, Salem, WI. We specialize in massage therapy, red light therapy, lymphatic drainage, and wellness add-ons for clients throughout the Salem area.\"   } }",
+        "custom": false,
+        "disabled": false
+      }
+    ],
+    "focusKeywords": [],
+    "hasOverride": true,
+    "resolvedTags": [
+      {
+        "tag": {
+          "type": "title",
+          "children": "Deep Tissue Massage Salem WI | Matrix Massage & Bodywork",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "title",
+          "children": "DEEP TISSUE MASSAGE  | Matrix Massage & Bodywork",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Book a deep tissue massage in Salem WI with Matrix Massage. Relieve tension, improve mobility, and recover naturally with expert care and added wellness perks.\n"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "link",
+          "props": {
+            "rel": "canonical",
+            "href": "https://www.matrixmassage.net/deep-tissue-massage-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:title",
+            "content": "Deep Tissue Massage Salem WI | Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "meta",
+          "props": {
+            "property": "og:title",
+            "content": "DEEP TISSUE MASSAGE  | Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:description",
+            "content": "Book a deep tissue massage in Salem WI with Matrix Massage. Relieve tension, improve mobility, and recover naturally with expert care and added wellness perks.\n"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png/v1/fill/w_1050,h_600,al_c/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image:width",
+            "content": "1050"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image:width",
+            "content": "2500"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image:height",
+            "content": "600"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image:height",
+            "content": "1330"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:url",
+            "content": "https://www.matrixmassage.net/deep-tissue-massage-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:site_name",
+            "content": "Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:type",
+            "content": "website"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "6jjGrWJ6",
+            "displayName": "FAQ Deep Tissue Schema"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What is deep tissue massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Deep tissue massage is a technique that targets deeper layers of muscles and connective tissues. It uses slow, firm pressure to release chronic tension and break up adhesions in the body.\"}},{\"@type\":\"Question\",\"name\":\"Is deep tissue massage painful?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Deep tissue massage can be intense, but it should never be intolerable. You may feel some discomfort during deeper work, but communication with your therapist ensures a safe and effective experience.\"}},{\"@type\":\"Question\",\"name\":\"What are the benefits of deep tissue massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Benefits of deep tissue massage may include reduced muscle soreness, improved range of motion, tension relief, better posture, and enhanced recovery after physical activity.\"}},{\"@type\":\"Question\",\"name\":\"How is deep tissue different from Swedish massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Swedish massage uses lighter pressure and long, flowing strokes to promote relaxation, while deep tissue massage applies slower, deeper pressure to target knots and chronic muscle issues.\"}},{\"@type\":\"Question\",\"name\":\"How often should I get a deep tissue massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Most people benefit from deep tissue massage every 2 to 4 weeks, depending on stress levels, physical activity, and recovery needs. Athletes or those with chronic tension may come more often.\"}},{\"@type\":\"Question\",\"name\":\"Do you offer deep tissue massage in Salem, WI?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes, Matrix Massage offers deep tissue massage in Salem, Wisconsin. Sessions are customized to your comfort level and therapeutic needs.\"}}]}",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "3LTKCBia",
+            "displayName": "Geo FAQ Schema"
+          },
+          "children": "{\"@type\":\"Question\",\"name\":\"Do you offer massage therapy in Salem, WI?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes, Matrix Massage is located at 24804 75th St, Salem, WI. We specialize in massage therapy, red light therapy, lymphatic drainage, and wellness add-ons for clients throughout the Salem area.\"}}",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "google-site-verification",
+            "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_SITE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:card",
+            "content": "summary_large_image"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:title",
+            "content": "Deep Tissue Massage Salem WI | Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:title",
+            "content": "DEEP TISSUE MASSAGE  | Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:description",
+            "content": "Book a deep tissue massage in Salem WI with Matrix Massage. Relieve tension, improve mobility, and recover naturally with expert care and added wellness perks.\n"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png/v1/fill/w_1050,h_600,al_c/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      }
+    ],
+    "hostPageId": "cib7o",
+    "publishStatus": "PUBLISH_STATUS_UNSPECIFIED",
+    "origin": "ORIGIN_UNSPECIFIED"
+  }
+}
