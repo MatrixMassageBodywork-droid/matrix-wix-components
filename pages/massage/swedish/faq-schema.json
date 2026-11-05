@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Swedish massage the same as relaxation massage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Swedish is a common style used for relaxation. It typically features broad, flowing strokes, with pressure adapted to the client."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Swedish massage painful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It should not require pain. Tell your therapist if the pressure is too strong, too light, or different from what you prefer. The session can be adjusted."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will I have to remove all my clothes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. You can undress to your comfort level. Professional draping is used for your privacy, and you can discuss any concerns before the session begins."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I request focus on my neck or back?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Tell your therapist where you would like extra attention, and the session can be adjusted within the service you booked."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is it different from deep tissue massage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Swedish massage usually emphasizes longer, flowing movements and relaxation. Deep tissue uses slower, more focused work. Techniques can overlap depending on your goals. Explore deep tissue massage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to add aromatherapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not at all. Enhancements are optional and their availability varies. Check the current booking menu and tell us about any sensitivities or preferences."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does it cost, and how do I book?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current prices, appointment lengths, and availability are displayed in our online booking menu. Choose an appointment or text 262-939-9325 for help."
+      }
+    }
+  ]
+}
