@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where can I buy Matrix massage and spa gift cards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Buy from our Square eGift Card store. Choose an amount, add a message and select text or email delivery. Your card is for Matrix Massage & Bodywork in Salem, Wisconsin."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I send a last-minute gift card today?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Square offers a \u201cToday (instantly)\u201d delivery option by text or email. You can also choose to send the card to yourself. Check the recipient\u2019s contact details before buying."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I schedule a Christmas, holiday or birthday gift?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Choose a future delivery date and time in Square so your eGift Card arrives when you want it to. It is an easy way to plan Christmas gifts, holiday surprises, birthdays and anniversaries ahead of time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to choose a treatment when I buy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. You choose a dollar amount, giving the recipient room to choose their experience. Browse our massage, facial and Japanese Head Spa pages for ideas. A gift-card purchase does not reserve an appointment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What amount should I put on a spa gift card?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a preset amount or enter a custom amount in Square. Check our current service menu if you want to cover a particular appointment, or give an amount toward their visit. Contact Matrix if you would like help choosing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are these good gifts for men as well as women?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Massage, facials and Head Spa experiences make thoughtful gifts for him, gifts for her and anyone who could use time for themselves. Choose around the person\u2019s interests rather than a one-size-fits-all gift list."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where will the recipient use their Matrix gift card?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our studio is at 24804 75th St, Salem, WI 53168. We welcome guests from Salem Lakes, Paddock Lake, Bristol, Trevor, Twin Lakes, Union Grove, Kenosha, Pleasant Prairie and Antioch, Illinois. Gift cards can be purchased online from anywhere; appointments take place at our Salem studio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does the recipient book their visit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They can view our current services and availability through Book Online or text Matrix at 262-939-9325 for help. They should keep their eGift Card handy for their visit. Gift-card purchase and appointment booking are separate steps."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can several people contribute, or can I buy for a team?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Square offers a group gift card option that lets people contribute toward one recipient\u2019s gift. It also offers a multiple-recipient purchase option. Give together for a birthday, thank-you or team gift."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find gift-card deals or holiday offers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For current Matrix gift-card deals or seasonal offers, check with us before purchasing. If you have an active discount code, Square provides a place to enter it during checkout. Promotions have their own terms; a holiday gift does not automatically include a discount."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I check a gift-card balance or add more?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use Square\u2019s Check balance or Reload card options for your Matrix eGift Card. You can find direct links below. Need help? Text 262-939-9325."
+      }
+    }
+  ]
+}

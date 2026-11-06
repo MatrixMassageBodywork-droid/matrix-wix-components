@@ -1,0 +1,608 @@
+- iframe [id="preview"]:
+  - region "top of page"
+  - banner:
+    - navigation "Site":
+      - list:
+        - link "HOME":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6
+          - generic: HOME
+        - link "BOOK NOW":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/book-appointments-salem-wi
+          - generic: BOOK NOW
+        - link "MASSAGE THERAPY SERVICES":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/massage-therapy-services-salem-wi
+          - generic: MASSAGE THERAPY SERVICES
+        - button "Toggle MASSAGE THERAPY SERVICES":
+        - link "SPA & BEAUTY SERVICES":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/spa-and-beauty-services-salem-wi
+          - generic: SPA & BEAUTY SERVICES
+        - button "Toggle SPA & BEAUTY SERVICES":
+        - link "FACIALS":
+          - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+          - generic: FACIALS
+        - link "WELLNESS & BIOTECH SERVICES":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/wellness-biotech-services-salem-wi
+          - generic: WELLNESS & BIOTECH SERVICES
+        - button "Toggle WELLNESS & BIOTECH SERVICES":
+        - link "ABOUT":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/about-5
+          - generic: ABOUT
+        - link "BLOG":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/salem-wi-blog
+          - generic: BLOG
+  - main:
+    - img "Water"
+    - iframe:
+      - link "Spa & Beauty / Facials":
+        - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi
+      - img "Matrix Massage & Bodywork"
+      - paragraph: MATRIX MASSAGE & BODYWORK · SALEM, WI
+      - heading "Facials in Salem, WI" [level=1]
+      - paragraph: Dryness, breakouts, a tired-looking complexion—or simply time for yourself. Your facial starts with your skin and what you want from your visit.
+      - link "BOOK A FACIAL":
+        - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - link "Explore the experience":
+        - /url: "#experience"
+      - paragraph: Custom care · Circadia facials · Dermaplaning · Skin goals
+      - img "A professional facial mask treatment from the Matrix treatment photo collection."
+      - generic: Care for your skin. Time for yourself.
+      - navigation "Facial page sections":
+        - link "The experience":
+          - /url: "#experience"
+        - link "Acne-prone skin":
+          - /url: "#acne-prone-skin"
+        - link "Facial menu":
+          - /url: "#facial-menu"
+        - link "Skin goals":
+          - /url: "#skin-goals"
+      - paragraph: FROM OUR SALEM STUDIO
+      - heading "A closer look at your skincare." [level=2]
+      - paragraph: Professional products. Personal attention. We choose your care around what your skin needs today.
+      - figure "Circadia skincare Products selected around your skin and your goals.":
+        - img "Circadia serums and professional skincare products at Matrix."
+        - heading "Circadia skincare" [level=3]
+        - paragraph: Products selected around your skin and your goals.
+      - figure "Hydration & comfort A softer, replenished feel with care chosen for you.":
+        - img "Circadia hydration skincare in the Matrix product collection."
+        - heading "Hydration & comfort" [level=3]
+        - paragraph: A softer, replenished feel with care chosen for you.
+      - paragraph: PERSONAL SKINCARE, RESTORATIVE TOUCH
+      - heading "Your skin. Your priorities." [level=2]
+      - paragraph: Your Custom Facial starts with how your skin looks and feels today. At Matrix Massage & Bodywork, professional skincare—including Circadia options—is selected around your goals, sensitivities and the appointment you choose.
+      - article:
+        - generic: "01"
+        - heading "Tell us what matters" [level=3]
+        - paragraph: "Dryness, breakouts, congestion, sensitivity or a special occasion: share your priorities and current routine."
+      - article:
+        - generic: "02"
+        - heading "Care, thoughtfully chosen" [level=3]
+        - paragraph: Cleansing, suitable exfoliation, masks, serums and hydration are selected for your skin and comfort.
+      - article:
+        - generic: "03"
+        - heading "Leave with a next step" [level=3]
+        - paragraph: Enjoy your refreshed finish and practical aftercare. Your provider can help you choose care between visits.
+      - img "A facial treatment in progress from the Matrix treatment photo collection."
+      - paragraph: CLEAR + BALANCE
+      - heading "Facials for acne-prone skin in Salem, WI." [level=2]
+      - paragraph: Breakouts, clogged-looking pores and excess shine deserve thoughtful attention. A Custom Facial can be adapted for acne-prone or congestion-prone skin after your provider reviews your skin, sensitivities and current products.
+      - paragraph: Care may include gentle cleansing, appropriate exfoliation, a customized mask and hydration. Extractions are considered only when suitable for your skin and the appointment.
+      - paragraph:
+        - text: Looking for an anti-acne facial? Book a Custom Facial and share
+        - strong: Clear + Balance
+        - text: as your skin goal. This is personalized cosmetic skincare; persistent, painful or scarring acne needs a dermatologist’s care.
+      - link "EXPLORE CLEAR + BALANCE":
+        - /url: https://www.matrixmassage.net/facial-goals/clear-balance
+      - paragraph: THE FACIAL MENU
+      - heading "Choose the experience that fits." [level=2]
+      - paragraph: Begin with custom care or choose a specific treatment. The booking menu shows available providers, times and current pricing.
+      - article:
+        - paragraph: 60 OR 90 MINUTES · PRICE VARIES
+        - heading "Custom Facial" [level=3]
+        - paragraph: Your starting point for hydration, acne-prone skin, congestion, sensitivity, uneven-looking texture or ongoing care. Book the time; we personalize the approach.
+        - link "VIEW & BOOK":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/IUTRINR4YWTL7ULZ3QVEK4QG
+      - article:
+        - paragraph: 45 MINUTES · $79
+        - heading "New Client Facial" [level=3]
+        - paragraph: A welcoming first facial with a brief consultation and professional care selected for your skin. Available to guests new to Matrix facial services.
+        - link "VIEW & BOOK":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/GJ7PY2ONLPOVK4JIYCIWJGG4
+      - article:
+        - paragraph: 90 MINUTES · $175
+        - heading "Circadia Dream Facial" [level=3]
+        - paragraph: A restorative Circadia experience with intensive hydration and cooling professional care for a replenished, well-rested-looking finish.
+        - link "VIEW & BOOK":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/5TMAAL7UNW75SMC6XG7R53QA
+      - article:
+        - paragraph: 75 MINUTES · $150
+        - heading "Circadia Luxe Lift Facial" [level=3]
+        - paragraph: Raspberry Enzyme, a Firming Peptide Mask and targeted hydration for a smoother, brighter and firmer-looking complexion.
+        - link "VIEW & BOOK":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/WBRKBJ3WLEKZEMRTZ52M26Q6
+      - article:
+        - paragraph: 30 MINUTES · $65
+        - heading "Dermaplane Refresh" [level=3]
+        - paragraph: Focused professional dermaplaning with hydration and finishing care for surface texture and fine facial hair.
+        - link "VIEW & BOOK":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - article:
+        - paragraph: 60 MINUTES · $135
+        - heading "Custom Dermaplane Facial" [level=3]
+        - paragraph: Dermaplaning paired with a complete facial, masks, serums and finishing care selected around your skin.
+        - link "VIEW & BOOK":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - article:
+        - paragraph: 90 MINUTES · $185
+        - heading "Luxe Dermaplane Facial" [level=3]
+        - paragraph: An extended dermaplaning facial with more time for professional skincare, hydration and a polished finish.
+        - link "VIEW & BOOK":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - article:
+        - paragraph: 30 MINUTES + · PRICE VARIES
+        - heading "Facial & Head/Scalp Massage" [level=3]
+        - paragraph: A massage-focused experience for the face, head and scalp with lightweight facial hydration. A different option from a full skincare facial.
+        - link "VIEW & BOOK":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - paragraph: Dermaplaning is selected only when suitable. Tell your provider about active breakouts, irritated skin, retinoids and recent treatments before booking.
+      - paragraph: EXPLORE BY SKIN GOAL
+      - heading "A clearer starting point." [level=2]
+      - paragraph: These pathways help you describe what you want from your facial. Choose a service from the booking menu, then share the skin goal that fits.
+      - article:
+        - heading "Hydrate + Restore" [level=3]
+        - paragraph: For dry or depleted skin that needs a softer, more comfortable feel.
+        - link "EXPLORE THE PATHWAY":
+          - /url: https://www.matrixmassage.net/facial-goals/hydrate-restore
+      - article:
+        - heading "Brighten + Smooth" [level=3]
+        - paragraph: For dull-looking skin and uneven-looking surface texture.
+        - link "EXPLORE THE PATHWAY":
+          - /url: https://www.matrixmassage.net/facial-goals/brighten-smooth
+      - article:
+        - heading "Clear + Balance" [level=3]
+        - paragraph: For acne-prone skin, congestion and excess shine, with comfort in view.
+        - link "EXPLORE THE PATHWAY":
+          - /url: https://www.matrixmassage.net/facial-goals/clear-balance
+      - article:
+        - heading "Calm + Support" [level=3]
+        - paragraph: For sensitive-feeling skin that calls for a gentler approach.
+        - link "EXPLORE THE PATHWAY":
+          - /url: https://www.matrixmassage.net/facial-goals/calm-support
+      - article:
+        - heading "Age-Defying + Firm" [level=3]
+        - paragraph: For a focus on firmness, radiance and smooth-looking texture.
+        - link "EXPLORE THE PATHWAY":
+          - /url: https://www.matrixmassage.net/facial-goals/age-defying-firm
+      - article:
+        - heading "Maintain + Glow" [level=3]
+        - paragraph: For regular care and a healthy-looking, refreshed complexion.
+        - link "EXPLORE THE PATHWAY":
+          - /url: https://www.matrixmassage.net/facial-goals/maintain-glow
+      - paragraph: ONE STUDIO, CLOSE TO HOME
+      - heading "Your facial appointment, here in Salem." [level=2]
+      - paragraph: Looking for facials near Union Grove, Twin Lakes, Trevor, Bristol or Antioch? Come to our Salem, Wisconsin studio for personalized skincare, including care for acne-prone skin. All appointments take place at Matrix Massage & Bodywork, 24804 75th St—not at separate locations in those towns.
+      - link "TEXT MATRIX · 262-939-9325":
+        - /url: sms:+12629399325
+      - paragraph: GOOD TO KNOW
+      - heading "A few helpful details." [level=2]
+      - paragraph: Feel comfortable choosing your next visit.
+      - generic "Which facial should I choose for acne-prone skin? +"
+      - generic "Do you offer anti-acne facials? +"
+      - generic "Are extractions included in every facial? +"
+      - generic "What should I share before my appointment? +"
+      - generic "Can I combine facial care with a Head Spa? +"
+      - generic "Where can I book a facial near Union Grove, Twin Lakes or Antioch? +"
+      - paragraph: MORE WAYS TO UNWIND
+      - heading "Make a little more room for care." [level=2]
+      - paragraph: Explore scalp-focused relaxation or find practical information for visiting our Salem studio.
+      - link "Japanese Head Spa":
+        - /url: https://www.matrixmassage.net/japanese-head-spa-salem-wi
+      - link "Facials near Antioch":
+        - /url: https://www.matrixmassage.net/facials-near-antioch-il
+      - link "Spa services near Paddock Lake":
+        - /url: https://www.matrixmassage.net/spa-services-near-paddock-lake-wi
+      - paragraph: MAKE ROOM FOR YOURSELF
+      - heading "Thoughtful care for the skin you’re in." [level=2]
+      - paragraph: From your first facial to your next skin goal, begin with a visit that feels personal.
+      - link "BOOK A FACIAL":
+        - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - link "ALL SPA & BEAUTY":
+        - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi
+      - paragraph: 24804 75th St · Salem, WI 53168 · Text 262-939-9325
+  - contentinfo:
+    - paragraph:
+      - text: © 2026 Matrix Massage & Bodywork · Salem Lakes, WI
+      - text: (262) 939-9325 | 24804 75th St. Salem, WI 53168
+      - text: "Book online: www.matrixmassage.net/book-appointments-salem-wi"
+    - paragraph:
+      - text: Licensed Massage Therapy,
+      - link "Facials":
+        - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+      - text: ", Day Spa, Beauty & Biotech Spa"
+    - paragraph
+    - paragraph:
+      - generic: Serving Salem WI, Paddock Lake & all of Kenosha County
+    - paragraph
+    - paragraph:
+      - text: Now serving clients from Kenosha, Antioch IL, Bristol,
+      - link "Pleasant Prairie,":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/massage-near-pleasant-prairie-wi
+      - link "Union Grove":
+        - /url: https://www.matrixmassage.net/massage-near-union-grove-wi
+      - text: ", WI and surrounding areas. Matrix Massage & Bodywork offers"
+      - link "therapeutic massage":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/massage-therapy-services-salem-wi
+      - text: ","
+      - link "lymphatic drainage,":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/manual-lymphatic-drainage-massage-salem-wi
+      - link "Facials,":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/spa-and-beauty-services-salem-wi/facials-salem-wi
+      - link "Head Spa,":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/japanese-head-spa-salem-wi
+      - link "waxing":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi
+      - text: ", cupping, and"
+      - link "red light therapy":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/red-light-therapy-salem-wi
+      - text: Salem WI.
+      - link "Get pain relief now!":
+        - /url: https://painrelief.matrixmassage.net/
+    - iframe [name="htmlComp-iframe"]
+    - iframe [name="htmlComp-iframe"]
+    - iframe [name="htmlComp-iframe"]
+    - iframe [name="htmlComp-iframe"]
+    - paragraph:
+      - generic: "Links:"
+    - paragraph
+    - paragraph:
+      - link "Partner with Us":
+        - /url: https://www.matrixmassage.net/local-wellness-partnerships
+        - generic: Partner with Us
+    - paragraph
+    - paragraph:
+      - link "Work with Us":
+        - /url: https://www.matrixmassage.net/massage-therapist-jobs-salem-wi
+        - generic: Work with Us
+    - paragraph
+    - paragraph
+    - iframe
+  - region "bottom of page"
+  - iframe
+- button:
+- generic: Site
+- generic: Settings
+- generic: Dev Mode
+- generic: Hire a Professional
+- generic: Help
+- generic: Upgrade
+- button "Save":
+  - generic: Save
+- button "Preview":
+  - generic: Preview
+- button:
+- button "Publish":
+  - generic: Publish
+- text: "Page:"
+- generic: FACIALS
+- button:
+- button:
+- generic: www.matrixmassage.net
+- button:
+- button:
+- button "100%":
+  - generic: 100%
+- button "Tools":
+  - generic: Tools
+- button "Search":
+  - generic: Search
+- generic: Page Code
+- generic: Main Pages
+- list:
+  - generic: HOME
+  - generic: Glow Guide
+  - generic: BOOK NOW
+  - generic: MASSAGE THERAPY SERVICES
+  - generic: SPA & BEAUTY SERVICES
+  - generic: FACIALS
+  - generic: Studio
+  - generic: Studio TV
+  - generic: WELLNESS & BIOTECH SERVICES
+  - generic: 360 GLOW SCORE | Matrix Wellness
+  - generic: ABOUT
+  - generic: NOW HIRING
+  - generic: LOCAL WELLNESS & RECOVERY PARTNERSHIPS
+  - generic: MATRIX PARTNER KIT
+  - generic: MASSAGE NEAR PLEASANT PRAIRIE WI
+- separator
+- generic: masterPage.js
+- generic: Wix Blog
+- list:
+  - generic: Post
+  - generic: BLOG
+- generic: Dynamic Pages
+- list:
+  - generic: Matrix Landing Pages Pages (Dynamic)
+  - list:
+    - generic: Matrix Landing Pages (Item)
+  - generic: Matrix Skin Pathways Pages (Dynamic)
+  - list:
+    - generic: Matrix Skin Pathways (Item)
+- list:
+  - button:
+  - generic: Add Elements
+  - button:
+  - generic: Add Section
+  - button [active]:
+  - generic: Pages & Menu
+  - button:
+  - generic: Site Design
+  - button "3":
+    - generic: "3"
+  - generic: Add Apps
+  - button:
+  - generic: My Business
+  - button:
+  - generic: Media
+  - button:
+  - generic: CMS
+  - button:
+  - generic: Marketing & SEO
+- button:
+- generic: AI Tools
+- banner:
+  - generic: Site Pages and Menu
+  - button:
+  - button:
+- list:
+  - generic: Site Menu
+  - generic: Blog Pages
+  - generic: Dynamic Pages
+- generic: Site Menu
+- text: Add Page
+- list:
+  - generic: HOME
+  - list
+  - generic: Glow Guide
+  - list
+  - generic: BOOK NOW
+  - list
+  - generic: MASSAGE THERAPY SERVICES
+  - list:
+    - generic: DEEP TISSUE MASSAGE
+    - list
+    - generic: SWEDISH MASSAGE
+    - list
+    - generic: MANUAL LYMPHATIC DRAINAGE
+    - list
+    - generic: THE SCIENCE OF MASSAGE
+    - list
+    - generic: MASSAGE NEAR UNION GROVE WI
+    - list
+  - generic: SPA & BEAUTY SERVICES
+  - list:
+    - generic: JAPANESE HEAD SPA
+    - list
+    - generic: HEAD SPA
+    - list
+    - generic: WAXING
+    - list
+    - generic: SPA SERVICES NEAR PADDOCK LAKE WI
+    - list
+    - generic: JAPANESE HEAD SPA NEAR BRISTOL WI
+    - list
+  - generic: FACIALS
+  - list:
+    - generic: SKIN RESET BLUEPRINT
+    - list
+    - generic: NEW CLIENT FACIAL DEAL
+    - list
+    - generic: FACIALS NEAR ANTIOCH IL
+    - list
+    - generic: Circadia Luxe Lift Facial Near Antioch
+    - list
+  - generic: Studio
+  - list
+  - generic: Studio TV
+  - list
+  - generic: FACIALS
+  - list
+  - generic: WELLNESS & BIOTECH SERVICES
+  - list:
+    - generic: RED LIGHT THERAPY
+    - list
+    - generic: SUPPLEMENTS & WELLNESS
+    - list
+    - generic: Infrared Sauna
+    - list
+  - generic: 360 GLOW SCORE | Matrix Wellness
+  - list
+  - generic: ABOUT
+  - list
+  - generic: NOW HIRING
+  - list
+  - generic: CONTACT
+  - list
+  - generic: BLOG
+  - list
+  - generic: LOCAL WELLNESS & RECOVERY PARTNERSHIPS
+  - list
+  - generic: MATRIX PARTNER KIT
+  - list
+  - generic: MASSAGE NEAR PLEASANT PRAIRIE WI
+  - list
+  - generic: BLOG
+  - list
+- contentinfo:
+  - button:
+  - button "Add Menu Item":
+    - generic: Add Menu Item
+- generic: "#Section1RegularMediaImage1RuleNoFaceImage"
+- generic: "Section: Best Facials Salem WI"
+- generic: Quick Edit
+- generic: "100"
+- generic: "200"
+- generic: "300"
+- generic: "400"
+- generic: "500"
+- generic: "600"
+- generic: "700"
+- generic: "800"
+- generic: "900"
+- generic: "1000"
+- generic: "1100"
+- generic: "1200"
+- generic: "1300"
+- generic: "1400"
+- generic: "1500"
+- generic: "1600"
+- generic: "1700"
+- generic: "1800"
+- generic: "1900"
+- generic: "2000"
+- generic: "2100"
+- generic: "2200"
+- generic: "2300"
+- generic: "2400"
+- generic: "2500"
+- generic: "2600"
+- generic: "2700"
+- generic: "2800"
+- generic: "2900"
+- generic: "3000"
+- generic: "3100"
+- generic: "3200"
+- generic: "3300"
+- generic: "3400"
+- generic: "3500"
+- generic: "3600"
+- generic: "3700"
+- generic: "3800"
+- generic: "3900"
+- generic: "4000"
+- generic: "4100"
+- generic: "4200"
+- generic: "4300"
+- generic: "4400"
+- generic: "4500"
+- generic: "4600"
+- generic: "4700"
+- generic: "4800"
+- generic: "4900"
+- generic: "5000"
+- generic: "5100"
+- generic: "5200"
+- generic: "5300"
+- generic: "5400"
+- generic: "5500"
+- generic: "5600"
+- generic: "5700"
+- generic: "5800"
+- generic: "5900"
+- generic: "6000"
+- generic: "6100"
+- generic: "6200"
+- generic: "6300"
+- generic: "6400"
+- generic: "6500"
+- generic: "6600"
+- generic: "6700"
+- generic: "6800"
+- generic: "6900"
+- generic: "7000"
+- generic: "7100"
+- generic: "7200"
+- generic: "7300"
+- generic: "7400"
+- generic: "7500"
+- generic: "7600"
+- generic: "7700"
+- generic: "7800"
+- generic: "7900"
+- generic: "8000"
+- generic: "8100"
+- generic: "8200"
+- generic: "8300"
+- generic: "8400"
+- generic: "8500"
+- generic: "8600"
+- generic: "0"
+- generic: "100"
+- generic: "200"
+- generic: "300"
+- generic: "400"
+- generic: "500"
+- generic: "600"
+- generic: "700"
+- generic: "800"
+- generic: "900"
+- banner:
+  - button:
+- region "scrollable content":
+  - generic: FACIALS
+- button "Run":
+  - text: Run
+- button:
+- button:
+- button:
+- button:
+- code:
+  - generic: "1"
+  - generic: 
+  - generic: "2"
+  - generic: "3"
+  - generic: // Approved Review 2. Existing Facials rrxx1 component retained; CMS
+  - generic: record and shared renderer untouched.
+  - generic: "$w.onReady(function () {"
+  - generic: $w("#matrixServicePage").seoMarkup = "<div
+  - generic: class=\"matrix-facials\"><section class=\"hero\"><div
+  - generic: class=\"hero-copy\"><a class=\"breadcrumb\" href=\"https://www.
+  - generic: matrixmassage.net/spa-and-beauty-services-salem-wi\">Spa &amp; Beauty /
+  - generic: Facials</a><img class=\"logo\" src=\"https://cdn.jsdelivr.net/gh/
+  - generic: MatrixMassageBodywork-droid/
+  - generic: matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/
+  - generic: massage/deep-tissue/assets/matrix-bodywork-approved.jpg\" alt=\"Matrix
+  - generic: Massage &amp; Bodywork\" width=\"320\" height=\"160\"><p
+  - generic: class=\"eyebrow\">MATRIX MASSAGE &amp; BODYWORK \u00b7 SALEM, WI</
+  - generic: p><h1>Facials in Salem, WI</h1><p class=\"lead\">Dryness, breakouts, a
+  - generic: tired-looking complexion\u2014or simply time for yourself. Your facial
+  - generic: starts with your skin and what you want from your visit.</p><div
+  - generic: class=\"actions\"><a class=\"button\" href=\"https://book.squareup.com/
+  - generic: appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services\">BOOK A
+  - textbox "Editor content;Press Alt+F1 for Accessibility Options.": "// Approved Review 2. Existing Facials rrxx1 component retained; CMS record and shared renderer untouched. $w.onReady(function () { $w(\"#matrixServicePage\").seoMarkup = \"<div class=\\\"matrix-facials\\\"><section class=\\\"hero\\\"><div class=\\\"hero-copy\\\"><a class=\\\"breadcrumb\\\" href=\\\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi\\\">Spa &amp; Beauty / Facials</a><img class=\\\"logo\\\" src=\\\"https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff136"
+- generic: "API Reference:"
+- generic: Section Element
+- separator
+- generic: ID
+- text: "#"
+- textbox: Section1RegularMediaImage1RuleNoFaceImage
+- separator
+- generic: Default Values
+- generic: Hidden
+- generic: Collapsed
+- separator
+- generic: Event Handlers
+- button "Code Assistant":
+  - text: Code Assistant
+- generic: onClick( )
+- generic: onDblClick( )
+- generic: onMouseIn( )
+- generic: onMouseOut( )
+- generic: onViewportEnter( )
+- generic: onViewportLeave( )
+- button "?"
+- textbox "°" [disabled]: "0"
+- generic: °
+- generic: Size (px)
+- generic: "W:"
+- textbox "W:" [disabled]: "980"
+- generic: "H:"
+- textbox "H:": "8000"
+- generic: Position
+- generic: "X:"
+- textbox "X:" [disabled]: "0"
+- generic: "Y:"
+- textbox "Y:" [disabled]: "134"
+- generic: Show on All Pages
+- checkbox
+- button "Layers"
+- alert
+- alert
