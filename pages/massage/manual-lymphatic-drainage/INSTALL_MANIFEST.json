@@ -1,0 +1,40 @@
+{
+  "siteId": "cdec8df6-d518-4859-9f1e-f06bf5346d41",
+  "pageId": "lb1iq",
+  "elementId": "matrixLymphaticPage",
+  "elementDomId": "comp-mw4a5olr",
+  "tagName": "matrix-lymphatic-page",
+  "source": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@a1cf5155e8f0fad0eaa1e288364e6e7f60f7ea9e/pages/massage/manual-lymphatic-drainage/renderer.js",
+  "sourceSha256": "3d3388b44b68996703e94d0fcd02623189829f980030c374ae179caa37b6f647",
+  "sectionId": "section4",
+  "sectionDomId": "comp-md7r4lqk1",
+  "desktop": {
+    "stretched": true,
+    "sideMargins": 0,
+    "elementHeight": 4851,
+    "sectionHeight": 4851,
+    "x": 0,
+    "y": 132
+  },
+  "mobile": {
+    "elementWidth": 320,
+    "elementHeight": 8393,
+    "sectionHeight": 8393,
+    "x": 0,
+    "y": 52
+  },
+  "removedSections": [
+    "Section1RegularMediaImage1RuleNoFaceImage",
+    "section2",
+    "section3",
+    "Section1Regular"
+  ],
+  "preservedReviews": "Section3SlideShow",
+  "reviewsDomId": "comp-md7r4ls98",
+  "faqSchemaId": "Ahx7Zhw4",
+  "faqCount": 6,
+  "pageCodeReadbackMatches": true,
+  "status": "PUBLISHED / VERIFIED",
+  "publishedAt": "2026-11-06T01:38:27.697Z",
+  "publicationCheckpoint": "PUBLICATION_CHECKPOINT_2026-11-05.md"
+}

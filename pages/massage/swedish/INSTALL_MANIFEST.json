@@ -8,11 +8,13 @@
   "sourceSha256": "c805b6fddd29dbe146f9edc1b5f4b95d01ed12d5f35f8a22f2733415be43015c",
   "sectionId": "section4",
   "desktop": {
-    "elementWidth": 980,
+    "elementWidth": 1021,
     "elementHeight": 4947,
     "sectionHeight": 4950,
     "x": 0,
-    "y": 132
+    "y": 132,
+    "stretched": true,
+    "sideMargins": 0
   },
   "mobile": {
     "elementWidth": 320,
@@ -30,5 +32,7 @@
   "faqCount": 7,
   "pageCodeReadbackMatches": true,
   "status": "PUBLISHED / VERIFIED",
-  "publishedAt": "2026-11-05T20:56:58.798Z"
+  "publishedAt": "2026-11-05T20:56:58.798Z",
+  "widthCorrectionPublishedAt": "2026-11-06T01:38:27.697Z",
+  "widthCorrectionCheckpoint": "../width-correction/PUBLICATION_CHECKPOINT_2026-11-05.md"
 }

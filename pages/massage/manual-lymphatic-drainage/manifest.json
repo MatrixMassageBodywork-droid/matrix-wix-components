@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "status": "REVIEW_READY_NOT_INSTALLED_NOT_PUBLISHED",
+  "status": "PUBLISHED / VERIFIED",
   "page_id": "lb1iq",
   "url": "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
   "host_tag": "matrix-lymphatic-page",
@@ -19,5 +19,7 @@
     "mld-treatment-comfort.webp": "849d23077d59dd07f71abe160eabda65c35f63c1fac98141476338f475733b45",
     "mld-gentle-touch.webp": "8867be1be40536c3a8ab504f71e062cd0161cda7d4d05eb18dc8437455d31cb6",
     "matrix-water-background.webp": "96e7e516c09fbe7fbe41d4c3459d4b7ba527fe39b0f7931593b0ca07d6da4104"
-  }
+  },
+  "publishedAt": "2026-11-06T01:38:27.697Z",
+  "publicationCheckpoint": "PUBLICATION_CHECKPOINT_2026-11-05.md"
 }

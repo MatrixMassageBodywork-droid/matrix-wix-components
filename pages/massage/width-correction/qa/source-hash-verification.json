@@ -1,0 +1,44 @@
+[
+  {
+    "page": "deep-tissue",
+    "file": "body.html",
+    "expected": "ce16949c95f8c6f887309301d25326037b5f70018098860d0267d3d9ce575f6c",
+    "actual": "ce16949c95f8c6f887309301d25326037b5f70018098860d0267d3d9ce575f6c",
+    "unchanged": true
+  },
+  {
+    "page": "deep-tissue",
+    "file": "style.css",
+    "expected": "705ed50a6c4fdb66c4c4f12b056e3af0d3588864df0351896330f86465f03236",
+    "actual": "705ed50a6c4fdb66c4c4f12b056e3af0d3588864df0351896330f86465f03236",
+    "unchanged": true
+  },
+  {
+    "page": "deep-tissue",
+    "file": "renderer.js",
+    "expected": "47e95d0507edb6cabb820979aef2c1a2e95735664dcbad23870bca405ba391d1",
+    "actual": "47e95d0507edb6cabb820979aef2c1a2e95735664dcbad23870bca405ba391d1",
+    "unchanged": true
+  },
+  {
+    "page": "swedish",
+    "file": "body.html",
+    "expected": "6d3abfa1351c7591f6d7e431d9d1774e68a64a0d3c91b2e70ccd66553ee6c9b0",
+    "actual": "6d3abfa1351c7591f6d7e431d9d1774e68a64a0d3c91b2e70ccd66553ee6c9b0",
+    "unchanged": true
+  },
+  {
+    "page": "swedish",
+    "file": "style.css",
+    "expected": "cb9ab16a285184dca92981e33a8a705b22a456738a0932f72d5e8812387f1882",
+    "actual": "cb9ab16a285184dca92981e33a8a705b22a456738a0932f72d5e8812387f1882",
+    "unchanged": true
+  },
+  {
+    "page": "swedish",
+    "file": "renderer.js",
+    "expected": "c805b6fddd29dbe146f9edc1b5f4b95d01ed12d5f35f8a22f2733415be43015c",
+    "actual": "c805b6fddd29dbe146f9edc1b5f4b95d01ed12d5f35f8a22f2733415be43015c",
+    "unchanged": true
+  }
+]

@@ -2,7 +2,7 @@
 
 Owner requirement: backgrounds, hero image and headline panel must span the browser width like the main Massage hub. Preserve everything else on existing subpages.
 
-Status: width-only proofs prepared and locally verified. Wix layout change NOT EXECUTED; publication NOT EXECUTED. This is a review package, not a claim that the live gutters have been removed.
+Status: SAVED / VERIFIED / PUBLISHED. Native stretch and zero margins are live on both pages. Current receipt: [PUBLICATION_CHECKPOINT_2026-11-05.md](PUBLICATION_CHECKPOINT_2026-11-05.md). The execution sequence below is retained as history, not an instruction to repeat completed work.
 
 ## Protected baselines
 
@@ -11,11 +11,11 @@ Status: width-only proofs prepared and locally verified. Wix layout change NOT E
 | Deep Tissue | cib7o | matrixDeepTissuePage | matrix-deep-tissue-page | section4 |
 | Swedish | l014i | matrixSwedishPage | matrix-swedish-page | section4 |
 
-Published desktop hosts are 980 px wide. Their component CSS already paints its backgrounds across 100% of the host. The correct change is native full-width stretching, not replacing the content or using a 100vw breakout inside a clipped 980 px host.
+Before this correction, published desktop hosts were 980 px wide. Their component CSS already paints its backgrounds across 100% of the host. The correct change is native full-width stretching, not replacing the content or using a 100vw breakout inside a clipped 980 px host.
 
 `deep-tissue-preview.html` and `swedish-preview.html` use the exact existing body and CSS with a 100% proof wrapper. At the 1348 px content viewport, both roots measured 1348 px and neither produced horizontal overflow. The source hashes in `unchanged-source-hashes.json` must remain unchanged.
 
-## Exact proposed Wix execution after review
+## Historical approved execution sequence
 
 1. Open the existing Matrix Massage & Bodywork Classic Editor, site `cdec8df6-d518-4859-9f1e-f06bf5346d41`. Confirm it is the existing editor, not a new site.
 2. Pages & Menu → DEEP TISSUE MASSAGE (`cib7o`). Select `matrixDeepTissuePage` within `section4`. Read back current source, tag, desktop layout and section height against the latest M2 receipt. Stop on a source/tag/page mismatch; do not reinstall.

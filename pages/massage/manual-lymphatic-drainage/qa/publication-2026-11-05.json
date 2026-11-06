@@ -1,0 +1,357 @@
+{
+  "published": [
+    {
+      "publishedAt": "2026-11-06T01:38:27.697Z",
+      "confirmation": "You’re now in Preview mode\nBack to Editor\nPublish\nCongratulations\nYour site is published and live online\nView Site\nWhat's Next\nProtect client data with HIPAA compliance\nSafely coll"
+    }
+  ],
+  "live": [
+    {
+      "canonical": "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+      "description": "Explore gentle manual lymphatic drainage massage in Salem, WI at Matrix Massage & Bodywork. View current appointment options and book online.",
+      "faqs": [
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is generally performed with gentle, rhythmic movements rather than deep pressure. Tell your provider if anything feels uncomfortable."
+              },
+              "name": "Is lymphatic drainage massage painful?"
+            },
+            {
+              "@type": "Question",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. The techniques differ in pressure and purpose. Deep tissue massage uses more focused muscle work; MLD uses light movement in a specific sequence."
+              },
+              "name": "Is manual lymphatic drainage the same as deep tissue massage?"
+            },
+            {
+              "@type": "Question",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It should not be marketed as a proven general detoxification treatment. Your liver, kidneys and other organs handle normal waste processing; MLD has more specific clinical uses related to fluid management."
+              },
+              "name": "Is MLD a detox massage?"
+            },
+            {
+              "@type": "Question",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ask your surgeon or treating healthcare professional first. Timing and suitability depend on the procedure, current healing and medical guidance."
+              },
+              "name": "Can I schedule after surgery?"
+            },
+            {
+              "@type": "Question",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "New, persistent or unexplained swelling should be medically evaluated before booking a massage."
+              },
+              "name": "What if my swelling has no clear cause?"
+            },
+            {
+              "@type": "Question",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "There is no universal schedule. Any treatment frequency for medical swelling should follow an individualized healthcare plan."
+              },
+              "name": "How often do people need MLD?"
+            }
+          ]
+        }
+      ],
+      "h1": [
+        {
+          "text": "Manual LymphaticDrainage in Salem, WI",
+          "visible": true
+        }
+      ],
+      "host": "<matrix-lymphatic-page data-matrix-mounted=\"true\" style=\"display: block; height: auto;\"><style>@font-face{font-family:'MatrixM4Cormorant';font-style:normal;font-weight:400;font-display:swap;src:url('https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@1e14a9b4cef60f3d8c8d35d",
+      "imgs": [
+        {
+          "loaded": true,
+          "src": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "https://static.wixstatic.com/media/e4cc43_178970a293d64e5c8eab5c4a0dc2440d~mv2.webp"
+        },
+        {
+          "loaded": false,
+          "src": "https://static.wixstatic.com/media/e4cc43_33373df2b7114419beba328de63afefe~mv2.webp"
+        },
+        {
+          "loaded": false,
+          "src": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg"
+        }
+      ],
+      "review": {
+        "bottom": 5283.5,
+        "height": 552,
+        "left": 0,
+        "right": 1520.800048828125,
+        "top": 4731.5,
+        "width": 1520.800048828125,
+        "x": 0,
+        "y": 4731.5
+      },
+      "root": {
+        "bottom": 4731.499908447266,
+        "height": 4599.89990234375,
+        "left": 0,
+        "right": 1520.800048828125,
+        "top": 131.60000610351562,
+        "width": 1520.800048828125,
+        "x": 0,
+        "y": 131.60000610351562
+      },
+      "scrollWidth": 1521,
+      "title": "Lymphatic Drainage Massage Salem WI | Matrix Massage & Bodywork",
+      "url": "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+      "viewport": 1521
+    }
+  ],
+  "faqAllOpen": [
+    {
+      "bodyHeight": 4956.89990234375,
+      "faqOpen": 6,
+      "gap": 0.000244140625
+    }
+  ],
+  "responsive": {
+    "m4": [
+      {
+        "gap": 0.000091552734375,
+        "root": {
+          "bottom": 4718.675201416016,
+          "height": 4587.0751953125,
+          "left": 0,
+          "right": 1264.800048828125,
+          "top": 131.60000610351562,
+          "width": 1264.800048828125,
+          "x": 0,
+          "y": 131.60000610351562
+        },
+        "scrollWidth": 1265,
+        "width": 1265
+      },
+      {
+        "gap": 0.000091552734375,
+        "root": {
+          "bottom": 4716.537506103516,
+          "height": 4584.9375,
+          "left": 0,
+          "right": 1424.800048828125,
+          "top": 131.60000610351562,
+          "width": 1424.800048828125,
+          "x": 0,
+          "y": 131.60000610351562
+        },
+        "scrollWidth": 1425,
+        "width": 1425
+      },
+      {
+        "gap": 0,
+        "hero": {
+          "bottom": -2594.8626098632812,
+          "height": 828.7374877929688,
+          "left": 0,
+          "right": 1904.800048828125,
+          "top": -3423.60009765625,
+          "width": 1904.800048828125,
+          "x": 0,
+          "y": -3423.60009765625
+        },
+        "scrollWidth": 1905,
+        "width": 1905
+      }
+    ],
+    "swedish": [
+      {
+        "canonical": "https://www.matrixmassage.net/swedish-massage-salem-wi",
+        "description": "Book your Swedish massage in Salem WI with Matrix Massage. Relax, reduce stress, and restore balance with light-to-medium pressure and calming aromatherapy.\n",
+        "h1": [
+          "Swedish Massage in Salem, WI"
+        ],
+        "page": "Swedish",
+        "reviews": true,
+        "root": {
+          "bottom": 4956.975006103516,
+          "height": 4825.375,
+          "left": 0,
+          "right": 1264.800048828125,
+          "top": 131.60000610351562,
+          "width": 1264.800048828125,
+          "x": 0,
+          "y": 131.60000610351562
+        },
+        "scrollWidth": 1265,
+        "title": "Swedish Massage Salem WI | Matrix Massage & Bodywork",
+        "url": "https://www.matrixmassage.net/swedish-massage-salem-wi",
+        "width": 1265
+      },
+      {
+        "page": "Swedish",
+        "root": {
+          "bottom": 4956.975006103516,
+          "height": 4825.375,
+          "left": 0,
+          "right": 1424.800048828125,
+          "top": 131.60000610351562,
+          "width": 1424.800048828125,
+          "x": 0,
+          "y": 131.60000610351562
+        },
+        "scrollWidth": 1425,
+        "width": 1425
+      },
+      {
+        "page": "Swedish",
+        "root": {
+          "bottom": 4956.975006103516,
+          "height": 4825.375,
+          "left": 0,
+          "right": 1904.800048828125,
+          "top": 131.60000610351562,
+          "width": 1904.800048828125,
+          "x": 0,
+          "y": 131.60000610351562
+        },
+        "scrollWidth": 1905,
+        "width": 1905
+      }
+    ],
+    "deepTissue": [
+      {
+        "page": "Deep tissue",
+        "root": {
+          "bottom": 5673.300201416016,
+          "height": 5541.7001953125,
+          "left": 0,
+          "right": 1264.800048828125,
+          "top": 131.60000610351562,
+          "width": 1264.800048828125,
+          "x": 0,
+          "y": 131.60000610351562
+        },
+        "scrollWidth": 1265,
+        "width": 1265
+      },
+      {
+        "canonical": "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+        "description": "Book a deep tissue massage in Salem WI with Matrix Massage. Relieve tension, improve mobility, and recover naturally with expert care and added wellness perks.\n",
+        "h1": [
+          "Deep Tissue Massage in Salem, WI"
+        ],
+        "page": "Deep tissue",
+        "reviews": true,
+        "root": {
+          "bottom": 5771.587799072266,
+          "height": 5639.98779296875,
+          "left": 0,
+          "right": 1424.800048828125,
+          "top": 131.60000610351562,
+          "width": 1424.800048828125,
+          "x": 0,
+          "y": 131.60000610351562
+        },
+        "scrollWidth": 1425,
+        "title": "Deep Tissue Massage Salem WI | Matrix Massage & Bodywork",
+        "width": 1425
+      },
+      {
+        "page": "Deep tissue",
+        "root": {
+          "bottom": 5775.150299072266,
+          "height": 5643.55029296875,
+          "left": 0,
+          "right": 1904.800048828125,
+          "top": 131.60000610351562,
+          "width": 1904.800048828125,
+          "x": 0,
+          "y": 131.60000610351562
+        },
+        "scrollWidth": 1905,
+        "width": 1905
+      }
+    ]
+  },
+  "nativeSeoReadback": [
+    {
+      "tags": [
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Explore gentle manual lymphatic drainage massage in Salem, WI at Matrix Massage & Bodywork. View current appointment options and book online."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:image",
+            "content": "e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png"
+          },
+          "meta": {
+            "width": 1050,
+            "height": 600
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "title",
+          "children": "Lymphatic Drainage Massage Salem WI | Matrix Massage & Bodywork",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "Ahx7Zhw4",
+            "displayName": "Lymphatic Massage FAQ Schema"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Is lymphatic drainage massage painful?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It is generally performed with gentle, rhythmic movements rather than deep pressure. Tell your provider if anything feels uncomfortable.\"}},{\"@type\":\"Question\",\"name\":\"Is manual lymphatic drainage the same as deep tissue massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. The techniques differ in pressure and purpose. Deep tissue massage uses more focused muscle work; MLD uses light movement in a specific sequence.\"}},{\"@type\":\"Question\",\"name\":\"Is MLD a detox massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It should not be marketed as a proven general detoxification treatment. Your liver, kidneys and other organs handle normal waste processing; MLD has more specific clinical uses related to fluid management.\"}},{\"@type\":\"Question\",\"name\":\"Can I schedule after surgery?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Ask your surgeon or treating healthcare professional first. Timing and suitability depend on the procedure, current healing and medical guidance.\"}},{\"@type\":\"Question\",\"name\":\"What if my swelling has no clear cause?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"New, persistent or unexplained swelling should be medically evaluated before booking a massage.\"}},{\"@type\":\"Question\",\"name\":\"How often do people need MLD?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"There is no universal schedule. Any treatment frequency for medical swelling should follow an individualized healthcare plan.\"}}]}",
+          "custom": false,
+          "disabled": false
+        }
+      ],
+      "canonical": {
+        "tag": {
+          "type": "link",
+          "props": {
+            "rel": "canonical",
+            "href": "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      }
+    }
+  ],
+  "nativeMobile": {
+    "method": "Wix native mobile preview and editor readback",
+    "width": 320,
+    "scrollWidth": 320,
+    "bodyHeight": 8392.75,
+    "elementHeight": 8393,
+    "sectionHeight": 8393,
+    "x": 0,
+    "y": 52,
+    "actualMobileUserAgentTested": false
+  }
+}
