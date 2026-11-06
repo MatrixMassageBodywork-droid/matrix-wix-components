@@ -1,6 +1,6 @@
 {
   "serviceName": "Matrix Gift Cards",
-  "revision": "gift-cards-review-3",
+  "revision": "gift-cards-review-4",
   "tagName": "matrix-gift-cards",
   "elementId": "matrixGiftCards",
   "rootClass": "matrix-gift-cards",
