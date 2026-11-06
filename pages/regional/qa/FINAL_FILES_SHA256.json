@@ -1,0 +1,170 @@
+{
+  "CURRENT_VERIFIED_CHECKPOINT_2026-11-06.md": {
+    "bytes": 5503,
+    "sha256": "7365d91b039ca3ee82169fdda26a084f5c026274c4f8e91c5c8752587f04d908"
+  },
+  "README.md": {
+    "bytes": 242,
+    "sha256": "c065561b9753d476adc3fc74766183b4b613fa10b1835b6ebff7db8649f6003a"
+  },
+  "build_regional.py": {
+    "bytes": 16080,
+    "sha256": "236124fad2ffc3b208a57ea76c2c7f786d4e4405e58ccd16d2721e4c5be7b623"
+  },
+  "pleasant-prairie/INSTALL_DRAFT.md": {
+    "bytes": 2786,
+    "sha256": "2dbe619089654ad2d45700443c0cea0c1075794fbd9c5a3f234c6cee65600ebe"
+  },
+  "pleasant-prairie/NATIVE_BEFORE.txt": {
+    "bytes": 14770,
+    "sha256": "1735624b4e6c1f8c07e0e804a869b8925f1a4f4d508c5c5c30413799ee58e4ad"
+  },
+  "pleasant-prairie/NATIVE_SEO_BEFORE.json": {
+    "bytes": 11960,
+    "sha256": "b3769006f10f50e86749e1eec33e28360cef696f4e0da6f2077612677dca6754"
+  },
+  "pleasant-prairie/WIX_PAGE_CODE.before.js": {
+    "bytes": 382,
+    "sha256": "8c4b9e448a92ffb860ed536bb58e9ecfdb7b877b3a7c60c0f28f5aeaf18f4355"
+  },
+  "pleasant-prairie/WIX_PAGE_CODE.candidate.js": {
+    "bytes": 9320,
+    "sha256": "d919b215b4ee234884ba1b4445f5f646314a5b72f105e6a7ff08b84cf4ae17c8"
+  },
+  "pleasant-prairie/body.html": {
+    "bytes": 8524,
+    "sha256": "177ada269bbdc12592c6ae555d8a99e64f684cc4694373b6ea0ddd0842e0424a"
+  },
+  "pleasant-prairie/page-config.json": {
+    "bytes": 693,
+    "sha256": "ac11cf243d812b8276e9a14be61e8660c01e40a183e382e926ebe2ac71c6d2b4"
+  },
+  "pleasant-prairie/review-1/WIX_SEO_SNIPPET_CANDIDATE.js": {
+    "bytes": 8864,
+    "sha256": "3a82a4e56fe7b11cc10c0d5d31f4d76a4ba5c1100294db9b37b49b9dd7cf981c"
+  },
+  "pleasant-prairie/review-1/body.html": {
+    "bytes": 8524,
+    "sha256": "177ada269bbdc12592c6ae555d8a99e64f684cc4694373b6ea0ddd0842e0424a"
+  },
+  "pleasant-prairie/review-1/build-manifest.json": {
+    "bytes": 3792,
+    "sha256": "a4a0324e90d441bc530299769c47bbbac8cb5e9dc1c8a98dbe11df36c9053005"
+  },
+  "pleasant-prairie/review-1/faq-schema.json": {
+    "bytes": 1923,
+    "sha256": "3439796b5035139d2f8ee21aae82552339c1dd258cdba0e08aa85ecbe989478f"
+  },
+  "pleasant-prairie/review-1/preview.html": {
+    "bytes": 16599,
+    "sha256": "13c32cc7d1bb41c116199b80902f0981fa69e794f8190feb018dfd9545d0a1eb"
+  },
+  "pleasant-prairie/review-1/renderer.js": {
+    "bytes": 17089,
+    "sha256": "709d2629097b85560cc10dff64437ae66bd779622c38629f63969a3ed5041aa8"
+  },
+  "pleasant-prairie/review-1/style.css": {
+    "bytes": 7711,
+    "sha256": "0c99796c3fc933ec888071ad6f03684bbf45aa8e8c89933a94ca230323a123fe"
+  },
+  "pleasant-prairie/style.css": {
+    "bytes": 7711,
+    "sha256": "0c99796c3fc933ec888071ad6f03684bbf45aa8e8c89933a94ca230323a123fe"
+  },
+  "qa/SEO_FINAL_VERIFIED.json": {
+    "bytes": 24180,
+    "sha256": "ada05e5461e1e572e99ea761e8d01a6843b8a3adceb37fa84d1e734d0989daf1"
+  },
+  "qa/pleasant-prairie-WIX_PAGE_CODE.verified.js": {
+    "bytes": 9320,
+    "sha256": "d919b215b4ee234884ba1b4445f5f646314a5b72f105e6a7ff08b84cf4ae17c8"
+  },
+  "qa/pleasant-prairie-desktop.webp": {
+    "bytes": 71350,
+    "sha256": "bcf574b8829c2dea15c8b895324eb1dd47d4b273aca9af96e806735feccd1ee5"
+  },
+  "qa/pleasant-prairie-first-visit.webp": {
+    "bytes": 49812,
+    "sha256": "fb1a6d62d9522f67eeeaf19b5c9ee1ee6104c25bd955283db8c40d8b4a2271ac"
+  },
+  "qa/pleasant-prairie-mobile.webp": {
+    "bytes": 22812,
+    "sha256": "3f7dec3171193dafdfc413750bd5863a63e135c5d999cd39c85b9bb4a49dea8e"
+  },
+  "qa/union-grove-WIX_PAGE_CODE.verified.js": {
+    "bytes": 11121,
+    "sha256": "f78ff7233cd9752de4b7903d597e0ba88687fe0b969ff77a84fb11a6031e2d90"
+  },
+  "qa/union-grove-desktop.webp": {
+    "bytes": 63232,
+    "sha256": "e9f42b37154c3733a291f341e9254f78503c6331b9775abc7485f7367bf4f2f0"
+  },
+  "qa/union-grove-mobile.webp": {
+    "bytes": 24862,
+    "sha256": "a0af3bfb920607fe6169ab8c9b8c736d5a44862872ae81daeb3bc9f2bf6f41f0"
+  },
+  "qa/union-grove-water.webp": {
+    "bytes": 69236,
+    "sha256": "982904b2a16511df294669e6848a8a46186a54784cd40d5260a34b0cfaa826d8"
+  },
+  "source-reference-2026-11-06.json": {
+    "bytes": 102507,
+    "sha256": "bb3a374b3dc9cf94592eddc18f854d0d3e1032a06bf2f9eda7ad3eb06b8108c3"
+  },
+  "union-grove/INSTALL_DRAFT.md": {
+    "bytes": 2752,
+    "sha256": "56dce97db7e35cd730ecef1a5e2372733f4df71187d1e10c614558a26089ab5b"
+  },
+  "union-grove/NATIVE_SEO_BEFORE.json": {
+    "bytes": 9689,
+    "sha256": "45bb30779a841e50b5857c3aa9ca66d1ddee7e45c4ba456885554168d1e3a226"
+  },
+  "union-grove/WIX_PAGE_CODE.before.js": {
+    "bytes": 891,
+    "sha256": "b30fff4f8546d1647cadfcdaa183f9d2a11ef282a2e32af0e2e7698f6b78b281"
+  },
+  "union-grove/WIX_PAGE_CODE.candidate.js": {
+    "bytes": 11121,
+    "sha256": "f78ff7233cd9752de4b7903d597e0ba88687fe0b969ff77a84fb11a6031e2d90"
+  },
+  "union-grove/body.html": {
+    "bytes": 9818,
+    "sha256": "40109dbe4c87676f436460f8ce9cf5b077bf3fe593ef03aac5c59d0151dacef1"
+  },
+  "union-grove/page-config.json": {
+    "bytes": 650,
+    "sha256": "57c29e226e60a612241b438dae4b8c753406a5b08a7c648e10cb7b37b5acb42b"
+  },
+  "union-grove/review-1/WIX_SEO_SNIPPET_CANDIDATE.js": {
+    "bytes": 10156,
+    "sha256": "ab8f4a6e4a307a00f97a498a396e53386e0e53623f69278cc9ccf8c202119b1f"
+  },
+  "union-grove/review-1/body.html": {
+    "bytes": 9818,
+    "sha256": "40109dbe4c87676f436460f8ce9cf5b077bf3fe593ef03aac5c59d0151dacef1"
+  },
+  "union-grove/review-1/build-manifest.json": {
+    "bytes": 3725,
+    "sha256": "f7992363df7fd5e3fb9958c3400176c5695e68916897889a614173f3c1621dcf"
+  },
+  "union-grove/review-1/faq-schema.json": {
+    "bytes": 3337,
+    "sha256": "e1fd282e902701b9836716c093d9e6d76b3c770ba1c25c7a31c8d1337113aa35"
+  },
+  "union-grove/review-1/preview.html": {
+    "bytes": 17418,
+    "sha256": "5344853ed4a9fa9132bd91d45b408c3a14614cc068d45394cc7c1c52cf8360e9"
+  },
+  "union-grove/review-1/renderer.js": {
+    "bytes": 17906,
+    "sha256": "5cd70f2cc3fd92692e32ff2763d358c463b91aec17cffb4814d1d9eebc5f71f3"
+  },
+  "union-grove/review-1/style.css": {
+    "bytes": 7241,
+    "sha256": "e67868467d4f971917fadb6403b759d503e75aac5a9cf67b3a6a4ccd70c082ee"
+  },
+  "union-grove/style.css": {
+    "bytes": 7241,
+    "sha256": "e67868467d4f971917fadb6403b759d503e75aac5a9cf67b3a6a4ccd70c082ee"
+  }
+}

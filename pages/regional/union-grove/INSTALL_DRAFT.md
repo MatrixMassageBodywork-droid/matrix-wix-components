@@ -5,7 +5,7 @@ Observed code: comment-only R1.1, retained as historical comment.
 Current page-local sections: comp-msbuk8q9, comp-msbuk8qi, comp-msbuk8qj. Shared SITE_HEADER, SITE_FOOTER and all other pages excluded. No native reviews observed in the page-local sections.
 
 1. Select this page through the page picker; confirm page name and slug. Do not edit masterPage.js.
-2. Add one blank section at the top of this page body; record its new ID and component ID. Add one Custom Element inside it, recording its new native ID. Source: https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f336733ea1d865e76d2e60e041feeb1aaacfbac3/pages/regional/union-grove/review-1/renderer.js . Verify served bytes against local renderer before use.
+2. Add one blank section at the top of this page body; record its new ID and component ID. Add one Custom Element inside it, recording its new native ID. Source: https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@36c352fd322c7347beec2c1845a1313dbfba45fc/pages/regional/union-grove/review-1/renderer.js . Verify served bytes against local renderer before use.
 3. Set tag matrix-union-grove-page, ID matrixUnionGrove. Set native Stretch full-width and margins 0. Align element top to section top. Use measured body height, not another page's height.
 4. Replace only this page code with WIX_PAGE_CODE.candidate.js after exact original source comparison. Save then reopen/read back source/tag/ID/code.
 5. Use Preview to confirm the complete new body renders. Only after rendering passes, remove the enumerated old page-local sections listed above. Preserve shared header/footer and their map, links, code, and existing reviews elsewhere.
