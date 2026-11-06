@@ -16,6 +16,9 @@ def proof(body, css, title):
     for local, url in asset_map.items():
         body = body.replace(url, uri(SHARED / local))
         css = css.replace(url, uri(SHARED / local))
+    for local, url in json.loads((ROOT / 'asset-map.json').read_text()).items():
+        body = body.replace(url, uri(ROOT / local))
+        css = css.replace(url, uri(ROOT / local))
     for url in re.findall(r'url\(["\']?(https://[^)"\']+)', css):
         path = SHARED / 'assets' / url.rsplit('/', 1)[-1]
         css = css.replace(url, uri(path))
@@ -47,7 +50,7 @@ renderer = '''/* M4 review candidate. Not installed or published. 2026-11-05. */
       this.style.display = 'block';
       this.style.height = 'auto';
       this.dataset.matrixMounted = 'true';
-      this.dispatchEvent(new CustomEvent('matrix-ready', {detail:{version:'M4-full-width-review-v1'}}));
+      this.dispatchEvent(new CustomEvent('matrix-ready', {detail:{version:'M4-full-width-review-v2-images'}}));
     }
   }
   if (!customElements.get('matrix-lymphatic-page')) customElements.define('matrix-lymphatic-page', MatrixLymphaticPage);

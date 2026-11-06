@@ -28,3 +28,4 @@ SEO:
 Keep the existing M4 page/URL/canonical/indexability/title/neutral description; merge complete visible seoMarkup into freshly captured page code; reconcile the existing M4 FAQ entry without duplicate schemas. Do not copy proof-only noindex metadata into the live page. Preserve native genuine reviews and global shell. The M4 renderer does not write head metadata. No ranking guarantee is made.
 
 Next step: owner approves the complete proof. Before M4 installation, obtain the fresh page code/element map/native SEO snapshot and produce the exact merge for that live state; do not guess M4 section IDs. Apply the reviewed M2/M3 native width correction using their existing elements, with small save/readback checkpoints. Publish only within explicit approval of the reviewed release.
+

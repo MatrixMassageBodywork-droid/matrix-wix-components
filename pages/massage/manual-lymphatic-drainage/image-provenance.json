@@ -1,0 +1,28 @@
+{
+  "revision": "M4 image review v2",
+  "date": "2026-11-05",
+  "method": "Built-in image generation for two editorial illustrations; existing Matrix water texture reused.",
+  "assets": [
+    {
+      "path": "assets/mld-gentle-touch.webp",
+      "generated": true,
+      "source_path": "/workspace/scratch/b731a1e67e6f/generated_images/exec-cd6e8104-5888-49b4-81af-3130f2b6f57d.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: supporting editorial image for a premium Manual Lymphatic Drainage webpage, landscape 3:2 composition. A close detail of an adult client's relaxed forearm and hand supported on a plush folded ivory towel on a beautifully dressed treatment table. A therapist gently cradles the wrist with one hand and lays the relaxed finger pads of the other hand lightly on the forearm, conveying the very gentle, unhurried character of MLD rather than deep tissue pressure. Forearm, hands and ivory textiles are the subjects; no faces or full people. Natural anatomical hands, matte real skin with fine texture, no oily shine, no skin redness or visible indentation. Clinical luxury: clean, softly lit, warm cream and beige, blurred warm taupe background with quiet brass detail. Keep a distinct composition from a neck or collarbone massage photo. Professional, restorative and welcoming, meticulous editorial photography, no hospital equipment. No rocks, water, bottles, flowers, text, logos, arrows, anatomical overlays, surgery or before/after imagery. This is an atmospheric illustration, not an instructional demonstration.",
+      "wix_media_id": "e4cc43_178970a293d64e5c8eab5c4a0dc2440d~mv2.webp"
+    },
+    {
+      "path": "assets/mld-treatment-comfort.webp",
+      "generated": true,
+      "source_path": "/workspace/scratch/b731a1e67e6f/generated_images/exec-77910bec-ca51-46fa-b954-a364f6f09549.png",
+      "prompt": "Use case: photorealistic-natural. Asset type: secondary editorial image for a Manual Lymphatic Drainage webpage, portrait 4:5 composition. Photograph a serene premium treatment-room detail: the head end of a professionally dressed, clean cream massage table with a comfortable crescent headrest, an ivory folded cover and a light beige bolster. Neatly placed folded cream hand towels on a dark walnut tray beside the table, with a simple clear drinking-water glass, no bottles. Soft warm window light and the suggestion of an elegant textured taupe wall, softly out of focus. Clinical luxury, clean and precise but deeply restful, warm beige, cream, walnut and muted brass. The emphasis is thoughtful preparation and comfort for a very gentle hands-on session. Asymmetric editorial composition, sculptural linen folds, natural materials and rich subtle texture. No people, no text, no logos, no rocks, no flowers, no candles, no anatomical diagrams, no medical machines, no impossible floating furniture. Make a convincingly real, refined interior photograph, not a stock advertising collage.",
+      "wix_media_id": "e4cc43_33373df2b7114419beba328de63afefe~mv2.webp"
+    },
+    {
+      "path": "assets/matrix-water-background.webp",
+      "generated": false,
+      "source_url": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg",
+      "usage": "Existing main Massage page water image, darkened in closing-section CSS; WebP copy for offline proof."
+    }
+  ],
+  "boundaries": "Illustrative imagery, not a photograph of Matrix staff, clients, or its actual treatment room; not an instructional MLD technique diagram. No visible copy, heading, FAQ, link or layout changes."
+}

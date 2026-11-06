@@ -4,11 +4,11 @@ Status: DESIGNED / SOURCE VERIFIED / LOCAL RESPONSIVE PROOF TESTED.
 Wix installation: NOT EXECUTED. Production publication: NOT EXECUTED.
 Owner review of the complete page is the next gate.
 
-The November 5 owner request replaces inset subpage backgrounds with full-width backgrounds and hero panels. M4 retains the established cream, teal, typography, approved compact Matrix Massage & Bodywork logo, and approved stone/water images. The proof contains the page body only; the existing Wix header, footer and genuine review section remain outside this component.
+The November 5 owner request replaces inset subpage backgrounds with full-width backgrounds and hero panels. M4 retains the established cream, teal, typography, approved compact Matrix Massage & Bodywork logo, and MLD-specific illustrative treatment imagery with the main Massage water texture. The proof contains the page body only; the existing Wix header, footer and genuine review section remain outside this component.
 
 ## Build and review
 
-Run `python pages/massage/manual-lymphatic-drainage/build.py` from the repository root. Open `proofs/Matrix_MLD_Full_Width_Proof.html` for the complete self-contained, offline proof. `preview.html` is the version-controlled equivalent with referenced images/fonts; all source assets already live in `../deep-tissue/assets`, pinned in the renderer. Generated embedded-asset duplicates are excluded from git and reproduced by the build.
+Run `python pages/massage/manual-lymphatic-drainage/build.py` from the repository root. Open `proofs/Matrix_MLD_Full_Width_Proof.html` for the complete self-contained, offline proof. `preview.html` is the version-controlled equivalent with referenced images/fonts; MLD image assets live in `assets`, while shared logo/font assets remain in `../deep-tissue/assets`. Generated embedded-asset duplicates are excluded from git and reproduced by the build.
 
 The same build produces width-only Swedish and Deep Tissue proofs. Their body, stylesheet, renderer and page code are unchanged. `../width-correction/unchanged-source-hashes.json` records that boundary.
 

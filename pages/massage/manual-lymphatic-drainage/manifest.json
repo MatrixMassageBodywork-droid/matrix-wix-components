@@ -8,10 +8,16 @@
   "native_desktop_stretch_required": true,
   "side_margins_px": 0,
   "files": {
-    "body.html": "2dcc9c5b4cc333086488c7cbad9b53fbe3ffa335b192db58ff63b5d7705e96bb",
-    "style.css": "e03814d436a2c951bb4934a80017d2c8f2bcfda0886d14e802d6407c2f9b55bd",
-    "renderer.js": "0893a163f640ad2f9a0b42b9fe2fc888f19e77dd2dca809d1c1c2a7c9c9555af",
+    "body.html": "b7ebb1f80c101a47fa7ca6b4e8b6ae8601659cf4ba0bc8c8f82ddc73e8564312",
+    "style.css": "f871c6eaf737f802f61e8a3ecc0f9f55479ad41ecd861c2c9e5265d842ce2e00",
+    "renderer.js": "3d3388b44b68996703e94d0fcd02623189829f980030c374ae179caa37b6f647",
     "faq-schema.json": "5f60f4a14335a4d85053190a04be4866203c35bd72be21880b035694fc767004",
-    "Matrix_MLD_Full_Width_Proof.html": "838318602284b557b1c557eafdc65a74d1b1156c0d71a0fd415e91cc8cdc61dd"
+    "Matrix_MLD_Full_Width_Proof.html": "96dec0b7aa59efc5e51f1ab27e641689efb120ad3436f9e33efc4209df2a75e8"
+  },
+  "revision": "image-review-v2",
+  "assets": {
+    "mld-treatment-comfort.webp": "849d23077d59dd07f71abe160eabda65c35f63c1fac98141476338f475733b45",
+    "mld-gentle-touch.webp": "8867be1be40536c3a8ab504f71e062cd0161cda7d4d05eb18dc8437455d31cb6",
+    "matrix-water-background.webp": "96e7e516c09fbe7fbe41d4c3459d4b7ba527fe39b0f7931593b0ca07d6da4104"
   }
 }
