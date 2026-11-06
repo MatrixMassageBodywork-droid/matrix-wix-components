@@ -1,0 +1,10 @@
+{
+  "reason": "Remove Wix host minimum-height gap; preserve approved visual body and responsive CSS.",
+  "approvedSource": "20d3bd458255462d89f119f9b4e697e68d57361b/pages/spa-beauty/main/review-3",
+  "change": "Only custom-element host min-height:0!important. Native page grid remains content-driven. No shared selectors.",
+  "files": {
+    "body.html": "3ab739b8c6486daae6ad5e973c6cbad7ff5a6f0ce62c20c71a7b7eb6c5012fac",
+    "style.css": "49667e7371d5163251d5e4ddaae50834f8e974eba41a66a1cab2076fd6488a2c",
+    "renderer.js": "b065270171c740b8fe2ede7971c34a7f59d6434219ecca498e4fafa5a2f46ee6"
+  }
+}

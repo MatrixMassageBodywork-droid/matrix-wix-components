@@ -1,0 +1,82 @@
+@font-face{font-family:MatrixSerif;src:url('https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@a1cf5155e8f0fad0eaa1e288364e6e7f60f7ea9e/pages/massage/deep-tissue/assets/matrix-m2-font-0-2e46554fc8.woff') format('woff');font-display:swap}
+matrix-spa-main{display:block;width:100%;height:auto;min-height:0!important}
+.matrix-spa-main{--cream:#f7f1e8;--paper:#fdfcf9;--ink:#123d40;--teal:#087776;--line:#d4dcd4;color:var(--ink);background:var(--cream);font:16px/1.75 Arial,Helvetica,sans-serif;width:100%;container-type:inline-size}
+.matrix-spa-main *,.matrix-spa-main *::before,.matrix-spa-main *::after{box-sizing:border-box}
+.matrix-spa-main h1,.matrix-spa-main h2,.matrix-spa-main h3,.matrix-spa-main p{margin:0}
+.matrix-spa-main h1,.matrix-spa-main h2,.matrix-spa-main h3{font-family:MatrixSerif,Georgia,'Times New Roman',serif;font-weight:400;line-height:1.06;letter-spacing:-.025em;text-wrap:balance}
+.matrix-spa-main h1{font-size:clamp(34px,3.6vw,46px);line-height:1.15}
+.matrix-spa-main h2{font-size:clamp(36px,4vw,56px)}
+.matrix-spa-main h3{font-size:38px}
+.matrix-spa-main a{color:inherit;text-decoration-thickness:1px;text-underline-offset:5px}
+.matrix-spa-main a:hover{color:var(--teal)}
+.matrix-spa-main a:focus-visible,.matrix-spa-main summary:focus-visible{outline:3px solid #20a6a4;outline-offset:5px}
+.matrix-spa-main [id]{scroll-margin-top:25px}
+.matrix-spa-main .sb-inner{width:100%;max-width:1280px;margin:auto;padding:0 64px}
+.matrix-spa-main .sb-eyebrow{font-size:10px;line-height:1.6;font-weight:600;letter-spacing:2.1px;margin-bottom:18px}
+.matrix-spa-main .sb-hero,.matrix-spa-main .sb-ritual,.matrix-spa-main .sb-close{color:#fff;background-color:#102e30;background-image:linear-gradient(110deg,rgba(3,37,40,.88),rgba(5,64,65,.67),rgba(4,31,35,.84)),url('https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg');background-size:cover;background-position:center}
+.matrix-spa-main .sb-hero-inner{max-width:1040px;margin:auto;padding:44px 32px 60px;text-align:center}
+.matrix-spa-main .sb-logo{width:660px;max-width:100%;height:auto;aspect-ratio:2/1;object-fit:cover;object-position:center;display:block;margin:0 auto 29px;border:6px solid #000;background:#fff}
+.matrix-spa-main .sb-lead{font-size:17px;line-height:1.75;margin:24px auto 29px;color:#edf3ef;max-width:660px}
+.matrix-spa-main .sb-actions{display:flex;justify-content:center;gap:14px;flex-wrap:wrap}
+.matrix-spa-main .sb-button{display:inline-flex;justify-content:center;align-items:center;min-height:52px;padding:16px 24px;background:var(--ink);border:1px solid var(--ink);color:white;text-decoration:none;font-size:10px;letter-spacing:1.45px;line-height:1.6;font-weight:400;transition:background .18s,color .18s}
+.matrix-spa-main .sb-button:hover{background:var(--teal);color:white;border-color:var(--teal)}
+.matrix-spa-main .sb-light{background:var(--cream);color:var(--ink);border-color:var(--cream)}
+.matrix-spa-main .sb-outline{border-color:#c4d4cd;background:transparent;color:white}
+.matrix-spa-main .sb-jump{background:#e9e8dd;display:flex;justify-content:center;flex-wrap:wrap;gap:0;border-bottom:1px solid #d8ddcf}
+.matrix-spa-main .sb-jump a{font-size:12px;letter-spacing:.25px;text-decoration:none;padding:19px 32px;min-height:48px}
+.matrix-spa-main .sb-jump a:hover{background:#dce5dc}
+.matrix-spa-main .sb-services{padding:82px 0 62px}
+.matrix-spa-main .sb-intro{max-width:690px;margin:0 auto 48px;text-align:center}
+.matrix-spa-main .sb-intro p:last-child{margin:21px auto 0;color:#4b6060}
+.matrix-spa-main .sb-service-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:32px}
+.matrix-spa-main .sb-service{background:var(--paper);display:flex;flex-direction:column;border:1px solid #dedfd5}
+.matrix-spa-main .sb-service>img{display:block;width:100%;height:300px;object-fit:cover}
+.matrix-spa-main .sb-card-copy{padding:32px 34px 35px;display:flex;flex:1;flex-direction:column}
+.matrix-spa-main .sb-card-copy .sb-eyebrow{color:#49716b;font-size:9px;letter-spacing:1.4px;margin-bottom:14px}
+.matrix-spa-main .sb-card-copy h3{margin-bottom:20px}
+.matrix-spa-main .sb-card-copy>p:not(.sb-eyebrow){color:#4b6060;font-size:14px;line-height:1.85}
+.matrix-spa-main .sb-card-copy .sb-note{font-size:11px!important;padding:18px 0 22px;color:#526b65!important}
+.matrix-spa-main .sb-card-actions{display:flex;flex-wrap:wrap;align-items:center;gap:16px 20px;margin-top:auto;padding-top:6px}
+.matrix-spa-main .sb-link{font-size:12px;display:inline-block;line-height:1.65}
+.matrix-spa-main .sb-lash-options{display:flex;gap:24px;padding:20px 0 26px;flex-wrap:wrap}
+.matrix-spa-main .sb-menu-note{font-size:12px;text-align:center;margin-top:30px;color:#536660}
+.matrix-spa-main .sb-ritual{padding:80px 0;background-position:center 66%}
+.matrix-spa-main .sb-ritual-grid{display:grid;grid-template-columns:1fr 1fr;gap:72px;align-items:center}
+.matrix-spa-main .sb-ritual-name{font-size:18px;line-height:1.6;margin-bottom:15px}
+.matrix-spa-main .sb-ritual-grid>div>p:not(.sb-eyebrow):not(.sb-ritual-name){color:#e2ece6;font-size:14px}
+.matrix-spa-main .sb-ritual .sb-button{margin-top:25px}
+.matrix-spa-main .sb-small{font-size:11px!important;line-height:1.8;margin-top:20px}
+.matrix-spa-main .sb-extra{padding:86px 0 82px;background:#fdfcf9}
+.matrix-spa-main .sb-section-heading{display:grid;grid-template-columns:1.3fr .7fr;gap:70px;align-items:end;margin-bottom:42px}
+.matrix-spa-main .sb-section-heading>p{font-size:14px;color:#526661}
+.matrix-spa-main .sb-extra-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:35px}
+.matrix-spa-main .sb-extra-grid article{border-top:1px solid #a1b7ab;padding-top:24px}
+.matrix-spa-main .sb-number{font:italic 25px Georgia,serif;color:#759589;display:block;margin-bottom:22px}
+.matrix-spa-main .sb-extra h3{font-size:29px;margin-bottom:20px;line-height:1.12}
+.matrix-spa-main .sb-extra article p{font-size:14px;color:#526661;margin-bottom:19px}
+.matrix-spa-main .sb-extra .sb-link{display:block;width:fit-content;margin-top:11px}
+.matrix-spa-main .sb-first{background:#eaf0e8;padding:74px 0}
+.matrix-spa-main .sb-first-grid{display:grid;grid-template-columns:1fr 1fr;gap:90px;align-items:center}
+.matrix-spa-main .sb-first p:not(.sb-eyebrow):not(.sb-small){font-size:14px;max-width:440px;color:#4d625b;margin-top:22px}
+.matrix-spa-main .sb-first .sb-button{margin-top:26px}
+.matrix-spa-main .sb-first-options>div{border-bottom:1px solid #c3d3c5;padding:22px 0}
+.matrix-spa-main .sb-first-options>div:first-child{padding-top:0}
+.matrix-spa-main .sb-first-options span{font:27px MatrixSerif,Georgia,serif}
+.matrix-spa-main .sb-first-options p{margin-top:10px!important}
+.matrix-spa-main .sb-faq{padding:80px 0;background:var(--cream)}
+.matrix-spa-main .sb-faq-grid{display:grid;grid-template-columns:.8fr 1.2fr;gap:85px}
+.matrix-spa-main details{border-top:1px solid #c4cec5;padding:0 0 2px}
+.matrix-spa-main details:last-child{border-bottom:1px solid #c4cec5}
+.matrix-spa-main summary{cursor:pointer;min-height:64px;padding:20px 30px 20px 0;font-size:14px;list-style:none;position:relative}
+.matrix-spa-main summary::-webkit-details-marker{display:none}
+.matrix-spa-main summary::after{content:'+';position:absolute;right:4px;top:17px;font-size:22px;font-weight:400}
+.matrix-spa-main details[open] summary::after{content:'−'}
+.matrix-spa-main details p{font-size:14px;color:#4d625b;padding:0 30px 23px 0}
+.matrix-spa-main .sb-close{text-align:center;padding:78px 24px 70px;background-position:center 80%}
+.matrix-spa-main .sb-close-inner{max-width:760px;margin:auto}
+.matrix-spa-main .sb-close h2{font-size:60px}
+.matrix-spa-main .sb-close p:not(.sb-eyebrow){margin:24px auto;color:#e3ece4;font-size:15px}
+.matrix-spa-main .sb-close .sb-small{margin-bottom:0!important;font-size:10px!important;letter-spacing:.8px}
+@container(max-width:850px){.matrix-spa-main .sb-inner{padding:0 32px}.matrix-spa-main .sb-service-grid{gap:23px}.matrix-spa-main .sb-service>img{height:230px}.matrix-spa-main .sb-card-copy{padding:27px 25px}.matrix-spa-main .sb-card-actions{align-items:flex-start;flex-direction:column}.matrix-spa-main .sb-ritual-grid,.matrix-spa-main .sb-first-grid,.matrix-spa-main .sb-faq-grid{gap:38px}.matrix-spa-main .sb-jump a{padding:16px 18px}.matrix-spa-main .sb-extra-grid{gap:24px}}
+@container(max-width:600px){.matrix-spa-main h1{font-size:30px;line-height:1.18}.matrix-spa-main h2{font-size:39px}.matrix-spa-main h3{font-size:35px}.matrix-spa-main .sb-inner{padding:0 22px}.matrix-spa-main .sb-hero-inner{padding:34px 22px 45px}.matrix-spa-main .sb-logo{width:100%;height:auto;aspect-ratio:2/1;margin-bottom:26px;border-width:4px}.matrix-spa-main .sb-eyebrow{font-size:9px;letter-spacing:1.6px}.matrix-spa-main .sb-lead{font-size:14px;line-height:1.8}.matrix-spa-main .sb-lead br{display:none}.matrix-spa-main .sb-actions{display:grid;grid-template-columns:1fr;gap:12px}.matrix-spa-main .sb-jump{display:grid;grid-template-columns:1fr 1fr;text-align:center}.matrix-spa-main .sb-jump a{padding:15px 8px;font-size:11px}.matrix-spa-main .sb-services{padding:53px 0 42px}.matrix-spa-main .sb-intro{margin-bottom:30px}.matrix-spa-main .sb-intro>p:last-child{font-size:14px}.matrix-spa-main .sb-service-grid{grid-template-columns:1fr;gap:26px}.matrix-spa-main .sb-service>img{height:auto;aspect-ratio:1.5}.matrix-spa-main .sb-card-copy{padding:26px 23px 29px}.matrix-spa-main .sb-card-actions .sb-button{width:100%}.matrix-spa-main .sb-card-actions{gap:16px}.matrix-spa-main .sb-card-copy .sb-eyebrow{font-size:8px}.matrix-spa-main .sb-menu-note{font-size:11px;margin-top:24px}.matrix-spa-main .sb-ritual,.matrix-spa-main .sb-extra,.matrix-spa-main .sb-first,.matrix-spa-main .sb-faq{padding:52px 0}.matrix-spa-main .sb-ritual-grid,.matrix-spa-main .sb-first-grid,.matrix-spa-main .sb-faq-grid,.matrix-spa-main .sb-section-heading{grid-template-columns:1fr;gap:29px}.matrix-spa-main .sb-extra-grid{grid-template-columns:1fr;gap:34px}.matrix-spa-main .sb-extra-grid article{padding-top:21px}.matrix-spa-main .sb-number{margin-bottom:16px}.matrix-spa-main .sb-extra h3{font-size:29px}.matrix-spa-main .sb-section-heading{margin-bottom:30px;gap:18px}.matrix-spa-main .sb-first .sb-button{font-size:9px;padding:16px}.matrix-spa-main .sb-ritual .sb-button{font-size:9px;padding:16px 18px}.matrix-spa-main .sb-close{padding:56px 22px 49px}.matrix-spa-main .sb-close h2{font-size:43px}.matrix-spa-main .sb-close p{font-size:14px}.matrix-spa-main .sb-close p br{display:none}}
+@media(prefers-reduced-motion:reduce){.matrix-spa-main *{transition:none!important;scroll-behavior:auto!important}}
