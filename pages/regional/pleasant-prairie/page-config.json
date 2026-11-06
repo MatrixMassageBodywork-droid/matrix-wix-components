@@ -1,0 +1,14 @@
+{
+  "serviceName": "Massage Near Pleasant Prairie, WI",
+  "revision": "review-1",
+  "tagName": "matrix-pleasant-prairie-page",
+  "elementId": "matrixPleasantPrairie",
+  "rootClass": "matrix-pleasant-prairie",
+  "pageUrl": "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi",
+  "seoTitle": "Massage Near Pleasant Prairie, WI | Matrix Massage & Bodywork",
+  "seoDescription": "Pleasant Prairie massage enthusiasts & residents: Looking for expert massage therapy near you? Matrix Massage in Salem, WI offers cupping, red light, deep tissue & more.",
+  "seoSource": "../source-reference-2026-11-06.json",
+  "bodyFile": "body.html",
+  "cssFile": "style.css",
+  "expectedFaqCount": 6
+}

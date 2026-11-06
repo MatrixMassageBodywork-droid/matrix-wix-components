@@ -1,0 +1,336 @@
+- iframe [id="preview"]:
+  - region "top of page"
+  - banner:
+    - navigation "Site":
+      - list:
+        - link "HOME":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6
+          - generic: HOME
+        - link "BOOK NOW":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/book-appointments-salem-wi
+          - generic: BOOK NOW
+        - link "MASSAGE THERAPY SERVICES":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/massage-therapy-services-salem-wi
+          - generic: MASSAGE THERAPY SERVICES
+        - button "Toggle MASSAGE THERAPY SERVICES":
+        - link "SPA & BEAUTY SERVICES":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/spa-and-beauty-services-salem-wi
+          - generic: SPA & BEAUTY SERVICES
+        - button "Toggle SPA & BEAUTY SERVICES":
+        - link "GIFT CARDS":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/massage-spa-gift-cards-salem-wi
+          - generic: GIFT CARDS
+        - link "FACIALS":
+          - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+          - generic: FACIALS
+        - link "WELLNESS & BIOTECH SERVICES":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/wellness-biotech-services-salem-wi
+          - generic: WELLNESS & BIOTECH SERVICES
+        - button "Toggle WELLNESS & BIOTECH SERVICES":
+        - link "ABOUT":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/about-5
+          - generic: ABOUT
+        - link "BLOG":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/salem-wi-blog
+          - generic: BLOG
+  - main:
+    - img "Water"
+    - generic "Holistic health& beauty (2)_edited_edite":
+      - img "Matrix Massage & Bodywork logo"
+    - heading "Massage Near Pleasant Prairie, WI – Just a Short Drive to Relief" [level=1]
+    - heading "Massage Worth the Drive, Pleasant Prairie." [level=2]
+    - paragraph:
+      - text: If you’re looking for massage therapy near Pleasant Prairie, WI, Matrix Massage & Bodywork is just 15–20 minutes away in Salem. We specialize in customized massage sessions designed to help you relax, recover, and recharge. Whether you're seeking deep tissue work, lymphatic drainage, or a stress-relieving Swedish massage, we're proud to serve clients from
+      - link "Union Grove":
+        - /url: https://www.matrixmassage.net/massage-near-union-grove-wi
+      - text: ", Pleasant Prairie, Bristol, Antioch, and surrounding communities."
+    - paragraph: We see many clients from Pleasant Prairie who are looking for results-driven massage therapy — not just another cookie-cutter session.
+    - generic "Gua sha facial massage"
+    - paragraph: Matrix Massage & Bodywork, located just 20 minutes west in Salem, WI, provides deeply personalized care designed to relieve tension, support healing, and improve your energy from the inside out.
+    - generic "Massage near Pleasant Prairie – Relax, unwind, and restore with Matrix Massage in Salem, WI":
+      - link:
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/massage-therapy-services-salem-wi
+    - heading "Deep Tissue Massage for Pleasant Prairie Clients" [level=2]
+    - paragraph: Release stubborn tension, reduce pain, and improve flexibility with our targeted deep tissue massage therapy. Perfect for athletes, hard-working professionals, or anyone dealing with chronic pain.
+    - paragraph:
+      - text: ➡️ Available in 30, 45, 60 or 90 minutes
+      - text: ➡️ Includes cupping and muscle scraping options
+    - heading "Swedish Relaxation Massage Near Pleasant Prairie" [level=2]
+    - paragraph: Our Swedish massage sessions are designed to calm the nervous system, improve circulation, and promote deep relaxation. Ideal for Pleasant Prairie clients looking to de-stress, reset, and unwind.
+    - paragraph
+    - paragraph: ➡️ Available in 30, 45, 60 or 90 minutes
+    - paragraph: ➡️ Optional aromatherapy and grounding add-ons available
+    - heading "Lymphatic Drainage Massage Close to Pleasant Prairie, WI" [level=2]
+    - paragraph: Gentle, effective lymphatic drainage massage is a great support after cosmetic procedures, during detox, or to boost circulation and reduce swelling. We welcome clients from Pleasant Prairie seeking natural lymphatic support.
+    - paragraph:
+      - text: ➡️ 60- or 90-minute options
+      - text: ➡️ Combine with red light therapy for added cellular benefits
+    - paragraph:
+      - generic: Ready to feel better???
+    - link "Enter the Matrix":
+      - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6
+      - generic: Enter the Matrix
+    - heading "What Sets Us Apart:" [level=2]
+    - list:
+      - paragraph: Cupping, red light, lymphatic massage & muscle therapy in one place
+      - paragraph: Licensed, experienced therapist focused on real results
+      - paragraph: Monthly membership options for consistent care
+      - paragraph: Soothing environment + natural tools like hydrogen water & essential oils
+    - heading "Massage Services Popular with Pleasant Prairie Clients:" [level=2]
+    - list:
+      - paragraph: Rejuvenation Massage – Swedish + facial + red light therapy
+      - paragraph: Muscle Recovery Massage – Deep tissue + scraping + cupping
+      - paragraph: Cellular Regeneration – Lymphatic + red light + aroma therapy
+      - paragraph: Signature Memberships – Save with 3- and 6-month options
+    - heading "How to Get Here from Pleasant Prairie" [level=2]
+    - iframe [name="htmlComp-iframe"]:
+      - iframe
+    - paragraph:
+      - text: 📍 Click
+      - link "here":
+        - /url: https://www.google.com/maps/dir/Pleasant+Prairie+WI/Matrix+Massage+&+Bodywork,+24804+75th+St,+Salem,+WI
+      - text: for directions from Pleasant Prairie
+    - heading "Booking Your Appointment" [level=2]:
+      - generic: Booking Your Appointment
+    - img "Book your massage near Pleasant Prairie WI at Matrix Massage & Bodywork – online scheduling available"
+    - paragraph: "Booking is quick and easy for Pleasant Prairie clients:"
+    - link "Enter the Matrix":
+      - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6
+      - generic: Enter the Matrix
+    - heading "FAQ – Pleasant Prairie Massage Clients" [level=2]
+    - paragraph:
+      - text: "Q: How far is Matrix Massage from Pleasant Prairie, WI?"
+      - text: "A: We’re just 15–20 minutes west of Pleasant Prairie via Hwy 50, located in Salem, WI."
+    - paragraph:
+      - text: "Q: Do you offer lymphatic drainage massage for Pleasant Prairie residents?"
+      - text: "A: Absolutely. Many of our post-op and wellness clients drive from Pleasant Prairie to receive our gentle, effective lymphatic support sessions."
+    - paragraph:
+      - text: "Q: How do I book an appointment from Pleasant Prairie?"
+      - text: "A: Simply click the booking link above"
+  - contentinfo:
+    - paragraph:
+      - text: © 2026 Matrix Massage & Bodywork · Salem Lakes, WI
+      - text: (262) 939-9325 | 24804 75th St. Salem, WI 53168
+      - text: "Book online: www.matrixmassage.net/book-appointments-salem-wi"
+    - paragraph:
+      - text: Licensed Massage Therapy,
+      - link "Facials":
+        - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+      - text: ", Day Spa, Beauty & Biotech Spa"
+    - paragraph
+    - paragraph:
+      - generic: Serving Salem WI, Paddock Lake & all of Kenosha County
+    - paragraph
+    - paragraph:
+      - text: Now serving clients from Kenosha, Antioch IL, Bristol,
+      - link "Pleasant Prairie,":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/massage-near-pleasant-prairie-wi
+      - link "Union Grove":
+        - /url: https://www.matrixmassage.net/massage-near-union-grove-wi
+      - text: ", WI and surrounding areas. Matrix Massage & Bodywork offers"
+      - link "therapeutic massage":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/massage-therapy-services-salem-wi
+      - text: ","
+      - link "lymphatic drainage,":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/manual-lymphatic-drainage-massage-salem-wi
+      - link "Facials,":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/spa-and-beauty-services-salem-wi/facials-salem-wi
+      - link "Head Spa,":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/japanese-head-spa-salem-wi
+      - link "waxing":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi
+      - text: ", cupping, and"
+      - link "red light therapy":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/red-light-therapy-salem-wi
+      - text: Salem WI.
+      - link "Get pain relief now!":
+        - /url: https://painrelief.matrixmassage.net/
+    - iframe [name="htmlComp-iframe"]
+    - iframe [name="htmlComp-iframe"]
+    - iframe [name="htmlComp-iframe"]
+    - iframe [name="htmlComp-iframe"]
+    - paragraph:
+      - generic: "Links:"
+    - paragraph:
+      - link "Gift Cards":
+        - /url: https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi
+        - generic: Gift Cards
+    - paragraph:
+      - link "Partner with Us":
+        - /url: https://www.matrixmassage.net/local-wellness-partnerships
+        - generic: Partner with Us
+    - paragraph
+    - paragraph:
+      - link "Work with Us":
+        - /url: https://www.matrixmassage.net/massage-therapist-jobs-salem-wi
+        - generic: Work with Us
+    - paragraph
+    - paragraph
+    - iframe
+  - region "bottom of page"
+  - iframe
+- button:
+- generic: Site
+- generic: Settings
+- generic: Dev Mode
+- generic: Hire a Professional
+- generic: Help
+- generic: Upgrade
+- button "Save":
+  - generic: Save
+- button "Preview":
+  - generic: Preview
+- button:
+- button "Publish":
+  - generic: Publish
+- text: "Page:"
+- generic: MASSAGE NEAR PLEASANT PRAIRIE WI
+- button:
+- button:
+- generic: www.matrixmassage.net
+- button:
+- button:
+- button "100%":
+  - generic: 100%
+- button "Tools":
+  - generic: Tools
+- button "Search":
+  - generic: Search
+- list:
+  - button:
+  - generic: Add Elements
+  - button:
+  - generic: Add Section
+  - button:
+  - generic: Pages & Menu
+  - button:
+  - generic: Site Design
+  - button "3":
+    - generic: "3"
+  - generic: Add Apps
+  - button:
+  - generic: My Business
+  - button:
+  - generic: Media
+  - button:
+  - generic: CMS
+  - button:
+  - generic: Marketing & SEO
+- button:
+- generic: AI Tools
+- generic: "100"
+- generic: "200"
+- generic: "300"
+- generic: "400"
+- generic: "500"
+- generic: "600"
+- generic: "700"
+- generic: "800"
+- generic: "900"
+- generic: "1000"
+- generic: "1100"
+- generic: "1200"
+- generic: "1300"
+- generic: "1400"
+- generic: "1500"
+- generic: "1600"
+- generic: "1700"
+- generic: "1800"
+- generic: "1900"
+- generic: "2000"
+- generic: "2100"
+- generic: "2200"
+- generic: "2300"
+- generic: "2400"
+- generic: "2500"
+- generic: "2600"
+- generic: "2700"
+- generic: "2800"
+- generic: "2900"
+- generic: "3000"
+- generic: "3100"
+- generic: "3200"
+- generic: "3300"
+- generic: "3400"
+- generic: "3500"
+- generic: "3600"
+- generic: "3700"
+- generic: "3800"
+- generic: "3900"
+- generic: "4000"
+- generic: "4100"
+- generic: "4200"
+- generic: "4300"
+- generic: "4400"
+- generic: "4500"
+- generic: "4600"
+- generic: "4700"
+- generic: "4800"
+- generic: "4900"
+- generic: "0"
+- generic: "100"
+- generic: "200"
+- generic: "300"
+- generic: "400"
+- generic: "500"
+- generic: "600"
+- generic: "700"
+- generic: "800"
+- generic: "900"
+- banner:
+  - button:
+- region "scrollable content":
+  - generic: MASSAGE NEAR PLEASANT PRAIRIE WI
+- button "Run":
+  - text: Run
+- button:
+- button:
+- button:
+- button:
+- code:
+  - generic: "1"
+  - generic: "2"
+  - generic: 
+  - generic: "3"
+  - generic: "4"
+  - generic: "5"
+  - generic: "6"
+  - generic: "7"
+  - generic: "8"
+  - generic: "9"
+  - generic: "10"
+  - generic: "11"
+  - generic: "12"
+  - generic: "13"
+  - generic: "14"
+  - generic: "15"
+  - generic: "// Velo API Reference: https://www.wix.com/velo/reference/api-overview/introduction"
+  - generic: "$w.onReady(function () {"
+  - generic: // Write your Javascript code here using the Velo framework API
+  - generic: "// Print hello world:"
+  - generic: // console.log("Hello world!");
+  - generic: "// Call functions on page elements, e.g.:"
+  - generic: // $w("#button1").label = "Click me!";
+  - generic: // Click "Run", or Preview your site, to execute your code
+  - generic: "});"
+  - textbox "Editor content;Press Alt+F1 for Accessibility Options." [active]: "// Velo API Reference: https://www.wix.com/velo/reference/api-overview/introduction $w.onReady(function () { // Write your Javascript code here using the Velo framework API // Print hello world: // console.log(\"Hello world!\"); // Call functions on page elements, e.g.: // $w(\"#button1\").label = \"Click me!\"; // Click \"Run\", or Preview your site, to execute your code });"
+- paragraph: Select an element to add events, edit its ID, and more.
+- text: Learn more
+- button "?"
+- textbox "°" [disabled]: "0"
+- generic: °
+- generic: Size (px)
+- generic: "W:"
+- textbox "W:" [disabled]: "0"
+- generic: "H:"
+- textbox "H:" [disabled]: "0"
+- generic: Position
+- generic: "X:"
+- textbox "X:" [disabled]: "0"
+- generic: "Y:"
+- textbox "Y:" [disabled]: "0"
+- generic: Show on All Pages
+- checkbox
+- button "Layers"
+- alert
+- alert

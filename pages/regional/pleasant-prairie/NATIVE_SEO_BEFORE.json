@@ -1,0 +1,289 @@
+{
+  "id": "STATIC_PAGE:cnpma",
+  "itemType": "STATIC_PAGE",
+  "itemId": "cnpma",
+  "tags": [
+    {
+      "type": "meta",
+      "props": {
+        "name": "description",
+        "content": "Pleasant Prairie massage enthusiasts & residents: Looking for expert massage therapy near you? Matrix Massage in Salem, WI offers cupping, red light, deep tissue & more."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "title",
+      "children": "Massage Near Pleasant Prairie, WI | Matrix Massage & Bodywork",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "MZxs0U9B",
+        "displayName": "FAQ Schema"
+      },
+      "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"FAQPage\",   \"mainEntity\": [     {       \"@type\": \"Question\",       \"name\": \"Do you offer massage therapy near Pleasant Prairie, WI?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Yes, Matrix Massage is located just a short drive from Pleasant Prairie, WI. We offer professional massage therapy including deep tissue, Swedish, lymphatic drainage, and red light therapy.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"How far is Matrix Massage from Pleasant Prairie?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Matrix Massage is located in Salem, WI \u2014 approximately 10 to 15 minutes from Pleasant Prairie. We're easily accessible via 75th St (Highway 50) with convenient parking on-site.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"What types of massage do you offer for clients from Pleasant Prairie?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"We offer deep tissue massage, Swedish massage, manual lymphatic drainage, red light therapy, cupping, and wellness add-ons such as magnesium soaks and muscle scraping.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"Do you serve clients from both Wisconsin and Illinois?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Yes, our clinic welcomes clients from both Wisconsin and northern Illinois, including Pleasant Prairie, Antioch, Kenosha, and surrounding areas.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"Is red light therapy available for Pleasant Prairie clients?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Yes, we offer red light therapy using low-EMF, clinical-grade devices. Pleasant Prairie clients can book red light sessions on their own or as part of a massage therapy package.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"How can I book a massage from Pleasant Prairie?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"You can book online through our website or text 262-939-9325. We're just minutes from Pleasant Prairie and offer easy scheduling with flexible options.\"       }     }   ] }",
+      "custom": false,
+      "disabled": false
+    }
+  ],
+  "focusKeywords": [],
+  "hasOverride": true,
+  "resolvedTags": [
+    {
+      "tag": {
+        "type": "title",
+        "children": "Massage Near Pleasant Prairie, WI | Matrix Massage & Bodywork",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_HOST_PAGE",
+      "inheritedTag": {
+        "type": "title",
+        "children": "MASSAGE NEAR PLEASANT PRAIRIE WI | Matrix Massage & Bodywork",
+        "custom": false,
+        "disabled": false
+      }
+    },
+    {
+      "tag": {
+        "type": "meta",
+        "props": {
+          "name": "description",
+          "content": "Pleasant Prairie massage enthusiasts & residents: Looking for expert massage therapy near you? Matrix Massage in Salem, WI offers cupping, red light, deep tissue & more."
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_HOST_PAGE"
+    },
+    {
+      "tag": {
+        "type": "link",
+        "props": {
+          "rel": "canonical",
+          "href": "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_DEFAULT_PATTERN"
+    },
+    {
+      "tag": {
+        "type": "meta",
+        "props": {
+          "property": "og:title",
+          "content": "Massage Near Pleasant Prairie, WI | Matrix Massage & Bodywork"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_HOST_PAGE",
+      "inheritedTag": {
+        "type": "meta",
+        "props": {
+          "property": "og:title",
+          "content": "MASSAGE NEAR PLEASANT PRAIRIE WI | Matrix Massage & Bodywork"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      }
+    },
+    {
+      "tag": {
+        "type": "meta",
+        "props": {
+          "property": "og:description",
+          "content": "Pleasant Prairie massage enthusiasts & residents: Looking for expert massage therapy near you? Matrix Massage in Salem, WI offers cupping, red light, deep tissue & more."
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_HOST_PAGE"
+    },
+    {
+      "tag": {
+        "type": "meta",
+        "props": {
+          "property": "og:image",
+          "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_DEFAULT_PATTERN"
+    },
+    {
+      "tag": {
+        "type": "meta",
+        "props": {
+          "property": "og:image:width",
+          "content": "2500"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_DEFAULT_PATTERN"
+    },
+    {
+      "tag": {
+        "type": "meta",
+        "props": {
+          "property": "og:image:height",
+          "content": "1330"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_DEFAULT_PATTERN"
+    },
+    {
+      "tag": {
+        "type": "meta",
+        "props": {
+          "property": "og:url",
+          "content": "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_DEFAULT_PATTERN"
+    },
+    {
+      "tag": {
+        "type": "meta",
+        "props": {
+          "property": "og:site_name",
+          "content": "Matrix Massage & Bodywork"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_DEFAULT_PATTERN"
+    },
+    {
+      "tag": {
+        "type": "meta",
+        "props": {
+          "property": "og:type",
+          "content": "website"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_DEFAULT_PATTERN"
+    },
+    {
+      "tag": {
+        "type": "script",
+        "props": {
+          "type": "application/ld+json"
+        },
+        "meta": {
+          "schemaType": "MZxs0U9B",
+          "displayName": "FAQ Schema"
+        },
+        "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Do you offer massage therapy near Pleasant Prairie, WI?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes, Matrix Massage is located just a short drive from Pleasant Prairie, WI. We offer professional massage therapy including deep tissue, Swedish, lymphatic drainage, and red light therapy.\"}},{\"@type\":\"Question\",\"name\":\"How far is Matrix Massage from Pleasant Prairie?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix Massage is located in Salem, WI \u2014 approximately 10 to 15 minutes from Pleasant Prairie. We're easily accessible via 75th St (Highway 50) with convenient parking on-site.\"}},{\"@type\":\"Question\",\"name\":\"What types of massage do you offer for clients from Pleasant Prairie?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"We offer deep tissue massage, Swedish massage, manual lymphatic drainage, red light therapy, cupping, and wellness add-ons such as magnesium soaks and muscle scraping.\"}},{\"@type\":\"Question\",\"name\":\"Do you serve clients from both Wisconsin and Illinois?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes, our clinic welcomes clients from both Wisconsin and northern Illinois, including Pleasant Prairie, Antioch, Kenosha, and surrounding areas.\"}},{\"@type\":\"Question\",\"name\":\"Is red light therapy available for Pleasant Prairie clients?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes, we offer red light therapy using low-EMF, clinical-grade devices. Pleasant Prairie clients can book red light sessions on their own or as part of a massage therapy package.\"}},{\"@type\":\"Question\",\"name\":\"How can I book a massage from Pleasant Prairie?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You can book online through our website or text 262-939-9325. We're just minutes from Pleasant Prairie and offer easy scheduling with flexible options.\"}}]}",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_HOST_PAGE"
+    },
+    {
+      "tag": {
+        "type": "meta",
+        "props": {
+          "name": "google-site-verification",
+          "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_SITE"
+    },
+    {
+      "tag": {
+        "type": "meta",
+        "props": {
+          "name": "twitter:card",
+          "content": "summary_large_image"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_DEFAULT_PATTERN"
+    },
+    {
+      "tag": {
+        "type": "meta",
+        "props": {
+          "name": "twitter:title",
+          "content": "Massage Near Pleasant Prairie, WI | Matrix Massage & Bodywork"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_HOST_PAGE",
+      "inheritedTag": {
+        "type": "meta",
+        "props": {
+          "name": "twitter:title",
+          "content": "MASSAGE NEAR PLEASANT PRAIRIE WI | Matrix Massage & Bodywork"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      }
+    },
+    {
+      "tag": {
+        "type": "meta",
+        "props": {
+          "name": "twitter:description",
+          "content": "Pleasant Prairie massage enthusiasts & residents: Looking for expert massage therapy near you? Matrix Massage in Salem, WI offers cupping, red light, deep tissue & more."
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_HOST_PAGE"
+    },
+    {
+      "tag": {
+        "type": "meta",
+        "props": {
+          "name": "twitter:image",
+          "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      "source": "TAG_SOURCE_DEFAULT_PATTERN"
+    }
+  ],
+  "hostPageId": "cnpma",
+  "publishStatus": "PUBLISH_STATUS_UNSPECIFIED",
+  "origin": "ORIGIN_UNSPECIFIED"
+}

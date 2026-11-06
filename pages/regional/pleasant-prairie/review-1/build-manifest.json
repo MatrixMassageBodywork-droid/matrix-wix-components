@@ -1,0 +1,70 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "Massage Near Pleasant Prairie, WI",
+    "revision": "review-1",
+    "tagName": "matrix-pleasant-prairie-page",
+    "elementId": "matrixPleasantPrairie",
+    "rootClass": "matrix-pleasant-prairie",
+    "pageUrl": "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi",
+    "seoTitle": "Massage Near Pleasant Prairie, WI | Matrix Massage & Bodywork",
+    "seoDescription": "Pleasant Prairie massage enthusiasts & residents: Looking for expert massage therapy near you? Matrix Massage in Salem, WI offers cupping, red light, deep tissue & more.",
+    "seoSource": "../source-reference-2026-11-06.json",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 6
+  },
+  "seo": {
+    "title": "Massage Near Pleasant Prairie, WI | Matrix Massage & Bodywork",
+    "description": "Pleasant Prairie massage enthusiasts & residents: Looking for expert massage therapy near you? Matrix Massage in Salem, WI offers cupping, red light, deep tissue & more.",
+    "canonical": "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi",
+    "source": "../source-reference-2026-11-06.json"
+  },
+  "h1": "Massage Near Pleasant Prairie, WI",
+  "faqCount": 6,
+  "links": [
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "#massage-options",
+    "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+    "https://www.matrixmassage.net/swedish-massage-salem-wi",
+    "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://maps.google.com/maps?cid=13922054554836148682",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+      "alt": "Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@3410ffbe4854f403f588526a1c113f0610d757f8/pages/massage/regional-review-2026-11-06/assets/existing-session.webp",
+      "alt": "Hands-on massage treatment at Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@3410ffbe4854f403f588526a1c113f0610d757f8/pages/massage/regional-review-2026-11-06/assets/matrix-treatment-room.webp",
+      "alt": "A treatment room at the Matrix studio in Salem, Wisconsin"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "body.html": "177ada269bbdc12592c6ae555d8a99e64f684cc4694373b6ea0ddd0842e0424a",
+    "style.css": "0c99796c3fc933ec888071ad6f03684bbf45aa8e8c89933a94ca230323a123fe",
+    "renderer.js": "709d2629097b85560cc10dff64437ae66bd779622c38629f63969a3ed5041aa8",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "3a82a4e56fe7b11cc10c0d5d31f4d76a4ba5c1100294db9b37b49b9dd7cf981c",
+    "preview.html": "13c32cc7d1bb41c116199b80902f0981fa69e794f8190feb018dfd9545d0a1eb",
+    "faq-schema.json": "3439796b5035139d2f8ee21aae82552339c1dd258cdba0e08aa85ecbe989478f"
+  },
+  "rendererBytes": 17089
+}

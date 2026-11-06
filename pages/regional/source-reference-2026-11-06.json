@@ -1,0 +1,604 @@
+{
+  "docs": {
+    "ug-checkpoint": "# UNION GROVE — current installation checkpoint\nOctober 30, 2026 · America/Chicago\n\nBLOCKED at the latest save/persistence-verification gate. Partial native draft; no publication or Test Site deployment.\n\nLATEST BLOCKER: The explicit Save request after U3/menu-button entry timed out at the Browser tool boundary. A subsequent read-only screenshot request also timed out. No Save retry, reload, restore or further Wix mutation was attempted after the timeout. The last Save may have persisted, but this is UNVERIFIED. The prior code full-reload check and prior successful U1/U2 saves remain the confirmed checkpoints. Do not treat the last U3 Save request as proof of persistence.\n\nAuthority: R1.1 https://docs.google.com/document/d/1-qlyVMdLDMUV96vatki3vG-gvLtFHhw1w6_50BwLw0g/edit\nR1 exact copy/design: https://docs.google.com/document/d/1sk2Au91rlYVcMf9xhjJ3HrCizWTIH8dmheQoZV3yHFw/edit\nExisting Wix site cdec8df6-d518-4859-9f1e-f06bf5346d41; existing page lidzc, /massage-near-union-grove-wi. Native Preview developer console confirmed lidzc.js.\n\nCODE — SAVED / FULL RELOAD VERIFIED\nOriginal source capture exactly matched 5,196 bytes / SHA256 cd575046e3f8574e11eaf5b0e968a7b6337d966b7a66c4e90e80a54244a45632.\nInstalled exact 891-byte comment-only R1.1 replacement SHA256 b30fff4f8546d1647cadfcdaa183f9d2a11ef282a2e32af0e2e7698f6b78b281.\nSave, full editor reload, return to same Union Grove Page Code, full clipboard readback matched replacement after LF normalization. No executable page operations. Preview console has normal site/page startup messages; no replacement-script error observed. Shared/footer code untouched. Preview Google Maps iframe generated a browser-instrumentation JSON error, separate from page code; final map/directions QA remains pending.\n\nU1 HERO — SAVED / PREVIEW READBACK\nOriginal water image e4cc43_01d7582a033345008319c477e8091636~mv2.png retained; center/scale-to-fill preserved; original native section height 837 restored. Local image opacity22%, behind-image #123D40 at100%.\nDeleted only obsolete inner hero panel section1container1 and old children. Added official existing IMG_5499.jpg as image1 / comp-mvv11g34, 240x179, X10/Y212; Reset Image Proportions used; alt Matrix Massage & Bodywork; filename tooltip cleared.\ntext71 / comp-mvv0qjgf contains exact eyebrow/H1/lead/body, native H1 Georgia64 and Arial17 body, white, width960, X10/Y432.\nbutton1 / comp-mvv15p09 BOOK A MASSAGE, exact Square services URL/current window, accessible label Book a massage. 244x48 X10/Y746, off-white #FDFCF9/deep-teal text, Arial13 regular, hover fill #087776 / white entered.\nbutton2 / comp-mvv1mvbe EXPLORE MASSAGE OPTIONS, native Services section anchor anchors-msbuk8qk4, accessible label Explore massage options. 320x48 X278/Y746, transparent with white border/text; inherited hover entered.\ntext72 / comp-mvv1v98p exact small address line, X10/Y818, width960.\nLegacy native button controls do not expose character tracking; exact1px tracking not certified. Pointer hover/focus and mobile tests pending.\nPreview readback confirmed single H1, exact copy, correct logo source/alt, booking destination and native Services anchor. Saved after hero.\n\nU2 — SAVED / NATIVE READBACK\nExisting blank section2 / comp-msbuk8qi reused. Cream #F7F1E8, height689; startY969.\ntext73 / comp-mvv23s7v at X110/Y1049/W760, native mixed H2/paragraph/link with exact R1 copy. Georgia38 H2, Arial17 body, 1.65 line height; eyebrow12, inline CTA13. Current rendered text height about528px. Exact massage-hub URL present. Full reload persistence and link-click QA still pending.\n\nU3 — ENTERED / LATEST SAVE UNVERIFIED / NOT FINISHED\nOriginal Services section Section1List / comp-msbuk8qj preserved (Y1658 before final height adjustment).\nRemoved and verified detached all12 old native children: header title, header paragraph, text70, and each of three old image/title/description groups. text69 was absent from native page body/visible Layers.\ntext74 / comp-mvv2t9wx contains all approved U3 native copy and three service links; X110/Y1738/W760, current text height1145. Native H2 Georgia38, four H3 Georgia26, Arial17 body, deep teal; inherited H3 italics explicitly disabled. Direct lowest-leaf locator computed check verified first H3 Georgia26 regular/deep teal; nested queryAll computed-style results are unreliable and should not be used as proof.\nbutton3 / comp-mvv3f1dz VIEW CURRENT MASSAGE MENU exists at X110/Y2907/W320/H48, exact Square services URL entered. Accessible name entered. Styling and final readback pending; it still has default theme styling until repaired.\nStill needed: U3 section off-white background, native dividers, final height/padding, menu-button styling; Save/reload verification.\n\nU4–U7 — NOT INSTALLED\nNo what-to-expect, location block, FAQs or final CTA installed yet. Continue exact R1, same session, no premature completion claim.\n\nINCIDENTS CORRECTED / SCOPE\nDuring page-picker navigation after code reload, an accidental temporary native Home text box containing UNION was created. It was removed; native rendered count was verified0. No deliberate Home code/content change. Preserve original Home.\nCopy Design on a native button opens a site-wide replacement modal; canceled without Apply. Do not use that operation for local styling.\nNative UI actions may settle after tool response. Verify selected input.nickname-input value before mutations, and check rendered elements rather than only typed fields. Text fields require Enter and a separate subsequent readback; rapid field changes can reset prior entered values.\nNo shared/header/footer/global/theme/API/CMS/Square/customer/permission/other-page changes requested or applied. No Publish, Test Site deployment, restore or discard.\n\nNEXT — REQUIRED READ-ONLY RECONCILIATION FIRST\nReconnect to the existing editor and read the current saved page state before retrying any Save or edit. Verify code still exactly R1.1; skip reinstallation when it matches. Read current native U1/U2/U3 text, elements and save state, determine whether the timed-out Save persisted, and retain matching work. Do not repeat deletions or add duplicate sections/buttons. No rebuild, restore or Test Site operation.\nThen finish U3 local styling/dividers/button and saved checkpoint, followed by U4–U7. Complete desktop/native-mobile/link/logo/SEO/source QA. Check actual320/390 viewport capability; unsupported tests must be marked NOT TESTED without stopping other work. Final full editor reload and objective receipt required.\n\nFINAL STATUS OF THIS EXECUTION\n- SAVED / FULL RELOAD VERIFIED: exact R1.1 comment-only page code.\n- SAVED / NATIVE OR PREVIEW READBACK: U1 hero and U2 introduction; full body reload verification pending.\n- ENTERED / SAVE UNVERIFIED: latest U3 service copy, cleanup, headings and menu-button properties.\n- NOT INSTALLED: U4–U7.\n- NOT TESTED: full-page desktop/mobile QA, actual320/390 widths, pointer-hover/focus, all destination clicks, final native SEO/schema/canonical readback and production head.\n- NOT PUBLISHED / NOT TEST DEPLOYED.\n\n",
+    "ug-spec": "﻿R1.1 IMPLEMENTATION AMENDMENT — OCTOBER 30, 2026\r\nThe original Union Grove page code was audited and resolved in Chat. Use the exact comment-only replacement, baseline hash gate, save/readback tests and continue-through-U7 instructions in: https://docs.google.com/document/d/1-qlyVMdLDMUV96vatki3vG-gvLtFHhw1w6_50BwLw0g/edit\r\nThe earlier code-audit STOP condition is now resolved ONLY when current source matches the captured 51-line baseline. All other R1 copy/design, safety, QA and no-publication rules remain in force. Current Wix body installation remains NOT DONE.\r\n\r\n\r\nMATRIX MASSAGE & BODYWORK\r\nUNION GROVE MASSAGE LANDING PAGE\r\nR1 — AUTHORITATIVE CHAT-DESIGNED DRAFT / 2026-10-30\r\nSTATUS: COPY AND EXECUTION SPEC PREPARED. NOT INSTALLED IN PAGE BODY. SEO TITLE AND DESCRIPTION SAVED AS WIX DRAFT. NOT PUBLISHED.\r\n\r\n\r\nSCOPE AND SOURCE CONTROL\r\n\r\n\r\nTarget: existing Wix Classic Editor static page “Massage Near Union Grove, WI”\r\nPage item ID: lidzc\r\nURL: https://www.matrixmassage.net/massage-near-union-grove-wi\r\nSite ID: cdec8df6-d518-4859-9f1e-f06bf5346d41\r\nStudio: Matrix Massage & Bodywork, 24804 75th St, Salem, WI 53168\r\nPublic contact: (262) 939-9325, text-to-book.\r\nCanonical documentation root: https://drive.google.com/drive/folders/1jthRMAHOoockNm8hAVBK6mz4iaHbhNK8\r\nProject authority: https://drive.google.com/file/d/1jKR3HUXSeIok2X527FE9YnXiHSxMiKbL/view\r\nVisual design precedent: 2026 Regional R1 packet, https://drive.google.com/file/d/1Y6h-DyLsKD2mqTM0L460Mo9BxouACrhT/view\r\nDo not duplicate this page, change route, alter site/global footer, change CMS or Square, touch the completed facial hub, Antioch, Paddock Lake or Studio, change global styles, deploy Test Site, or publish.\r\n\r\n\r\nAPPROVED SOURCE ASSETS AND LINKS\r\n\r\n\r\nKeep original existing water-image hero background, including image placement; adjust only its local overlay/contrast as required.\r\nUse REAL Matrix Bodywork logo already uploaded in Wix Site Files: IMG_5499.jpg; Wix media URL https://static.wixstatic.com/media/e4cc43_76d25cc5213c40599f31ff0c490f40c8~mv2.jpg . Render uncropped, fit/contain, alt “Matrix Massage & Bodywork”. No fake, recreated, or substituted logo; no duplicate upload.\r\nPrimary booking CTA: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services\r\nMassage service hub: https://www.matrixmassage.net/massage-therapy-services-salem-wi\r\nDeep Tissue: https://www.matrixmassage.net/deep-tissue-massage-salem-wi\r\nSwedish: https://www.matrixmassage.net/swedish-massage-salem-wi\r\nManual Lymphatic Drainage: https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi\r\nDirections to actual studio: https://maps.google.com/maps?cid=13922054554836148682\r\nDo not display hard-coded massage prices. Pricing on public pages conflicts with other records; use the current Square catalog as source of truth. Do not change Square.\r\nDo not invent drive times, local office locations, clients, outcomes, reviews, staff credentials, or clinical cures.\r\n\r\n\r\nEXACT NEW ON-PAGE COPY — U1 THROUGH U7\r\nUse all indicated copy as native accessible text elements (not flattened text images or injected page-code overrides).\r\n\r\n\r\nU1 — HERO — PRESERVE CURRENT WATER BACKGROUND\r\n\r\n\r\nEyebrow:\r\nMATRIX MASSAGE & BODYWORK · WELCOMING UNION GROVE CLIENTS\r\n\r\n\r\nH1:\r\nMassage Near Union Grove, WI\r\n\r\n\r\nLead:\r\nTherapeutic massage that meets you where you are—whether your muscles feel overworked or you simply need time to unwind.\r\n\r\n\r\nBody:\r\nAt Matrix Massage & Bodywork, your session is shaped around your comfort, goals, and preferred pressure. We welcome guests from Union Grove to our dedicated studio at 24804 75th St in Salem, Wisconsin.\r\n\r\n\r\nPrimary button: BOOK A MASSAGE → approved Square booking URL\r\nSecondary button: EXPLORE MASSAGE OPTIONS → native on-page anchor at U3\r\nSmall location line:\r\nMATRIX MASSAGE & BODYWORK · 24804 75TH ST · SALEM, WI 53168\r\n\r\n\r\nU2 — EDITORIAL INTRO\r\n\r\n\r\nEyebrow:\r\nPERSONALIZED THERAPEUTIC BODYWORK\r\n\r\n\r\nH2:\r\nA massage built around you, not a one-size-fits-all routine\r\n\r\n\r\nParagraph 1:\r\nSome days, you want focused attention on persistent tightness in your neck, shoulders, or back. Other days, you want slower, lighter work and the chance to disconnect. You should not need to know every massage technique before booking to explain how you want to feel.\r\n\r\n\r\nParagraph 2:\r\nAt Matrix, we begin with a conversation about what has been bothering you, how much pressure feels comfortable, and which areas need attention. Your therapist can adapt the approach during your appointment, balancing focused therapeutic work with relaxation.\r\n\r\n\r\nParagraph 3:\r\nIf you are traveling from Union Grove, you'll find us in Salem, Wisconsin—not at a separate Union Grove location. Browse the massage options below, then review current appointment lengths and availability in our booking menu.\r\n\r\n\r\nInline CTA: VIEW MASSAGE SERVICES → approved massage service hub.\r\n\r\n\r\nU3 — SERVICE CHOICES\r\n\r\n\r\nEyebrow:\r\nCHOOSE YOUR MASSAGE FOCUS\r\n\r\n\r\nH2:\r\nWhat kind of massage are you looking for?\r\n\r\n\r\nIntro paragraph:\r\nNot sure whether to choose deep tissue, Swedish, or something more specialized? Start with what you want from your appointment. Here are some of the approaches available through Matrix Massage & Bodywork.\r\n\r\n\r\nH3:\r\nDeep Tissue & Therapeutic Massage\r\n\r\n\r\nParagraph:\r\nA good option when you want focused, deliberate work around areas that feel tense, tight, or overused. Pressure and techniques can be adjusted to your needs; effective bodywork does not have to mean forcing you through pain.\r\n\r\n\r\nText link: LEARN ABOUT DEEP TISSUE MASSAGE → approved deep-tissue URL.\r\n\r\n\r\nH3:\r\nSwedish Massage\r\n\r\n\r\nParagraph:\r\nLonger, flowing strokes and a generally lighter-to-moderate approach make Swedish massage appealing when your priority is relaxation, everyday stress, or a restorative full-body session. Tell your therapist if you prefer lighter or firmer pressure.\r\n\r\n\r\nText link: EXPLORE SWEDISH MASSAGE → approved Swedish URL.\r\n\r\n\r\nH3:\r\nManual Lymphatic Drainage\r\n\r\n\r\nParagraph:\r\nManual lymphatic drainage uses gentle, rhythmic techniques rather than the firm pressure associated with deep tissue work. If you have swelling, recent surgery, or a medical condition, discuss your situation with your healthcare professional and massage provider before scheduling. This is not a substitute for medical evaluation or treatment.\r\n\r\n\r\nText link: ABOUT LYMPHATIC DRAINAGE → approved MLD URL.\r\n\r\n\r\nSubheading (H3):\r\nOther ways to personalize your visit\r\n\r\n\r\nParagraph:\r\nMatrix also lists prenatal-focused massage and facial/head massage options in its massage menu. Availability, suitability, session lengths, and any enhancements should be confirmed in the current booking details. If you're not sure where to begin, describe what you are looking for when you contact us.\r\n\r\n\r\nButton: VIEW CURRENT MASSAGE MENU → approved Square booking URL.\r\n\r\n\r\nU4 — WHAT TO EXPECT\r\n\r\n\r\nEyebrow:\r\nYOUR VISIT, EXPLAINED\r\n\r\n\r\nH2:\r\nWhat happens at a Matrix massage appointment?\r\n\r\n\r\nStep 1 heading (H3): Tell us what you need\r\nStep 1 paragraph:\r\nYou can share the areas you want worked on, your pressure preferences, sensitivities, and anything relevant to your comfort or safety. You do not need a perfect description of the technique.\r\n\r\n\r\nStep 2 heading (H3): Settle into a session designed for you\r\nStep 2 paragraph:\r\nYour therapist uses the appointment and approach you booked as the starting point, making appropriate adjustments to pressure, focus, and pace. Speak up at any time—your feedback is part of the experience.\r\n\r\n\r\nStep 3 heading (H3): Leave knowing your options\r\nStep 3 paragraph:\r\nWhether you want occasional relaxation or a more consistent self-care routine, you can review future appointment options and current services without committing to anything during your visit.\r\n\r\n\r\nInline note:\r\nSee current appointment lengths, availability, and pricing when you book.\r\n\r\n\r\nU5 — LOCATION / LOCAL SEO\r\n\r\n\r\nEyebrow:\r\nA SALEM STUDIO WELCOMING UNION GROVE GUESTS\r\n\r\n\r\nH2:\r\nLooking for massage near Union Grove? Here's where to find us.\r\n\r\n\r\nParagraph 1:\r\nMatrix Massage & Bodywork is located at 24804 75th St, Salem, WI 53168. We welcome visitors from Union Grove and surrounding southeastern Wisconsin communities to this Salem studio. The location shown in your confirmation is the place to arrive for your appointment.\r\n\r\n\r\nParagraph 2:\r\nIf you searched for “massage in Union Grove, Wisconsin,” know that our business is nearby, not physically in Union Grove. You can explore the massage menu online, choose an appointment time, and get directions to the studio before leaving home.\r\n\r\n\r\nAddress display:\r\nMATRIX MASSAGE & BODYWORK\r\n24804 75th St\r\nSalem, WI 53168\r\nText to book: (262) 939-9325\r\n\r\n\r\nButton: GET DIRECTIONS → approved Google Maps CID URL\r\nButton: BOOK YOUR VISIT → approved Square booking URL\r\n\r\n\r\nU6 — QUESTIONS AND ANSWERS (VISIBLE BODY COPY, NO FAQ RICH-RESULT SCHEMA REQUIRED)\r\n\r\n\r\nEyebrow:\r\nGOOD TO KNOW BEFORE YOU BOOK\r\n\r\n\r\nH2:\r\nMassage near Union Grove: common questions\r\n\r\n\r\nH3: Is Matrix Massage & Bodywork located in Union Grove?\r\nParagraph:\r\nNo. Our studio is at 24804 75th St in Salem, Wisconsin. We welcome people visiting from Union Grove who are looking for personalized massage in the surrounding area.\r\n\r\n\r\nH3: What is the difference between Swedish and deep tissue massage?\r\nParagraph:\r\nSwedish massage generally uses flowing strokes and lighter-to-moderate pressure, while deep tissue and therapeutic work can focus more specifically on tight or overworked areas. Your preferred pressure and goals matter more than choosing the “strongest” option.\r\n\r\n\r\nH3: Does deep tissue massage have to hurt to be effective?\r\nParagraph:\r\nNo. Discomfort is not a requirement for a useful massage. Tell your therapist about your comfort level, and ask for adjustments when the pressure or technique does not feel right.\r\n\r\n\r\nH3: Can I ask for extra attention to my neck, shoulders, or back?\r\nParagraph:\r\nYes. Let your therapist know where you would like the session focused and how you prefer the pressure to feel. The plan can be adjusted within the service and time you booked.\r\n\r\n\r\nH3: Is manual lymphatic drainage the same as deep tissue massage?\r\nParagraph:\r\nNo. Manual lymphatic drainage generally uses a much lighter, rhythmic approach. It is not intended to be performed like a firm muscle-focused massage. If your interest is related to unexplained swelling, surgery, or a medical condition, seek appropriate healthcare guidance before booking.\r\n\r\n\r\nH3: Do you offer massage during pregnancy?\r\nParagraph:\r\nPrenatal-focused massage is among the options shown on our massage service page. Please review current availability and share your stage of pregnancy, relevant symptoms, and any medical guidance when booking so the provider can determine whether an appointment is appropriate.\r\n\r\n\r\nH3: How long should I book for my massage?\r\nParagraph:\r\nChoose based on how much time you want for focused work or a more complete session. Current appointment durations and prices appear in the booking menu, where you can compare the available options before selecting one.\r\n\r\n\r\nH3: How do I book a massage if I'm coming from Union Grove?\r\nParagraph:\r\nUse our online booking menu to view available massage appointments at the Salem studio. You can also text Matrix at (262) 939-9325 with a booking question.\r\n\r\n\r\nU7 — FINAL CTA\r\n\r\n\r\nEyebrow:\r\nREADY TO MAKE TIME FOR YOURSELF?\r\n\r\n\r\nH2:\r\nYour next massage starts with a simple booking.\r\n\r\n\r\nParagraph:\r\nWhether you want focused therapeutic massage or an hour to unwind, explore the options and choose the session that feels right for you. We look forward to welcoming Union Grove-area guests to Matrix Massage & Bodywork in Salem.\r\n\r\n\r\nPrimary button: BOOK A MASSAGE → approved Square booking URL\r\nSecondary button: SEE MASSAGE SERVICES → approved massage service hub\r\nSmall line:\r\n24804 75th St · Salem, WI 53168 · Text (262) 939-9325\r\n\r\n\r\nSEO / AI SEARCH DECISIONS\r\n\r\n\r\nThis is ONE service-area landing page for users in Union Grove seeking a nearby massage option; the page must not misrepresent the business as having a Union Grove physical location.\r\nExactly ONE semantic H1. U2–U7 use H2 for sections, H3 for relevant service headings, process steps and FAQs. Paragraph text is actual paragraphs, not headings or images of text.\r\nIntegrate naturally: massage near Union Grove WI, therapeutic massage, deep tissue massage, Swedish massage, manual lymphatic drainage, Salem Wisconsin. Avoid repetition or “best,” “#1,” guaranteed recovery claims.\r\nKeep the on-page FAQ answers visible and useful for people and search engines. Do not add duplicate FAQPage schema solely for rich results.\r\nAlready saved in Wix as DRAFT, HTTP 200:\r\nSEO title: Massage Near Union Grove, WI | Matrix Massage & Bodywork\r\nMeta: Looking for massage near Union Grove, WI? Visit Matrix Massage & Bodywork in Salem for personalized therapeutic, deep tissue, Swedish and lymphatic massage.\r\nExisting native Service JSON-LD preserved. It identifies Salem as provider address, Union Grove as areaServed, and page-specific #service; preserve it exactly unless a verified factual conflict is identified. Self-canonical is already correct. Existing OG metadata inherited; avoid manually duplicating.\r\nDo not hard-code historical prices or invented review aggregates. No guaranteed ranking/AI citation outcome. No user-facing need for llms.txt or new “AI SEO” schema.\r\n\r\n\r\nEXACT NATIVE DESIGN SPEC (PAGE LOCAL ONLY)\r\n\r\n\r\nDesign language: clinical luxury consistent with latest facial and regional pages. Avoid the existing heavy lavender inset box, purple typography, cramped black-on-cream paragraphs and triple-column overflow.\r\nColors: deep teal #123D40; aquamarine active/hover #087776; cream #F7F1E8; off-white #FDFCF9; pale aqua #CFE9E4; rule #D9DDD7. Water hero can use local dark teal overlay #071F22 / #123D40 to make white text legible; preserve actual background image and crop.\r\nDesktop content: centered 960px grid, 80px vertical section padding, 40px gap between major groups, 24px body/CTA spacing. Two-column intro and location where suitable, with content max width 456px per side and 48px gap. U3: three service summaries each as readable native text/card at available width, with 1px top dividers; avoid dense three-column paragraphs if the text doesn't fit (use two-column + one full-row or vertical service rows). U4: three simple steps with breathing room. U6: visible two-column Q&A only if each answer remains readable; prefer single-column question-and-answer blocks of max width 760px. No empty 600px vertical spacer between hero and content; no text boxes overlapping footer.\r\nHero: use same native water-image background (don't replace it). Remove oversized lavender overlaid box that obscures the image; use restrained contrast treatment. Real logo uncropped, at 240px desktop and 200px mobile, positioned above eyebrow. Text left aligned at desktop; H1 Georgia 64px regular 1.12 line height, body Arial 17px/1.65, hero white; buttons one warm off-white with deep teal text, second transparent with white border/text. On mobile stack the buttons with 12px vertical gap.\r\nDesktop H2 Georgia 38px regular/1.2; H3 Georgia 26px regular/1.25; body Arial 17px/1.65. Eyebrows Arial 12px uppercase with 2px letter spacing. Buttons Arial regular 13px with 1px tracking and minimum 48px height. Do not change site-global text themes or brand kit.\r\nMobile at actual 390px CSS viewport: single-column, 24px side margins, H1 38px, H2 30px, H3 24px, body 16px/1.65. At actual 320px: 20px margins, H1 34px, same body minimum 16px. Cards and CTAs stack. No horizontal scrolling/overlap or fixed-height clipping; logo 200px wide with original ratio.\r\nIf U2/U5 adds imagery, use an already verified appropriate Matrix real photo in Wix Site Files; never add a generic fake facility/client photo or invent a logo. Each meaningful photo uses truthful descriptive alt text; hero water is decorative and should not get keyword-stuffed alt. Existing page map should be retained if present and correct, avoiding duplicate maps.\r\nUse page-local dividers/rules. Preserve existing site-global header/footer and their actual links, identity and scripts; do not edit them. If footer looks broken because of a global issue, document it and stop before modifying the shared footer.\r\n\r\n\r\nIMPLEMENTATION DEPENDENCY AUDIT — MUST PRECEDE GUI MUTATIONS\r\n\r\n\r\n1. Existing page is a continuation, not a rebuild. Open the correct site in Wix Classic Editor. Select current Union Grove massage page. Confirm page title, URL slug /massage-near-union-grove-wi and page ID lidzc from saved site context.\r\n2. Save or otherwise reconcile any currently unsaved owner changes. Inspect current native desktop/mobile layout, site history, existing page-local image links, layout objects and code.\r\n3. Open page code in Dev Mode / Code Files. Read the current page-specific script in full. Earlier regional pages had onReady code that re-injected obsolete prices/SEO and overrode native content. If this page script currently sets the page's text, HTML, links, or SEO on load, do not proceed with native text editing until the exact script is captured and reviewed by Chat for a safe page-local correction. Do not delete or overwrite unknown code.\r\n4. Verify logo IMG_5499.jpg in Wix Site Files; don't upload again. Inspect current image source, booking hrefs, map, page-specific SEO and retained schema. Compare existing page text with this package before replacing anything; retain correct elements and don't duplicate.\r\n5. Avoid simultaneous editors: if new owner edits, refresh warnings, stale session or unexpected change appear, SAVE current nonconflicting work, capture read-only state/evidence and STOP. Never restore old revisions blindly.\r\n\r\n\r\nDETERMINISTIC WIX WORK EXECUTION SEQUENCE (GUI ONLY, DRAFT ONLY)\r\n\r\n\r\nCheckpoint 0 — Evidence before edits:\r\n- Sign into the current Matrix Wix Editor and choose existing Union Grove page. Confirm no other active editor conflict. Capture desktop top/middle/bottom and mobile top/middle/bottom. Read page code, current page URL, SEO status and links.\r\n- If script injection conflict or unexpected application dependency is found, STOP; return exact page code, screenshot and element IDs for Chat review. Do not improvise runtime removal.\r\n\r\n\r\nCheckpoint 1 — Hero only:\r\n- Stay on this page, native Desktop Editor. Select existing hero strip. Keep its water background unchanged; apply approved local dark overlay if needed for readable white text.\r\n- Replace the purple/lavender central block with the approved native hero composition, using the already-uploaded actual Bodywork logo (fit/contain), U1 eyebrow, one H1, lead, paragraph, buttons and small address line.\r\n- Connect buttons to exact links/anchor. Save. Reopen and verify logo uncut, text exact, header/global navigation untouched, section not overlapping.\r\n\r\n\r\nCheckpoint 2 — Main body:\r\n- Use current native sections in place (do not duplicate site/page). Remove only outdated target-page body text/cards and redundant blank spacer once the matching sections are identified.\r\n- Install U2 intro then U3 service choices, U4 what-to-expect. Use native Text, Image, Button, Strip/Section elements rather than code-generated HTML. Make service links exact. Use no prices.\r\n- Save after U2/U3, reopen/verify; then save after U4, reopen/verify. Capture section screenshots and link targets.\r\n\r\n\r\nCheckpoint 3 — Local and FAQ:\r\n- Install U5 Salem location/directions (retain accurate local map if it exists), U6 eight FAQs as visible body content, U7 final CTA.\r\n- Preserve shared/global footer absolutely; correct only page-body margin before it.\r\n- Save, reopen, verify page copy and links persist after Preview and reload.\r\n\r\n\r\nCheckpoint 4 — Desktop/mobile rendering:\r\n- Desktop: Preview full page, check all seven sections, single H1, correct logo, all copy, correct map/address and booking destination, no old prices or injection, no giant blank spaces, no footer overlap. Check all native action buttons have accessible labels and visually readable focus/hover; hover background #087776 and white text where consistent with prior page style.\r\n- Mobile: native Wix Mobile Editor, reposition only page-local elements. Test Preview. Where a genuine viewport-resize tool is available, test 390 CSS px and 320 CSS px separately; screenshots show actual browser viewport dimensions. If only the Wix 320px phone canvas inside a desktop document is available, explicitly mark REAL_VIEWPORT_NOT_TESTED rather than PASS.\r\n- Link QA: open each booking/service/directions target without selecting services, sending messages, booking, submitting forms, or changing customer data. Confirm booking opens the current Matrix Square catalog; directions resolve to actual Salem address; U3 anchor scrolls correctly.\r\n- SEO QA: verify in Wix that draft title/meta above match; one self-canonical; exactly one preserved Service script; correct physical address and areaServed. Don't mutate matching metadata again.\r\n- If any save timeout occurs, read back to determine persisted state before retry. If page turns blank or code injection suspected, stop safely with evidence.\r\n\r\n\r\nCheckpoint 5 — Evidence receipt (in canonical Drive project folder):\r\n- Record SITE/PAGE IDs and URL; original revision/checkpoint, each save and readback, exact diff summary, screenshots at desktop and mobile, link/hover QA, actual viewport sizes, code-audit result, schema and final draft metadata, blockers, do-not-touch compliance, and clearly SAVED / VERIFIED / TESTED / NOT TESTED / PUBLISHED (should be NO).\r\n- Publish: NO. Test Site deployment/replacement: NO. Global/footer work: NO. Square/CMS changes: NO. Owner/customer communications: NO.\r\n- STOP rather than improvise on unknown code, conflicting edits, page/site identity uncertainty, wrong logo, missing asset, broken links, or unexpected runtime behavior.\r\n\r\n\r\nACCEPTANCE CRITERIA FOR CHAT REVIEW\r\n[ ] Same Wix site and same existing static page lidzc, same route and canonical.\r\n[ ] Water background preserved, approved Bodywork logo IMG_5499 visibly uncropped.\r\n[ ] All seven sections installed as native editable text in approved order, no duplicate old sections or historical prices.\r\n[ ] Exactly one meaningful H1; H2/H3 hierarchy; natural Union Grove messaging and truthful Salem address.\r\n[ ] No unsupported medical claims, fake reviews, travel times, unverified credentials, or false Union Grove office.\r\n[ ] Service and booking links exact, map correct, all CTA destinations open; no customer submission.\r\n[ ] Readable desktop/mobile, no overlapping copy, excessive blank bands, broken cards, overflow, footer overlap.\r\n[ ] 320/390 real browser widths honestly recorded as TESTED or NOT TESTED; don't conflate Wix mobile simulation with actual viewport.\r\n[ ] Existing JSON-LD Service markup, canonical, OG, inherited tags, existing globals and other pages preserved.\r\n[ ] SEO title/meta saved as draft and not made public.\r\n[ ] Save/reload verification and QA evidence captured; nothing published or test deployed.\r\n\r\n\r\nCURRENT EXECUTION STATE — OCTOBER 30, 2026\r\nWIX SEO TITLE: SAVED as DRAFT, HTTP 200 confirmed.\r\nWIX META DESCRIPTION: SAVED as DRAFT, HTTP 200 confirmed.\r\nOTHER SEO TAGS: PRESERVED in same three-tag payload, including existing Service JSON-LD.\r\nEXISTING CANONICAL: VERIFIED as matching the Union Grove slug; inherited from Wix default pattern.\r\nLOGO ASSET: VERIFIED previously uploaded to Wix as IMG_5499.jpg; NOT yet installed on Union Grove page.\r\nNEW ON-PAGE COPY AND VISUAL SECTIONS: DESIGNED HERE; NOT INSTALLED in Wix native editor.\r\nFULL DESKTOP/MOBILE QA: NOT TESTED on redesigned page.\r\nPUBLICATION: NO.",
+    "pp-spec": "﻿MATRIX MASSAGE R2 — INDEPENDENT IMPLEMENTATION PACKAGE\r\nVERSION: R2.0 / 2026-10-30 (America/Chicago)\r\nSTATUS: PACKAGE PREPARED IN CHAT; LIVE WIX PAGE BODY NOT MODIFIED; CODE AUDIT NOT YET COMPLETED IN EDITOR; NOT PUBLISHED.\r\nSCOPE: One existing Wix Classic page ONLY. This package is self-contained and must not modify the other five page targets.\r\nWIX SITE ID: cdec8df6-d518-4859-9f1e-f06bf5346d41\r\nAUTHORITATIVE DESIGN RECORD: https://docs.google.com/document/d/14NDrwuldZnlengsGIaNKAy6vU8Axj9EBriBq2rJUo9I/edit\r\nCANONICAL PROJECT FOLDER: https://drive.google.com/drive/folders/1jthRMAHOoockNm8hAVBK6mz4iaHbhNK8\r\nUNION GROVE EXCLUSION: Page lidzc /massage-near-union-grove-wi has a separate active R1.1 job. Do not edit, deploy, inspect in competing editor, or duplicate.\r\nBUSINESS TRUTH: Matrix Massage & Bodywork serves guests at 24804 75th St, Salem, WI 53168; text-to-book (262) 939-9325. Do not claim another physical location.\r\nPRIMARY BOOKING DESTINATION: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services\r\nDIRECTIONS: https://maps.google.com/maps?cid=13922054554836148682\r\nMAIN MASSAGE HUB: https://www.matrixmassage.net/massage-therapy-services-salem-wi\r\nSQUARE is the current source for prices, appointments, availability and enhancements. Never create/alter Square services, timing, providers or customer data while implementing this page.\r\nSOURCES FOR SAFE CLIENT CLAIMS:\r\n- https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know\r\n- https://my.clevelandclinic.org/health/treatments/21768-lymphatic-drainage-massage\r\n- https://developers.google.com/search/docs/fundamentals/creating-helpful-content\r\nPAGE-SPECIFIC CURRENT-STATE CHECK\r\nWix native SEO records were read directly on October 30, 2026; these DO NOT prove currently rendered HTML after Velo runs. Public page text was inspected separately, but may be a cached published revision. Immediately recheck latest editor page code/layout, SEO and revision before any edits.\r\nDo not assume prior screenshots or live public content are the current saved draft. Confirm no pending user changes or parallel Wix editor session before mutations. Never restore old revisions or rebuild pages.\r\nSIX-PAGE FAMILY DESIGN — SHARED, NO GLOBAL MUTATIONS\r\nClinical luxury style, matching completed facial regional redesign, without duplicating that page's layout identically.\r\nPage-local palette: #123D40 deep teal, #087776 teal hover, #F7F1E8 cream, #FDFCF9 off-white, #CFE9E4 light aqua, #D9DDD7 dividers, #071F22 dark hero overlay where justified. Avoid lavender/purple typography, muddy small type, giant blank strips, cramped three-column text, decorative stock placeholders and bogus logos.\r\nDesktop interior maximum content 960px; narrative text max 760px. Eyebrow Arial 12px uppercase/2px tracking; service H2 Georgia regular 34px; H3 Georgia regular 24px; body Arial 17px line-height 1.65; button Arial regular 13px, minimum 48px high. 64-80px section vertical spacing, 24px copy/button spacing, 40-48px peer group gaps. Semantic H1/H2/H3, no image-based copy; accurate image alt or decorative setting. Make all links accessible, visible and keyboard usable.\r\nSubpage hero: compact, editorial: H1 Georgia regular 48px / 1.15, introduction 18px, real approved subject photograph on opposite side (4:3 or 4:5 image), primary booking CTA and secondary text Back to Massage Services. No large centered extra hero logo on a subpage; retain pre-existing approved global header.\r\nMobile simulated 390: one column, 24px side gutters, subpage H1 34px, H2 30px, H3 24px, 16px body with 1.65 line-height, 48px full-width CTA, 12px gap. At 320px: 20px gutters, H1 32px, 16px body, no horizontal overflow. Test true browser CSS viewport separately from Wix phone canvas and label UNTESTED honestly if resize isn't supported.\r\nImage rules: Prefer verified current Matrix photography and existing media, but verify what each photo actually shows. Do not manufacture a person, facility or credential. Never upload duplicate asset if suitable existing Wix Site Files image can be reused. The original water background may be retained locally where it works.\r\nNo global footer/header, site theme, shared code, app install, SEO pattern, CMS, Square, page create/delete, redirect, domain, Test Site deployment or publication. Do not silently edit another page's shared content. Existing valid Service/FAQ schema should not be duplicated; check for claims and outdated URLs before any targeted draft metadata correction.\r\nPER-PAGE DETERMINISTIC EXECUTION ORDER\r\nCHECKPOINT 0 — READ-ONLY CODE AND STATE GATE:\r\n1. Open exactly this site's existing page by Pages & Menu. Confirm page name, actual slug and Wix static item ID below. Check Wix save state, Site History read-only and release/test-site status read-only; preserve newer owner edits. If a concurrent editor or unsaved conflict exists, stop.\r\n2. Capture desktop + native mobile top/middle/bottom screenshots. Record current native components/layers, image element IDs/files, links, H1 count, hero, booking CTA, footer ownership. Confirm no page-local sections are shared global components. Check page's SEO Basics/Advanced SEO values against baseline. No mutation.\r\n3. Open PAGE CODE for this exact page (NOT masterPage.js/global public/backend). Export entire Velo page code text; record code byte size and LF-normalized SHA-256, imports, onReady, selectors, SEO setters, DOM mutations, dataset/events and any hidden elements. If code changes page text, price, booking or SEO on load, or if unknown runtime logic exists: STOP THIS PAGE AND RETURN CODE + SCREENSHOT TO CHAT for a page-specific exact audited replacement. Do not assume the Union Grove no-op fix applies here. Continue READ-ONLY audits for other pages only if separate authorization; no live edits to this page.\r\nCHECKPOINT 1 — HERO (only after code and saved-state gate passes):\r\n4. Edit existing native page-local hero only, reusing images and components when correct. Install exact hero copy below, only one H1, correct subpage/hub logo rule. Bind documented CTA URLs. Save. Reload editor, reopen same page and read back copy, link, layout, H1 and image/logo.\r\nCHECKPOINT 2 — MAIN BODY:\r\n5. Replace only outdated page-local sections with exact section copy below in order; preserve legitimate meaningful content and verifiable reviews unless specifically duplicated. Remove obsolete historical prices and unsupported clinical claims rather than hiding them. Save every one or two sections. Reload/readback; note which exact element IDs changed.\r\nCHECKPOINT 3 — LOCATION / CLOSING / MOBILE:\r\n6. Install exact final location/FAQ/CTA sections and accurate address and directions. Save/reload/readback.\r\n7. Native Mobile Editor: stack images, cards and paragraphs; maintain text size. Save/reload. Test actual responsive widths 320 and 390 ONLY if real browser resizing is available; otherwise label ACTUAL_VIEWPORT NOT TESTED. Never publish to run QA.\r\nCHECKPOINT 4 — QA AND EVIDENCE:\r\n8. Native Preview check exact copy, no unexpected injection, section spacing, actual subject photo, old-price removal, exact CTA hrefs, true Salem address, no fake results, link focus/hover (#087776 white), one H1, good title/meta/schema/canonical in WIX SEO settings; browser rendered HEAD remains NOT TESTED until independently accessible. Test Square catalog opening without submitting a booking. Confirm unrelated site pages/footer remain unchanged.\r\n9. Save a per-page receipt in this page's folder or its associated QA subfolder: source code SHA256, content/asset diff, save/reopen proof, screenshots, link manifest with pass/fail, native vs actual mobile viewport, SEO tag verification, page/script status, and a clear SAVED / VERIFIED / TESTED / NOT TESTED / BLOCKED / NOT PUBLISHED status. Stop only for exact identity mismatch, code change not audited, unauthorized shared edits, concurrency, missing verifiable asset, save inconsistency after readback, or critical broken required link. No improvisation or rebuild.\r\nPUBLISH: NEVER in this assignment. No Test Site replacement/promotion. No user/customer communications.\r\nPAGE IDENTITY\r\nPACKAGE: M6 — Massage Near Pleasant Prairie, WI\r\nEXISTING WIX STATIC PAGE ID: cnpma\r\nEXISTING SLUG: /massage-near-pleasant-prairie-wi\r\nPAGE TYPE: REGIONAL SERVICE-AREA SUBPAGE\r\nLIVE PUBLIC SNAPSHOT: Public page repeats \"15–20 minutes\" without a validated route, claims old service durations, combinations, membership programs and detox, and includes dated generic AI imagery. Studio is physically in Salem, not Pleasant Prairie. Remove unverified travel times and old combinations from page-local copy.\r\n\r\n\r\nPAGE-SPECIFIC DESIGN AND MEDIA\r\nPreserve an appropriate current hero water background if the editor uses it and it still matches approved palette. For editorial imagery use a verified Matrix massage image already in Wix Site Files; remove page-local generic \"ChatGPT Image Jan 28\" placeholder after confirming which component owns it. Do not add the hub's oversized centered logo because this is a regional subpage; shared global header stays. No maps to false Pleasant Prairie business address.\r\n\r\n\r\nWIX-NATIVE SEO / SCHEMA SNAPSHOT & PROPOSED TARGET\r\nNATIVE WIX SEO READBACK: Title \"Massage Near Pleasant Prairie, WI | Matrix Massage & Bodywork\"; meta \"Pleasant Prairie massage enthusiasts & residents: Looking for expert massage therapy near you? Matrix Massage in Salem, WI offers cupping, red light, deep tissue & more.\" Canonical https://www.matrixmassage.net/massage-near-pleasant-prairie-wi. Existing FAQPage schema one script. Proposed title unchanged, meta \"Looking for massage near Pleasant Prairie, WI? Visit Matrix Massage & Bodywork in Salem for personalized deep tissue, Swedish and lymphatic massage.\" Draft only, after exact GET + full tag merge, publish:false. Preserve existing FAQ script only after verifying questions reflect visible factual FAQ and that location is Salem. Never invent a local Pleasant Prairie business location or an undocumented LocalBusiness geo coordinate.\r\n\r\n\r\nPAGE M6 — EXACT NATIVE COPY\r\nM6.1 COMPACT HERO — REGIONAL, TRUTHFUL\r\nEYEBROW: MATRIX MASSAGE & BODYWORK · WELCOMING PLEASANT PRAIRIE GUESTS\r\nH1: Massage Near Pleasant Prairie, WI\r\nLEAD: Personalized therapeutic massage at our studio in nearby Salem, Wisconsin.\r\nBODY: Whether you're looking for focused muscle work or a relaxing massage, Matrix Massage & Bodywork welcomes guests from Pleasant Prairie to our Salem location. Explore the options, choose your pressure preference, and review current appointments before you visit.\r\nPRIMARY CTA: BOOK A MASSAGE → booking catalog\r\nSECONDARY LINK: EXPLORE THE MASSAGE MENU → massage hub\r\n\r\n\r\nM6.2 INTRO\r\nEYEBROW: CARE THAT FEELS PERSONAL\r\nH2: Your goals come first\r\nP1: Some people are looking for help with tense shoulders or an overworked back. Others want a gentler full-body experience and a little quiet time. You shouldn't have to guess which buzzword belongs on your appointment.\r\nP2: At Matrix, we listen to your priorities, adapt the pressure to your comfort, and make room for feedback during the session. Choose a technique as your starting point, then tell us what matters most to you.\r\n\r\n\r\nM6.3 SERVICE OPTIONS — generous 2-column or vertical cards with verified service imagery\r\nEYEBROW: FIND YOUR MASSAGE\r\nH2: Popular massage approaches for Pleasant Prairie-area guests\r\nH3: Deep Tissue & Therapeutic Massage\r\nBODY: Focused, slower soft-tissue work when specific muscles feel tight, tired or overworked. Pressure can be adjusted; intense pain is not a requirement.\r\nLINK: LEARN ABOUT DEEP TISSUE → https://www.matrixmassage.net/deep-tissue-massage-salem-wi\r\nH3: Swedish Massage\r\nBODY: Longer, flowing strokes and light-to-moderate pressure for relaxation, everyday stress and general comfort.\r\nLINK: EXPLORE SWEDISH MASSAGE → https://www.matrixmassage.net/swedish-massage-salem-wi\r\nH3: Manual Lymphatic Drainage\r\nBODY: A specialized light-touch technique distinct from traditional massage. If you have unexplained swelling, recent surgery or a medical condition, ask your healthcare professional about suitability before scheduling.\r\nLINK: ABOUT MANUAL LYMPHATIC DRAINAGE → https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi\r\nCTA BELOW: VIEW CURRENT MASSAGE APPOINTMENTS → booking catalog\r\n\r\n\r\nM6.4 WHAT TO EXPECT\r\nEYEBROW: YOUR FIRST VISIT\r\nH2: A straightforward appointment, from booking to checkout\r\nH3: Browse your choices\r\nBODY: Read the service descriptions and compare current appointment lengths and pricing in the Square booking menu.\r\nH3: Tell us your preferences\r\nBODY: Share your areas of focus, pressure preferences, sensitivities and relevant health information before the massage.\r\nH3: Ask for adjustments\r\nBODY: Your therapist can adjust appropriate pressure and focus during your booked session. The goal is a respectful, comfortable experience.\r\n\r\n\r\nM6.5 LOCATION — no invented travel times\r\nEYEBROW: A STUDIO IN SALEM, WI\r\nH2: Where to find Matrix from Pleasant Prairie\r\nP1: Our massage studio is at 24804 75th St, Salem, WI 53168. We are not located inside Pleasant Prairie, and the appointment confirmation should show the Salem location.\r\nP2: Travel time depends on your specific starting point, route and traffic. Use the directions link to check the route that works for your visit.\r\nADDRESS: Matrix Massage & Bodywork · 24804 75th St · Salem, WI 53168\r\nBUTTON: GET DIRECTIONS TO MATRIX → https://maps.google.com/maps?cid=13922054554836148682\r\n\r\n\r\nM6.6 FAQ\r\nEYEBROW: QUESTIONS BEFORE YOU DRIVE\r\nH2: Pleasant Prairie massage: common questions\r\nH3: Is Matrix Massage & Bodywork actually in Pleasant Prairie?\r\nA: No. Our studio is located in Salem, Wisconsin, and we welcome guests traveling from Pleasant Prairie and surrounding communities.\r\nH3: How long is the drive from Pleasant Prairie?\r\nA: It varies based on your starting address, time and road conditions. Open our directions link to view the current route to 24804 75th St in Salem.\r\nH3: Can I book deep tissue or Swedish massage from Pleasant Prairie?\r\nA: You can review available massage services online and choose the appropriate appointment at the Salem studio.\r\nH3: Does Matrix offer lymphatic drainage massage?\r\nA: Check the current massage menu for availability. If you're interested because of surgery or swelling, seek medical guidance before booking.\r\nH3: How do I know what my appointment costs?\r\nA: Use our current online booking menu to see service prices and durations before you select a time.\r\nH3: Can I ask questions before booking?\r\nA: Yes. Text Matrix Massage & Bodywork at (262) 939-9325 with your question and the service you're considering.\r\n\r\n\r\nM6.7 CLOSING\r\nEYEBROW: A THOUGHTFUL MASSAGE EXPERIENCE\r\nH2: Ready to plan a visit?\r\nP: Choose the service that feels right for your goals, explore available appointments, and visit Matrix at our Salem studio.\r\nPRIMARY CTA: BOOK MASSAGE AT MATRIX → booking catalog\r\nSECONDARY TEXT LINK: SEE ALL MASSAGE SERVICES → massage hub\r\n\r\n\r\nM6-SPECIFIC LOCAL SEO REQUIREMENTS:\r\nNo fabricated proximity ranking, drive time, Pleasant Prairie office or city-specific testimonials. Remove old \"detox\", unconditional post-op, uncertain memberships, named custom packages and historical service lengths/prices unless accurately represented in Square and explicitly required in this page. Do not touch the separately active Union Grove page; an existing inline link to it may remain only as-is, without editing the target page. Directions must resolve to actual Salem address.\r\n\r\n\r\nFINAL PAGE-SPECIFIC ACCEPTANCE\r\nExact page id cnpma; existing slug /massage-near-pleasant-prairie-wi; layout consistent with shared colors; semantic unique H1; correct page type/logo placement; all exact page copy and links; studio location Salem not another city; no hardcoded prices; genuine images; mobile one-column; SEO/schema preserved until targeted confirmed safe correction; no old Velo injection; Save/Reload evidence; page and other pages NOT PUBLISHED.",
+    "master": "﻿NON-BEAUTY LOGO OVERRIDE — NOVEMBER 2, 2026\r\nOwner supplied and approved the exact Matrix Massage & Bodywork logo pair for all redesigned NON-BEAUTY page bodies.\r\nDEFAULT LIGHT VERSION:\r\nWix Media ID: e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg\r\nURL: https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg\r\nSource: owner-uploaded IMG_5444 (1).JPG.\r\nAPPROVED DARK ALTERNATE:\r\nWix Media ID: e4cc43_49c98941d08a4f8e9367ba6463595d20~mv2.jpg\r\nURL: https://static.wixstatic.com/media/e4cc43_49c98941d08a4f8e9367ba6463595d20~mv2.jpg\r\nSource: owner-uploaded IMG_5434.JPG.\r\nRULE:\r\nUse the light version as the default page-body logo for non-beauty pages. Use the dark alternate where a dark section/background requires it. Beauty pages retain their separate Beauty branding. Do not use the previously staged e4cc43_1c6fb0c45df748cfa852ef777f4689f9~mv2.png or IMG_5499 for redesigned non-beauty page bodies.\r\nShared native header/footer are outside this page-body logo change unless separately authorized.\r\nM1 CMS massage-main logoUrl has been patched to the light approved version above and the patch returned success. No other massage-main field was changed by that patch.\r\nIMPORTANT CURRENT RENDERING STATE:\r\nThe saved V2.1 renderer source exists in Wix, but the old native M1 body still displays because the renderer has not yet been fully bound into the M1 page. CMS content by itself does not replace a Wix page. The required connection chain is:\r\nMatrixServicePages/massage-main -> matrixServicePageDataset (Read, serviceKey=massage) -> matrixServicePageV21 custom element (source/tag matrix-service-page-v21) -> final merged M1 Page Code.\r\nUntil that chain is installed and the first renderer Preview passes, the old native sections and old native-body logo/image assignments remain visible.\r\nDo not manually restyle the old cards further. Do not remove old sections until the renderer first-Preview gate passes.\r\nEND NON-BEAUTY LOGO OVERRIDE\r\nCURRENT MASSAGE IMPLEMENTATION BASELINE — NOVEMBER 2, 2026\r\nOwner authorized continuation of the main Massage hub and existing Deep Tissue, Swedish and Manual Lymphatic Drainage branches. Permanent URLs/canonicals/indexing are frozen during redesign. Prenatal remains a hub branch/booking path for this release; no new Prenatal URL is created because Search Console already shows the homepage at average position 6.91 for “prenatal massage near me.”\r\nGoogle URL Inspection PASS for main Massage anvbe, Deep Tissue cib7o, Swedish l014i and MLD lb1iq: all are Submitted and indexed, indexing allowed, successful fetches, and current Google/user canonicals match their existing permanent URLs.\r\n90-day page baselines (Aug 1–Oct 31): Massage hub 948 impressions / 2 clicks / pos 7.60; Deep Tissue 386 / 1 / 6.77; Swedish 254 / 0 / 8.80; MLD 1,457 / 2 / 35.90. MLD local/near-me query positions are materially better than the all-query average, so redesign must preserve its existing intent and URL.\r\nApproved redesigned page-body logo is https://static.wixstatic.com/media/e4cc43_1c6fb0c45df748cfa852ef777f4689f9~mv2.png; the old IMG_5499 asset is superseded for these redesigned bodies. Shared native header/footer logos remain unchanged.\r\nNo title, URL, canonical or indexing rewrite is authorized merely for visual modernization. No production publish without explicit approval.\r\nCURRENT M1 CONTINUATION — 2026-11-02\r\nThe owner supplied screenshots of Work's M1 read-only capture and directed Chat to reuse the existing CMS, avoid redundant Work, and protect existing rankings. Read the current M1 amendment before any installation: https://docs.google.com/document/d/1JDm0L3C7mIMf4N507muYIIUDzn2w0LnFQt67_vcAxlc/edit\r\nM1's earlier automatic native-text replacement plan is ON HOLD. Reuse the existing CMS record and working connections where verified; do not assume record existence proves that record controls the saved page or its layout. No migration, code removal, activation or live CMS write is authorized by this note.\r\nFresh read-only Wix results: MatrixServicePages/massage-main exists; active=false is a custom Boolean, not a native publication gate. Collection revision 7 returned EDITABLE_PAGE_LINK only, with no verified draft-publishing isolation. M1 native title/meta/canonical and three existing schema scripts were read, not modified. Published-page representation retrieved via web search is cached and is not proof of current editor binding.\r\nWork screenshots report matching 38-line captures and a native element/media map. Actual capture files/final receipt were not found in accessible Drive/Project Library. Obtain the already-captured source and map from that session; do not repeat its audit or screenshots. No analysis of the missing source is claimed.\r\nNo guarantee of ranking improvement is possible. Preserve all existing SEO titles, URLs, indexing, canonical settings, established content/topics and internal links. No website-facing changes or publication under an assurance that cannot be verified. Prior M4/M5 draft corrections are not repeated or reverted. Union Grove remains separate and untouched.\r\nSAVED: revised M1 document and this checkpoint. VERIFIED: CMS record and Wix-managed M1 SEO read. NOT VERIFIED: complete source, page bindings, safe CMS draft isolation, redesign rendering and ranking baseline. WEBSITE/CMS/SEO WRITES: ZERO. PUBLISHED/DEPLOYED: NO.\r\nEND CURRENT M1 CONTINUATION\r\n\r\n\r\nCURRENT OWNER RULE AND SEO SAVE RECEIPT — 2026-10-30\r\nThis checkpoint supersedes earlier SEO-rewrite proposals and “no SEO mutations” status statements below. Owner authorized changes only when they offer a clear improvement; do not promise a ranking gain.\r\nKEEP all six existing SEO titles, page URLs, canonicals, indexing directives and established topic/location targeting. Earlier optional title rewrites are ON HOLD and must not be applied automatically. Main Massage, Deep Tissue, Swedish and Pleasant Prairie received no Wix writes in this pass.\r\nSAVED AS UNPUBLISHED WIX DRAFTS: M4 (lb1iq) neutral meta description; M5 (plsho) Service.url and Service.mainEntityOfPage.@id corrected to the existing /the-science-of-massage-therapy canonical. Both pages retained all titles and unrelated tags; M5 retained the stable Service @id. The existing page addresses were not changed.\r\nEvidence: bulk write HTTP 200, 2 successes / 0 failures, publish:false, full returned tag payloads matched planned changes. A subsequent single M5 write corrected the newly exposed second page reference, HTTP 200; only that schema field changed and all other tags were preserved. Write responses prove accepted draft values, not browser rendering or live search results. STATIC_PAGE publishStatus is unspecified; it is not used as publication evidence.\r\nThe M4 and M5 individual packages now carry their own current receipts. Keep every page implementation separate. Page-body installation, page-code audit, mobile QA and final rendered SEO remain pending; no publication or Test Site deployment is authorized.\r\nM4 FAQ markup still contains the older health claims and must be reconciled with the installed visible FAQ before release. Do not claim the whole page's claims/schema have been corrected.\r\nUNION GROVE remains separately in progress and was neither read nor changed by this correction pass. No Square, CMS, shared/global code, footer, customer data or permission changes.\r\nRELEASE RULE: coordinate any future Wix publish with every pending draft. Do not publish these SEO changes or unrelated drafts merely to inspect them. Save current Search Console page/query performance before a later approved release; no ranking uplift has been measured.\r\nResearch: https://developers.google.com/search/docs/appearance/snippet ; https://dev.wix.com/docs/api-reference/business-management/seo/item-seo-tags-v1/set-item-seo-tags\r\nEND CURRENT CHECKPOINT\r\n\r\n\r\nR2 INDIVIDUAL-PAGE PACKAGE INDEX — OCTOBER 30, 2026\r\nEach of the following is an independent, self-contained, exact page implementation package. All six are created, formatted, saved, and verified in their dedicated folder. The master record controls scope only; DO NOT execute one undifferentiated multi-page Work assignment.\r\nPackage folder: https://drive.google.com/drive/folders/1NojtXBjA36hxTAt_EBCcOc5NvUh05BDi\r\nM1 MAIN HUB | ID anvbe | https://docs.google.com/document/d/1JDm0L3C7mIMf4N507muYIIUDzn2w0LnFQt67_vcAxlc/edit\r\nM2 DEEP TISSUE | ID cib7o | https://docs.google.com/document/d/1FaWI5HDkd_FR-nHUJEgxSZrYId0CoQBgDMjfs7Gs1to/edit\r\nM3 SWEDISH | ID l014i | https://docs.google.com/document/d/19Qk6xgny3Mp8IplEXefi7emd582yCYuehcaCeYhdOg4/edit\r\nM4 MANUAL LYMPHATIC DRAINAGE | ID lb1iq | https://docs.google.com/document/d/12zbR35Ww4hJipnBWCoCV89i9i2uHqAUEmn-klrgTbKA/edit\r\nM5 SCIENCE | ID plsho | https://docs.google.com/document/d/1ybPJI1Kp6KD-RSFKGTQC3eqen8jzD_-yg40RXqPmRgo/edit\r\nM6 PLEASANT PRAIRIE | ID cnpma | https://docs.google.com/document/d/1wuR7NDZWMfi5CqPrnDaQRpbVkF9GNRGxMc9cHHNg4BA/edit\r\nSTATUS: SIX PACKAGES SAVED/VERIFIED; NATIVE WIX PAGE-BODY INSTALLATION NOT STARTED; EACH LIVE PAGE-CODE AUDIT PENDING; NO SEO MUTATIONS, RELEASE, PUBLISH, OR TEST DEPLOYMENT IN R2. UNION GROVE SEPARATELY IN PROGRESS AND EXCLUDED.\r\n\r\n\r\nMATRIX MASSAGE WEB REDESIGN — R2 / SIX PAGE SCOPE\r\nAUTHORITATIVE SCOPE & DESIGN CONTROL · October 30, 2026 · America/Chicago\r\n\r\n\r\nCURRENT STATUS\r\nDESIGN SYSTEM: PREPARED IN CHAT.\r\nPUBLIC PAGE AND WIX-NATIVE SEO INVENTORY: READ-ONLY AUDITED.\r\nNEW WIX PAGE BODY INSTALLATION: NOT STARTED.\r\nWIX PAGE-SCRIPT DEPENDENCY AUDIT: NOT TESTED / PENDING LIVE EDITOR ACCESS.\r\nWIX SEO MUTATIONS DURING THIS PHASE: NONE.\r\nSITE PUBLISH / TEST SITE DEPLOYMENT: NONE.\r\nUNION GROVE: OUT OF SCOPE. Its existing R1.1 installation remains independently in progress; do not modify, inspect in another editor session, redeploy, replace, or overwrite its code/design/SEO.\r\n\r\n\r\nSOURCE AUTHORITY\r\nExisting Wix site: Matrix Massage & Bodywork, https://www.matrixmassage.net/, site ID cdec8df6-d518-4859-9f1e-f06bf5346d41, Wix Classic Editor, Velo enabled.\r\nProject folder: https://drive.google.com/drive/folders/1jthRMAHOoockNm8hAVBK6mz4iaHbhNK8\r\nExisting current checkpoint: https://drive.google.com/file/d/1jKR3HUXSeIok2X527FE9YnXiHSxMiKbL/view\r\nPrior regional design system/R1 packet: https://drive.google.com/file/d/1Y6h-DyLsKD2mqTM0L460Mo9BxouACrhT/view\r\nCurrent Union Grove R1.1 separate, protected: https://docs.google.com/document/d/1-qlyVMdLDMUV96vatki3vG-gvLtFHhw1w6_50BwLw0g/edit\r\nApproved official Bodywork logo: Matrix New Design Logo — Facial Release.png, existing Wix Site Files, media URL https://static.wixstatic.com/media/e4cc43_1c6fb0c45df748cfa852ef777f4689f9~mv2.png, alt “Matrix Massage & Bodywork”. Prior R1 records confirm this is the approved Bodywork artwork. No fake/recreated logo, and no redundant media upload.\r\nSix independent page implementation/copy packages are indexed at the beginning of this document and filed in their dedicated project subfolder.\r\n\r\n\r\nEXACT SIX-PAGE INVENTORY (WIX PAGE IDs VERIFIED FROM STATIC_PAGE NATIVE SEO)\r\nHUB | anvbe | https://www.matrixmassage.net/massage-therapy-services-salem-wi\r\nSERVICE | cib7o | https://www.matrixmassage.net/deep-tissue-massage-salem-wi\r\nSERVICE | l014i | https://www.matrixmassage.net/swedish-massage-salem-wi\r\nSERVICE | lb1iq | https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi\r\nEDITORIAL | plsho | https://www.matrixmassage.net/the-science-of-massage-therapy\r\nREGIONAL | cnpma | https://www.matrixmassage.net/massage-near-pleasant-prairie-wi\r\nNOT IN THIS SCOPE: Union Grove lidzc; site homepage; facial/beauty and head spa pages; wellness/red light; About; Studio/tablet; promotions; careers; booking page; regional Antioch/Paddock; global/footer; Square catalog; CMS. No independent prenatal, cupping, or facial/head massage static service page IDs were found in the complete 33-item STATIC_PAGE SEO inventory; these services belong as HUB cards/links to booking where currently available, not as invented routes. Do not treat URL redirects or old cached pages as authority to create duplicates.\r\n\r\n\r\nMAIN-PAGE VERSUS SUBPAGE CONTRACT\r\nThe main massage HUB is a distinctive CATEGORY LANDING PAGE and must have the correct official Matrix Massage & Bodywork logo CENTERED near the top of its hero, above the only H1. This one centered logo is a required brand element. Keep it full-aspect, not cropped. It is not a logo for every interior subpage.\r\nOther future Matrix main-category hubs should similarly use the correct approved division-specific logo centered at the top (Beauty/Skincare on the spa/facial hub, Wellness/Biotech on wellness hub, Bodywork on massage hub), WITHOUT modifying those pages in this R2 scope. Use official existing files from the approved Logo folder, not a generated substitute.\r\nAll five massage subpages are visually related but editorially simpler: small eyebrow + one H1, short lead, actual subject-specific photograph, service explanation, focused CTA, FAQs when helpful, and a textual “Back to Massage Therapy” route. No second oversized centered logo above their content; preserve whichever approved logo is in the existing GLOBAL header. If a page has an old extra in-body logo, treat as page-local content only after proving its component ownership.\r\n\r\n\r\nDESIGN TOKENS — PAGE LOCAL, NO GLOBAL STYLE EDITS\r\nExisting R1 brand palette:\r\nDeep teal #123D40; darker hero overlay #071F22; hover aquamarine #087776; warm cream #F7F1E8; off-white #FDFCF9; soft aqua #CFE9E4; hairline dividers #D9DDD7.\r\nPrefer warm cream/offwhite surfaces with dark-teal copy, restrained photography and ample padding. Eliminate old lavender/purple blocks, tiny paragraphs, heavy text shadows, strange obsolete graphics, crowded three-column service descriptions. No gratuitous AI images when appropriate existing real/verified service photos are available.\r\nMain HUB desktop hero: preserve current water hero photo if present and approved, local contrast overlay only; center logo 240px width / full aspect ratio with about 56px top breathing room, eyebrow Arial 12px tracked, H1 Georgia regular 64px line-height 1.12, lead 20px and body Arial regular 17px line-height 1.65. Hero CTAs centered, primary light cream with deep teal type, secondary clear white outline. Maximum readable text width 760px. Main section H2 Georgia 38px. Card H3 Georgia 26px. Hub service presentation: 960px centered grid with 2-column editorial pairs; each service may use a real image and a wide, generous text column; avoid squeezed 3-column cards. 80px section top/bottom, 48px column gap, 40px row gap. First content row links services promptly.\r\nSUBPAGE desktop: hero with SHORT text block at left and an approved service photo at right, image aspect 4:3 or 4:5, with H1 Georgia 48px regular / 1.15 and lead Arial 18px. Subpage H2 Georgia 34px regular; H3 Georgia 24px. Eyebrow Arial 11–12px tracked uppercase; body Arial 17px line-height 1.65. 960px centered content and 760px maximum long-form reading line. At most one main photo per section when it adds information, no large logo in the content area. Service subpages U1-style H1 and up to 5–6 concise editorial sections. Science page is an accessible narrow reading page with citations, not a service shopfront. Pleasant Prairie regional page states Salem is actual studio, and omits unsourced driving time.\r\nButtons both templates: native Wix button, minimum 48px height; normal/offwhite text legible, hover background #087776 with white label. Do not mutate site-global Theme/Brand Kit. Local button styles only. Avoid infinite animations, scroll traps, opaque overlays, nonstandard navigation.\r\nMOBILE 390 CSS px: one content column; 24px outer margins; Hub H1 38px, subpage H1 34px, H2 30px, H3 24px, body 16px/1.65; hero logo Hub 200px. MOBILE 320 CSS px: 20px margins; Hub H1 34px, subpage H1 32px, body never below 16px; full-width 48px buttons, 12px vertical gap, images preceding longer text when stacked; no horizontal overflow. Wix phone-canvas preview is useful but is NOT an actual 320/390 browser viewport: record separately.\r\nContent semantics: exactly one H1 per page; H2 section heads, H3 subheads; actual text rather than image of text, alt for informative images, decorative water background without stuffed alt. No invisible keyword blocks. Header/footer ownership always verified before changes; preserve shared components and site/global code.\r\nAccessibility: keyboard focus, contrast, readable copy, 48px actions, adequate link distinctions; links to present page routes not draft placeholders.\r\n\r\n\r\nCONTENT & SEO DIRECTION\r\nKeep main massage PAGE as an internal-navigation authority hub pointing to existing dedicated Deep Tissue, Swedish, MLD, Science and Square booking; it also describes currently bookable prenatal and facial/head massage only if actual Square catalog verifies them at execution time, without fabricating separate static pages.\r\nDedicated service subpages should each answer the technique-specific questions a client asks before booking, and link back to main massage HUB. Science page should answer research/limitations clearly with source links (NCCIH and Cleveland Clinic for MLD precautions). Pleasant Prairie should explicitly state Salem studio location; no local outpost, invented testimonials or drive-time metric.\r\nUse current Square catalog as only dynamic pricing/availability source. Remove old hardcoded 30/60/90/120 prices, deposit claims, unverified included amenities, legacy MassageBook booking links or obsolete claims in the affected PAGE BODY when verified as page-local. Do not update Square itself.\r\nCorrect unsupported broad claims (e.g. “detox,” “boost immunity,” “heal tissue,” “cure nerve pain,” “guaranteed recovery,” “realign bones,” “fascial adhesions released”) without implying massage is medically useless. Use measured statements: stress/relaxation, comfort, short-term pain support for some conditions, gentle MLD when appropriate. Recent surgery, unexplained swelling and thrombotic/infection concerns require clinician guidance. Do not assert blanket safety or prescribe post-op series to general public.\r\nPreserve genuine verified client testimonials if already legitimately present, but do not fabricate reviews or introduce unsourced review schema.\r\nGoogle helpful-content guidance emphasizes original, people-first pages and good experience over keyword repetition: https://developers.google.com/search/docs/fundamentals/creating-helpful-content\r\nNCCIH massage evidence/safety: https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know\r\nCleveland Clinic MLD cautions: https://my.clevelandclinic.org/health/treatments/21768-lymphatic-drainage-massage\r\n\r\n\r\nWIX SEO READ-ONLY AUDIT (2026-10-30)\r\nAll six existing STATIC_PAGE records have a matching self canonical according to Wix native resolved tags:\r\nanvbe /massage-therapy-services-salem-wi — title “Massage Therapy in Salem, WI | Matrix Massage & Bodywork”, native scripts 3: HealthAndBeautyBusiness, OfferCatalog, BreadcrumbList. Preserve until exact fact/validity audit.\r\ncib7o /deep-tissue-massage-salem-wi — title “Deep Tissue Massage Salem WI | Matrix Massage & Bodywork”, native scripts 2: FAQPage and standalone Question. Obsolete meta talks vaguely of “expert” relief and has trailing newline. Scope may warrant later correction.\r\nl014i /swedish-massage-salem-wi — title “Swedish Massage Salem WI | Matrix Massage & Bodywork”, native script FAQPage. Existing meta references aromatherapy without current service confirmation.\r\nlb1iq /manual-lymphatic-drainage-massage-salem-wi — title “Lymphatic Drainage Massage Salem WI | Matrix Massage & Bodywork”, native script FAQPage. Existing meta promises “detox” — rewrite proposed before final release.\r\nplsho /the-science-of-massage-therapy — title “Science of Massage Therapy in Salem WI | Matrix Massage”, native scripts HealthAndBeautyBusiness and Service. IMPORTANT: stored Service.url points to https://www.matrixmassage.net/science-of-massage-therapy, different from current self-canonical https://www.matrixmassage.net/the-science-of-massage-therapy. This mismatch must be corrected with an exact schema-only read-merge-write after content/URL verification, not by creating another Service script.\r\ncnpma /massage-near-pleasant-prairie-wi — title “Massage Near Pleasant Prairie, WI | Matrix Massage & Bodywork”, native script FAQPage. Existing short description has awkward keyword stuffing, propose readable update.\r\nThis audit did NOT inspect current page-code scripts, which can override content and SEO at runtime as on the Union Grove page. Therefore no runtime-tag or live rendered-head certification. Do not claim meta/schema visible to search engines until page code and rendering are checked. All values above are Wix native resolved tags, not full HTML rendering.\r\nNO SEO WRITES have occurred in R2. If approved body design is installed later, Chat can apply targeted draft SEO changes via Wix connected API after an immediate exact-page GET, full tag merge, publish:false; never overwrite other tags or publish a site. Native API availability does NOT authorize replacing entire Classic Editor body outside live editor.\r\n\r\n\r\nDEPENDENCY AUDIT / PREIMPLEMENTATION SAFETY GATES\r\n1. Wait until independent Union Grove session is SAVED/REOPEN-VERIFIED and no Wix editor session conflict. Do not inspect or edit that page in this suite.\r\n2. Confirm correct Matrix site ID, current live/Test Site statuses and current owner saved revision without restore. If unknown newer changes, stop rather than overwrite.\r\n3. Inspect current native PAGE CODE of all SIX target pages, NOT masterPage.js or site-wide code. For every page record full source, element IDs, imports/exports, onReady assignments, HTML injections, wix-seo-frontend runtime overrides, CMS/dataset/custom-element dependencies, booking hooks, hidden elements, related page-specific code. Record SHA-256 after LF normalization, size, and screenshot. Read-only, no Save/Run/Publish.\r\n4. Capture read-only desktop and native mobile screenshots of top/middle/bottom, page Layers ownership, current local hero/logo/images, actual CMS bindings, current anchors, booking hrefs, IDs and existing page SEO. Use current page names/IDs; confirm URLs. Cross-check scripts against native elements; do not delete code because it resembles Union Grove.\r\n5. Chat reviews captured source for each page. Any page with meaningful existing runtime functions requires a page-specific correction spec/verified baseline hash and separate permission scope BEFORE native installation. A source that already contains important functionality should not be replaced with no-op without risk review.\r\n6. Only after approved per-page code gates pass, install SAME EXISTING PAGES one at a time, starting with HUB, then Deep Tissue, Swedish, MLD, Science, Pleasant Prairie. Save/reopen after 1–2 sections, then mobile, then final QA/receipt. Do not disturb the next page if this page cannot be verified; capture evidence and continue read-only auditing of other pages.\r\n7. No redirects, domain changes, page duplication, CMS creation, Square writes, provider/customer mutation, live releases, emails, Google Search Console indexing submissions, robots/canonical global changes or Test Site deployment. Any behavior requiring them returns to Chat.\r\n\r\n\r\nWORK AUDIT-ONLY EXECUTION INSTRUCTIONS (FIRST LIVE PHASE, NOT INSTALL)\r\nUse only when Union Grove editor session completed and no other editors conflicting:\r\n- Open existing Matrix Wix Classic Editor. Confirm site ID cdec8df6-d518-4859-9f1e-f06bf5346d41.\r\n- For each of the six page IDs above, select existing page via Pages & Menu; confirm matching page name and URL slug before any action. Record code and screenshot without editing; also record desktop/mobile top-middle-bottom and existing local images/links/layers. Compute code SHA normalized LF where possible. Record native Wix SEO item data and any runtime override patterns seen.\r\n- Repeat read-only for all six even if one has suspicious code; mark page BLOCKED_FOR_CHAT_REVIEW and continue auditing other pages without making writes. Do not stop the entire audit prematurely on the first page-specific conflict. Stop ENTIRE audit only if the Wix site identity, concurrent editor integrity, permissions or read access becomes uncertain.\r\n- Deliver six code files, per-page screenshots and manifest JSON to the project QA/checkpoints folder; record any unavailable views as NOT TESTED. No Save, Publish, Run, Preview deployment, Test Site changes, site-history restore, global code or CMS changes.\r\n- Return evidence and receipt to Chat; Chat then writes exact per-page gated changes and QA before any Work installation.\r\n\r\n\r\nWORK VISUAL INSTALL PHASE (ONLY AFTER CHAT CODE APPROVAL)\r\nOne page at a time: existing component inventory → exact content swap → local layout adjustments → Save → full editor reload → Preview & link QA → native mobile corrections → Save & readback → evidence receipt → next page.\r\nCurrent Square catalog and genuine links must work without placing bookings. Test exact current booking destination https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services.\r\nStudio address: 24804 75th St, Salem, WI 53168; text to book (262) 939-9325. Do not add unsupported new SMS links if Wix blocks them; simply preserve text display for future implementation.\r\nQA: each page exact page ID/URL, one H1, headings, logo rule based on template type, content, correct services, links, schema/canonical, hover+keyboard, desktop+native mobile, actual 320px/390px only if real resize supported, no overflow/gaps, footer intact, no stale runtime overwrites, save/reload persistence, no unrelated changes, NEVER published.\r\nAll results labeled SAVED, VERIFIED, TESTED, NOT TESTED, BLOCKED, PUBLISHED (NO). Evidence links required; “complete” without readback fails acceptance.\r\n\r\n\r\nCHECKPOINT\r\nR2 prepared after verified Wix API inventory, website public-content review and canonical R1 documents. No user-visible Wix mutation has been made in this turn. Union Grove independent R1.1 continues untouched."
+  },
+  "seo": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "id": "lidzc",
+        "data": {
+          "itemSeoTags": {
+            "id": "STATIC_PAGE:lidzc",
+            "itemType": "STATIC_PAGE",
+            "itemId": "lidzc",
+            "tags": [
+              {
+                "type": "title",
+                "children": "Massage Near Union Grove, WI | Matrix Massage & Bodywork",
+                "custom": false,
+                "disabled": false
+              },
+              {
+                "type": "meta",
+                "props": {
+                  "name": "description",
+                  "content": "Looking for massage near Union Grove, WI? Visit Matrix Massage & Bodywork in Salem for personalized therapeutic, deep tissue, Swedish and lymphatic massage."
+                },
+                "children": "",
+                "custom": false,
+                "disabled": false
+              },
+              {
+                "type": "script",
+                "props": {
+                  "type": "application/ld+json"
+                },
+                "meta": {
+                  "schemaType": "kHPT_TmR",
+                  "displayName": "Massage Near Union Grove, Wisconsin Service Schema"
+                },
+                "children": "{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"@id\":\"https://www.matrixmassage.net/massage-near-union-grove-wi#service\",\"name\":\"Massage Near Union Grove, Wisconsin\",\"serviceType\":\"Customized massage therapy\",\"description\":\"Customized massage therapy for clients from Union Grove, provided at Matrix Massage & Bodywork in Salem, Wisconsin.\",\"url\":\"https://www.matrixmassage.net/massage-near-union-grove-wi\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.matrixmassage.net/massage-near-union-grove-wi\"},\"provider\":{\"@type\":\"HealthAndBeautyBusiness\",\"@id\":\"https://www.matrixmassage.net/#business\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\",\"telephone\":\"+1-262-939-9325\",\"priceRange\":\"$$\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"}},\"areaServed\":{\"@type\":\"City\",\"name\":\"Union Grove, Wisconsin\"}}",
+                "custom": false,
+                "disabled": false
+              }
+            ],
+            "focusKeywords": [],
+            "hasOverride": true,
+            "resolvedTags": [
+              {
+                "tag": {
+                  "type": "title",
+                  "children": "Massage Near Union Grove, WI | Matrix Massage & Bodywork",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_HOST_PAGE",
+                "inheritedTag": {
+                  "type": "title",
+                  "children": "MASSAGE NEAR UNION GROVE WI | Matrix Massage & Bodywork",
+                  "custom": false,
+                  "disabled": false
+                }
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "name": "description",
+                    "content": "Looking for massage near Union Grove, WI? Visit Matrix Massage & Bodywork in Salem for personalized therapeutic, deep tissue, Swedish and lymphatic massage."
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_HOST_PAGE"
+              },
+              {
+                "tag": {
+                  "type": "link",
+                  "props": {
+                    "rel": "canonical",
+                    "href": "https://www.matrixmassage.net/massage-near-union-grove-wi"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:title",
+                    "content": "Massage Near Union Grove, WI | Matrix Massage & Bodywork"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_HOST_PAGE",
+                "inheritedTag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:title",
+                    "content": "MASSAGE NEAR UNION GROVE WI | Matrix Massage & Bodywork"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                }
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:description",
+                    "content": "Looking for massage near Union Grove, WI? Visit Matrix Massage & Bodywork in Salem for personalized therapeutic, deep tissue, Swedish and lymphatic massage."
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_HOST_PAGE"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:image",
+                    "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:image:width",
+                    "content": "2500"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:image:height",
+                    "content": "1330"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:url",
+                    "content": "https://www.matrixmassage.net/massage-near-union-grove-wi"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:site_name",
+                    "content": "Matrix Massage & Bodywork"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:type",
+                    "content": "website"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              },
+              {
+                "tag": {
+                  "type": "script",
+                  "props": {
+                    "type": "application/ld+json"
+                  },
+                  "meta": {
+                    "schemaType": "kHPT_TmR",
+                    "displayName": "Massage Near Union Grove, Wisconsin Service Schema"
+                  },
+                  "children": "{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"@id\":\"https://www.matrixmassage.net/massage-near-union-grove-wi#service\",\"name\":\"Massage Near Union Grove, Wisconsin\",\"serviceType\":\"Customized massage therapy\",\"description\":\"Customized massage therapy for clients from Union Grove, provided at Matrix Massage & Bodywork in Salem, Wisconsin.\",\"url\":\"https://www.matrixmassage.net/massage-near-union-grove-wi\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.matrixmassage.net/massage-near-union-grove-wi\"},\"provider\":{\"@type\":\"HealthAndBeautyBusiness\",\"@id\":\"https://www.matrixmassage.net/#business\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\",\"telephone\":\"+1-262-939-9325\",\"priceRange\":\"$$\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"}},\"areaServed\":{\"@type\":\"City\",\"name\":\"Union Grove, Wisconsin\"}}",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_HOST_PAGE"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "name": "google-site-verification",
+                    "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_SITE"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "name": "twitter:card",
+                    "content": "summary_large_image"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "name": "twitter:title",
+                    "content": "Massage Near Union Grove, WI | Matrix Massage & Bodywork"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_HOST_PAGE",
+                "inheritedTag": {
+                  "type": "meta",
+                  "props": {
+                    "name": "twitter:title",
+                    "content": "MASSAGE NEAR UNION GROVE WI | Matrix Massage & Bodywork"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                }
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "name": "twitter:description",
+                    "content": "Looking for massage near Union Grove, WI? Visit Matrix Massage & Bodywork in Salem for personalized therapeutic, deep tissue, Swedish and lymphatic massage."
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_HOST_PAGE"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "name": "twitter:image",
+                    "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              }
+            ],
+            "hostPageId": "lidzc",
+            "publishStatus": "PUBLISH_STATUS_UNSPECIFIED",
+            "origin": "ORIGIN_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "id": "cnpma",
+        "data": {
+          "itemSeoTags": {
+            "id": "STATIC_PAGE:cnpma",
+            "itemType": "STATIC_PAGE",
+            "itemId": "cnpma",
+            "tags": [
+              {
+                "type": "meta",
+                "props": {
+                  "name": "description",
+                  "content": "Pleasant Prairie massage enthusiasts & residents: Looking for expert massage therapy near you? Matrix Massage in Salem, WI offers cupping, red light, deep tissue & more."
+                },
+                "children": "",
+                "custom": false,
+                "disabled": false
+              },
+              {
+                "type": "title",
+                "children": "Massage Near Pleasant Prairie, WI | Matrix Massage & Bodywork",
+                "custom": false,
+                "disabled": false
+              },
+              {
+                "type": "script",
+                "props": {
+                  "type": "application/ld+json"
+                },
+                "meta": {
+                  "schemaType": "MZxs0U9B",
+                  "displayName": "FAQ Schema"
+                },
+                "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"FAQPage\",   \"mainEntity\": [     {       \"@type\": \"Question\",       \"name\": \"Do you offer massage therapy near Pleasant Prairie, WI?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Yes, Matrix Massage is located just a short drive from Pleasant Prairie, WI. We offer professional massage therapy including deep tissue, Swedish, lymphatic drainage, and red light therapy.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"How far is Matrix Massage from Pleasant Prairie?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Matrix Massage is located in Salem, WI — approximately 10 to 15 minutes from Pleasant Prairie. We're easily accessible via 75th St (Highway 50) with convenient parking on-site.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"What types of massage do you offer for clients from Pleasant Prairie?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"We offer deep tissue massage, Swedish massage, manual lymphatic drainage, red light therapy, cupping, and wellness add-ons such as magnesium soaks and muscle scraping.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"Do you serve clients from both Wisconsin and Illinois?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Yes, our clinic welcomes clients from both Wisconsin and northern Illinois, including Pleasant Prairie, Antioch, Kenosha, and surrounding areas.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"Is red light therapy available for Pleasant Prairie clients?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Yes, we offer red light therapy using low-EMF, clinical-grade devices. Pleasant Prairie clients can book red light sessions on their own or as part of a massage therapy package.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"How can I book a massage from Pleasant Prairie?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"You can book online through our website or text 262-939-9325. We're just minutes from Pleasant Prairie and offer easy scheduling with flexible options.\"       }     }   ] }",
+                "custom": false,
+                "disabled": false
+              }
+            ],
+            "focusKeywords": [],
+            "hasOverride": true,
+            "resolvedTags": [
+              {
+                "tag": {
+                  "type": "title",
+                  "children": "Massage Near Pleasant Prairie, WI | Matrix Massage & Bodywork",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_HOST_PAGE",
+                "inheritedTag": {
+                  "type": "title",
+                  "children": "MASSAGE NEAR PLEASANT PRAIRIE WI | Matrix Massage & Bodywork",
+                  "custom": false,
+                  "disabled": false
+                }
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "name": "description",
+                    "content": "Pleasant Prairie massage enthusiasts & residents: Looking for expert massage therapy near you? Matrix Massage in Salem, WI offers cupping, red light, deep tissue & more."
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_HOST_PAGE"
+              },
+              {
+                "tag": {
+                  "type": "link",
+                  "props": {
+                    "rel": "canonical",
+                    "href": "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:title",
+                    "content": "Massage Near Pleasant Prairie, WI | Matrix Massage & Bodywork"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_HOST_PAGE",
+                "inheritedTag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:title",
+                    "content": "MASSAGE NEAR PLEASANT PRAIRIE WI | Matrix Massage & Bodywork"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                }
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:description",
+                    "content": "Pleasant Prairie massage enthusiasts & residents: Looking for expert massage therapy near you? Matrix Massage in Salem, WI offers cupping, red light, deep tissue & more."
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_HOST_PAGE"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:image",
+                    "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:image:width",
+                    "content": "2500"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:image:height",
+                    "content": "1330"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:url",
+                    "content": "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:site_name",
+                    "content": "Matrix Massage & Bodywork"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "property": "og:type",
+                    "content": "website"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              },
+              {
+                "tag": {
+                  "type": "script",
+                  "props": {
+                    "type": "application/ld+json"
+                  },
+                  "meta": {
+                    "schemaType": "MZxs0U9B",
+                    "displayName": "FAQ Schema"
+                  },
+                  "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Do you offer massage therapy near Pleasant Prairie, WI?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes, Matrix Massage is located just a short drive from Pleasant Prairie, WI. We offer professional massage therapy including deep tissue, Swedish, lymphatic drainage, and red light therapy.\"}},{\"@type\":\"Question\",\"name\":\"How far is Matrix Massage from Pleasant Prairie?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix Massage is located in Salem, WI — approximately 10 to 15 minutes from Pleasant Prairie. We're easily accessible via 75th St (Highway 50) with convenient parking on-site.\"}},{\"@type\":\"Question\",\"name\":\"What types of massage do you offer for clients from Pleasant Prairie?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"We offer deep tissue massage, Swedish massage, manual lymphatic drainage, red light therapy, cupping, and wellness add-ons such as magnesium soaks and muscle scraping.\"}},{\"@type\":\"Question\",\"name\":\"Do you serve clients from both Wisconsin and Illinois?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes, our clinic welcomes clients from both Wisconsin and northern Illinois, including Pleasant Prairie, Antioch, Kenosha, and surrounding areas.\"}},{\"@type\":\"Question\",\"name\":\"Is red light therapy available for Pleasant Prairie clients?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes, we offer red light therapy using low-EMF, clinical-grade devices. Pleasant Prairie clients can book red light sessions on their own or as part of a massage therapy package.\"}},{\"@type\":\"Question\",\"name\":\"How can I book a massage from Pleasant Prairie?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You can book online through our website or text 262-939-9325. We're just minutes from Pleasant Prairie and offer easy scheduling with flexible options.\"}}]}",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_HOST_PAGE"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "name": "google-site-verification",
+                    "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_SITE"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "name": "twitter:card",
+                    "content": "summary_large_image"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "name": "twitter:title",
+                    "content": "Massage Near Pleasant Prairie, WI | Matrix Massage & Bodywork"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_HOST_PAGE",
+                "inheritedTag": {
+                  "type": "meta",
+                  "props": {
+                    "name": "twitter:title",
+                    "content": "MASSAGE NEAR PLEASANT PRAIRIE WI | Matrix Massage & Bodywork"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                }
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "name": "twitter:description",
+                    "content": "Pleasant Prairie massage enthusiasts & residents: Looking for expert massage therapy near you? Matrix Massage in Salem, WI offers cupping, red light, deep tissue & more."
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_HOST_PAGE"
+              },
+              {
+                "tag": {
+                  "type": "meta",
+                  "props": {
+                    "name": "twitter:image",
+                    "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+                  },
+                  "children": "",
+                  "custom": false,
+                  "disabled": false
+                },
+                "source": "TAG_SOURCE_DEFAULT_PATTERN"
+              }
+            ],
+            "hostPageId": "cnpma",
+            "publishStatus": "PUBLISH_STATUS_UNSPECIFIED",
+            "origin": "ORIGIN_UNSPECIFIED"
+          }
+        }
+      }
+    }
+  ]
+}
