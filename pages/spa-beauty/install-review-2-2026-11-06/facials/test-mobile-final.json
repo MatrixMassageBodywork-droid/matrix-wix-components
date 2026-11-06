@@ -1,0 +1,40 @@
+{
+  "inner": {
+    "height": 12939,
+    "openFAQs": 6,
+    "scrollWidth": 320,
+    "width": 320
+  },
+  "bounds": {
+    "element": {
+      "bottom": 6737,
+      "height": 12939,
+      "left": 514,
+      "right": 834,
+      "top": -6202,
+      "width": 320,
+      "x": 514,
+      "y": -6202
+    },
+    "footer": {
+      "bottom": 7538,
+      "height": 781,
+      "left": 514,
+      "right": 834,
+      "top": 6757,
+      "width": 320,
+      "x": 514,
+      "y": 6757
+    },
+    "section": {
+      "bottom": 6757,
+      "height": 12979,
+      "left": 514,
+      "right": 834,
+      "top": -6222,
+      "width": 320,
+      "x": 514,
+      "y": -6222
+    }
+  }
+}

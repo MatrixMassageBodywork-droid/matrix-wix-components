@@ -1,0 +1,605 @@
+{
+  "before": [
+    {
+      "itemId": "rrxx1",
+      "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+      "tags": [
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "e0-BkKUG",
+            "displayName": "GEO Facial Schema"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"HealthAndBeautyBusiness\",\"name\":\"Matrix Massage & Bodywork\",\"image\":\"https://static.wixstatic.com/media/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png/v1/fill/w_1050,h_600,al_c/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png\",\"url\":\"https://www.matrixmassage.net/\",\"telephone\":\"+1-262-939-9325\",\"priceRange\":\"$$\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"},\"areaServed\":[{\"@type\":\"City\",\"name\":\"Salem\"},{\"@type\":\"City\",\"name\":\"Kenosha\"},{\"@type\":\"City\",\"name\":\"Pleasant Prairie\"},{\"@type\":\"City\",\"name\":\"Bristol\"},{\"@type\":\"City\",\"name\":\"Antioch\"},{\"@type\":\"City\",\"name\":\"Union Grove\"}],\"description\":\"Customized facial treatments in Salem, WI designed to support hydration, glow, relaxation, skin texture, and healthy-looking skin.\",\"@id\":\"https://www.matrixmassage.net/#business\"}",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "title",
+          "children": "Custom Facials in Salem, WI | Matrix Massage & Bodywork",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Customized facials in Salem, WI with professional skincare, Circadia options, real Matrix treatment photos, skin-goal pathways and personalized care."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "link",
+          "props": {
+            "rel": "canonical",
+            "href": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:title",
+            "content": "Custom Facials in Salem, WI | Matrix"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:description",
+            "content": "Explore personalized facial care, Circadia options and skin-goal pathways at Matrix Massage & Bodywork in Salem, Wisconsin."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_333ec4c2ff3e4c748a95b1532c1e0d8b~mv2.jpg"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:url",
+            "content": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "twitter:title",
+            "content": "Custom Facials in Salem, WI | Matrix"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "twitter:description",
+            "content": "Explore personalized facial care, Circadia options and skin-goal pathways at Matrix Massage & Bodywork in Salem, Wisconsin."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "twitter:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_333ec4c2ff3e4c748a95b1532c1e0d8b~mv2.jpg"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"name\":\"Custom Facials in Salem, WI\",\"url\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi\",\"serviceType\":\"Facial skincare services\",\"provider\":{\"@id\":\"https://www.matrixmassage.net/#business\"},\"areaServed\":[\"Salem Lakes, Wisconsin\",\"Paddock Lake, Wisconsin\",\"Bristol, Wisconsin\",\"Pleasant Prairie, Wisconsin\",\"Twin Lakes, Wisconsin\",\"Kenosha County, Wisconsin\",\"Antioch, Illinois\"],\"description\":\"Personalized facial skincare in Salem, Wisconsin using professional skincare, including Circadia options, selected around current skin, sensitivities and goals.\",\"@id\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi#service\"}",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Spa & Beauty Services\",\"item\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Custom Facials in Salem, WI\",\"item\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi\"}]}",
+          "custom": false,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "itemId": "l21lg",
+      "url": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+      "tags": [
+        {
+          "type": "title",
+          "children": "Japanese Head Spa in Salem, WI | Scalp Treatments & Infusions",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Book a Japanese Head Spa in Salem, WI with scalp analysis, waterfall therapy, steam, massage and customized Matrix Precision Scalp Infusions."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "kHPT_TmR",
+            "displayName": "Japanese Head Spa Service Schema"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"@id\":\"https://www.matrixmassage.net/japanese-head-spa-salem-wi#service\",\"name\":\"Japanese Head Spa in Salem, Wisconsin\",\"alternateName\":\"Matrix Japanese Head Spa and Scalp Infusions\",\"serviceType\":\"Japanese-inspired head spa and cosmetic scalp treatment\",\"description\":\"A personalized head spa service with scalp analysis, cleansing, waterfall therapy, steam, scalp massage and a customized Matrix Precision Scalp Infusion selected after scalp analysis.\",\"url\":\"https://www.matrixmassage.net/japanese-head-spa-salem-wi\",\"provider\":{\"@type\":\"HealthAndBeautyBusiness\",\"@id\":\"https://www.matrixmassage.net/#business\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\",\"telephone\":\"+1-262-939-9325\",\"priceRange\":\"$$\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"}},\"areaServed\":[{\"@type\":\"City\",\"name\":\"Salem Lakes, Wisconsin\"},{\"@type\":\"City\",\"name\":\"Paddock Lake, Wisconsin\"},{\"@type\":\"City\",\"name\":\"Bristol, Wisconsin\"},{\"@type\":\"City\",\"name\":\"Kenosha, Wisconsin\"},{\"@type\":\"City\",\"name\":\"Antioch, Illinois\"}],\"hasOfferCatalog\":{\"@type\":\"OfferCatalog\",\"name\":\"Matrix Head Spa Services\",\"itemListElement\":[{\"@type\":\"Offer\",\"price\":\"95\",\"priceCurrency\":\"USD\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Matrix Scalp Cleanse & Refresh Head Spa\",\"duration\":\"PT45M\"}},{\"@type\":\"Offer\",\"price\":\"135\",\"priceCurrency\":\"USD\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Matrix Signature Head Spa\",\"duration\":\"PT60M\"}},{\"@type\":\"Offer\",\"price\":\"195\",\"priceCurrency\":\"USD\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Matrix Deep Relaxation Head Spa\",\"duration\":\"PT90M\"}},{\"@type\":\"Offer\",\"price\":\"265\",\"priceCurrency\":\"USD\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Matrix Intensive Scalp Renewal Head Spa\",\"duration\":\"PT120M\"}},{\"@type\":\"Offer\",\"price\":\"135\",\"priceCurrency\":\"USD\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Matrix Men's Scalp Refresh + Mini Facial\",\"duration\":\"PT60M\"}},{\"@type\":\"Offer\",\"price\":\"285\",\"priceCurrency\":\"USD\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Matrix Head Spa + Hydrating Glow Facial\",\"duration\":\"PT120M\"}},{\"@type\":\"Offer\",\"price\":\"175\",\"priceCurrency\":\"USD\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Matrix Men's Head Spa + Refreshing Custom Facial\",\"duration\":\"PT90M\"}}]}}",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "link",
+          "props": {
+            "rel": "canonical",
+            "href": "https://www.matrixmassage.net/japanese-head-spa-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/japanese-head-spa-salem-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Spa & Beauty Services\",\"item\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Japanese Head Spa in Salem, WI\",\"item\":\"https://www.matrixmassage.net/japanese-head-spa-salem-wi\"}]}",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "displayName": "Matrix Head Spa FAQ"
+          },
+          "children": "{\"@context\": \"https://schema.org\", \"@type\": \"FAQPage\", \"mainEntity\": [{\"@type\": \"Question\", \"name\": \"What is a Japanese Head Spa?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"A Japanese Head Spa is a luxurious scalp and relaxation ritual. At Matrix it includes a scalp analysis, double cleansing, exfoliation, steam, waterfall therapy, a customized Precision Scalp Infusion™ and an extended scalp, neck and shoulder massage.\"}}, {\"@type\": \"Question\", \"name\": \"What makes the Matrix Head Spa different?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"We craft our own organic Precision Scalp Infusions™ in house, based on scalp science, and match one to your scalp after analysis. Every Head Spa also includes up to 30 minutes of complimentary Zen Lounge time.\"}}, {\"@type\": \"Question\", \"name\": \"Which Head Spa should I book first?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"The Matrix Signature Head Spa (60 minutes, $135) is our core luxury ritual and a beautiful first visit. Choose the Scalp Reset (45 minutes, $95) for focused maintenance, the Crown Ritual (90 minutes, $195) for an extended escape, or the BioTech Scalp Renewal (120 minutes, $265) for our most advanced experience with scalp imaging.\"}}, {\"@type\": \"Question\", \"name\": \"Can I book a Head Spa with short, thinning or no hair?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Yes. The Matrix Scalp Recovery Ritual (60 minutes, $135) is designed for shaved, thinning, short and low-hair scalps, with intensive scalp massage, pressure point therapy and a customized infusion.\"}}, {\"@type\": \"Question\", \"name\": \"Can I combine a Head Spa and a facial?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Yes. The Matrix Crown & Glow Ritual (120 minutes, $285) pairs our signature Head Spa with a customized mini facial. You can also add a Facial Massage Ritual or Mini Facial to any Head Spa.\"}}, {\"@type\": \"Question\", \"name\": \"How often should I book a Head Spa?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Many guests love a weekly or biweekly rhythm for ongoing scalp care. Our Scalp Reset Series (4 x 45 minutes, $340) and Signature Scalp Series (4 x 60 minutes, $500) make that easy.\"}}, {\"@type\": \"Question\", \"name\": \"Can I get my hair styled after my Head Spa?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Yes. Add an Express Blow Dry (from $35) or Luxury Blowout Styling (from $55), performed by a licensed cosmetologist when available.\"}}, {\"@type\": \"Question\", \"name\": \"What is your cancellation policy?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Your appointment time is reserved just for you, so we ask for at least 24 hours' notice to cancel or reschedule. Cancellations made within 24 hours of your appointment, for any reason, and no-shows are charged the full price of the service plus an automatic 20% gratuity.\"}}, {\"@type\": \"Question\", \"name\": \"Do I need a card on file to book?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Yes. To secure your appointment, complete our intake form and credit card authorization form when you book. If you have a Matrix gift card on file instead, its remaining balance is applied toward any late-cancellation fee.\"}}, {\"@type\": \"Question\", \"name\": \"Where is Matrix located for Japanese Head Spa?\", \"acceptedAnswer\": {\"@type\": \"Answer\", \"text\": \"Matrix Massage & Bodywork is at 24804 75th St, Salem, WI 53168, an easy drive from Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Silver Lake, Kansasville, Union Grove, Burlington, Pleasant Prairie, Kenosha and Antioch, IL. Book online or text (262) 939-9325.\"}}]}",
+          "custom": true,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "itemId": "ganam",
+      "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+      "tags": [
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Book face and body waxing in Salem, WI at Matrix Massage & Bodywork. Personalized hair removal near Paddock Lake, Bristol and Antioch."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:image",
+            "content": "e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png"
+          },
+          "meta": {
+            "width": 1050,
+            "height": 600
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "title",
+          "children": "Waxing & Hair Removal in Salem WI | Matrix Massage & Bodywork",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "pPXMChEu",
+            "displayName": "FAQ Waxing Schema"
+          },
+          "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"FAQPage\",   \"mainEntity\": [     {       \"@type\": \"Question\",       \"name\": \"What waxing services do you offer?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Matrix Massage & Bodywork offers facial and body waxing services in Salem, WI in a clean and relaxing spa environment.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"How long should hair be before waxing?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"For best results, hair should typically be about one quarter inch long before waxing.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"Does waxing hurt?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Some temporary discomfort is normal during waxing, but most clients find the process quick and manageable.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"How long do waxing results last?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"Waxing results vary by individual, but many clients enjoy smoother skin for several weeks.\"       }     },     {       \"@type\": \"Question\",       \"name\": \"How do I book a waxing appointment?\",       \"acceptedAnswer\": {         \"@type\": \"Answer\",         \"text\": \"You can book online or text 262-939-9325 to schedule your waxing appointment at Matrix Massage & Bodywork in Salem, WI.\"       }     }   ] }",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "je05pkEa",
+            "displayName": "GEO Waxing Schema"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"HealthAndBeautyBusiness\",\"name\":\"Matrix Massage & Bodywork\",\"image\":\"https://static.wixstatic.com/media/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png/v1/fill/w_1050,h_600,al_c/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png\",\"url\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi\",\"telephone\":\"+1-262-939-9325\",\"priceRange\":\"$$\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"42.5585\",\"longitude\":\"-88.1234\"},\"areaServed\":[{\"@type\":\"City\",\"name\":\"Salem\"},{\"@type\":\"City\",\"name\":\"Kenosha\"},{\"@type\":\"City\",\"name\":\"Pleasant Prairie\"},{\"@type\":\"City\",\"name\":\"Bristol\"},{\"@type\":\"City\",\"name\":\"Antioch\"},{\"@type\":\"City\",\"name\":\"Union Grove\"}],\"description\":\"Professional waxing and hair removal services in Salem, WI at Matrix Massage & Bodywork.\",\"serviceType\":\"Waxing\"}",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "Gk9MDnee",
+            "displayName": "Waxing Service Schema"
+          },
+          "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"Service\",   \"serviceType\": \"Waxing and hair removal\",   \"name\": \"Waxing Services in Salem WI\",   \"description\": \"Professional facial and body waxing services at Matrix Massage & Bodywork in Salem, WI.\",   \"provider\": {     \"@type\": \"HealthAndBeautyBusiness\",     \"name\": \"Matrix Massage & Bodywork\",     \"telephone\": \"+1-262-939-9325\",     \"address\": {       \"@type\": \"PostalAddress\",       \"streetAddress\": \"24804 75th St\",       \"addressLocality\": \"Salem\",       \"addressRegion\": \"WI\",       \"postalCode\": \"53168\",       \"addressCountry\": \"US\"     }   },   \"areaServed\": [     { \"@type\": \"City\", \"name\": \"Salem\" },     { \"@type\": \"City\", \"name\": \"Kenosha\" },     { \"@type\": \"City\", \"name\": \"Pleasant Prairie\" },     { \"@type\": \"City\", \"name\": \"Bristol\" },     { \"@type\": \"City\", \"name\": \"Antioch\" },     { \"@type\": \"City\", \"name\": \"Union Grove\" }   ] }",
+          "custom": false,
+          "disabled": false
+        }
+      ]
+    }
+  ],
+  "setRequest": {
+    "itemType": "STATIC_PAGE",
+    "publish": false,
+    "entries": [
+      {
+        "itemId": "rrxx1",
+        "itemSeoTags": {
+          "tags": [
+            {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "meta": {
+                "schemaType": "e0-BkKUG",
+                "displayName": "GEO Facial Schema"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@type\":\"HealthAndBeautyBusiness\",\"name\":\"Matrix Massage & Bodywork\",\"image\":\"https://static.wixstatic.com/media/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png/v1/fill/w_1050,h_600,al_c/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png\",\"url\":\"https://www.matrixmassage.net/\",\"telephone\":\"+1-262-939-9325\",\"priceRange\":\"$$\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"},\"areaServed\":[{\"@type\":\"City\",\"name\":\"Salem\"},{\"@type\":\"City\",\"name\":\"Kenosha\"},{\"@type\":\"City\",\"name\":\"Pleasant Prairie\"},{\"@type\":\"City\",\"name\":\"Bristol\"},{\"@type\":\"City\",\"name\":\"Antioch\"},{\"@type\":\"City\",\"name\":\"Union Grove\"},\"Union Grove, Wisconsin\",\"Trevor, Wisconsin\"],\"description\":\"Customized facial treatments in Salem, WI designed to support hydration, glow, relaxation, skin texture, and healthy-looking skin.\",\"@id\":\"https://www.matrixmassage.net/#business\"}",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "title",
+              "children": "Custom Facials in Salem, WI | Matrix Massage & Bodywork",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "meta",
+              "props": {
+                "name": "description",
+                "content": "Custom and acne-prone skin facials in Salem, WI. Welcoming Union Grove, Twin Lakes, Trevor, Bristol and Antioch to Matrix Massage & Bodywork."
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "link",
+              "props": {
+                "rel": "canonical",
+                "href": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "meta",
+              "props": {
+                "property": "og:title",
+                "content": "Custom Facials in Salem, WI | Matrix"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "meta",
+              "props": {
+                "property": "og:description",
+                "content": "Explore personalized facial care, Circadia options and skin-goal pathways at Matrix Massage & Bodywork in Salem, Wisconsin."
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "meta",
+              "props": {
+                "property": "og:image",
+                "content": "https://static.wixstatic.com/media/e4cc43_333ec4c2ff3e4c748a95b1532c1e0d8b~mv2.jpg"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "meta",
+              "props": {
+                "property": "og:url",
+                "content": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "meta",
+              "props": {
+                "name": "twitter:title",
+                "content": "Custom Facials in Salem, WI | Matrix"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "meta",
+              "props": {
+                "name": "twitter:description",
+                "content": "Explore personalized facial care, Circadia options and skin-goal pathways at Matrix Massage & Bodywork in Salem, Wisconsin."
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "meta",
+              "props": {
+                "name": "twitter:image",
+                "content": "https://static.wixstatic.com/media/e4cc43_333ec4c2ff3e4c748a95b1532c1e0d8b~mv2.jpg"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"name\":\"Custom Facials in Salem, WI\",\"url\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi\",\"serviceType\":\"Facial skincare services\",\"provider\":{\"@id\":\"https://www.matrixmassage.net/#business\"},\"areaServed\":[\"Salem Lakes, Wisconsin\",\"Paddock Lake, Wisconsin\",\"Bristol, Wisconsin\",\"Pleasant Prairie, Wisconsin\",\"Twin Lakes, Wisconsin\",\"Kenosha County, Wisconsin\",\"Antioch, Illinois\",\"Union Grove, Wisconsin\",\"Trevor, Wisconsin\"],\"description\":\"Personalized cosmetic facial skincare in Salem, Wisconsin for hydration, acne-prone or congested skin, sensitivity and radiance, with Circadia and dermaplaning options selected for the individual and booked appointment.\",\"@id\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi#service\"}",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Spa & Beauty Services\",\"item\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Custom Facials in Salem, WI\",\"item\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi\"}]}",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Which facial should I choose for acne-prone skin?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Start with a Custom Facial and tell your provider that acne-prone skin or congestion is your priority. Clear + Balance is the related skin-goal pathway. Suitability and treatment steps are decided after reviewing your skin and routine.\"}},{\"@type\":\"Question\",\"name\":\"Do you offer anti-acne facials?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix offers personalized cosmetic facial care for acne-prone skin through the Custom Facial. Cleansing, suitable exfoliation, masks and hydration are selected for the individual. Facials do not replace medical acne treatment or guarantee clear skin.\"}},{\"@type\":\"Question\",\"name\":\"Are extractions included in every facial?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. Extractions are considered only when appropriate for your skin, comfort and booked appointment. Discuss congestion and active breakouts with your provider before treatment.\"}},{\"@type\":\"Question\",\"name\":\"What should I share before my appointment?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Tell us about allergies, sensitivities, current skincare, prescription products, recent peels or waxing, and any active irritation. Follow your prescriber’s directions; ask about treatment timing if you are unsure.\"}},{\"@type\":\"Question\",\"name\":\"Can I combine facial care with a Head Spa?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. The current menu includes Matrix Head Spa + Hydrating Glow Facial, which pairs customized scalp care with a mini facial, facial massage and hydration. Review its current details when booking.\"}},{\"@type\":\"Question\",\"name\":\"Where can I book a facial near Union Grove, Twin Lakes or Antioch?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Visit Matrix Massage & Bodywork at 24804 75th St, Salem, WI 53168. Our Salem studio serves Salem Lakes, Paddock Lake, Union Grove, Twin Lakes, Trevor, Bristol and nearby Antioch, Illinois. All appointments are at this Salem location. Book online or text 262-939-9325.\"}}]}"
+            }
+          ]
+        },
+        "fieldMask": "tags"
+      },
+      {
+        "itemId": "l21lg",
+        "itemSeoTags": {
+          "tags": [
+            {
+              "type": "title",
+              "children": "Japanese Head Spa in Salem, WI | Scalp Treatments & Infusions",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "meta",
+              "props": {
+                "name": "description",
+                "content": "Japanese Head Spa in Salem, WI with waterfall therapy, scalp massage and custom infusions. Near Bristol, Trevor, Twin Lakes, Union Grove and Antioch."
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "meta": {
+                "schemaType": "kHPT_TmR",
+                "displayName": "Japanese Head Spa Service Schema"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"@id\":\"https://www.matrixmassage.net/japanese-head-spa-salem-wi#service\",\"name\":\"Japanese Head Spa in Salem, Wisconsin\",\"alternateName\":\"Matrix Japanese Head Spa and Scalp Infusions\",\"serviceType\":\"Japanese-inspired head spa and cosmetic scalp treatment\",\"description\":\"A personalized head spa service with scalp analysis, cleansing, waterfall therapy, steam, scalp massage and a customized Matrix Precision Scalp Infusion selected after scalp analysis.\",\"url\":\"https://www.matrixmassage.net/japanese-head-spa-salem-wi\",\"provider\":{\"@type\":\"HealthAndBeautyBusiness\",\"@id\":\"https://www.matrixmassage.net/#business\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\",\"telephone\":\"+1-262-939-9325\",\"priceRange\":\"$$\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"}},\"areaServed\":[{\"@type\":\"City\",\"name\":\"Salem Lakes, Wisconsin\"},{\"@type\":\"City\",\"name\":\"Paddock Lake, Wisconsin\"},{\"@type\":\"City\",\"name\":\"Bristol, Wisconsin\"},{\"@type\":\"City\",\"name\":\"Kenosha, Wisconsin\"},{\"@type\":\"City\",\"name\":\"Antioch, Illinois\"},\"Union Grove, Wisconsin\",\"Trevor, Wisconsin\"],\"hasOfferCatalog\":{\"@type\":\"OfferCatalog\",\"name\":\"Matrix Head Spa Services\",\"itemListElement\":[{\"@type\":\"Offer\",\"price\":\"95\",\"priceCurrency\":\"USD\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Matrix Scalp Cleanse & Refresh Head Spa\",\"duration\":\"PT45M\"}},{\"@type\":\"Offer\",\"price\":\"135\",\"priceCurrency\":\"USD\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Matrix Signature Head Spa\",\"duration\":\"PT60M\"}},{\"@type\":\"Offer\",\"price\":\"195\",\"priceCurrency\":\"USD\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Matrix Deep Relaxation Head Spa\",\"duration\":\"PT90M\"}},{\"@type\":\"Offer\",\"price\":\"265\",\"priceCurrency\":\"USD\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Matrix Intensive Scalp Renewal Head Spa\",\"duration\":\"PT120M\"}},{\"@type\":\"Offer\",\"price\":\"135\",\"priceCurrency\":\"USD\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Matrix Men's Scalp Refresh + Mini Facial\",\"duration\":\"PT60M\"}},{\"@type\":\"Offer\",\"price\":\"285\",\"priceCurrency\":\"USD\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Matrix Head Spa + Hydrating Glow Facial\",\"duration\":\"PT120M\"}},{\"@type\":\"Offer\",\"price\":\"175\",\"priceCurrency\":\"USD\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Matrix Men's Head Spa + Refreshing Custom Facial\",\"duration\":\"PT90M\"}}]}}",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "link",
+              "props": {
+                "rel": "canonical",
+                "href": "https://www.matrixmassage.net/japanese-head-spa-salem-wi"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/japanese-head-spa-salem-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Spa & Beauty Services\",\"item\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Japanese Head Spa in Salem, WI\",\"item\":\"https://www.matrixmassage.net/japanese-head-spa-salem-wi\"}]}",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "meta": {
+                "displayName": "Matrix Head Spa FAQ"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What is a Japanese Head Spa?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"A Japanese Head Spa is a cosmetic scalp-care and relaxation experience combining scalp analysis, customized products, cleansing, warm-water therapy and massage. The exact steps and massage time depend on the service you book.\"}},{\"@type\":\"Question\",\"name\":\"Which Head Spa should I choose for my first visit?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The Matrix Signature Head Spa is the core 60-minute experience at $135. Choose Scalp Cleanse & Refresh for a 45-minute visit, or a longer Head Spa for more massage and scalp-care time.\"}},{\"@type\":\"Question\",\"name\":\"Will my hair be dry when I leave?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. Hair is left wet. Professional drying or styling must be booked separately, so arrange it in advance if you want that service.\"}},{\"@type\":\"Question\",\"name\":\"Can I book with short hair, thinning hair or extensions?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Your provider can discuss scalp care for your hair needs. Contact Matrix first if you have extensions, braids, very short or thinning hair, recent chemical services or scalp concerns so the suitable approach can be confirmed.\"}},{\"@type\":\"Question\",\"name\":\"Does Head Spa treat hair loss or scalp disease?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. Matrix Head Spa services focus on cosmetic scalp care and relaxation. New hair loss, painful or inflamed areas and persistent scalp symptoms should be evaluated by an appropriate healthcare professional.\"}},{\"@type\":\"Question\",\"name\":\"Can I add a facial to my Head Spa?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Choose Matrix Head Spa + Hydrating Glow Facial for a 120-minute combination at $285. The booking menu also offers men’s Head Spa combinations with a mini facial or a custom facial.\"}},{\"@type\":\"Question\",\"name\":\"How often should I book?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Choose a schedule around your preferences, scalp comfort and the experience you enjoy. Your provider can discuss a suitable return visit; a fixed weekly schedule is not required.\"}},{\"@type\":\"Question\",\"name\":\"Where can I book a Head Spa near Union Grove, Twin Lakes or Antioch?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Visit Matrix Massage & Bodywork at 24804 75th St, Salem, WI 53168. Our Salem studio serves Salem Lakes, Paddock Lake, Union Grove, Twin Lakes, Trevor, Bristol and nearby Antioch, Illinois. All appointments are at this Salem location. Book online or text 262-939-9325.\"}}]}",
+              "custom": true,
+              "disabled": false
+            }
+          ]
+        },
+        "fieldMask": "tags"
+      },
+      {
+        "itemId": "ganam",
+        "itemSeoTags": {
+          "tags": [
+            {
+              "type": "meta",
+              "props": {
+                "name": "description",
+                "content": "Face and body waxing in Salem, WI. Visit Matrix from Union Grove, Twin Lakes, Trevor, Bristol and Antioch for personalized hair removal."
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "meta",
+              "props": {
+                "property": "og:image",
+                "content": "e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png"
+              },
+              "meta": {
+                "width": 1050,
+                "height": 600
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "title",
+              "children": "Waxing & Hair Removal in Salem WI | Matrix Massage & Bodywork",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "meta": {
+                "schemaType": "pPXMChEu",
+                "displayName": "FAQ Waxing Schema"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What waxing services do you offer?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix offers Facial Waxing Services and Body Waxing. The booking menu lists the areas and combinations currently available, along with appointment times and pricing.\"}},{\"@type\":\"Question\",\"name\":\"How long should hair be before waxing?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Hair should generally be around one-quarter inch long. If you are unsure about the length or have recently shaved, contact Matrix before booking so timing can be discussed.\"}},{\"@type\":\"Question\",\"name\":\"Does waxing hurt?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Temporary discomfort is normal when hair is removed. Sensitivity varies by area and person. Tell your provider how you are feeling so the service can be paced around your comfort.\"}},{\"@type\":\"Question\",\"name\":\"How long do waxing results last?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Results vary with hair growth, the area treated and your routine. Many people enjoy a smooth feel for several weeks, but there is no fixed result or regrowth schedule for everyone.\"}},{\"@type\":\"Question\",\"name\":\"Can I wax if I use retinol or acne medication?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Tell your provider about all skincare and medications before booking. Retinoids, isotretinoin and some other products or treatments can make waxing unsafe for the skin. Do not wax while taking isotretinoin or within six months of taking it. Ask your prescriber about safe timing and alternatives.\"}},{\"@type\":\"Question\",\"name\":\"Can I have waxing and a facial on the same day?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Ask Matrix before booking both. Suitability depends on the area, skin condition and the facial steps planned; exfoliating treatments may need separate timing.\"}},{\"@type\":\"Question\",\"name\":\"What should I avoid after waxing?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Follow the aftercare given for your treatment area. Keep care gentle and ask about heat, sweating, friction, sun exposure and when to resume exfoliating products.\"}},{\"@type\":\"Question\",\"name\":\"Where can I book waxing near Union Grove, Twin Lakes or Antioch?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Visit Matrix Massage & Bodywork at 24804 75th St, Salem, WI 53168. Our Salem studio serves Salem Lakes, Paddock Lake, Union Grove, Twin Lakes, Trevor, Bristol and nearby Antioch, Illinois. All appointments are at this Salem location. Book online or text 262-939-9325.\"}}]}",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "meta": {
+                "schemaType": "je05pkEa",
+                "displayName": "GEO Waxing Schema"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@type\":\"HealthAndBeautyBusiness\",\"name\":\"Matrix Massage & Bodywork\",\"image\":\"https://static.wixstatic.com/media/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png/v1/fill/w_1050,h_600,al_c/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png\",\"url\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi\",\"telephone\":\"+1-262-939-9325\",\"priceRange\":\"$$\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":\"42.5585\",\"longitude\":\"-88.1234\"},\"areaServed\":[{\"@type\":\"City\",\"name\":\"Salem\"},{\"@type\":\"City\",\"name\":\"Kenosha\"},{\"@type\":\"City\",\"name\":\"Pleasant Prairie\"},{\"@type\":\"City\",\"name\":\"Bristol\"},{\"@type\":\"City\",\"name\":\"Antioch\"},{\"@type\":\"City\",\"name\":\"Union Grove\"}],\"description\":\"Professional waxing and hair removal services in Salem, WI at Matrix Massage & Bodywork.\",\"serviceType\":\"Waxing\"}",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "meta": {
+                "schemaType": "Gk9MDnee",
+                "displayName": "Waxing Service Schema"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"serviceType\":\"Waxing and hair removal\",\"name\":\"Waxing Services in Salem WI\",\"description\":\"Professional facial and body waxing services at Matrix Massage & Bodywork in Salem, WI.\",\"provider\":{\"@type\":\"HealthAndBeautyBusiness\",\"name\":\"Matrix Massage & Bodywork\",\"telephone\":\"+1-262-939-9325\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"}},\"areaServed\":[{\"@type\":\"City\",\"name\":\"Salem\"},{\"@type\":\"City\",\"name\":\"Kenosha\"},{\"@type\":\"City\",\"name\":\"Pleasant Prairie\"},{\"@type\":\"City\",\"name\":\"Bristol\"},{\"@type\":\"City\",\"name\":\"Antioch\"},{\"@type\":\"City\",\"name\":\"Union Grove\"}]}",
+              "custom": false,
+              "disabled": false
+            }
+          ]
+        },
+        "fieldMask": "tags"
+      }
+    ]
+  },
+  "setResponse": {
+    "results": [
+      {
+        "itemMetadata": {
+          "id": "rrxx1",
+          "originalIndex": 0,
+          "success": true
+        }
+      },
+      {
+        "itemMetadata": {
+          "id": "l21lg",
+          "originalIndex": 1,
+          "success": false,
+          "error": {
+            "code": "INVALID_TAGS",
+            "description": "[{\"identifier\":\"script\",\"code\":\"TAG_TYPE_NOT_ALLOWED\",\"message\":\"TAG_TYPE_NOT_ALLOWED\",\"severity\":\"ERROR\"}]"
+          }
+        }
+      },
+      {
+        "itemMetadata": {
+          "id": "ganam",
+          "originalIndex": 2,
+          "success": true
+        }
+      }
+    ],
+    "bulkActionMetadata": {
+      "totalSuccesses": 2,
+      "totalFailures": 1,
+      "undetailedFailures": 0
+    }
+  }
+}

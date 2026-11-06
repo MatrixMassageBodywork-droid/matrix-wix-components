@@ -1,0 +1,45 @@
+{
+  "custom": {
+    "bottom": 1593.53125,
+    "height": 7596.53125,
+    "left": 0,
+    "right": 1348,
+    "top": -6003,
+    "width": 1348,
+    "x": 0,
+    "y": -6003
+  },
+  "footer": {
+    "bottom": 1966.5625,
+    "height": 373.03125,
+    "left": 0,
+    "right": 1348,
+    "top": 1593.53125,
+    "width": 1348,
+    "x": 0,
+    "y": 1593.53125
+  },
+  "images": [
+    {
+      "alt": "Matrix Massage & Bodywork",
+      "loaded": true
+    },
+    {
+      "alt": "A professional facial mask treatment from the Matrix treatment photo collection.",
+      "loaded": true
+    },
+    {
+      "alt": "Circadia serums and professional skincare products at Matrix.",
+      "loaded": true
+    },
+    {
+      "alt": "Circadia hydration skincare in the Matrix product collection.",
+      "loaded": true
+    },
+    {
+      "alt": "A facial treatment in progress from the Matrix treatment photo collection.",
+      "loaded": true
+    }
+  ],
+  "openFAQs": 6
+}

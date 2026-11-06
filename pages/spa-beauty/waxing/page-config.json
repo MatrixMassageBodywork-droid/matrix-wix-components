@@ -10,5 +10,10 @@
   "seoSource": "../subpage-review-2026-11-06/baseline/waxing.json",
   "bodyFile": "body.html",
   "cssFile": "style.css",
-  "expectedFaqCount": 8
+  "expectedFaqCount": 8,
+  "wixPageId": "ganam",
+  "publicationStatus": "PUBLISHED",
+  "publicationVerifiedAt": "2026-11-06T16:07:37Z",
+  "rendererCommit": "143a56d2eb86306386085d2cb4a57cc5967f06b8",
+  "releaseCheckpoint": "../install-review-2-2026-11-06/PUBLISHED_CHECKPOINT.md"
 }

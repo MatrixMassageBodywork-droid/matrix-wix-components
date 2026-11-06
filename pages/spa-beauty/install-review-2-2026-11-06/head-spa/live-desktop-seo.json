@@ -1,0 +1,277 @@
+{
+  "canonical": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+  "custom": {
+    "bottom": 1465.78125,
+    "height": 7763.78125,
+    "left": 0,
+    "right": 1348,
+    "top": -6298,
+    "width": 1348,
+    "x": 0,
+    "y": -6298
+  },
+  "description": "Japanese Head Spa in Salem, WI with waterfall therapy, scalp massage and custom infusions. Near Bristol, Trevor, Twin Lakes, Union Grove and Antioch.",
+  "footer": {
+    "bottom": 1838.8125,
+    "height": 373.03125,
+    "left": 0,
+    "right": 1348,
+    "top": 1465.78125,
+    "width": 1348,
+    "x": 0,
+    "y": 1465.78125
+  },
+  "h1": [
+    "Japanese Head Spa in Salem, WI"
+  ],
+  "images": [
+    {
+      "alt": "Matrix Massage & Bodywork",
+      "loaded": true
+    },
+    {
+      "alt": "The Japanese Head Spa waterfall basin during a Matrix scalp treatment in Salem, Wisconsin.",
+      "loaded": true
+    },
+    {
+      "alt": "A Matrix provider performing a Head Spa treatment at the Salem studio.",
+      "loaded": true
+    },
+    {
+      "alt": "Matrix Precision Scalp Infusions displayed in the Salem studio.",
+      "loaded": true
+    },
+    {
+      "alt": "Matrix Precision Scalp Infusions M1 through M6 with amber bottles and labeled vials.",
+      "loaded": true
+    }
+  ],
+  "openFAQs": 8,
+  "schemas": [
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.matrixmassage.net/japanese-head-spa-salem-wi#breadcrumb",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "item": "https://www.matrixmassage.net/",
+          "name": "Home",
+          "position": 1
+        },
+        {
+          "@type": "ListItem",
+          "item": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+          "name": "Spa & Beauty Services",
+          "position": 2
+        },
+        {
+          "@type": "ListItem",
+          "item": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+          "name": "Japanese Head Spa in Salem, WI",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Japanese Head Spa is a cosmetic scalp-care and relaxation experience combining scalp analysis, customized products, cleansing, warm-water therapy and massage. The exact steps and massage time depend on the service you book."
+          },
+          "name": "What is a Japanese Head Spa?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Matrix Signature Head Spa is the core 60-minute experience at $135. Choose Scalp Cleanse & Refresh for a 45-minute visit, or a longer Head Spa for more massage and scalp-care time."
+          },
+          "name": "Which Head Spa should I choose for my first visit?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Hair is left wet. Professional drying or styling must be booked separately, so arrange it in advance if you want that service."
+          },
+          "name": "Will my hair be dry when I leave?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Your provider can discuss scalp care for your hair needs. Contact Matrix first if you have extensions, braids, very short or thinning hair, recent chemical services or scalp concerns so the suitable approach can be confirmed."
+          },
+          "name": "Can I book with short hair, thinning hair or extensions?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Matrix Head Spa services focus on cosmetic scalp care and relaxation. New hair loss, painful or inflamed areas and persistent scalp symptoms should be evaluated by an appropriate healthcare professional."
+          },
+          "name": "Does Head Spa treat hair loss or scalp disease?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Choose Matrix Head Spa + Hydrating Glow Facial for a 120-minute combination at $285. The booking menu also offers men’s Head Spa combinations with a mini facial or a custom facial."
+          },
+          "name": "Can I add a facial to my Head Spa?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Choose a schedule around your preferences, scalp comfort and the experience you enjoy. Your provider can discuss a suitable return visit; a fixed weekly schedule is not required."
+          },
+          "name": "How often should I book?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Visit Matrix Massage & Bodywork at 24804 75th St, Salem, WI 53168. Our Salem studio serves Salem Lakes, Paddock Lake, Union Grove, Twin Lakes, Trevor, Bristol and nearby Antioch, Illinois. All appointments are at this Salem location. Book online or text 262-939-9325."
+          },
+          "name": "Where can I book a Head Spa near Union Grove, Twin Lakes or Antioch?"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.matrixmassage.net/japanese-head-spa-salem-wi#service",
+      "@type": "Service",
+      "alternateName": "Matrix Japanese Head Spa and Scalp Infusions",
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Salem Lakes, Wisconsin"
+        },
+        {
+          "@type": "City",
+          "name": "Paddock Lake, Wisconsin"
+        },
+        {
+          "@type": "City",
+          "name": "Bristol, Wisconsin"
+        },
+        {
+          "@type": "City",
+          "name": "Kenosha, Wisconsin"
+        },
+        {
+          "@type": "City",
+          "name": "Antioch, Illinois"
+        },
+        "Union Grove, Wisconsin",
+        "Trevor, Wisconsin"
+      ],
+      "description": "A personalized head spa service with scalp analysis, cleansing, waterfall therapy, steam, scalp massage and a customized Matrix Precision Scalp Infusion selected after scalp analysis.",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "duration": "PT45M",
+              "name": "Matrix Scalp Cleanse & Refresh Head Spa"
+            },
+            "price": "95",
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "duration": "PT60M",
+              "name": "Matrix Signature Head Spa"
+            },
+            "price": "135",
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "duration": "PT90M",
+              "name": "Matrix Deep Relaxation Head Spa"
+            },
+            "price": "195",
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "duration": "PT120M",
+              "name": "Matrix Intensive Scalp Renewal Head Spa"
+            },
+            "price": "265",
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "duration": "PT60M",
+              "name": "Matrix Men's Scalp Refresh + Mini Facial"
+            },
+            "price": "135",
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "duration": "PT120M",
+              "name": "Matrix Head Spa + Hydrating Glow Facial"
+            },
+            "price": "285",
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "duration": "PT90M",
+              "name": "Matrix Men's Head Spa + Refreshing Custom Facial"
+            },
+            "price": "175",
+            "priceCurrency": "USD"
+          }
+        ],
+        "name": "Matrix Head Spa Services"
+      },
+      "name": "Japanese Head Spa in Salem, Wisconsin",
+      "provider": {
+        "@id": "https://www.matrixmassage.net/#business",
+        "@type": "HealthAndBeautyBusiness",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "US",
+          "addressLocality": "Salem",
+          "addressRegion": "WI",
+          "postalCode": "53168",
+          "streetAddress": "24804 75th St"
+        },
+        "name": "Matrix Massage & Bodywork",
+        "priceRange": "$",
+        "telephone": "+1-262-939-9325",
+        "url": "https://www.matrixmassage.net"
+      },
+      "serviceType": "Japanese-inspired head spa and cosmetic scalp treatment",
+      "url": "https://www.matrixmassage.net/japanese-head-spa-salem-wi"
+    }
+  ],
+  "scrollWidth": 1348,
+  "title": "Japanese Head Spa in Salem, WI | Scalp Treatments & Infusions",
+  "url": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+  "width": 1348
+}

@@ -1,0 +1,222 @@
+{
+  "canonical": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+  "custom": {
+    "bottom": 1562.921875,
+    "height": 6653.921875,
+    "left": 0,
+    "right": 1348,
+    "top": -5091,
+    "width": 1348,
+    "x": 0,
+    "y": -5091
+  },
+  "description": "Face and body waxing in Salem, WI. Visit Matrix from Union Grove, Twin Lakes, Trevor, Bristol and Antioch for personalized hair removal.",
+  "h1": [
+    "Waxing & Hair Removal in Salem, WI"
+  ],
+  "images": [
+    {
+      "alt": "Matrix Massage & Bodywork",
+      "loaded": true
+    },
+    {
+      "alt": "Illustrative close-up of wax preparation with a clean wooden applicator, black warmer and teal towel.",
+      "loaded": true
+    },
+    {
+      "alt": "Illustrative close-up of careful eyebrow waxing with a fresh wooden applicator.",
+      "loaded": true
+    },
+    {
+      "alt": "Illustrative waxing preparation with fresh linens, wooden applicators and aftercare lotion.",
+      "loaded": true
+    }
+  ],
+  "openFAQs": 8,
+  "reviews": {
+    "bottom": 2114.921875,
+    "height": 552,
+    "left": 0,
+    "right": 1348,
+    "top": 1562.921875,
+    "width": 1348,
+    "x": 0,
+    "y": 1562.921875
+  },
+  "schemas": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matrix offers Facial Waxing Services and Body Waxing. The booking menu lists the areas and combinations currently available, along with appointment times and pricing."
+          },
+          "name": "What waxing services do you offer?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hair should generally be around one-quarter inch long. If you are unsure about the length or have recently shaved, contact Matrix before booking so timing can be discussed."
+          },
+          "name": "How long should hair be before waxing?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Temporary discomfort is normal when hair is removed. Sensitivity varies by area and person. Tell your provider how you are feeling so the service can be paced around your comfort."
+          },
+          "name": "Does waxing hurt?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Results vary with hair growth, the area treated and your routine. Many people enjoy a smooth feel for several weeks, but there is no fixed result or regrowth schedule for everyone."
+          },
+          "name": "How long do waxing results last?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tell your provider about all skincare and medications before booking. Retinoids, isotretinoin and some other products or treatments can make waxing unsafe for the skin. Do not wax while taking isotretinoin or within six months of taking it. Ask your prescriber about safe timing and alternatives."
+          },
+          "name": "Can I wax if I use retinol or acne medication?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ask Matrix before booking both. Suitability depends on the area, skin condition and the facial steps planned; exfoliating treatments may need separate timing."
+          },
+          "name": "Can I have waxing and a facial on the same day?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Follow the aftercare given for your treatment area. Keep care gentle and ask about heat, sweating, friction, sun exposure and when to resume exfoliating products."
+          },
+          "name": "What should I avoid after waxing?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Visit Matrix Massage & Bodywork at 24804 75th St, Salem, WI 53168. Our Salem studio serves Salem Lakes, Paddock Lake, Union Grove, Twin Lakes, Trevor, Bristol and nearby Antioch, Illinois. All appointments are at this Salem location. Book online or text 262-939-9325."
+          },
+          "name": "Where can I book waxing near Union Grove, Twin Lakes or Antioch?"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "HealthAndBeautyBusiness",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "US",
+        "addressLocality": "Salem",
+        "addressRegion": "WI",
+        "postalCode": "53168",
+        "streetAddress": "24804 75th St"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Salem"
+        },
+        {
+          "@type": "City",
+          "name": "Kenosha"
+        },
+        {
+          "@type": "City",
+          "name": "Pleasant Prairie"
+        },
+        {
+          "@type": "City",
+          "name": "Bristol"
+        },
+        {
+          "@type": "City",
+          "name": "Antioch"
+        },
+        {
+          "@type": "City",
+          "name": "Union Grove"
+        },
+        "Union Grove, Wisconsin",
+        "Trevor, Wisconsin"
+      ],
+      "description": "Professional waxing and hair removal services in Salem, WI at Matrix Massage & Bodywork.",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "42.5585",
+        "longitude": "-88.1234"
+      },
+      "image": "https://static.wixstatic.com/media/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png/v1/fill/w_1050,h_600,al_c/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png",
+      "name": "Matrix Massage & Bodywork",
+      "priceRange": "$",
+      "serviceType": "Waxing",
+      "telephone": "+1-262-939-9325",
+      "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Salem"
+        },
+        {
+          "@type": "City",
+          "name": "Kenosha"
+        },
+        {
+          "@type": "City",
+          "name": "Pleasant Prairie"
+        },
+        {
+          "@type": "City",
+          "name": "Bristol"
+        },
+        {
+          "@type": "City",
+          "name": "Antioch"
+        },
+        {
+          "@type": "City",
+          "name": "Union Grove"
+        },
+        "Union Grove, Wisconsin",
+        "Trevor, Wisconsin"
+      ],
+      "description": "Professional facial and body waxing services at Matrix Massage & Bodywork in Salem, WI.",
+      "name": "Waxing Services in Salem WI",
+      "provider": {
+        "@type": "HealthAndBeautyBusiness",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "US",
+          "addressLocality": "Salem",
+          "addressRegion": "WI",
+          "postalCode": "53168",
+          "streetAddress": "24804 75th St"
+        },
+        "name": "Matrix Massage & Bodywork",
+        "telephone": "+1-262-939-9325"
+      },
+      "serviceType": "Waxing and hair removal"
+    }
+  ],
+  "scrollWidth": 1348,
+  "title": "Waxing & Hair Removal in Salem WI | Matrix Massage & Bodywork",
+  "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+  "width": 1348
+}

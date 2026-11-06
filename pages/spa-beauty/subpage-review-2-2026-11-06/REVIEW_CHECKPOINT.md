@@ -1,5 +1,7 @@
 # Spa & Beauty subpages — Review 2 — 2026-11-06
 
+Historical review-stage record. This revision has since been installed and published. Current status: [Publication checkpoint](../install-review-2-2026-11-06/PUBLISHED_CHECKPOINT.md).
+
 DESIGNED / SAVED TO GITHUB / VERIFIED / BROWSER TESTED. NOT INSTALLED / NOT PUBLISHED.
 
 This revision addresses the owner feedback on Facials, Japanese Head Spa and Waxing. It continues the existing drafts and preserves the published main hub.

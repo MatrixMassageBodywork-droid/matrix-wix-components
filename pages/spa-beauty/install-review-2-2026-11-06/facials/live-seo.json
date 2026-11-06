@@ -1,0 +1,162 @@
+{
+  "canonical": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+  "description": "Custom and acne-prone skin facials in Salem, WI. Welcoming Union Grove, Twin Lakes, Trevor, Bristol and Antioch to Matrix Massage & Bodywork.",
+  "h1": [
+    "Facials in Salem, WI"
+  ],
+  "schemas": [
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi#service",
+      "@type": "Service",
+      "areaServed": [
+        "Salem Lakes, Wisconsin",
+        "Paddock Lake, Wisconsin",
+        "Bristol, Wisconsin",
+        "Pleasant Prairie, Wisconsin",
+        "Twin Lakes, Wisconsin",
+        "Kenosha County, Wisconsin",
+        "Antioch, Illinois",
+        "Union Grove, Wisconsin",
+        "Trevor, Wisconsin"
+      ],
+      "description": "Personalized cosmetic facial skincare in Salem, Wisconsin for hydration, acne-prone or congested skin, sensitivity and radiance, with Circadia and dermaplaning options selected for the individual and booked appointment.",
+      "name": "Custom Facials in Salem, WI",
+      "provider": {
+        "@id": "https://www.matrixmassage.net/#business"
+      },
+      "serviceType": "Facial skincare services",
+      "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi#breadcrumb",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "item": "https://www.matrixmassage.net/",
+          "name": "Home",
+          "position": 1
+        },
+        {
+          "@type": "ListItem",
+          "item": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+          "name": "Spa & Beauty Services",
+          "position": 2
+        },
+        {
+          "@type": "ListItem",
+          "item": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+          "name": "Custom Facials in Salem, WI",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Start with a Custom Facial and tell your provider that acne-prone skin or congestion is your priority. Clear + Balance is the related skin-goal pathway. Suitability and treatment steps are decided after reviewing your skin and routine."
+          },
+          "name": "Which facial should I choose for acne-prone skin?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matrix offers personalized cosmetic facial care for acne-prone skin through the Custom Facial. Cleansing, suitable exfoliation, masks and hydration are selected for the individual. Facials do not replace medical acne treatment or guarantee clear skin."
+          },
+          "name": "Do you offer anti-acne facials?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Extractions are considered only when appropriate for your skin, comfort and booked appointment. Discuss congestion and active breakouts with your provider before treatment."
+          },
+          "name": "Are extractions included in every facial?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tell us about allergies, sensitivities, current skincare, prescription products, recent peels or waxing, and any active irritation. Follow your prescriber’s directions; ask about treatment timing if you are unsure."
+          },
+          "name": "What should I share before my appointment?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The current menu includes Matrix Head Spa + Hydrating Glow Facial, which pairs customized scalp care with a mini facial, facial massage and hydration. Review its current details when booking."
+          },
+          "name": "Can I combine facial care with a Head Spa?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Visit Matrix Massage & Bodywork at 24804 75th St, Salem, WI 53168. Our Salem studio serves Salem Lakes, Paddock Lake, Union Grove, Twin Lakes, Trevor, Bristol and nearby Antioch, Illinois. All appointments are at this Salem location. Book online or text 262-939-9325."
+          },
+          "name": "Where can I book a facial near Union Grove, Twin Lakes or Antioch?"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.matrixmassage.net/#business",
+      "@type": "HealthAndBeautyBusiness",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "US",
+        "addressLocality": "Salem",
+        "addressRegion": "WI",
+        "postalCode": "53168",
+        "streetAddress": "24804 75th St"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Salem"
+        },
+        {
+          "@type": "City",
+          "name": "Kenosha"
+        },
+        {
+          "@type": "City",
+          "name": "Pleasant Prairie"
+        },
+        {
+          "@type": "City",
+          "name": "Bristol"
+        },
+        {
+          "@type": "City",
+          "name": "Antioch"
+        },
+        {
+          "@type": "City",
+          "name": "Union Grove"
+        },
+        "Union Grove, Wisconsin",
+        "Trevor, Wisconsin"
+      ],
+      "description": "Customized facial treatments in Salem, WI designed to support hydration, glow, relaxation, skin texture, and healthy-looking skin.",
+      "image": "https://static.wixstatic.com/media/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png/v1/fill/w_1050,h_600,al_c/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png",
+      "name": "Matrix Massage & Bodywork",
+      "priceRange": "$$",
+      "telephone": "+1-262-939-9325",
+      "url": "https://www.matrixmassage.net/"
+    }
+  ],
+  "scrollWidth": 1348,
+  "title": "Custom Facials in Salem, WI | Matrix Massage & Bodywork",
+  "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+  "width": 1348
+}

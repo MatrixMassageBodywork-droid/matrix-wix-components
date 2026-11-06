@@ -1,0 +1,40 @@
+{
+  "inner": {
+    "height": 12963,
+    "open": 8,
+    "scrollWidth": 320,
+    "width": 320
+  },
+  "bounds": {
+    "element": {
+      "bottom": 7326,
+      "height": 12962,
+      "left": 514,
+      "right": 834,
+      "top": -5636,
+      "width": 320,
+      "x": 514,
+      "y": -5636
+    },
+    "footer": {
+      "bottom": 8107,
+      "height": 781,
+      "left": 514,
+      "right": 834,
+      "top": 7326,
+      "width": 320,
+      "x": 514,
+      "y": 7326
+    },
+    "section": {
+      "bottom": 7326,
+      "height": 12962,
+      "left": 514,
+      "right": 834,
+      "top": -5636,
+      "width": 320,
+      "x": 514,
+      "y": -5636
+    }
+  }
+}

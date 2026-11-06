@@ -1,0 +1,40 @@
+{
+  "hsMobile": {
+    "bodyHeight": 12962.640625,
+    "open": 8,
+    "scrollWidth": 320,
+    "width": 320
+  },
+  "hsBounds": {
+    "element": {
+      "bottom": 6171,
+      "height": 11807,
+      "left": 514,
+      "right": 834,
+      "top": -5636,
+      "width": 320,
+      "x": 514,
+      "y": -5636
+    },
+    "footer": {
+      "bottom": 6952,
+      "height": 781,
+      "left": 514,
+      "right": 834,
+      "top": 6171,
+      "width": 320,
+      "x": 514,
+      "y": 6171
+    },
+    "section": {
+      "bottom": 6171,
+      "height": 11807,
+      "left": 514,
+      "right": 834,
+      "top": -5636,
+      "width": 320,
+      "x": 514,
+      "y": -5636
+    }
+  }
+}
