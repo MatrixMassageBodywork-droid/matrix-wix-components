@@ -1,0 +1,70 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "Waxing & Hair Removal",
+    "revision": "review-2-2026-11-06",
+    "tagName": "matrix-waxing-review",
+    "elementId": "matrixWaxingReview",
+    "rootClass": "matrix-waxing",
+    "pageUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+    "seoTitle": "Waxing & Hair Removal in Salem WI | Matrix Massage & Bodywork",
+    "seoDescription": "Face and body waxing in Salem, WI. Visit Matrix from Union Grove, Twin Lakes, Trevor, Bristol and Antioch for personalized hair removal.",
+    "seoSource": "../subpage-review-2026-11-06/baseline/waxing.json",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 8
+  },
+  "seo": {
+    "title": "Waxing & Hair Removal in Salem WI | Matrix Massage & Bodywork",
+    "description": "Face and body waxing in Salem, WI. Visit Matrix from Union Grove, Twin Lakes, Trevor, Bristol and Antioch for personalized hair removal.",
+    "canonical": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+    "source": "../subpage-review-2026-11-06/baseline/waxing.json"
+  },
+  "h1": "Waxing & Hair Removal in Salem, WI",
+  "faqCount": 8,
+  "links": [
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "#experience",
+    "#experience",
+    "#waxing-menu",
+    "#before-your-visit",
+    "#aftercare",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/PZR2CBQCWBF3RUKLT5S4JUTI",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/YY2UJGDPSWQQ5HHCOKYYRTBE",
+    "sms:+12629399325",
+    "sms:+12629399325",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi"
+  ],
+  "images": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/massage/deep-tissue/assets/matrix-bodywork-approved.jpg",
+      "alt": "Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/waxing/assets/review-2/wax-preparation.webp",
+      "alt": "Illustrative close-up of wax preparation with a clean wooden applicator, black warmer and teal towel."
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/waxing/assets/review-2/brow-detail.webp",
+      "alt": "Illustrative close-up of careful eyebrow waxing with a fresh wooden applicator."
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@2144cb97570bc101d7f70cf9983d59ee39482998/pages/spa-beauty/waxing/assets/support.webp",
+      "alt": "Illustrative waxing preparation with fresh linens, wooden applicators and aftercare lotion."
+    }
+  ],
+  "files": {
+    "body.html": "0e4c2df4eba432dde41b669d66548e18cd1dc2b3dbd3043a8bfbbce92e625223",
+    "style.css": "68e07092b948a44445426e0ec175ca3b70134f0b0183d16ddc9a73bcad816531",
+    "renderer.js": "ec2f5c2786ea4b20e80c07844ae10a1fc08ad941a13ec5a3566017099220df60",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "d240e8abe7e1b3db25667aa0174fec62620e5518758aafaeb9c603d34542187b",
+    "preview.html": "8dbd42dbe3a596b7074b504ba3aced3b45935dc9ed34d90a7922562444148582",
+    "faq-schema.json": "bb68dfcaa00a27bd03c43f583172d73c4d70bbd5294494be715190eea7e9e4ad"
+  },
+  "rendererBytes": 25633
+}

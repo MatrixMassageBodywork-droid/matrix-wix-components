@@ -1,0 +1,81 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "Japanese Head Spa",
+    "revision": "review-2-2026-11-06",
+    "tagName": "matrix-head-spa-review",
+    "elementId": "matrixHeadSpaReview",
+    "rootClass": "matrix-head-spa",
+    "pageUrl": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "seoTitle": "Japanese Head Spa in Salem, WI | Scalp Treatments & Infusions",
+    "seoDescription": "Japanese Head Spa in Salem, WI with waterfall therapy, scalp massage and custom infusions. Near Bristol, Trevor, Twin Lakes, Union Grove and Antioch.",
+    "seoSource": "../subpage-review-2026-11-06/baseline/head-spa.json",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 8
+  },
+  "seo": {
+    "title": "Japanese Head Spa in Salem, WI | Scalp Treatments & Infusions",
+    "description": "Japanese Head Spa in Salem, WI with waterfall therapy, scalp massage and custom infusions. Near Bristol, Trevor, Twin Lakes, Union Grove and Antioch.",
+    "canonical": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "source": "../subpage-review-2026-11-06/baseline/head-spa.json"
+  },
+  "h1": "Japanese Head Spa in Salem, WI",
+  "faqCount": 8,
+  "links": [
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "#experience",
+    "#experience",
+    "#head-spa-menu",
+    "#infusions",
+    "#before-your-visit",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/JBJI7MD5EU2QM3E4MQXE5TSK",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/E3GF7465U2EEJBNBUWKE7O5B",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/5ARKZCV4NSRAFWNYZOTEKTOU",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/RM2XACH3ZAVQ65UTSENKJAGW",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/ANHVUNL2SFY2ETFWNCU5WNJS",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/VJPRLALSE5VDWQRMF6LQLOHM",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/UGLNWFVWMYIZSHHC6MDZPCFA",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/ANHVUNL2SFY2ETFWNCU5WNJS",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "sms:+12629399325",
+    "https://www.matrixmassage.net/japanese-head-spa-near-bristol-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi"
+  ],
+  "images": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/massage/deep-tissue/assets/matrix-bodywork-approved.jpg",
+      "alt": "Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/head-spa/assets/review-2/matrix-waterfall.webp",
+      "alt": "The Japanese Head Spa waterfall basin during a Matrix scalp treatment in Salem, Wisconsin."
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/head-spa/assets/review-2/matrix-scalp-care.webp",
+      "alt": "A Matrix provider performing a Head Spa treatment at the Salem studio."
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/head-spa/assets/review-2/matrix-products.webp",
+      "alt": "Matrix Precision Scalp Infusions displayed in the Salem studio."
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/head-spa/assets/review-2/matrix-infusions.webp",
+      "alt": "Matrix Precision Scalp Infusions M1 through M6 with amber bottles and labeled vials."
+    }
+  ],
+  "files": {
+    "body.html": "f075f512eead89460abfdf4411e51875a2228bb2bf7fa5b54f255b420ed790d1",
+    "style.css": "ff172816b04dc13d7298251899667138f51815972842754edc93f93a77d3c8ae",
+    "renderer.js": "e597b695c0dc88e9c07f5a1ab353bb8785218ae06a2d89b32410d163a1f89474",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "24f13f70a470aefaa22779496fd3a7d35396439f0439e6811d620211b357f02f",
+    "preview.html": "0ebeddd2f9aa594bdf44069e51c3bb663934a41225d3b1e874d568baadaf01b5",
+    "faq-schema.json": "aef4e9119151069046fc05f0b4fcde2be6c34208d9166257f5d93b67941ba586"
+  },
+  "rendererBytes": 29748
+}

@@ -1,0 +1,86 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "Custom Facials",
+    "revision": "review-2-2026-11-06",
+    "tagName": "matrix-facials-review",
+    "elementId": "matrixFacialReview",
+    "rootClass": "matrix-facials",
+    "pageUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "seoTitle": "Custom Facials in Salem, WI | Matrix Massage & Bodywork",
+    "seoDescription": "Custom and acne-prone skin facials in Salem, WI. Welcoming Union Grove, Twin Lakes, Trevor, Bristol and Antioch to Matrix Massage & Bodywork.",
+    "seoSource": "../subpage-review-2026-11-06/baseline/facials.json",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 6
+  },
+  "seo": {
+    "title": "Custom Facials in Salem, WI | Matrix Massage & Bodywork",
+    "description": "Custom and acne-prone skin facials in Salem, WI. Welcoming Union Grove, Twin Lakes, Trevor, Bristol and Antioch to Matrix Massage & Bodywork.",
+    "canonical": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "source": "../subpage-review-2026-11-06/baseline/facials.json"
+  },
+  "h1": "Facials in Salem, WI",
+  "faqCount": 6,
+  "links": [
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "#experience",
+    "#experience",
+    "#acne-prone-skin",
+    "#facial-menu",
+    "#skin-goals",
+    "https://www.matrixmassage.net/facial-goals/clear-balance",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/IUTRINR4YWTL7ULZ3QVEK4QG",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/GJ7PY2ONLPOVK4JIYCIWJGG4",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/5TMAAL7UNW75SMC6XG7R53QA",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/WBRKBJ3WLEKZEMRTZ52M26Q6",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.matrixmassage.net/facial-goals/hydrate-restore",
+    "https://www.matrixmassage.net/facial-goals/brighten-smooth",
+    "https://www.matrixmassage.net/facial-goals/clear-balance",
+    "https://www.matrixmassage.net/facial-goals/calm-support",
+    "https://www.matrixmassage.net/facial-goals/age-defying-firm",
+    "https://www.matrixmassage.net/facial-goals/maintain-glow",
+    "sms:+12629399325",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "https://www.matrixmassage.net/facials-near-antioch-il",
+    "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi"
+  ],
+  "images": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/massage/deep-tissue/assets/matrix-bodywork-approved.jpg",
+      "alt": "Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/facials/assets/review-2/facial-mask.webp",
+      "alt": "A professional facial mask treatment from the Matrix treatment photo collection."
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/facials/assets/review-2/circadia-serums.webp",
+      "alt": "Circadia serums and professional skincare products at Matrix."
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/facials/assets/review-2/circadia-hydration.webp",
+      "alt": "Circadia hydration skincare in the Matrix product collection."
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/facials/assets/review-2/facial-treatment.webp",
+      "alt": "A facial treatment in progress from the Matrix treatment photo collection."
+    }
+  ],
+  "files": {
+    "body.html": "39bb199a88dbf83694994bc8c3bc0ff368d160c938090b452a930b701867f026",
+    "style.css": "b9e02e2e1ac87cc4604f423725bfcefd08c87878096c0fdbf3eb39c3dcdd2109",
+    "renderer.js": "c8499bfef180a5f31b225f07c345a411e1fd58556d342e5228e5d9a347397a82",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "92e2fa2eb3ec8f19836b70590c9528a53e006983517d9e6d5877f6418f813bcd",
+    "preview.html": "3fd452dc90bfdab19d86af93ce54d85eb74ad2044ca05b8e1d6c25199e7f992f",
+    "faq-schema.json": "409a3947dc25f587faf934f2ab751f640e5d1826a5ff76004c47ac6c1e920c6d"
+  },
+  "rendererBytes": 29543
+}

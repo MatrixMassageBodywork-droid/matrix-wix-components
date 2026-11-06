@@ -1,0 +1,218 @@
+[
+  {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/5ARKZCV4NSRAFWNYZOTEKTOU",
+    "status": 200,
+    "bytes": 221625,
+    "final": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/5ARKZCV4NSRAFWNYZOTEKTOU"
+  },
+  {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/5TMAAL7UNW75SMC6XG7R53QA",
+    "status": 200,
+    "bytes": 221625,
+    "final": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/5TMAAL7UNW75SMC6XG7R53QA"
+  },
+  {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/ANHVUNL2SFY2ETFWNCU5WNJS",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/E3GF7465U2EEJBNBUWKE7O5B",
+    "status": 200,
+    "bytes": 221625,
+    "final": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/E3GF7465U2EEJBNBUWKE7O5B"
+  },
+  {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/GJ7PY2ONLPOVK4JIYCIWJGG4",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/IUTRINR4YWTL7ULZ3QVEK4QG",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/JBJI7MD5EU2QM3E4MQXE5TSK",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/PZR2CBQCWBF3RUKLT5S4JUTI",
+    "status": 200,
+    "bytes": 221625,
+    "final": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/PZR2CBQCWBF3RUKLT5S4JUTI"
+  },
+  {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/RM2XACH3ZAVQ65UTSENKJAGW",
+    "status": 200,
+    "bytes": 221625,
+    "final": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/RM2XACH3ZAVQ65UTSENKJAGW"
+  },
+  {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/UGLNWFVWMYIZSHHC6MDZPCFA",
+    "status": 200,
+    "bytes": 221625,
+    "final": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/UGLNWFVWMYIZSHHC6MDZPCFA"
+  },
+  {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/VJPRLALSE5VDWQRMF6LQLOHM",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/WBRKBJ3WLEKZEMRTZ52M26Q6",
+    "status": 200,
+    "bytes": 221625,
+    "final": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/WBRKBJ3WLEKZEMRTZ52M26Q6"
+  },
+  {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/YY2UJGDPSWQQ5HHCOKYYRTBE",
+    "status": 200,
+    "bytes": 221625,
+    "final": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/YY2UJGDPSWQQ5HHCOKYYRTBE"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@2144cb97570bc101d7f70cf9983d59ee39482998/pages/spa-beauty/waxing/assets/support.webp",
+    "status": 200,
+    "bytes": 216178,
+    "final": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@2144cb97570bc101d7f70cf9983d59ee39482998/pages/spa-beauty/waxing/assets/support.webp"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/massage/deep-tissue/assets/matrix-bodywork-approved.jpg",
+    "status": 200,
+    "bytes": 181940,
+    "final": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/massage/deep-tissue/assets/matrix-bodywork-approved.jpg"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/facials/assets/review-2/circadia-hydration.webp",
+    "status": 200,
+    "bytes": 27934,
+    "final": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/facials/assets/review-2/circadia-hydration.webp"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/facials/assets/review-2/circadia-serums.webp",
+    "status": 200,
+    "bytes": 31590,
+    "final": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/facials/assets/review-2/circadia-serums.webp"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/facials/assets/review-2/facial-mask.webp",
+    "status": 200,
+    "bytes": 114900,
+    "final": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/facials/assets/review-2/facial-mask.webp"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/facials/assets/review-2/facial-treatment.webp",
+    "status": 200,
+    "bytes": 77890,
+    "final": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/facials/assets/review-2/facial-treatment.webp"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/head-spa/assets/review-2/matrix-infusions.webp",
+    "status": 200,
+    "bytes": 112312,
+    "final": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/head-spa/assets/review-2/matrix-infusions.webp"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/head-spa/assets/review-2/matrix-products.webp",
+    "status": 200,
+    "bytes": 110356,
+    "final": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/head-spa/assets/review-2/matrix-products.webp"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/head-spa/assets/review-2/matrix-scalp-care.webp",
+    "status": 200,
+    "bytes": 84570,
+    "final": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/head-spa/assets/review-2/matrix-scalp-care.webp"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/head-spa/assets/review-2/matrix-waterfall.webp",
+    "status": 200,
+    "bytes": 138562,
+    "final": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/head-spa/assets/review-2/matrix-waterfall.webp"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/waxing/assets/review-2/brow-detail.webp",
+    "status": 200,
+    "bytes": 158108,
+    "final": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/waxing/assets/review-2/brow-detail.webp"
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/waxing/assets/review-2/wax-preparation.webp",
+    "status": 200,
+    "bytes": 115254,
+    "final": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/waxing/assets/review-2/wax-preparation.webp"
+  },
+  {
+    "url": "https://www.matrixmassage.net/facial-goals/age-defying-firm",
+    "status": 200,
+    "bytes": 809705,
+    "final": "https://www.matrixmassage.net/facial-goals/age-defying-firm"
+  },
+  {
+    "url": "https://www.matrixmassage.net/facial-goals/brighten-smooth",
+    "status": 200,
+    "bytes": 811634,
+    "final": "https://www.matrixmassage.net/facial-goals/brighten-smooth"
+  },
+  {
+    "url": "https://www.matrixmassage.net/facial-goals/calm-support",
+    "status": 200,
+    "bytes": 807495,
+    "final": "https://www.matrixmassage.net/facial-goals/calm-support"
+  },
+  {
+    "url": "https://www.matrixmassage.net/facial-goals/clear-balance",
+    "status": 200,
+    "bytes": 808297,
+    "final": "https://www.matrixmassage.net/facial-goals/clear-balance"
+  },
+  {
+    "url": "https://www.matrixmassage.net/facial-goals/hydrate-restore",
+    "status": 200,
+    "bytes": 808939,
+    "final": "https://www.matrixmassage.net/facial-goals/hydrate-restore"
+  },
+  {
+    "url": "https://www.matrixmassage.net/facial-goals/maintain-glow",
+    "status": 200,
+    "bytes": 807769,
+    "final": "https://www.matrixmassage.net/facial-goals/maintain-glow"
+  },
+  {
+    "url": "https://www.matrixmassage.net/facials-near-antioch-il",
+    "status": 200,
+    "bytes": 893989,
+    "final": "https://www.matrixmassage.net/facials-near-antioch-il"
+  },
+  {
+    "url": "https://www.matrixmassage.net/japanese-head-spa-near-bristol-wi",
+    "status": 200,
+    "bytes": 837096,
+    "final": "https://www.matrixmassage.net/japanese-head-spa-near-bristol-wi"
+  },
+  {
+    "url": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "status": 200,
+    "bytes": 856011,
+    "final": "https://www.matrixmassage.net/japanese-head-spa-salem-wi"
+  },
+  {
+    "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "status": 200,
+    "bytes": 847296,
+    "final": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi"
+  },
+  {
+    "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "status": 200,
+    "bytes": 843234,
+    "final": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi"
+  },
+  {
+    "url": "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+    "status": 200,
+    "bytes": 881160,
+    "final": "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi"
+  }
+]

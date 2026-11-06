@@ -52,10 +52,43 @@ matrix-facials-review{display:block;width:100%;height:auto;min-height:0!importan
 .matrix-facials summary::after{content:'+';position:absolute;right:4px;top:18px;font-size:24px}.matrix-facials details[open] summary::after{content:'−'}
 .matrix-facials details p{padding:0 30px 25px 0;font-size:14px;color:#4b605a}
 .matrix-facials .related{display:flex;gap:32px;justify-content:center;flex-wrap:wrap;margin-top:30px}.matrix-facials .related a{font-size:13px;min-height:44px;align-content:center}
-.matrix-facials .close{padding:83px 25px 63px;text-align:center;color:white;background:#102e30;background-image:linear-gradient(110deg,#032528dd,#054041bb,#041f23dd),url('https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg');background-size:cover;background-position:center}
+.matrix-facials .close{padding:83px 25px 63px;text-align:center;color:white;background:#102e30;background-image:linear-gradient(110deg,#032528dd,#054041bb,#041f23dd),url('https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/massage/manual-lymphatic-drainage/assets/matrix-water-background.webp');background-size:cover;background-position:center}
 .matrix-facials .close-inner{max-width:750px;margin:auto}.matrix-facials .close h2{font-size:57px}.matrix-facials .close p:not(.eyebrow){color:#e3ece4;margin-top:25px;font-size:15px}.matrix-facials .close .actions{justify-content:center}
 .matrix-facials .light{background:var(--cream);color:var(--ink);border-color:var(--cream)}.matrix-facials .outline{background:transparent;border-color:#b8cfc5}
 .matrix-facials .close .location{font-size:11px!important;letter-spacing:.5px;margin-top:34px!important}.matrix-facials .close .illustration{font-size:10px!important;margin-top:18px!important;color:#bdd1c8!important}
 @container(max-width:950px){.matrix-facials .inner{padding:0 35px}.matrix-facials .hero{min-height:730px}.matrix-facials .hero-copy{padding:25px 35px 45px}.matrix-facials .logo{width:270px}.matrix-facials .split{gap:35px}.matrix-facials .faq-grid{gap:38px}.matrix-facials .goals{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @container(max-width:650px){.matrix-facials h1{font-size:47px}.matrix-facials h2{font-size:38px}.matrix-facials .inner{padding:0 23px}.matrix-facials .hero{display:flex;flex-direction:column;min-height:0}.matrix-facials .hero-copy{padding:23px 23px 38px}.matrix-facials .breadcrumb{font-size:10px;margin-bottom:23px}.matrix-facials .logo{width:270px;margin-bottom:26px}.matrix-facials .eyebrow{font-size:9px;letter-spacing:1.3px}.matrix-facials .lead{font-size:15px}.matrix-facials .hero-photo{height:360px}.matrix-facials .hero-photo>img{object-position:center 45%}.matrix-facials .actions{gap:15px;margin-top:25px}.matrix-facials .hero .button{width:100%}.matrix-facials .hero-facts{font-size:11px;line-height:1.9}.matrix-facials .jump{display:grid;grid-template-columns:1fr 1fr;text-align:center}.matrix-facials .jump a{font-size:11px;padding:16px 6px}.matrix-facials .section{padding:56px 0}.matrix-facials .section-intro{margin-bottom:32px}.matrix-facials .section-intro>p:last-child{font-size:14px}.matrix-facials .cards,.matrix-facials .split,.matrix-facials .steps,.matrix-facials .faq-grid,.matrix-facials .callout{grid-template-columns:1fr;gap:29px}.matrix-facials .service-card{padding:27px 25px}.matrix-facials .split img{aspect-ratio:1.35}.matrix-facials .split-copy>p:not(.eyebrow){font-size:14px}.matrix-facials .goals{grid-template-columns:1fr}.matrix-facials .goal{padding:22px 0}.matrix-facials .steps{gap:29px}.matrix-facials .step-number{margin-bottom:17px}.matrix-facials .faq-grid{gap:31px}.matrix-facials .related{gap:8px 25px}.matrix-facials .close{padding:57px 23px 43px}.matrix-facials .close h2{font-size:42px}.matrix-facials .close p:not(.eyebrow){font-size:14px}.matrix-facials .close .button{width:100%}.matrix-facials .close .actions{gap:12px}}
 @media(prefers-reduced-motion:reduce){.matrix-facials *{transition:none!important;scroll-behavior:auto!important}}
+
+
+.matrix-facials .hero{min-height:720px;border-top:20px solid transparent;border-image:linear-gradient(90deg,#11696a,#0f3b3c) 1}
+.matrix-facials .logo{object-fit:contain}
+.matrix-facials .hero-copy{padding-top:30px;padding-bottom:42px}
+.matrix-facials .hero-photo>img{object-position:center}
+.matrix-facials .hero .lead{font-size:17px}
+.matrix-facials .water-story,.matrix-facials .close{background-color:#0c4345;background-image:linear-gradient(105deg,rgba(3,44,47,.70),rgba(8,76,79,.48)),url('https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/massage/manual-lymphatic-drainage/assets/matrix-water-background.webp');background-size:cover;background-position:center}
+.matrix-facials .water-story{padding:75px 0;color:white}
+.matrix-facials .water-story .section-intro{max-width:690px;margin-bottom:35px}
+.matrix-facials .water-story .section-intro>p:last-child{color:#f1f5ee}
+.matrix-facials .photo-grid{display:grid;grid-template-columns:1fr 1fr;gap:30px}
+.matrix-facials .photo-card{background:var(--cream);color:var(--ink);overflow:hidden}
+.matrix-facials .photo-card img{width:100%;height:370px;display:block;object-fit:cover}
+.matrix-facials .photo-card figcaption{padding:24px 28px 27px}
+.matrix-facials .photo-card h3{font-size:32px;margin-bottom:10px}
+.matrix-facials .photo-card p{font-size:14px;color:#435d56}
+.matrix-facials .photo-grid.single{max-width:940px;margin:auto;grid-template-columns:1fr}
+.matrix-facials .photo-grid.single .photo-card{display:grid;grid-template-columns:1.3fr 1fr;align-items:center}
+.matrix-facials .photo-grid.single img{height:360px}
+.matrix-facials .local-visit{background:#e7eeea;border-top:1px solid #ccd8d0;border-bottom:1px solid #ccd8d0}
+.matrix-facials .local-inner{display:grid;grid-template-columns:1fr 1fr;gap:60px;align-items:center}
+.matrix-facials .local-copy>p{font-size:15px;line-height:1.9;color:#3b5751}
+.matrix-facials .local-copy .text-link{margin-top:18px}
+.matrix-facials .close{padding-top:85px;padding-bottom:70px}
+.matrix-facials .close h2,.matrix-facials .water-story h2{text-shadow:0 2px 18px #062a2b88}
+.matrix-facials .close p:not(.eyebrow){color:#fff}
+.matrix-facials .image-note{font-size:11px;margin-top:18px;text-align:center;color:#edf4ef}
+.matrix-facials .hero-facts{font-size:12px;line-height:1.8}
+@container(max-width:950px){.matrix-facials .photo-card img{height:310px}.matrix-facials .local-inner{gap:35px}.matrix-facials .hero{min-height:700px}}
+@container(max-width:650px){.matrix-facials .hero{border-top-width:14px;min-height:0}.matrix-facials .hero-copy{padding:24px 23px 36px}.matrix-facials .hero h1{font-size:44px}.matrix-facials .hero .lead{font-size:15px}.matrix-facials .hero-photo{height:390px}.matrix-facials .water-story{padding:55px 0}.matrix-facials .photo-grid,.matrix-facials .local-inner{grid-template-columns:1fr;gap:25px}.matrix-facials .photo-card img{height:290px}.matrix-facials .photo-card figcaption{padding:23px}.matrix-facials .photo-grid.single .photo-card{display:block}.matrix-facials .photo-grid.single img{height:290px}.matrix-facials .local-inner{gap:24px}.matrix-facials .close{padding:60px 23px 48px}.matrix-facials .local-copy>p{font-size:14px}}
+
+.matrix-facials #acne-prone-skin .split>img{object-position:center 30%}
