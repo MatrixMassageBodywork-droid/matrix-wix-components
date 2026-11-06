@@ -1,0 +1,44 @@
+[
+  {
+    "page": "facials",
+    "hasEveryRequestedTown": true,
+    "providerNameRemoved": true,
+    "correctLogo": true,
+    "rejectedLogoAbsent": true,
+    "waterEarly": true,
+    "h1Count": 1,
+    "allOriginalLinksPreserved": true,
+    "titleUnchanged": true,
+    "urlUnchanged": true,
+    "faqCount": 6,
+    "imageCount": 5
+  },
+  {
+    "page": "head-spa",
+    "hasEveryRequestedTown": true,
+    "providerNameRemoved": true,
+    "correctLogo": true,
+    "rejectedLogoAbsent": true,
+    "waterEarly": true,
+    "h1Count": 1,
+    "allOriginalLinksPreserved": true,
+    "titleUnchanged": true,
+    "urlUnchanged": true,
+    "faqCount": 8,
+    "imageCount": 5
+  },
+  {
+    "page": "waxing",
+    "hasEveryRequestedTown": true,
+    "providerNameRemoved": true,
+    "correctLogo": true,
+    "rejectedLogoAbsent": true,
+    "waterEarly": true,
+    "h1Count": 1,
+    "allOriginalLinksPreserved": true,
+    "titleUnchanged": true,
+    "urlUnchanged": true,
+    "faqCount": 8,
+    "imageCount": 4
+  }
+]

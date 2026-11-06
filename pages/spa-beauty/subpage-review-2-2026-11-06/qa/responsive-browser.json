@@ -1,0 +1,137 @@
+[
+  {
+    "page": "facials",
+    "nominalWidth": 320,
+    "fullWidth": true,
+    "h1": 1,
+    "logo": "4px solid rgb(0, 0, 0)",
+    "scroll": 305,
+    "width": 305
+  },
+  {
+    "page": "facials",
+    "nominalWidth": 390,
+    "fullWidth": true,
+    "h1": 1,
+    "logo": "4px solid rgb(0, 0, 0)",
+    "scroll": 375,
+    "width": 375
+  },
+  {
+    "page": "facials",
+    "nominalWidth": 1280,
+    "fullWidth": true,
+    "h1": 1,
+    "logo": "4px solid rgb(0, 0, 0)",
+    "scroll": 1265,
+    "width": 1265
+  },
+  {
+    "page": "facials",
+    "nominalWidth": 1440,
+    "fullWidth": true,
+    "h1": 1,
+    "logo": "4px solid rgb(0, 0, 0)",
+    "scroll": 1425,
+    "width": 1425
+  },
+  {
+    "page": "facials",
+    "nominalWidth": 1920,
+    "fullWidth": true,
+    "h1": 1,
+    "logo": "4px solid rgb(0, 0, 0)",
+    "scroll": 1905,
+    "width": 1905
+  },
+  {
+    "page": "head-spa",
+    "nominalWidth": 320,
+    "fullWidth": true,
+    "h1": 1,
+    "logo": "4px solid rgb(0, 0, 0)",
+    "scroll": 305,
+    "width": 305
+  },
+  {
+    "page": "head-spa",
+    "nominalWidth": 390,
+    "fullWidth": true,
+    "h1": 1,
+    "logo": "4px solid rgb(0, 0, 0)",
+    "scroll": 375,
+    "width": 375
+  },
+  {
+    "page": "head-spa",
+    "nominalWidth": 1280,
+    "fullWidth": true,
+    "h1": 1,
+    "logo": "4px solid rgb(0, 0, 0)",
+    "scroll": 1265,
+    "width": 1265
+  },
+  {
+    "page": "head-spa",
+    "nominalWidth": 1440,
+    "fullWidth": true,
+    "h1": 1,
+    "logo": "4px solid rgb(0, 0, 0)",
+    "scroll": 1425,
+    "width": 1425
+  },
+  {
+    "page": "head-spa",
+    "nominalWidth": 1920,
+    "fullWidth": true,
+    "h1": 1,
+    "logo": "4px solid rgb(0, 0, 0)",
+    "scroll": 1905,
+    "width": 1905
+  },
+  {
+    "page": "waxing",
+    "nominalWidth": 320,
+    "fullWidth": true,
+    "h1": 1,
+    "logo": "4px solid rgb(0, 0, 0)",
+    "scroll": 305,
+    "width": 305
+  },
+  {
+    "page": "waxing",
+    "nominalWidth": 390,
+    "fullWidth": true,
+    "h1": 1,
+    "logo": "4px solid rgb(0, 0, 0)",
+    "scroll": 375,
+    "width": 375
+  },
+  {
+    "page": "waxing",
+    "nominalWidth": 1280,
+    "fullWidth": true,
+    "h1": 1,
+    "logo": "4px solid rgb(0, 0, 0)",
+    "scroll": 1265,
+    "width": 1265
+  },
+  {
+    "page": "waxing",
+    "nominalWidth": 1440,
+    "fullWidth": true,
+    "h1": 1,
+    "logo": "4px solid rgb(0, 0, 0)",
+    "scroll": 1425,
+    "width": 1425
+  },
+  {
+    "page": "waxing",
+    "nominalWidth": 1920,
+    "fullWidth": true,
+    "h1": 1,
+    "logo": "4px solid rgb(0, 0, 0)",
+    "scroll": 1905,
+    "width": 1905
+  }
+]

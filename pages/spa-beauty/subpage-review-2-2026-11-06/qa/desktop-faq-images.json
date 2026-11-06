@@ -1,0 +1,88 @@
+[
+  {
+    "page": "facials",
+    "faqBottom": 688.0625,
+    "images": [
+      {
+        "alt": "Matrix Massage & Bodywork",
+        "ok": true
+      },
+      {
+        "alt": "A professional facial mask treatment from the Matrix treatment photo collection.",
+        "ok": true
+      },
+      {
+        "alt": "Circadia serums and professional skincare products at Matrix.",
+        "ok": true
+      },
+      {
+        "alt": "Circadia hydration skincare in the Matrix product collection.",
+        "ok": true
+      },
+      {
+        "alt": "A facial treatment in progress from the Matrix treatment photo collection.",
+        "ok": true
+      }
+    ],
+    "nextTop": 688.0625,
+    "open": 6,
+    "scroll": 1348,
+    "width": 1348
+  },
+  {
+    "page": "head-spa",
+    "faqBottom": 687.859375,
+    "images": [
+      {
+        "alt": "Matrix Massage & Bodywork",
+        "ok": true
+      },
+      {
+        "alt": "The Japanese Head Spa waterfall basin during a Matrix scalp treatment in Salem, Wisconsin.",
+        "ok": true
+      },
+      {
+        "alt": "A Matrix provider performing a Head Spa treatment at the Salem studio.",
+        "ok": true
+      },
+      {
+        "alt": "Matrix Precision Scalp Infusions displayed in the Salem studio.",
+        "ok": true
+      },
+      {
+        "alt": "Matrix Precision Scalp Infusions M1 through M6 with amber bottles and labeled vials.",
+        "ok": true
+      }
+    ],
+    "nextTop": 687.859375,
+    "open": 8,
+    "scroll": 1348,
+    "width": 1348
+  },
+  {
+    "page": "waxing",
+    "faqBottom": 687.953125,
+    "images": [
+      {
+        "alt": "Matrix Massage & Bodywork",
+        "ok": true
+      },
+      {
+        "alt": "Illustrative close-up of wax preparation with a clean wooden applicator, black warmer and teal towel.",
+        "ok": true
+      },
+      {
+        "alt": "Illustrative close-up of careful eyebrow waxing with a fresh wooden applicator.",
+        "ok": true
+      },
+      {
+        "alt": "Illustrative waxing preparation with fresh linens, wooden applicators and aftercare lotion.",
+        "ok": true
+      }
+    ],
+    "nextTop": 687.953125,
+    "open": 8,
+    "scroll": 1348,
+    "width": 1348
+  }
+]

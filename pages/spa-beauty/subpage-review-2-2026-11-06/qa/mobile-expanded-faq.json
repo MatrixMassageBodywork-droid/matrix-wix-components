@@ -1,0 +1,26 @@
+[
+  {
+    "page": "facials",
+    "faqBottom": 810.328125,
+    "nextTop": 810.328125,
+    "open": 6,
+    "scroll": 305,
+    "width": 305
+  },
+  {
+    "page": "head-spa",
+    "faqBottom": 810.484375,
+    "nextTop": 810.484375,
+    "open": 8,
+    "scroll": 305,
+    "width": 305
+  },
+  {
+    "page": "waxing",
+    "faqBottom": 809.828125,
+    "nextTop": 809.828125,
+    "open": 8,
+    "scroll": 305,
+    "width": 305
+  }
+]
