@@ -1,0 +1,1345 @@
+{
+  "before": [
+    {
+      "id": "STATIC_PAGE:q3smg",
+      "itemType": "STATIC_PAGE",
+      "itemId": "q3smg",
+      "tags": [
+        {
+          "type": "title",
+          "children": "Spa Near Bristol, WI | Facials, Massage & Head Spa | Matrix",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Visit Matrix in Salem for facials, Japanese Head Spa, massage and lash extensions near Bristol, WI. Book online or send an instant spa eGift Card."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      ],
+      "focusKeywords": [],
+      "hasOverride": true,
+      "resolvedTags": [
+        {
+          "tag": {
+            "type": "title",
+            "children": "Spa Near Bristol, WI | Facials, Massage & Head Spa | Matrix",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE",
+          "inheritedTag": {
+            "type": "title",
+            "children": "SPA NEAR BRISTOL | Matrix Massage & Bodywork",
+            "custom": false,
+            "disabled": false
+          }
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "description",
+              "content": "Visit Matrix in Salem for facials, Japanese Head Spa, massage and lash extensions near Bristol, WI. Book online or send an instant spa eGift Card."
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE"
+        },
+        {
+          "tag": {
+            "type": "link",
+            "props": {
+              "rel": "canonical",
+              "href": "https://www.matrixmassage.net/spa-services-near-bristol-wi"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:title",
+              "content": "Spa Near Bristol, WI | Facials, Massage & Head Spa | Matrix"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE",
+          "inheritedTag": {
+            "type": "meta",
+            "props": {
+              "property": "og:title",
+              "content": "SPA NEAR BRISTOL | Matrix Massage & Bodywork"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          }
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:description",
+              "content": "Visit Matrix in Salem for facials, Japanese Head Spa, massage and lash extensions near Bristol, WI. Book online or send an instant spa eGift Card."
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:image",
+              "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:image:width",
+              "content": "2500"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:image:height",
+              "content": "1330"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:url",
+              "content": "https://www.matrixmassage.net/spa-services-near-bristol-wi"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:site_name",
+              "content": "Matrix Massage & Bodywork"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:type",
+              "content": "website"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "google-site-verification",
+              "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_SITE"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "twitter:card",
+              "content": "summary_large_image"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "twitter:title",
+              "content": "Spa Near Bristol, WI | Facials, Massage & Head Spa | Matrix"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE",
+          "inheritedTag": {
+            "type": "meta",
+            "props": {
+              "name": "twitter:title",
+              "content": "SPA NEAR BRISTOL | Matrix Massage & Bodywork"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          }
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "twitter:description",
+              "content": "Visit Matrix in Salem for facials, Japanese Head Spa, massage and lash extensions near Bristol, WI. Book online or send an instant spa eGift Card."
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "twitter:image",
+              "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        }
+      ],
+      "hostPageId": "q3smg",
+      "publishStatus": "PUBLISH_STATUS_UNSPECIFIED",
+      "origin": "ORIGIN_UNSPECIFIED"
+    },
+    {
+      "id": "STATIC_PAGE:dan8z",
+      "itemType": "STATIC_PAGE",
+      "itemId": "dan8z",
+      "tags": [
+        {
+          "type": "title",
+          "children": "Spa Near Twin Lakes & Genoa City, WI | Matrix",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Facials, massage, Japanese Head Spa and lash extensions for Twin Lakes and Genoa City guests at Matrix in Salem, WI. Book a visit or send a spa gift card."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      ],
+      "focusKeywords": [],
+      "hasOverride": true,
+      "resolvedTags": [
+        {
+          "tag": {
+            "type": "title",
+            "children": "Spa Near Twin Lakes & Genoa City, WI | Matrix",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE",
+          "inheritedTag": {
+            "type": "title",
+            "children": "SPA NEAR TWIN LAKES & GENOA CITY | Matrix Massage & Bodywork",
+            "custom": false,
+            "disabled": false
+          }
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "description",
+              "content": "Facials, massage, Japanese Head Spa and lash extensions for Twin Lakes and Genoa City guests at Matrix in Salem, WI. Book a visit or send a spa gift card."
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE"
+        },
+        {
+          "tag": {
+            "type": "link",
+            "props": {
+              "rel": "canonical",
+              "href": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:title",
+              "content": "Spa Near Twin Lakes & Genoa City, WI | Matrix"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE",
+          "inheritedTag": {
+            "type": "meta",
+            "props": {
+              "property": "og:title",
+              "content": "SPA NEAR TWIN LAKES & GENOA CITY | Matrix Massage & Bodywork"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          }
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:description",
+              "content": "Facials, massage, Japanese Head Spa and lash extensions for Twin Lakes and Genoa City guests at Matrix in Salem, WI. Book a visit or send a spa gift card."
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:image",
+              "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:image:width",
+              "content": "2500"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:image:height",
+              "content": "1330"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:url",
+              "content": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:site_name",
+              "content": "Matrix Massage & Bodywork"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "property": "og:type",
+              "content": "website"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "google-site-verification",
+              "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_SITE"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "twitter:card",
+              "content": "summary_large_image"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "twitter:title",
+              "content": "Spa Near Twin Lakes & Genoa City, WI | Matrix"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE",
+          "inheritedTag": {
+            "type": "meta",
+            "props": {
+              "name": "twitter:title",
+              "content": "SPA NEAR TWIN LAKES & GENOA CITY | Matrix Massage & Bodywork"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          }
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "twitter:description",
+              "content": "Facials, massage, Japanese Head Spa and lash extensions for Twin Lakes and Genoa City guests at Matrix in Salem, WI. Book a visit or send a spa gift card."
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_HOST_PAGE"
+        },
+        {
+          "tag": {
+            "type": "meta",
+            "props": {
+              "name": "twitter:image",
+              "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          "source": "TAG_SOURCE_DEFAULT_PATTERN"
+        }
+      ],
+      "hostPageId": "dan8z",
+      "publishStatus": "PUBLISH_STATUS_UNSPECIFIED",
+      "origin": "ORIGIN_UNSPECIFIED"
+    }
+  ],
+  "request": {
+    "itemType": "STATIC_PAGE",
+    "publish": false,
+    "entries": [
+      {
+        "itemId": "q3smg",
+        "itemSeoTags": {
+          "tags": [
+            {
+              "type": "title",
+              "children": "Spa Near Bristol, WI | Facials, Massage & Head Spa | Matrix",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "meta",
+              "props": {
+                "name": "description",
+                "content": "Visit Matrix in Salem for facials, Japanese Head Spa, massage and lash extensions near Bristol, WI. Book online or send an instant spa eGift Card."
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "link",
+              "props": {
+                "rel": "canonical",
+                "href": "https://www.matrixmassage.net/spa-services-near-bristol-wi"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "meta": {
+                "displayName": "Matrix Regional bristol Services"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.matrixmassage.net/spa-services-near-bristol-wi#webpage\",\"url\":\"https://www.matrixmassage.net/spa-services-near-bristol-wi\",\"name\":\"Spa Near Bristol, WI | Facials, Massage & Head Spa | Matrix\",\"description\":\"Visit Matrix in Salem for facials, Japanese Head Spa, massage and lash extensions near Bristol, WI. Book online or send an instant spa eGift Card.\",\"isPartOf\":{\"@type\":\"WebSite\",\"url\":\"https://www.matrixmassage.net/\"},\"about\":{\"@id\":\"https://www.matrixmassage.net/spa-services-near-bristol-wi#services\"}},{\"@type\":\"Service\",\"@id\":\"https://www.matrixmassage.net/spa-services-near-bristol-wi#services\",\"name\":\"Massage, facial, Head Spa and lash services for Bristol guests\",\"serviceType\":[\"Facials\",\"Japanese Head Spa\",\"Massage therapy\",\"Lash extensions\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Bristol, Wisconsin\"}],\"provider\":{\"@type\":\"DaySpa\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/\",\"telephone\":\"+12629399325\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"}}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Matrix Massage & Bodywork\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Spa near Bristol\",\"item\":\"https://www.matrixmassage.net/spa-services-near-bristol-wi\"}]}]}",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "meta": {
+                "displayName": "Matrix Regional bristol FAQ"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Where is Matrix located for Bristol guests?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix Massage & Bodywork is at 24804 75th St, Salem, WI 53168. We welcome Bristol guests at this Salem studio. We do not have a separate Bristol location. Use the directions link on this page to check your route.\"}},{\"@type\":\"Question\",\"name\":\"What spa services can I book near Bristol?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Our Salem studio offers Custom and Circadia facials, dermaplaning, Japanese Head Spa, therapeutic massage, and Classic, Hybrid, and Volume lash extensions. The current booking menu shows appointment lengths, prices, providers, and availability.\"}},{\"@type\":\"Question\",\"name\":\"Which facial should I choose for acne-prone skin?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Start with a Custom Facial and share that breakouts or congestion are your priority. Clear + Balance is our related skin-goal pathway. Your provider reviews your skin and routine before choosing suitable cosmetic care; a facial is not a replacement for medical acne treatment.\"}},{\"@type\":\"Question\",\"name\":\"Can I book dermaplaning near Bristol?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Matrix offers dermaplaning appointments at our Salem studio, including focused and full-facial options. Tell your provider about active irritation, breakouts, prescription skincare, and recent treatments so suitability can be discussed.\"}},{\"@type\":\"Question\",\"name\":\"What should I expect from my first Japanese Head Spa?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Expect scalp-focused cleansing and relaxation, with steps selected for your chosen service. Review the Head Spa menu for what is included. Your hair will be wet afterward; professional drying and styling are booked separately when available.\"}},{\"@type\":\"Question\",\"name\":\"Does therapeutic massage have to be deep or painful?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. Tell your massage therapist about your goals and pressure preferences. Pressure can be adjusted during the session. Choose from the current massage menu and let us know if you are unsure which appointment fits.\"}},{\"@type\":\"Question\",\"name\":\"Do you offer lash full sets and fills?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Classic, Hybrid, and Volume lash extensions have full-set appointments and matching one-, two-, and three-week fills. If you have lashes from another studio or are unsure which fill to choose, contact Matrix before booking.\"}},{\"@type\":\"Question\",\"name\":\"Can I send an instant spa gift card to someone in Bristol?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Purchase a Matrix eGift Card through Square, choose a dollar amount, and send it by text or email today or schedule a future delivery. The recipient books a separate appointment at our Salem studio.\"}},{\"@type\":\"Question\",\"name\":\"Can I book a facial and Head Spa together?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The current menu includes a Head Spa and Hydrating Glow Facial combination. For other combinations, text 262-939-9325 so we can help coordinate services and provider availability before you book.\"}},{\"@type\":\"Question\",\"name\":\"How do I check prices, hours, and appointment availability?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The Square booking menu shows current prices and available appointment times. Reserve online or text 262-939-9325 for help choosing a service or confirming your visit. All appointments take place at our Salem address.\"}}]}",
+              "custom": false,
+              "disabled": false
+            }
+          ]
+        },
+        "fieldMask": "tags"
+      },
+      {
+        "itemId": "dan8z",
+        "itemSeoTags": {
+          "tags": [
+            {
+              "type": "title",
+              "children": "Spa Near Twin Lakes & Genoa City, WI | Matrix",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "meta",
+              "props": {
+                "name": "description",
+                "content": "Facials, massage, Japanese Head Spa and lash extensions for Twin Lakes and Genoa City guests at Matrix in Salem, WI. Book a visit or send a spa gift card."
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "link",
+              "props": {
+                "rel": "canonical",
+                "href": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "meta": {
+                "displayName": "Matrix Regional twin-lakes-genoa-city Services"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi#webpage\",\"url\":\"https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi\",\"name\":\"Spa Near Twin Lakes & Genoa City, WI | Matrix\",\"description\":\"Facials, massage, Japanese Head Spa and lash extensions for Twin Lakes and Genoa City guests at Matrix in Salem, WI. Book a visit or send a spa gift card.\",\"isPartOf\":{\"@type\":\"WebSite\",\"url\":\"https://www.matrixmassage.net/\"},\"about\":{\"@id\":\"https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi#services\"}},{\"@type\":\"Service\",\"@id\":\"https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi#services\",\"name\":\"Massage, facial, Head Spa and lash services for Twin Lakes & Genoa City guests\",\"serviceType\":[\"Facials\",\"Japanese Head Spa\",\"Massage therapy\",\"Lash extensions\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Twin Lakes, Wisconsin\"},{\"@type\":\"City\",\"name\":\"Genoa City, Wisconsin\"}],\"provider\":{\"@type\":\"DaySpa\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/\",\"telephone\":\"+12629399325\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"}}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Matrix Massage & Bodywork\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Spa near Twin Lakes & Genoa City\",\"item\":\"https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi\"}]}]}",
+              "custom": false,
+              "disabled": false
+            },
+            {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "meta": {
+                "displayName": "Matrix Regional twin-lakes-genoa-city FAQ"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Do you have a spa in Twin Lakes or Genoa City?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Our single studio is in Salem, Wisconsin, at 24804 75th St, Salem, WI 53168. We welcome guests from Twin Lakes and Genoa City; there are no separate Matrix branches in either town.\"}},{\"@type\":\"Question\",\"name\":\"How do I plan the drive to my appointment?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Use the directions link with your own starting point to see the route and current travel time to our Salem studio. Allow time to arrive for your appointment, and contact us if you need help finding the studio.\"}},{\"@type\":\"Question\",\"name\":\"Can I book a spa visit while staying near Twin Lakes?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. You can reserve through our online booking menu whether you live nearby or are visiting. Book ahead for the service and time you prefer. For multiple guests or several services, contact Matrix to coordinate availability.\"}},{\"@type\":\"Question\",\"name\":\"Where can I get a facial for acne-prone or dry skin?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix offers Custom Facials at our Salem studio for Twin Lakes and Genoa City guests. Share your concerns, current products, and sensitivities with your provider. Clear + Balance and Hydrate + Restore are skin-goal pathways you can explore before booking.\"}},{\"@type\":\"Question\",\"name\":\"What is the difference between a facial and dermaplaning?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"A facial combines skincare steps selected for your skin and appointment. Dermaplaning is a professional surface-exfoliation service that also removes fine facial hair. Matrix offers focused dermaplaning and facial combinations; your provider can discuss suitability.\"}},{\"@type\":\"Question\",\"name\":\"Will my hair be wet after a Japanese Head Spa?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Head Spa includes scalp and hair care that leaves your hair wet. Professional drying or styling is a separate appointment when available, so arrange it ahead of time if you want that finish.\"}},{\"@type\":\"Question\",\"name\":\"Which massage should I book?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Choose around your goals, comfort, and available time. The massage menu explains deep tissue, Swedish, and manual lymphatic drainage options. Text Matrix if you need help selecting a service, and discuss pressure preferences with your therapist.\"}},{\"@type\":\"Question\",\"name\":\"Can I get Classic, Hybrid, or Volume lash extensions?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Matrix offers all three styles, with full sets and matching one-, two-, and three-week fills. Contact us before selecting a fill if your extensions were applied elsewhere or you are unsure which appointment you need.\"}},{\"@type\":\"Question\",\"name\":\"Are spa gift cards available for last-minute gifts?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Buy a Matrix eGift Card online through Square and send it by text or email today, or schedule a future delivery. Choose a dollar amount so the recipient can select their experience. Purchasing a gift card does not reserve an appointment.\"}},{\"@type\":\"Question\",\"name\":\"Can I combine a facial, Head Spa, or massage in one visit?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The menu includes a Head Spa and Hydrating Glow Facial combination. Other combinations depend on the services and providers available. Text 262-939-9325 before booking multiple services so we can help arrange the timing.\"}}]}",
+              "custom": false,
+              "disabled": false
+            }
+          ]
+        },
+        "fieldMask": "tags"
+      }
+    ]
+  },
+  "result": {
+    "results": [
+      {
+        "itemMetadata": {
+          "id": "q3smg",
+          "originalIndex": 0,
+          "success": true
+        }
+      },
+      {
+        "itemMetadata": {
+          "id": "dan8z",
+          "originalIndex": 1,
+          "success": true
+        }
+      }
+    ],
+    "bulkActionMetadata": {
+      "totalSuccesses": 2,
+      "totalFailures": 0,
+      "undetailedFailures": 0
+    }
+  },
+  "after": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "id": "STATIC_PAGE:q3smg",
+        "itemType": "STATIC_PAGE",
+        "itemId": "q3smg",
+        "tags": [
+          {
+            "type": "title",
+            "children": "Spa Near Bristol, WI | Facials, Massage & Head Spa | Matrix",
+            "custom": false,
+            "disabled": false
+          },
+          {
+            "type": "meta",
+            "props": {
+              "name": "description",
+              "content": "Visit Matrix in Salem for facials, Japanese Head Spa, massage and lash extensions near Bristol, WI. Book online or send an instant spa eGift Card."
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          {
+            "type": "link",
+            "props": {
+              "rel": "canonical",
+              "href": "https://www.matrixmassage.net/spa-services-near-bristol-wi"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "displayName": "Matrix Regional bristol Services"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.matrixmassage.net/spa-services-near-bristol-wi#webpage\",\"url\":\"https://www.matrixmassage.net/spa-services-near-bristol-wi\",\"name\":\"Spa Near Bristol, WI | Facials, Massage & Head Spa | Matrix\",\"description\":\"Visit Matrix in Salem for facials, Japanese Head Spa, massage and lash extensions near Bristol, WI. Book online or send an instant spa eGift Card.\",\"isPartOf\":{\"@type\":\"WebSite\",\"url\":\"https://www.matrixmassage.net/\"},\"about\":{\"@id\":\"https://www.matrixmassage.net/spa-services-near-bristol-wi#services\"}},{\"@type\":\"Service\",\"@id\":\"https://www.matrixmassage.net/spa-services-near-bristol-wi#services\",\"name\":\"Massage, facial, Head Spa and lash services for Bristol guests\",\"serviceType\":[\"Facials\",\"Japanese Head Spa\",\"Massage therapy\",\"Lash extensions\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Bristol, Wisconsin\"}],\"provider\":{\"@type\":\"DaySpa\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/\",\"telephone\":\"+12629399325\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"}}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Matrix Massage & Bodywork\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Spa near Bristol\",\"item\":\"https://www.matrixmassage.net/spa-services-near-bristol-wi\"}]}]}",
+            "custom": false,
+            "disabled": false
+          },
+          {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "displayName": "Matrix Regional bristol FAQ"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Where is Matrix located for Bristol guests?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix Massage & Bodywork is at 24804 75th St, Salem, WI 53168. We welcome Bristol guests at this Salem studio. We do not have a separate Bristol location. Use the directions link on this page to check your route.\"}},{\"@type\":\"Question\",\"name\":\"What spa services can I book near Bristol?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Our Salem studio offers Custom and Circadia facials, dermaplaning, Japanese Head Spa, therapeutic massage, and Classic, Hybrid, and Volume lash extensions. The current booking menu shows appointment lengths, prices, providers, and availability.\"}},{\"@type\":\"Question\",\"name\":\"Which facial should I choose for acne-prone skin?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Start with a Custom Facial and share that breakouts or congestion are your priority. Clear + Balance is our related skin-goal pathway. Your provider reviews your skin and routine before choosing suitable cosmetic care; a facial is not a replacement for medical acne treatment.\"}},{\"@type\":\"Question\",\"name\":\"Can I book dermaplaning near Bristol?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Matrix offers dermaplaning appointments at our Salem studio, including focused and full-facial options. Tell your provider about active irritation, breakouts, prescription skincare, and recent treatments so suitability can be discussed.\"}},{\"@type\":\"Question\",\"name\":\"What should I expect from my first Japanese Head Spa?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Expect scalp-focused cleansing and relaxation, with steps selected for your chosen service. Review the Head Spa menu for what is included. Your hair will be wet afterward; professional drying and styling are booked separately when available.\"}},{\"@type\":\"Question\",\"name\":\"Does therapeutic massage have to be deep or painful?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. Tell your massage therapist about your goals and pressure preferences. Pressure can be adjusted during the session. Choose from the current massage menu and let us know if you are unsure which appointment fits.\"}},{\"@type\":\"Question\",\"name\":\"Do you offer lash full sets and fills?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Classic, Hybrid, and Volume lash extensions have full-set appointments and matching one-, two-, and three-week fills. If you have lashes from another studio or are unsure which fill to choose, contact Matrix before booking.\"}},{\"@type\":\"Question\",\"name\":\"Can I send an instant spa gift card to someone in Bristol?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Purchase a Matrix eGift Card through Square, choose a dollar amount, and send it by text or email today or schedule a future delivery. The recipient books a separate appointment at our Salem studio.\"}},{\"@type\":\"Question\",\"name\":\"Can I book a facial and Head Spa together?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The current menu includes a Head Spa and Hydrating Glow Facial combination. For other combinations, text 262-939-9325 so we can help coordinate services and provider availability before you book.\"}},{\"@type\":\"Question\",\"name\":\"How do I check prices, hours, and appointment availability?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The Square booking menu shows current prices and available appointment times. Reserve online or text 262-939-9325 for help choosing a service or confirming your visit. All appointments take place at our Salem address.\"}}]}",
+            "custom": false,
+            "disabled": false
+          }
+        ],
+        "focusKeywords": [],
+        "hasOverride": true,
+        "resolvedTags": [
+          {
+            "tag": {
+              "type": "title",
+              "children": "Spa Near Bristol, WI | Facials, Massage & Head Spa | Matrix",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE",
+            "inheritedTag": {
+              "type": "title",
+              "children": "SPA NEAR BRISTOL | Matrix Massage & Bodywork",
+              "custom": false,
+              "disabled": false
+            }
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "name": "description",
+                "content": "Visit Matrix in Salem for facials, Japanese Head Spa, massage and lash extensions near Bristol, WI. Book online or send an instant spa eGift Card."
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE"
+          },
+          {
+            "tag": {
+              "type": "link",
+              "props": {
+                "rel": "canonical",
+                "href": "https://www.matrixmassage.net/spa-services-near-bristol-wi"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE",
+            "inheritedTag": {
+              "type": "link",
+              "props": {
+                "rel": "canonical",
+                "href": "https://www.matrixmassage.net/spa-services-near-bristol-wi"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            }
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "property": "og:title",
+                "content": "Spa Near Bristol, WI | Facials, Massage & Head Spa | Matrix"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE",
+            "inheritedTag": {
+              "type": "meta",
+              "props": {
+                "property": "og:title",
+                "content": "SPA NEAR BRISTOL | Matrix Massage & Bodywork"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            }
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "property": "og:description",
+                "content": "Visit Matrix in Salem for facials, Japanese Head Spa, massage and lash extensions near Bristol, WI. Book online or send an instant spa eGift Card."
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "property": "og:image",
+                "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_DEFAULT_PATTERN"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "property": "og:image:width",
+                "content": "2500"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_DEFAULT_PATTERN"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "property": "og:image:height",
+                "content": "1330"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_DEFAULT_PATTERN"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "property": "og:url",
+                "content": "https://www.matrixmassage.net/spa-services-near-bristol-wi"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_DEFAULT_PATTERN"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "property": "og:site_name",
+                "content": "Matrix Massage & Bodywork"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_DEFAULT_PATTERN"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "property": "og:type",
+                "content": "website"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_DEFAULT_PATTERN"
+          },
+          {
+            "tag": {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "meta": {
+                "displayName": "Matrix Regional bristol Services"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.matrixmassage.net/spa-services-near-bristol-wi#webpage\",\"url\":\"https://www.matrixmassage.net/spa-services-near-bristol-wi\",\"name\":\"Spa Near Bristol, WI | Facials, Massage & Head Spa | Matrix\",\"description\":\"Visit Matrix in Salem for facials, Japanese Head Spa, massage and lash extensions near Bristol, WI. Book online or send an instant spa eGift Card.\",\"isPartOf\":{\"@type\":\"WebSite\",\"url\":\"https://www.matrixmassage.net/\"},\"about\":{\"@id\":\"https://www.matrixmassage.net/spa-services-near-bristol-wi#services\"}},{\"@type\":\"Service\",\"@id\":\"https://www.matrixmassage.net/spa-services-near-bristol-wi#services\",\"name\":\"Massage, facial, Head Spa and lash services for Bristol guests\",\"serviceType\":[\"Facials\",\"Japanese Head Spa\",\"Massage therapy\",\"Lash extensions\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Bristol, Wisconsin\"}],\"provider\":{\"@type\":\"DaySpa\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/\",\"telephone\":\"+12629399325\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"}}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Matrix Massage & Bodywork\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Spa near Bristol\",\"item\":\"https://www.matrixmassage.net/spa-services-near-bristol-wi\"}]}]}",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE"
+          },
+          {
+            "tag": {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "meta": {
+                "displayName": "Matrix Regional bristol FAQ"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Where is Matrix located for Bristol guests?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix Massage & Bodywork is at 24804 75th St, Salem, WI 53168. We welcome Bristol guests at this Salem studio. We do not have a separate Bristol location. Use the directions link on this page to check your route.\"}},{\"@type\":\"Question\",\"name\":\"What spa services can I book near Bristol?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Our Salem studio offers Custom and Circadia facials, dermaplaning, Japanese Head Spa, therapeutic massage, and Classic, Hybrid, and Volume lash extensions. The current booking menu shows appointment lengths, prices, providers, and availability.\"}},{\"@type\":\"Question\",\"name\":\"Which facial should I choose for acne-prone skin?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Start with a Custom Facial and share that breakouts or congestion are your priority. Clear + Balance is our related skin-goal pathway. Your provider reviews your skin and routine before choosing suitable cosmetic care; a facial is not a replacement for medical acne treatment.\"}},{\"@type\":\"Question\",\"name\":\"Can I book dermaplaning near Bristol?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Matrix offers dermaplaning appointments at our Salem studio, including focused and full-facial options. Tell your provider about active irritation, breakouts, prescription skincare, and recent treatments so suitability can be discussed.\"}},{\"@type\":\"Question\",\"name\":\"What should I expect from my first Japanese Head Spa?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Expect scalp-focused cleansing and relaxation, with steps selected for your chosen service. Review the Head Spa menu for what is included. Your hair will be wet afterward; professional drying and styling are booked separately when available.\"}},{\"@type\":\"Question\",\"name\":\"Does therapeutic massage have to be deep or painful?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. Tell your massage therapist about your goals and pressure preferences. Pressure can be adjusted during the session. Choose from the current massage menu and let us know if you are unsure which appointment fits.\"}},{\"@type\":\"Question\",\"name\":\"Do you offer lash full sets and fills?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Classic, Hybrid, and Volume lash extensions have full-set appointments and matching one-, two-, and three-week fills. If you have lashes from another studio or are unsure which fill to choose, contact Matrix before booking.\"}},{\"@type\":\"Question\",\"name\":\"Can I send an instant spa gift card to someone in Bristol?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Purchase a Matrix eGift Card through Square, choose a dollar amount, and send it by text or email today or schedule a future delivery. The recipient books a separate appointment at our Salem studio.\"}},{\"@type\":\"Question\",\"name\":\"Can I book a facial and Head Spa together?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The current menu includes a Head Spa and Hydrating Glow Facial combination. For other combinations, text 262-939-9325 so we can help coordinate services and provider availability before you book.\"}},{\"@type\":\"Question\",\"name\":\"How do I check prices, hours, and appointment availability?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The Square booking menu shows current prices and available appointment times. Reserve online or text 262-939-9325 for help choosing a service or confirming your visit. All appointments take place at our Salem address.\"}}]}",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "name": "google-site-verification",
+                "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_SITE"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "name": "twitter:card",
+                "content": "summary_large_image"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_DEFAULT_PATTERN"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "name": "twitter:title",
+                "content": "Spa Near Bristol, WI | Facials, Massage & Head Spa | Matrix"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE",
+            "inheritedTag": {
+              "type": "meta",
+              "props": {
+                "name": "twitter:title",
+                "content": "SPA NEAR BRISTOL | Matrix Massage & Bodywork"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            }
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "name": "twitter:description",
+                "content": "Visit Matrix in Salem for facials, Japanese Head Spa, massage and lash extensions near Bristol, WI. Book online or send an instant spa eGift Card."
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "name": "twitter:image",
+                "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_DEFAULT_PATTERN"
+          }
+        ],
+        "hostPageId": "q3smg",
+        "publishStatus": "PUBLISH_STATUS_UNSPECIFIED",
+        "origin": "ORIGIN_UNSPECIFIED"
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "id": "STATIC_PAGE:dan8z",
+        "itemType": "STATIC_PAGE",
+        "itemId": "dan8z",
+        "tags": [
+          {
+            "type": "title",
+            "children": "Spa Near Twin Lakes & Genoa City, WI | Matrix",
+            "custom": false,
+            "disabled": false
+          },
+          {
+            "type": "meta",
+            "props": {
+              "name": "description",
+              "content": "Facials, massage, Japanese Head Spa and lash extensions for Twin Lakes and Genoa City guests at Matrix in Salem, WI. Book a visit or send a spa gift card."
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          {
+            "type": "link",
+            "props": {
+              "rel": "canonical",
+              "href": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "displayName": "Matrix Regional twin-lakes-genoa-city Services"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi#webpage\",\"url\":\"https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi\",\"name\":\"Spa Near Twin Lakes & Genoa City, WI | Matrix\",\"description\":\"Facials, massage, Japanese Head Spa and lash extensions for Twin Lakes and Genoa City guests at Matrix in Salem, WI. Book a visit or send a spa gift card.\",\"isPartOf\":{\"@type\":\"WebSite\",\"url\":\"https://www.matrixmassage.net/\"},\"about\":{\"@id\":\"https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi#services\"}},{\"@type\":\"Service\",\"@id\":\"https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi#services\",\"name\":\"Massage, facial, Head Spa and lash services for Twin Lakes & Genoa City guests\",\"serviceType\":[\"Facials\",\"Japanese Head Spa\",\"Massage therapy\",\"Lash extensions\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Twin Lakes, Wisconsin\"},{\"@type\":\"City\",\"name\":\"Genoa City, Wisconsin\"}],\"provider\":{\"@type\":\"DaySpa\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/\",\"telephone\":\"+12629399325\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"}}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Matrix Massage & Bodywork\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Spa near Twin Lakes & Genoa City\",\"item\":\"https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi\"}]}]}",
+            "custom": false,
+            "disabled": false
+          },
+          {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "displayName": "Matrix Regional twin-lakes-genoa-city FAQ"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Do you have a spa in Twin Lakes or Genoa City?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Our single studio is in Salem, Wisconsin, at 24804 75th St, Salem, WI 53168. We welcome guests from Twin Lakes and Genoa City; there are no separate Matrix branches in either town.\"}},{\"@type\":\"Question\",\"name\":\"How do I plan the drive to my appointment?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Use the directions link with your own starting point to see the route and current travel time to our Salem studio. Allow time to arrive for your appointment, and contact us if you need help finding the studio.\"}},{\"@type\":\"Question\",\"name\":\"Can I book a spa visit while staying near Twin Lakes?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. You can reserve through our online booking menu whether you live nearby or are visiting. Book ahead for the service and time you prefer. For multiple guests or several services, contact Matrix to coordinate availability.\"}},{\"@type\":\"Question\",\"name\":\"Where can I get a facial for acne-prone or dry skin?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix offers Custom Facials at our Salem studio for Twin Lakes and Genoa City guests. Share your concerns, current products, and sensitivities with your provider. Clear + Balance and Hydrate + Restore are skin-goal pathways you can explore before booking.\"}},{\"@type\":\"Question\",\"name\":\"What is the difference between a facial and dermaplaning?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"A facial combines skincare steps selected for your skin and appointment. Dermaplaning is a professional surface-exfoliation service that also removes fine facial hair. Matrix offers focused dermaplaning and facial combinations; your provider can discuss suitability.\"}},{\"@type\":\"Question\",\"name\":\"Will my hair be wet after a Japanese Head Spa?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Head Spa includes scalp and hair care that leaves your hair wet. Professional drying or styling is a separate appointment when available, so arrange it ahead of time if you want that finish.\"}},{\"@type\":\"Question\",\"name\":\"Which massage should I book?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Choose around your goals, comfort, and available time. The massage menu explains deep tissue, Swedish, and manual lymphatic drainage options. Text Matrix if you need help selecting a service, and discuss pressure preferences with your therapist.\"}},{\"@type\":\"Question\",\"name\":\"Can I get Classic, Hybrid, or Volume lash extensions?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Matrix offers all three styles, with full sets and matching one-, two-, and three-week fills. Contact us before selecting a fill if your extensions were applied elsewhere or you are unsure which appointment you need.\"}},{\"@type\":\"Question\",\"name\":\"Are spa gift cards available for last-minute gifts?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Buy a Matrix eGift Card online through Square and send it by text or email today, or schedule a future delivery. Choose a dollar amount so the recipient can select their experience. Purchasing a gift card does not reserve an appointment.\"}},{\"@type\":\"Question\",\"name\":\"Can I combine a facial, Head Spa, or massage in one visit?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The menu includes a Head Spa and Hydrating Glow Facial combination. Other combinations depend on the services and providers available. Text 262-939-9325 before booking multiple services so we can help arrange the timing.\"}}]}",
+            "custom": false,
+            "disabled": false
+          }
+        ],
+        "focusKeywords": [],
+        "hasOverride": true,
+        "resolvedTags": [
+          {
+            "tag": {
+              "type": "title",
+              "children": "Spa Near Twin Lakes & Genoa City, WI | Matrix",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE",
+            "inheritedTag": {
+              "type": "title",
+              "children": "SPA NEAR TWIN LAKES & GENOA CITY | Matrix Massage & Bodywork",
+              "custom": false,
+              "disabled": false
+            }
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "name": "description",
+                "content": "Facials, massage, Japanese Head Spa and lash extensions for Twin Lakes and Genoa City guests at Matrix in Salem, WI. Book a visit or send a spa gift card."
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE"
+          },
+          {
+            "tag": {
+              "type": "link",
+              "props": {
+                "rel": "canonical",
+                "href": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE",
+            "inheritedTag": {
+              "type": "link",
+              "props": {
+                "rel": "canonical",
+                "href": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            }
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "property": "og:title",
+                "content": "Spa Near Twin Lakes & Genoa City, WI | Matrix"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE",
+            "inheritedTag": {
+              "type": "meta",
+              "props": {
+                "property": "og:title",
+                "content": "SPA NEAR TWIN LAKES & GENOA CITY | Matrix Massage & Bodywork"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            }
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "property": "og:description",
+                "content": "Facials, massage, Japanese Head Spa and lash extensions for Twin Lakes and Genoa City guests at Matrix in Salem, WI. Book a visit or send a spa gift card."
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "property": "og:image",
+                "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_DEFAULT_PATTERN"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "property": "og:image:width",
+                "content": "2500"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_DEFAULT_PATTERN"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "property": "og:image:height",
+                "content": "1330"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_DEFAULT_PATTERN"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "property": "og:url",
+                "content": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_DEFAULT_PATTERN"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "property": "og:site_name",
+                "content": "Matrix Massage & Bodywork"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_DEFAULT_PATTERN"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "property": "og:type",
+                "content": "website"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_DEFAULT_PATTERN"
+          },
+          {
+            "tag": {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "meta": {
+                "displayName": "Matrix Regional twin-lakes-genoa-city Services"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi#webpage\",\"url\":\"https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi\",\"name\":\"Spa Near Twin Lakes & Genoa City, WI | Matrix\",\"description\":\"Facials, massage, Japanese Head Spa and lash extensions for Twin Lakes and Genoa City guests at Matrix in Salem, WI. Book a visit or send a spa gift card.\",\"isPartOf\":{\"@type\":\"WebSite\",\"url\":\"https://www.matrixmassage.net/\"},\"about\":{\"@id\":\"https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi#services\"}},{\"@type\":\"Service\",\"@id\":\"https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi#services\",\"name\":\"Massage, facial, Head Spa and lash services for Twin Lakes & Genoa City guests\",\"serviceType\":[\"Facials\",\"Japanese Head Spa\",\"Massage therapy\",\"Lash extensions\"],\"areaServed\":[{\"@type\":\"City\",\"name\":\"Twin Lakes, Wisconsin\"},{\"@type\":\"City\",\"name\":\"Genoa City, Wisconsin\"}],\"provider\":{\"@type\":\"DaySpa\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/\",\"telephone\":\"+12629399325\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"}}},{\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Matrix Massage & Bodywork\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Spa near Twin Lakes & Genoa City\",\"item\":\"https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi\"}]}]}",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE"
+          },
+          {
+            "tag": {
+              "type": "script",
+              "props": {
+                "type": "application/ld+json"
+              },
+              "meta": {
+                "displayName": "Matrix Regional twin-lakes-genoa-city FAQ"
+              },
+              "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Do you have a spa in Twin Lakes or Genoa City?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Our single studio is in Salem, Wisconsin, at 24804 75th St, Salem, WI 53168. We welcome guests from Twin Lakes and Genoa City; there are no separate Matrix branches in either town.\"}},{\"@type\":\"Question\",\"name\":\"How do I plan the drive to my appointment?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Use the directions link with your own starting point to see the route and current travel time to our Salem studio. Allow time to arrive for your appointment, and contact us if you need help finding the studio.\"}},{\"@type\":\"Question\",\"name\":\"Can I book a spa visit while staying near Twin Lakes?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. You can reserve through our online booking menu whether you live nearby or are visiting. Book ahead for the service and time you prefer. For multiple guests or several services, contact Matrix to coordinate availability.\"}},{\"@type\":\"Question\",\"name\":\"Where can I get a facial for acne-prone or dry skin?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix offers Custom Facials at our Salem studio for Twin Lakes and Genoa City guests. Share your concerns, current products, and sensitivities with your provider. Clear + Balance and Hydrate + Restore are skin-goal pathways you can explore before booking.\"}},{\"@type\":\"Question\",\"name\":\"What is the difference between a facial and dermaplaning?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"A facial combines skincare steps selected for your skin and appointment. Dermaplaning is a professional surface-exfoliation service that also removes fine facial hair. Matrix offers focused dermaplaning and facial combinations; your provider can discuss suitability.\"}},{\"@type\":\"Question\",\"name\":\"Will my hair be wet after a Japanese Head Spa?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Head Spa includes scalp and hair care that leaves your hair wet. Professional drying or styling is a separate appointment when available, so arrange it ahead of time if you want that finish.\"}},{\"@type\":\"Question\",\"name\":\"Which massage should I book?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Choose around your goals, comfort, and available time. The massage menu explains deep tissue, Swedish, and manual lymphatic drainage options. Text Matrix if you need help selecting a service, and discuss pressure preferences with your therapist.\"}},{\"@type\":\"Question\",\"name\":\"Can I get Classic, Hybrid, or Volume lash extensions?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Matrix offers all three styles, with full sets and matching one-, two-, and three-week fills. Contact us before selecting a fill if your extensions were applied elsewhere or you are unsure which appointment you need.\"}},{\"@type\":\"Question\",\"name\":\"Are spa gift cards available for last-minute gifts?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Buy a Matrix eGift Card online through Square and send it by text or email today, or schedule a future delivery. Choose a dollar amount so the recipient can select their experience. Purchasing a gift card does not reserve an appointment.\"}},{\"@type\":\"Question\",\"name\":\"Can I combine a facial, Head Spa, or massage in one visit?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The menu includes a Head Spa and Hydrating Glow Facial combination. Other combinations depend on the services and providers available. Text 262-939-9325 before booking multiple services so we can help arrange the timing.\"}}]}",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "name": "google-site-verification",
+                "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_SITE"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "name": "twitter:card",
+                "content": "summary_large_image"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_DEFAULT_PATTERN"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "name": "twitter:title",
+                "content": "Spa Near Twin Lakes & Genoa City, WI | Matrix"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE",
+            "inheritedTag": {
+              "type": "meta",
+              "props": {
+                "name": "twitter:title",
+                "content": "SPA NEAR TWIN LAKES & GENOA CITY | Matrix Massage & Bodywork"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            }
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "name": "twitter:description",
+                "content": "Facials, massage, Japanese Head Spa and lash extensions for Twin Lakes and Genoa City guests at Matrix in Salem, WI. Book a visit or send a spa gift card."
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_HOST_PAGE"
+          },
+          {
+            "tag": {
+              "type": "meta",
+              "props": {
+                "name": "twitter:image",
+                "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+              },
+              "children": "",
+              "custom": false,
+              "disabled": false
+            },
+            "source": "TAG_SOURCE_DEFAULT_PATTERN"
+          }
+        ],
+        "hostPageId": "dan8z",
+        "publishStatus": "PUBLISH_STATUS_UNSPECIFIED",
+        "origin": "ORIGIN_UNSPECIFIED"
+      }
+    }
+  ]
+}

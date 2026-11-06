@@ -1,33 +1,62 @@
-# CURRENT — Bristol + Twin Lakes / Genoa City — DESIGN REVIEW READY
-Date: November 6, 2026 (America/Chicago). Project: FACIAL WEB SEO PW.
+# CURRENT — Bristol + Twin Lakes / Genoa City — PUBLISHED
 
-DESIGNED / SAVED LOCALLY / SOURCE VERIFIED / SOURCE TESTED.
-NOT INSTALLED IN WIX. NOT PUBLISHED. GITHUB REMOTE SAVE BLOCKED.
+Project: FACIAL WEB SEO PW. Verified November 6, 2026.
+Status: SAVED / VERIFIED / TESTED / PUBLISHED.
 
-## Deliverable
-Two complete main-style regional spa page bodies, each with large centered black-framed approved logo, prominent teal water, cream sections, 7 body images, facial/Head Spa/massage/lash/gift sections, real Salem address, descriptive links to existing main pages, and 10 visible FAQs. Twin Lakes and Genoa City are one combined page. Different facial, Head Spa, massage, product photos and local copy distinguish the two.
+## Published pages
 
-Proposed routes:
-- /spa-services-near-bristol-wi
-- /spa-services-near-twin-lakes-genoa-city-wi
-Both will be hidden from regular desktop/mobile navigation and footer menus while remaining public and indexable after approval and publication. Standalone design proofs are noindex. The existing Bristol Head Spa page is preserved.
+| Page | Public URL | Native page ID | Element ID | Custom tag |
+| --- | --- | --- | --- | --- |
+| Bristol | https://www.matrixmassage.net/spa-services-near-bristol-wi | q3smg | matrixBristolSpa | matrix-bristol-spa |
+| Twin Lakes / Genoa City | https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi | dan8z | matrixTwinLakesSpa | matrix-twin-lakes-spa |
 
-## Source and SEO
-Review 2 is current. Review 1 is historical; Review 2 corrects lash deep links to the observed #sb-lashes anchor. Each page includes prepared metadata, self-canonical, complete visible-body seoMarkup, matching FAQ JSON, and WebPage/Service/Breadcrumb schema with the real Salem provider address and target service areas.
-See SPECIFICATION.md, INSTALL_DRAFT.md, page-config.json and REVIEW_HASHES.json for exact values and execution boundaries. Only a clean new page may receive candidate page code. Never overwrite existing nonblank code without capture/merge.
+Both are public and indexable, hidden from regular desktop/mobile navigation and footer menus. Google indexing or rankings are not asserted.
 
-## QA completed
-- Builder passed balanced markup, one H1, unique IDs, links/anchors, scoped CSS, FAQ extraction and production payload checks. JavaScript syntax checks passed for both renderers (29,540 and 31,795 bytes).
-- Desktop source proofs rendered in cloud browser. Seven images loaded per page. Full-width backgrounds and no horizontal overflow.
-- Responsive iframe tests at requested widths 320,390,1280,1440,1920 passed. Actual content width at the 1280 test was1265 due to scrollbar; others matched requested widths. See qa/responsive-qa.json.
-- All10FAQs on both desktop proofs expanded, with no section overlap. Corrected phone harness independently verified all10FAQs open on each page; phone content widths305and375 reflect scrollbar within320and390frames. FAQ bottom matched next section top; no overflow. Final mobile records supersede earlier incomplete harness click results.
-- 28 unique external page/asset URLs returned HTTP200. This checks loadability, not booking/purchase completion. Directions URL was rechecked after HTML entity decoding. No customer data or transactions were submitted.
-- Full-page screenshot capture timed out; representative desktop/lash/mobile screenshots and the complete self-contained HTML proofs are provided. The entire pages were rendered and inspected via DOM/layout checks. No native Wix mobile or production page test occurred.
+## Authorization and authoritative source
 
-## Approval-review block and live state
-Local source commit:6337006f3ce5c989d0557463ab75d9cb42a1d77b.
-Automatic approval review rejected the git push to main, stating the external main-branch write was not explicitly authorized by this draft-only request. No workaround or alternate push was attempted. Read-only remote check confirmed origin/main remains3410ffbe4854f403f588526a1c113f0610d757f8; local commit is NOT a verified GitHub save.
-Wix editor access works. We opened Pages & Menu > Add Page but did not choose a blank page or create any page. The editor was closed without content changes. No new native IDs exist and no drafts were installed; installation awaits the remotely saved immutable renderer and owner review. No Publish, history restore, shared shell change, SEO API write, or Square change occurred.
+Owner explicitly approved saving the reviewed files to GitHub, installing, and publishing both pages. Review 2 is the approved content. Prior design checkpoint is historical, preserved as CHECKPOINT_DESIGN_REVIEW_ARCHIVE.md; its unpublished/blocked statements are superseded by this receipt.
 
-## Next step
-Obtain explicit approval to save the reviewed files to the existing GitHub repository and install/publish these exact two hidden-menu pages. Then complete source push/readback, CDN hash check, deterministic native installation, draft SEO merge, desktop/mobile tests and save/reopen readback. Before site-wide Publish, inspect unrelated pending edits and ensure release scope is covered. Save actual publication evidence and permanent URLs. Never present the proposed paths as already live.
+Live renderer immutable commit: d4a0e2a8e09b37df2f4a50e255b70395d230405f.
+Repository: https://github.com/MatrixMassageBodywork-droid/matrix-wix-components
+Approved source tree: 60f496633bb76d5bf9a04d4a1000e9c616a749f8, identical to reviewed local tree.
+
+- Bristol renderer: pages/regional/bristol/review-2/renderer.js, 29,540 bytes, SHA-256 f60a82a53a68fe8d76fe21b430dc712ed6e4b78b29b0801473a656302aa39718.
+- Twin renderer: pages/regional/twin-lakes-genoa-city/review-2/renderer.js, 31,795 bytes, SHA-256 d4dfd76e5512602b66d908bd340422603e074e46d9cb5cb6c96ec791fc0a9ce3.
+
+Native Wix site cdec8df6-d518-4859-9f1e-f06bf5346d41; editor document a276c9bf-bc17-4680-959b-a24ebe7370f6.
+Bristol native section comp-mw5l23zu, host comp-mw5l8z0x. Twin section comp-mw5lt8su. Both section1, full-width host, zero stretch margins. Saved base height 5px; renderer grows naturally. Shared header/footer retained.
+Exact installed page code is saved in each regional directory as WIX_PAGE_CODE_INSTALL.js. Captured blank starter comments were preserved. Full clipboard readback matched installed code.
+
+## Completed implementation
+
+Bristol was created as a blank page. The newly created Bristol draft was intentionally duplicated once to create the requested Twin page, then its name, path, element ID, tag, source, code, and all SEO were replaced with the Twin specification. Existing regional pages were preserved.
+
+Both pages include the approved centered framed logo, teal water theme, cream sections, seven body images, facial/Head Spa/massage/lash/gift-card sections, ten FAQs, real Salem studio address, and descriptive links to main services and verified Square booking/gift-card destinations.
+
+Page-specific native SEO was merged with publish:false, with a before/request/result/after receipt; two successes, zero failures. This preserved unrelated SEO. Native publication was then completed once and Wix displayed its published/live confirmation. Public pages were opened after publication and their final URLs verified.
+
+## Verification evidence
+
+qa/live-public-qa.json is the final public readback for both pages:
+- Exact title, description, self-canonical and immutable renderer commit.
+- Default index/follow, one H1, ten FAQs, all ten expanded.
+- FAQ structured data matches visible questions and answers exactly.
+- WebPage, Service, BreadcrumbList and FAQPage schemas present.
+- All seven body images loaded per page.
+- Width and scrollWidth both 1348: no horizontal overflow.
+- Footer 10px after host; footer immediately after native section, no overlap.
+- No regional links in header/footer menus.
+
+Native Wix phone previews for both pages rendered at 320px without horizontal overflow. Bristol: width320/scrollWidth320, one H1, ten FAQs, contentHeight10544. Twin: width320/scrollWidth320, one H1, ten FAQs, initial contentHeight10749. Phone menu check showed neither new regional page. Representative native mobile screenshots saved.
+
+Earlier standalone responsive QA passed at requested widths320,390,1280,1440,1920 and all ten FAQs expanded on each phone proof. Native mobile all-FAQ expansion was not completed; final all-open public verification was desktop. Native desktop all-open evidence is superseded by final public QA.
+
+28 unique destination/asset URLs returned HTTP200 during source QA. This verifies loadability; no purchase, appointment submission, or SMS sending was performed. No claim of search-engine indexing, ranking, or rich-result eligibility.
+
+Evidence: qa/cdn-approved-source.json, qa/native-seo-save-receipt.json, qa/live-public-qa.json, qa/bristol-wix-mobile.json, qa/twin-wix-desktop.json, qa/wix-publication-confirmation.jpg, qa/bristol-live-desktop.jpg, qa/twin-live-desktop.jpg, qa/bristol-wix-mobile.jpg, qa/twin-wix-mobile.jpg, and earlier responsive/FAQ proofs.
+
+## Scope and continuation
+
+No shared masterPage edits, existing-page rebuild, CMS edits, Square changes, permission changes, Site History restore, Test Site changes, or traffic gate changes. Only these new pages and their page-local SEO were changed. Site History was inspected before Publish. Receipt-only repository commits do not change the live immutable renderer pin and require no republishing.
+
+Implementation complete. Do not recreate/reinstall/republish these pages without an approved new change. Current source and installed code are the continuation baseline.

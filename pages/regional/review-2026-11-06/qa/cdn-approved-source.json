@@ -1,0 +1,18 @@
+[
+  {
+    "page": "bristol",
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@d4a0e2a8e09b37df2f4a50e255b70395d230405f/pages/regional/bristol/review-2/renderer.js",
+    "status": 200,
+    "bytes": 29540,
+    "sha256": "f60a82a53a68fe8d76fe21b430dc712ed6e4b78b29b0801473a656302aa39718",
+    "matches": true
+  },
+  {
+    "page": "twin-lakes-genoa-city",
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@d4a0e2a8e09b37df2f4a50e255b70395d230405f/pages/regional/twin-lakes-genoa-city/review-2/renderer.js",
+    "status": 200,
+    "bytes": 31795,
+    "sha256": "d4dfd76e5512602b66d908bd340422603e074e46d9cb5cb6c96ec791fc0a9ce3",
+    "matches": true
+  }
+]
