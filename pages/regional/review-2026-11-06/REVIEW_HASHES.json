@@ -1,0 +1,18 @@
+{
+  "bristol": {
+    "body.html": "87fde14ae8bcb9cff73cc2aecd81dcd541c39bf0e9d328b161bedbb4f53e0574",
+    "style.css": "ac7bea22c889caaaf504084cadd120eb7ab3ac6307bae237b05a4a047041612e",
+    "review-2/renderer.js": "f60a82a53a68fe8d76fe21b430dc712ed6e4b78b29b0801473a656302aa39718",
+    "review-2/faq-schema.json": "67aba3d77980aedf3647669abc63f499888371da16c3b8cc32abf0c3ff36c556",
+    "service-schema.json": "f8b3486aa314cf8c17fa87f336670a3e2793f0d04b492a4a0557083346d7398f",
+    "seo-plan.json": "12f981cbfce19f3931ac257b042a51fdb316c4fef0c232f0dc98b6bf001b6c07"
+  },
+  "twin-lakes-genoa-city": {
+    "body.html": "867982889d9f1648e9db4a39e80b13a22923eb21a1642785075780f02ef930f3",
+    "style.css": "aa4345c13000fa341e92a385e880baa1596fda065566033d290b4ffedc179b70",
+    "review-2/renderer.js": "d4dfd76e5512602b66d908bd340422603e074e46d9cb5cb6c96ec791fc0a9ce3",
+    "review-2/faq-schema.json": "df55c882ef3f33376618f2d3f17a003d8377709614c8377ffe9a186fe3a4a36f",
+    "service-schema.json": "d1dde3ae131b879f6ae57e355e9ea72c050b97c8c7211d3573046f67fce2b9fb",
+    "seo-plan.json": "2a22fd4edb01621fcd1aa6275f37ec293e9ed5ba8aa41e9366a42d4fa8293a6b"
+  }
+}

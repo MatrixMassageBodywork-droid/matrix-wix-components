@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi#webpage",
+      "url": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+      "name": "Spa Near Twin Lakes & Genoa City, WI | Matrix",
+      "description": "Facials, massage, Japanese Head Spa and lash extensions for Twin Lakes and Genoa City guests at Matrix in Salem, WI. Book a visit or send a spa gift card.",
+      "isPartOf": {
+        "@type": "WebSite",
+        "url": "https://www.matrixmassage.net/"
+      },
+      "about": {
+        "@id": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi#services"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi#services",
+      "name": "Massage, facial, Head Spa and lash services for Twin Lakes & Genoa City guests",
+      "serviceType": [
+        "Facials",
+        "Japanese Head Spa",
+        "Massage therapy",
+        "Lash extensions"
+      ],
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Twin Lakes, Wisconsin"
+        },
+        {
+          "@type": "City",
+          "name": "Genoa City, Wisconsin"
+        }
+      ],
+      "provider": {
+        "@type": "DaySpa",
+        "name": "Matrix Massage & Bodywork",
+        "url": "https://www.matrixmassage.net/",
+        "telephone": "+12629399325",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "24804 75th St",
+          "addressLocality": "Salem",
+          "addressRegion": "WI",
+          "postalCode": "53168",
+          "addressCountry": "US"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Matrix Massage & Bodywork",
+          "item": "https://www.matrixmassage.net/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Spa near Twin Lakes & Genoa City",
+          "item": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "serviceName": "Spa services near Twin Lakes & Genoa City",
+  "revision": "review-2",
+  "tagName": "matrix-twin-lakes-spa",
+  "elementId": "matrixTwinLakesSpa",
+  "rootClass": "matrix-twin-lakes-genoa-city",
+  "pageUrl": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+  "seoTitle": "Spa Near Twin Lakes & Genoa City, WI | Matrix",
+  "seoDescription": "Facials, massage, Japanese Head Spa and lash extensions for Twin Lakes and Genoa City guests at Matrix in Salem, WI. Book a visit or send a spa gift card.",
+  "seoSource": "../review-2026-11-06/SPECIFICATION.md",
+  "bodyFile": "body.html",
+  "cssFile": "style.css",
+  "expectedFaqCount": 10
+}

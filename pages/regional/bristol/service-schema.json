@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://www.matrixmassage.net/spa-services-near-bristol-wi#webpage",
+      "url": "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+      "name": "Spa Near Bristol, WI | Facials, Massage & Head Spa | Matrix",
+      "description": "Visit Matrix in Salem for facials, Japanese Head Spa, massage and lash extensions near Bristol, WI. Book online or send an instant spa eGift Card.",
+      "isPartOf": {
+        "@type": "WebSite",
+        "url": "https://www.matrixmassage.net/"
+      },
+      "about": {
+        "@id": "https://www.matrixmassage.net/spa-services-near-bristol-wi#services"
+      }
+    },
+    {
+      "@type": "Service",
+      "@id": "https://www.matrixmassage.net/spa-services-near-bristol-wi#services",
+      "name": "Massage, facial, Head Spa and lash services for Bristol guests",
+      "serviceType": [
+        "Facials",
+        "Japanese Head Spa",
+        "Massage therapy",
+        "Lash extensions"
+      ],
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Bristol, Wisconsin"
+        }
+      ],
+      "provider": {
+        "@type": "DaySpa",
+        "name": "Matrix Massage & Bodywork",
+        "url": "https://www.matrixmassage.net/",
+        "telephone": "+12629399325",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "24804 75th St",
+          "addressLocality": "Salem",
+          "addressRegion": "WI",
+          "postalCode": "53168",
+          "addressCountry": "US"
+        }
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Matrix Massage & Bodywork",
+          "item": "https://www.matrixmassage.net/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Spa near Bristol",
+          "item": "https://www.matrixmassage.net/spa-services-near-bristol-wi"
+        }
+      ]
+    }
+  ]
+}

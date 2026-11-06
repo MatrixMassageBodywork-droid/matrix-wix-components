@@ -1,0 +1,100 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "Spa services near Twin Lakes & Genoa City",
+    "revision": "review-1",
+    "tagName": "matrix-twin-lakes-spa",
+    "elementId": "matrixTwinLakesSpa",
+    "rootClass": "matrix-twin-lakes-genoa-city",
+    "pageUrl": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+    "seoTitle": "Spa Near Twin Lakes & Genoa City, WI | Matrix",
+    "seoDescription": "Facials, massage, Japanese Head Spa and lash extensions for Twin Lakes and Genoa City guests at Matrix in Salem, WI. Book a visit or send a spa gift card.",
+    "seoSource": "../review-2026-11-06/SPECIFICATION.md",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 10
+  },
+  "seo": {
+    "title": "Spa Near Twin Lakes & Genoa City, WI | Matrix",
+    "description": "Facials, massage, Japanese Head Spa and lash extensions for Twin Lakes and Genoa City guests at Matrix in Salem, WI. Book a visit or send a spa gift card.",
+    "canonical": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+    "source": "../review-2026-11-06/SPECIFICATION.md"
+  },
+  "h1": "The Premier Luxury Spa Experience Serving Twin Lakes & Genoa City, WI",
+  "faqCount": 10,
+  "links": [
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://app.squareup.com/gift/MLJ7B3VJVPBSS/order",
+    "#facials",
+    "#head-spa",
+    "#massage",
+    "#lashes",
+    "#gift-cards",
+    "#visit",
+    "https://www.matrixmassage.net/facial-goals/clear-balance",
+    "https://www.matrixmassage.net/facial-goals/age-defying-firm",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+    "https://www.matrixmassage.net/swedish-massage-salem-wi",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi#lashes",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://app.squareup.com/gift/MLJ7B3VJVPBSS/order",
+    "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+    "sms:+12629399325",
+    "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St,+Salem,+WI+53168",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.matrixmassage.net/about-5",
+    "https://www.matrixmassage.net/",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi#lashes",
+    "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://app.squareup.com/gift/MLJ7B3VJVPBSS/order"
+  ],
+  "images": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@3410ffbe4854f403f588526a1c113f0610d757f8/pages/massage/deep-tissue/assets/matrix-bodywork-approved.jpg",
+      "alt": "Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@3410ffbe4854f403f588526a1c113f0610d757f8/pages/spa-beauty/facials/assets/review-2/facial-treatment.webp",
+      "alt": "Facial treatment from the Matrix skincare photo collection"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@3410ffbe4854f403f588526a1c113f0610d757f8/pages/spa-beauty/facials/assets/review-2/circadia-hydration.webp",
+      "alt": "Circadia skincare products at Matrix in Salem"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@3410ffbe4854f403f588526a1c113f0610d757f8/pages/spa-beauty/head-spa/assets/review-2/matrix-waterfall.webp",
+      "alt": "Japanese Head Spa treatment at Matrix in Salem, Wisconsin"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@3410ffbe4854f403f588526a1c113f0610d757f8/pages/massage/regional-review-2026-11-06/assets/existing-session.webp",
+      "alt": "Therapeutic massage session from the Matrix treatment photo collection"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@3410ffbe4854f403f588526a1c113f0610d757f8/pages/spa-beauty/main/assets/lashes.webp",
+      "alt": "Illustrative close-up of a softly defined lash line"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@3410ffbe4854f403f588526a1c113f0610d757f8/pages/massage/regional-review-2026-11-06/assets/matrix-treatment-room.webp",
+      "alt": "A treatment room at the Matrix Salem studio"
+    }
+  ],
+  "files": {
+    "body.html": "2c2dce648764bb3b0b7c3c87e35bed81ff219aa927b704f74822c5de4a69f344",
+    "style.css": "aa4345c13000fa341e92a385e880baa1596fda065566033d290b4ffedc179b70",
+    "renderer.js": "0b364a2e4d80bd7e676608cec5e526c027fc4f979aff4aa229be1c5a4f26ef08",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "e8d5912769b7d3de40bd88be85284292ac96f8bded3c3422bfab7d4d304c98e2",
+    "preview.html": "9259f454c7f739565eeca39ee5e4249e886f83bcbbd6c891abc7994efb641cf7",
+    "faq-schema.json": "df55c882ef3f33376618f2d3f17a003d8377709614c8377ffe9a186fe3a4a36f"
+  },
+  "rendererBytes": 31789
+}

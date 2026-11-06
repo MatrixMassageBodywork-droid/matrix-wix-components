@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you have a spa in Twin Lakes or Genoa City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our single studio is in Salem, Wisconsin, at 24804 75th St, Salem, WI 53168. We welcome guests from Twin Lakes and Genoa City; there are no separate Matrix branches in either town."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I plan the drive to my appointment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use the directions link with your own starting point to see the route and current travel time to our Salem studio. Allow time to arrive for your appointment, and contact us if you need help finding the studio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I book a spa visit while staying near Twin Lakes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. You can reserve through our online booking menu whether you live nearby or are visiting. Book ahead for the service and time you prefer. For multiple guests or several services, contact Matrix to coordinate availability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I get a facial for acne-prone or dry skin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matrix offers Custom Facials at our Salem studio for Twin Lakes and Genoa City guests. Share your concerns, current products, and sensitivities with your provider. Clear + Balance and Hydrate + Restore are skin-goal pathways you can explore before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between a facial and dermaplaning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A facial combines skincare steps selected for your skin and appointment. Dermaplaning is a professional surface-exfoliation service that also removes fine facial hair. Matrix offers focused dermaplaning and facial combinations; your provider can discuss suitability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will my hair be wet after a Japanese Head Spa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Head Spa includes scalp and hair care that leaves your hair wet. Professional drying or styling is a separate appointment when available, so arrange it ahead of time if you want that finish."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which massage should I book?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose around your goals, comfort, and available time. The massage menu explains deep tissue, Swedish, and manual lymphatic drainage options. Text Matrix if you need help selecting a service, and discuss pressure preferences with your therapist."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get Classic, Hybrid, or Volume lash extensions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Matrix offers all three styles, with full sets and matching one-, two-, and three-week fills. Contact us before selecting a fill if your extensions were applied elsewhere or you are unsure which appointment you need."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are spa gift cards available for last-minute gifts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Buy a Matrix eGift Card online through Square and send it by text or email today, or schedule a future delivery. Choose a dollar amount so the recipient can select their experience. Purchasing a gift card does not reserve an appointment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I combine a facial, Head Spa, or massage in one visit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The menu includes a Head Spa and Hydrating Glow Facial combination. Other combinations depend on the services and providers available. Text 262-939-9325 before booking multiple services so we can help arrange the timing."
+      }
+    }
+  ]
+}

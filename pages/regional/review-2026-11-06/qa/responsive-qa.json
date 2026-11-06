@@ -1,0 +1,112 @@
+[
+  {
+    "page": "bristol",
+    "requestedFrameWidth": 320,
+    "actualContentWidth": 320,
+    "scrollWidth": 320,
+    "height": 10979,
+    "allImagesLoaded": true,
+    "fullWidthSections": true,
+    "h1Count": 1,
+    "faqCount": 10
+  },
+  {
+    "page": "bristol",
+    "requestedFrameWidth": 390,
+    "actualContentWidth": 390,
+    "scrollWidth": 390,
+    "height": 10115,
+    "allImagesLoaded": true,
+    "fullWidthSections": true,
+    "h1Count": 1,
+    "faqCount": 10
+  },
+  {
+    "page": "bristol",
+    "requestedFrameWidth": 1280,
+    "actualContentWidth": 1265,
+    "scrollWidth": 1265,
+    "height": 7454,
+    "allImagesLoaded": true,
+    "fullWidthSections": true,
+    "h1Count": 1,
+    "faqCount": 10
+  },
+  {
+    "page": "bristol",
+    "requestedFrameWidth": 1440,
+    "actualContentWidth": 1440,
+    "scrollWidth": 1440,
+    "height": 7492,
+    "allImagesLoaded": true,
+    "fullWidthSections": true,
+    "h1Count": 1,
+    "faqCount": 10
+  },
+  {
+    "page": "bristol",
+    "requestedFrameWidth": 1920,
+    "actualContentWidth": 1920,
+    "scrollWidth": 1920,
+    "height": 7492,
+    "allImagesLoaded": true,
+    "fullWidthSections": true,
+    "h1Count": 1,
+    "faqCount": 10
+  },
+  {
+    "page": "twin-lakes-genoa-city",
+    "requestedFrameWidth": 320,
+    "actualContentWidth": 320,
+    "scrollWidth": 320,
+    "height": 11202,
+    "allImagesLoaded": true,
+    "fullWidthSections": true,
+    "h1Count": 1,
+    "faqCount": 10
+  },
+  {
+    "page": "twin-lakes-genoa-city",
+    "requestedFrameWidth": 390,
+    "actualContentWidth": 390,
+    "scrollWidth": 390,
+    "height": 10200,
+    "allImagesLoaded": true,
+    "fullWidthSections": true,
+    "h1Count": 1,
+    "faqCount": 10
+  },
+  {
+    "page": "twin-lakes-genoa-city",
+    "requestedFrameWidth": 1280,
+    "actualContentWidth": 1265,
+    "scrollWidth": 1265,
+    "height": 7454,
+    "allImagesLoaded": true,
+    "fullWidthSections": true,
+    "h1Count": 1,
+    "faqCount": 10
+  },
+  {
+    "page": "twin-lakes-genoa-city",
+    "requestedFrameWidth": 1440,
+    "actualContentWidth": 1440,
+    "scrollWidth": 1440,
+    "height": 7492,
+    "allImagesLoaded": true,
+    "fullWidthSections": true,
+    "h1Count": 1,
+    "faqCount": 10
+  },
+  {
+    "page": "twin-lakes-genoa-city",
+    "requestedFrameWidth": 1920,
+    "actualContentWidth": 1920,
+    "scrollWidth": 1920,
+    "height": 7492,
+    "allImagesLoaded": true,
+    "fullWidthSections": true,
+    "h1Count": 1,
+    "faqCount": 10
+  }
+]

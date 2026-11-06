@@ -1,0 +1,24 @@
+[
+  {
+    "flow": true,
+    "open": 10,
+    "scrollWidth": 1363,
+    "total": 10,
+    "url": "http://terminal.local:4173/bristol-full-page.html#facials",
+    "width": 1363
+  },
+  {
+    "flow": true,
+    "open": 10,
+    "scrollWidth": 1348,
+    "total": 10,
+    "url": "http://terminal.local:4173/twin-lakes-genoa-city-full-page.html#lashes",
+    "width": 1348
+  },
+  {
+    "open": 0,
+    "page": "twin-lakes-mobile",
+    "scrollWidth": 320,
+    "width": 320
+  }
+]

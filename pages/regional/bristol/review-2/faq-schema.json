@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where is Matrix located for Bristol guests?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matrix Massage & Bodywork is at 24804 75th St, Salem, WI 53168. We welcome Bristol guests at this Salem studio. We do not have a separate Bristol location. Use the directions link on this page to check your route."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What spa services can I book near Bristol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our Salem studio offers Custom and Circadia facials, dermaplaning, Japanese Head Spa, therapeutic massage, and Classic, Hybrid, and Volume lash extensions. The current booking menu shows appointment lengths, prices, providers, and availability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which facial should I choose for acne-prone skin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with a Custom Facial and share that breakouts or congestion are your priority. Clear + Balance is our related skin-goal pathway. Your provider reviews your skin and routine before choosing suitable cosmetic care; a facial is not a replacement for medical acne treatment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I book dermaplaning near Bristol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Matrix offers dermaplaning appointments at our Salem studio, including focused and full-facial options. Tell your provider about active irritation, breakouts, prescription skincare, and recent treatments so suitability can be discussed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I expect from my first Japanese Head Spa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Expect scalp-focused cleansing and relaxation, with steps selected for your chosen service. Review the Head Spa menu for what is included. Your hair will be wet afterward; professional drying and styling are booked separately when available."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does therapeutic massage have to be deep or painful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Tell your massage therapist about your goals and pressure preferences. Pressure can be adjusted during the session. Choose from the current massage menu and let us know if you are unsure which appointment fits."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer lash full sets and fills?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Classic, Hybrid, and Volume lash extensions have full-set appointments and matching one-, two-, and three-week fills. If you have lashes from another studio or are unsure which fill to choose, contact Matrix before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I send an instant spa gift card to someone in Bristol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Purchase a Matrix eGift Card through Square, choose a dollar amount, and send it by text or email today or schedule a future delivery. The recipient books a separate appointment at our Salem studio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I book a facial and Head Spa together?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The current menu includes a Head Spa and Hydrating Glow Facial combination. For other combinations, text 262-939-9325 so we can help coordinate services and provider availability before you book."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check prices, hours, and appointment availability?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Square booking menu shows current prices and available appointment times. Reserve online or text 262-939-9325 for help choosing a service or confirming your visit. All appointments take place at our Salem address."
+      }
+    }
+  ]
+}

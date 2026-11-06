@@ -1,0 +1,15 @@
+{
+  "status": "PROPOSED; native Wix page not created",
+  "slug": "spa-services-near-bristol-wi",
+  "title": "Spa Near Bristol, WI | Facials, Massage & Head Spa | Matrix",
+  "description": "Visit Matrix in Salem for facials, Japanese Head Spa, massage and lash extensions near Bristol, WI. Book online or send an instant spa eGift Card.",
+  "canonical": "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+  "indexableOnPublication": true,
+  "showInMainNavigation": false,
+  "showInFooterNavigation": false,
+  "socialImage": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@3410ffbe4854f403f588526a1c113f0610d757f8/pages/spa-beauty/facials/assets/review-2/facial-mask.webp",
+  "schemaFiles": [
+    "service-schema.json",
+    "review-2/faq-schema.json"
+  ]
+}
