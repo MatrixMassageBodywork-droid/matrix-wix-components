@@ -1,0 +1,28 @@
+{
+  "date": "2026-11-06",
+  "status": "Assets for regional page drafts; no Wix body publication",
+  "images": [
+    {
+      "display": "existing-therapeutic.webp",
+      "original": "existing-therapeutic.png",
+      "source": "https://static.wixstatic.com/media/e4cc43_e2dcbb78bdb2448faadb169e9d6c3418~mv2.png",
+      "usage": "Union Grove hero",
+      "provenance": "Existing public Matrix massage image; visually verified treatment photo."
+    },
+    {
+      "display": "existing-session.webp",
+      "original": "existing-session.png",
+      "source": "https://static.wixstatic.com/media/e4cc43_f9c478fa321a4c45a9899d573115a276~mv2.png",
+      "usage": "Pleasant Prairie hero",
+      "provenance": "Existing public Matrix massage image; distinct treatment composition."
+    },
+    {
+      "display": "matrix-treatment-room.webp",
+      "original": "matrix-treatment-room-original.jpeg",
+      "source": "https://static.wixstatic.com/media/e4cc43_8c27c28314474b8a8a37d49b1c7d0c2f~mv2.jpeg",
+      "usage": "Location/supporting photo on both regional pages",
+      "provenance": "Existing public photograph of the same Salem studio; intentionally reused for location, not as repeated generic service artwork."
+    }
+  ],
+  "processing": "Display copies resized and compressed to WebP; no generated people, rooms or image-content editing."
+}
