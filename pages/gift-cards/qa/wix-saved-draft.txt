@@ -1,0 +1,102 @@
+Saved 2026-11-06
+neric: "2200"
+- generic: "2300"
+- generic: "2400"
+- generic: "2500"
+- generic: "2600"
+- generic: "2700"
+- generic: "2800"
+- generic: "2900"
+- generic: "3000"
+- generic: "3100"
+- generic: "3200"
+- generic: "3300"
+- generic: "3400"
+- generic: "3500"
+- generic: "3600"
+- generic: "3700"
+- generic: "3800"
+- generic: "3900"
+- generic: "4000"
+- generic: "4100"
+- generic: "4200"
+- generic: "4300"
+- generic: "4400"
+- generic: "4500"
+- generic: "4600"
+- generic: "4700"
+- generic: "4800"
+- generic: "4900"
+- generic: "5000"
+- generic: "5100"
+- generic: "5200"
+- generic: "5300"
+- generic: "5400"
+- generic: "5500"
+- generic: "5600"
+- generic: "5700"
+- generic: "5800"
+- generic: "5900"
+- generic: "6000"
+- generic: "6100"
+- generic: "6200"
+- generic: "6300"
+- generic: "6400"
+- generic: "6500"
+- generic: "6600"
+- generic: "0"
+- generic: "100"
+- generic: "200"
+- generic: "300"
+- generic: "400"
+- generic: "500"
+- generic: "600"
+- generic: "700"
+- generic: "800"
+- generic: "900"
+- button:
+- generic: Your changes are saved
+- generic: "Publish to see your changes live at the following domain:"
+- textbox: https://www.matrixmassage.net/
+- button "Edit":
+  - generic: Edit
+- generic: Don't show this again
+- button "Publish Now":
+  - generic: Publish Now
+- button "Done":
+  - generic: Done
+- banner:
+  - button:
+- region "scrollable content":
+  - generic: GIFT CARDS
+  - generic: masterPage.js
+- button "Run":
+  - text: Run
+- button:
+- button:
+- button:
+- button:
+- code:
+  - generic: "1"
+  - generic: "// Velo API Reference: https://www.wix.com/velo/reference/api-overview/"
+  - textbox "Editor content;Press Alt+F1 for Accessibility Options.": "// Velo API Reference: https://www.wix.com/velo/reference/api-overview/introduction $w.onReady(function () { // Gift Cards main page: full visible HTML for indexing. $w(\"#matrixGiftCards\").seoMarkup = \"<div class=\\\"matrix-gift-cards\\\">\\n<section class=\\\"gc-hero\\\" aria-labelledby=\\\"gc-title\\\"><div class=\\\"gc-hero-inner\\\">\\n<img class=\\\"gc-logo\\\" src=\\\"https://cdn.jsdelivr.net/gh/…});"
+- paragraph: Select an element to add events, edit its ID, and more.
+- text: Learn more
+- button "?"
+- textbox "°" [disabled]: "0"
+- generic: °
+- generic: Size (px)
+- generic: "W:"
+- textbox "W:" [disabled]: "0"
+- generic: "H:"
+- textbox "H:" [disabled]: "0"
+- generic: Position
+- generic: "X:"
+- textbox "X:" [disabled]: "0"
+- generic: "Y:"
+- textbox "Y:" [disabled]: "0"
+- generic: Show on All Pages
+- checkbox
+- button "Layers"
+- alert
+- alert

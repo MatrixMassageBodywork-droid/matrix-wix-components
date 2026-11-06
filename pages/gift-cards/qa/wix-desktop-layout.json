@@ -1,0 +1,33 @@
+{
+  "component": {
+    "bottom": 3202,
+    "height": 5833,
+    "left": 0,
+    "right": 1348,
+    "top": -2631,
+    "width": 1348,
+    "x": 0,
+    "y": -2631
+  },
+  "footer": {
+    "bottom": 3591,
+    "height": 373,
+    "left": 0,
+    "right": 1348,
+    "top": 3218,
+    "width": 1348,
+    "x": 0,
+    "y": 3218
+  },
+  "gridMin": "0px",
+  "section": {
+    "bottom": 3218,
+    "height": 5849,
+    "left": 0,
+    "right": 1348,
+    "top": -2631,
+    "width": 1348,
+    "x": 0,
+    "y": -2631
+  }
+}

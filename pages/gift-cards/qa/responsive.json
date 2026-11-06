@@ -1,0 +1,56 @@
+[
+  {
+    "bodyFont": "16px",
+    "faqs": 11,
+    "h1": 1,
+    "height": 10106.875,
+    "logoWidth": 276,
+    "overflow": true,
+    "width": 320
+  },
+  {
+    "bodyFont": "16px",
+    "faqs": 11,
+    "h1": 1,
+    "height": 9340.828125,
+    "logoWidth": 346,
+    "overflow": false,
+    "width": 390
+  },
+  {
+    "bodyFont": "16px",
+    "faqs": 11,
+    "h1": 1,
+    "height": 6258.015625,
+    "logoWidth": 660,
+    "overflow": false,
+    "width": 768
+  },
+  {
+    "bodyFont": "16px",
+    "faqs": 11,
+    "h1": 1,
+    "height": 5827.125,
+    "logoWidth": 660,
+    "overflow": false,
+    "width": 1280
+  },
+  {
+    "bodyFont": "16px",
+    "faqs": 11,
+    "h1": 1,
+    "height": 5833.15625,
+    "logoWidth": 660,
+    "overflow": false,
+    "width": 1440
+  },
+  {
+    "bodyFont": "16px",
+    "faqs": 11,
+    "h1": 1,
+    "height": 5833.15625,
+    "logoWidth": 660,
+    "overflow": false,
+    "width": 1920
+  }
+]
