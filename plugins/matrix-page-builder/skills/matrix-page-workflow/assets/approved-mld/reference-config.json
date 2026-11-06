@@ -1,0 +1,14 @@
+{
+  "serviceName": "Manual Lymphatic Drainage",
+  "revision": "reference-build-test",
+  "tagName": "matrix-lymphatic-page",
+  "elementId": "matrixLymphaticPage",
+  "rootClass": "matrix-m4",
+  "pageUrl": "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+  "seoTitle": "Lymphatic Drainage Massage Salem WI | Matrix Massage & Bodywork",
+  "seoDescription": "Explore gentle manual lymphatic drainage massage in Salem, WI at Matrix Massage & Bodywork. View current appointment options and book online.",
+  "seoSource": "Published checkpoint 2026-11-05; reference fixture only, re-read current source before live edits.",
+  "bodyFile": "body.html",
+  "cssFile": "style.css",
+  "expectedFaqCount": 6
+}

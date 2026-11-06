@@ -1,0 +1,163 @@
+{
+  "checks": [
+    {
+      "check": "MLD visible FAQ extraction matches published six answers",
+      "result": "PASS"
+    },
+    {
+      "check": "Reference body unchanged",
+      "result": "PASS"
+    },
+    {
+      "check": "Reference CSS unchanged",
+      "result": "PASS"
+    },
+    {
+      "check": "different service namespace and two FAQs",
+      "result": "PASS"
+    },
+    {
+      "check": "Multi-paragraph/list FAQ includes entire visible answer",
+      "result": "PASS"
+    },
+    {
+      "check": "Output metadata does not claim installation or publication",
+      "result": "PASS"
+    },
+    {
+      "check": "Existing build cannot be overwritten",
+      "result": "PASS"
+    },
+    {
+      "check": "Duplicate H1 rejected",
+      "result": "PASS"
+    },
+    {
+      "check": "Duplicate ID rejected",
+      "result": "PASS"
+    },
+    {
+      "check": "Broken internal anchor rejected",
+      "result": "PASS"
+    },
+    {
+      "check": "Missing image alt rejected",
+      "result": "PASS"
+    },
+    {
+      "check": "Inline script rejected",
+      "result": "PASS"
+    },
+    {
+      "check": "Inline handler rejected",
+      "result": "PASS"
+    },
+    {
+      "check": "Dangerous link rejected",
+      "result": "PASS"
+    },
+    {
+      "check": "Global body selector rejected",
+      "result": "PASS"
+    },
+    {
+      "check": "Inline base64 CSS rejected",
+      "result": "PASS"
+    },
+    {
+      "check": "Wrong approved FAQ count rejected",
+      "result": "PASS"
+    },
+    {
+      "check": "Invalid custom tag rejected",
+      "result": "PASS"
+    },
+    {
+      "check": "Unbalanced markup rejected",
+      "result": "PASS"
+    },
+    {
+      "check": "Zero FAQ pages supported",
+      "result": "PASS"
+    },
+    {
+      "check": "No empty FAQPage schema generated",
+      "result": "PASS"
+    },
+    {
+      "check": "Portable manifest schema",
+      "result": "PASS"
+    },
+    {
+      "check": "Valid SemVer",
+      "result": "PASS"
+    },
+    {
+      "check": "Subtitle length at most 30",
+      "result": "PASS"
+    },
+    {
+      "check": "Default prompts valid",
+      "result": "PASS"
+    },
+    {
+      "check": "Supported category",
+      "result": "PASS"
+    },
+    {
+      "check": "Four verified dependency bindings",
+      "result": "PASS"
+    },
+    {
+      "check": "GitHub actual connector included",
+      "result": "PASS"
+    },
+    {
+      "check": "Skill frontmatter valid",
+      "result": "PASS"
+    },
+    {
+      "check": "No placeholder TODOs in instructions",
+      "result": "PASS"
+    },
+    {
+      "check": "Skill reference exists: references/project-sources.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Skill reference exists: references/design-system.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Skill reference exists: references/seo-and-qa.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Skill reference exists: references/github-workflow.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Skill reference exists: references/build-contract.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Skill reference exists: references/wix-execution.md",
+      "result": "PASS"
+    },
+    {
+      "check": "Skill reference exists: references/receipt-template.md",
+      "result": "PASS"
+    },
+    {
+      "check": "No symlinks in package",
+      "result": "PASS"
+    },
+    {
+      "check": "No embedded cache or credentials",
+      "result": "PASS"
+    }
+  ],
+  "passed": 39,
+  "failed": 0,
+  "liveMutations": 0
+}

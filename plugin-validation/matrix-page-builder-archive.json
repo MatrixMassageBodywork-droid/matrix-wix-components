@@ -1,0 +1,36 @@
+{
+  "archive": "matrix-page-builder-1.0.0.zip",
+  "sha256": "cfffefd5b2d51d699d0274882f7ad0396539a047fcb9e310068696d16738f0b6",
+  "files": [
+    ".app.json",
+    "plugin.json",
+    "skills/matrix-page-workflow/SKILL.md",
+    "skills/matrix-page-workflow/assets/approved-mld/body.html",
+    "skills/matrix-page-workflow/assets/approved-mld/reference-config.json",
+    "skills/matrix-page-workflow/assets/approved-mld/style.css",
+    "skills/matrix-page-workflow/references/build-contract.md",
+    "skills/matrix-page-workflow/references/design-system.md",
+    "skills/matrix-page-workflow/references/github-workflow.md",
+    "skills/matrix-page-workflow/references/project-sources.md",
+    "skills/matrix-page-workflow/references/receipt-template.md",
+    "skills/matrix-page-workflow/references/seo-and-qa.md",
+    "skills/matrix-page-workflow/references/wix-execution.md",
+    "skills/matrix-page-workflow/scripts/build_page.py"
+  ],
+  "skillCount": 1,
+  "dependencies": {
+    "github": {
+      "id": "connector_76869538009648d5b282a4bb21c3d157"
+    },
+    "wix": {
+      "id": "asdk_app_6947eaa4edd081919561e4ee3a2e5dcc"
+    },
+    "google-drive": {
+      "id": "connector_5f3c8c41a1e54ad7a76272c89e2554fa"
+    },
+    "browser": {
+      "id": "connector_openai_browser"
+    }
+  },
+  "valid": true
+}
