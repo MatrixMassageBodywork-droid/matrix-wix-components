@@ -1,5 +1,5 @@
 @font-face{font-family:MatrixSerif;src:url('https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@a1cf5155e8f0fad0eaa1e288364e6e7f60f7ea9e/pages/massage/deep-tissue/assets/matrix-m2-font-0-2e46554fc8.woff') format('woff');font-display:swap}
-matrix-spa-main{display:block;width:100%;height:auto}
+matrix-spa-main{display:block;width:100%;height:auto;min-height:0!important}
 .matrix-spa-main{--cream:#f7f1e8;--paper:#fdfcf9;--ink:#123d40;--teal:#087776;--line:#d4dcd4;color:var(--ink);background:var(--cream);font:16px/1.75 Arial,Helvetica,sans-serif;width:100%;container-type:inline-size}
 .matrix-spa-main *,.matrix-spa-main *::before,.matrix-spa-main *::after{box-sizing:border-box}
 .matrix-spa-main h1,.matrix-spa-main h2,.matrix-spa-main h3,.matrix-spa-main p{margin:0}

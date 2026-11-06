@@ -1,28 +1,23 @@
-# Spa & Beauty MAIN — Design review 1
+# Spa & Beauty MAIN — published
 
-**Current: `review-3/`** (owner design review 2: larger framed logo). Initial design praised; requested logo revision now awaiting review. Not installed or published.
+**Current production: `production-1/`**, published and verified 2026-11-06. Owner-approved large framed logo design is retained in `review-3/`; production adds only the scoped host minimum-height correction.
 
-- Entire page review: `proofs/index.html`; desktop and mobile selectors included.
-- Direct width wrappers: `proofs/viewport-1440.html`, `proofs/viewport-390.html`, `proofs/viewport-320.html`.
-- Initial-review full-length screenshots: `qa/full-page-1440.jpg`, `qa/full-page-390.jpg`.
-- Component source: `body.html`, `style.css`, `page-config.json`, and `review-3/renderer.js`.
-- Current revised hero screenshots and QA: `qa/review-2/`.
-- Source evidence and existing SEO/shell: `baseline/`.
-- Original generated imagery, optimized derivatives, existing approved logo/water and generation briefs: `assets/`.
-- Scope, dependencies and verification: `REVIEW_2_LOGO_CHECKPOINT_2026-11-06.md`, `REVIEW_CHECKPOINT_2026-11-06.md`, `SOURCE_DECISIONS.md`, `qa/`.
+Live page: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi
 
-## Reproduce
+Authoritative receipt: `PUBLISHED_CHECKPOINT_2026-11-06.md`. Native saved code, SEO before/after, complete public-page proof, desktop/mobile evidence and bot-render check are in `install-2026-11-06/`.
 
-From repository root, run:
+- Wix page `ualp6`; existing permanent URL retained.
+- Element `matrixSpaMain`, tag `matrix-spa-main`, section `section5`.
+- Renderer pinned at commit `d6ba973973555437dc09fa00360f59bd7b4884eb`.
+- Original generated images, optimized derivatives, approved logo and water texture remain in `assets/`.
+- Editable source: `body.html`, `style.css`, `page-config.json`. Build into a new version directory; preserve approved and earlier versions.
+- Genuine native reviews, shared header/footer and integrations retained.
+- Historical design checkpoints remain as history and are superseded by the published checkpoint.
 
-```sh
-python pages/spa-beauty/main/scripts/prepare_proof.py
-```
+## Reproduce review proofs
 
-This writes a local proof folder and refreshes the portable proof HTML. Serve `pages/spa-beauty/main/local-preview/dist` with a trusted static server. No Wix access or publishing is involved. The page relies on public pinned CDN assets and Wix images; network access is required.
+Run `python pages/spa-beauty/main/scripts/prepare_proof.py` from the repository root and serve the generated static preview. The production layout must also be checked in Wix and on the live URL; native editor dimensions differ from content-driven live height.
 
-To make a new renderer build after an approved copy/style revision, invoke the existing Matrix Page Builder `build_page.py` with this `page-config.json` and a **new output directory**. Do not overwrite prior builds. `scripts/build_spa.py` records initial page authoring; `body.html` and `style.css` remain the current editable sources.
+## Future main-page standard
 
-## Installation boundary
-
-The proposed tag `matrix-spa-main` and element id `matrixSpaMain` are reserved design values, not verified Wix bindings. `WIX_SEO_SNIPPET_CANDIDATE.js` is only a merge candidate, never a replacement for the existing full Page Code. Read the current native page code, layers, bindings and saved draft after owner approval, then prepare exact installation instructions. Keep the existing page, SEO, native header/footer and reviews. No installation instructions have been executed.
+Use the approved Matrix logo, centered and visually larger than the H1, in a white box with a black border. Main desktop target 660 × 330 px with 6 px border; fluid mobile box with 4 px border. Subpages may use smaller logos. See `docs/MAIN_PAGE_LOGO_STANDARD_2026-11-06.md` and Matrix Page Builder 1.0.1. This rule applies going forward; unrelated existing pages were not restyled.
