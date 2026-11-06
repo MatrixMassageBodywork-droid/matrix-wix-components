@@ -1,0 +1,142 @@
+[
+  {
+    "page": "facials",
+    "name": "facial-mask",
+    "source": "https://drive.google.com/file/d/1b4ZwZtBk0nkrqF_QcboAC7BaM11vLufE/view",
+    "provenance": "Existing Matrix marketing treatment photograph",
+    "original": "pages/spa-beauty/facials/assets/review-2/facial-mask-original.jpg",
+    "optimized": "pages/spa-beauty/facials/assets/review-2/facial-mask.webp",
+    "dimensions": [
+      1319,
+      1567
+    ],
+    "sha256": "8cd7c5097ad636980ac08bbefe76091cbc5dde67f4b22475bb361c146d5e5e21"
+  },
+  {
+    "page": "facials",
+    "name": "facial-treatment",
+    "source": "https://drive.google.com/file/d/1YLL2SxXPpyzFAEYSWMdEtFmFGjVpzxR_/view",
+    "provenance": "Existing Matrix marketing treatment photograph",
+    "original": "pages/spa-beauty/facials/assets/review-2/facial-treatment-original.jpg",
+    "optimized": "pages/spa-beauty/facials/assets/review-2/facial-treatment.webp",
+    "dimensions": [
+      1135,
+      1600
+    ],
+    "sha256": "9d11494c9d64509d457ef08f8ea86715344ac810ac25751efae86dc141489d3a"
+  },
+  {
+    "page": "facials",
+    "name": "circadia-serums",
+    "source": "https://drive.google.com/file/d/1dCj4qjWedZ3e4kubRM33swKyIcNHfUqg/view",
+    "provenance": "Existing Matrix marketing product photograph",
+    "original": "pages/spa-beauty/facials/assets/review-2/circadia-serums-original.jpg",
+    "optimized": "pages/spa-beauty/facials/assets/review-2/circadia-serums.webp",
+    "dimensions": [
+      908,
+      556
+    ],
+    "sha256": "49616cae89bdf42c450e425679a089888a61ed2ef5ad9856372dd61722af1250"
+  },
+  {
+    "page": "facials",
+    "name": "circadia-hydration",
+    "source": "https://drive.google.com/file/d/1mqPSZutXpPFyjEMfkgctG_5ys3iP6R6_/view",
+    "provenance": "Existing Matrix marketing product photograph",
+    "original": "pages/spa-beauty/facials/assets/review-2/circadia-hydration-original.jpg",
+    "optimized": "pages/spa-beauty/facials/assets/review-2/circadia-hydration.webp",
+    "dimensions": [
+      859,
+      855
+    ],
+    "sha256": "07ad4237fd8e0f83d6f27df135b302dd3a08378f2749deff7d3c36d6997b129b"
+  },
+  {
+    "page": "head-spa",
+    "name": "matrix-waterfall",
+    "source": "https://static.wixstatic.com/media/e4cc43_a34c164981e64d1e94d5ebd93d9a7181~mv2.jpg",
+    "provenance": "Existing public Matrix Head Spa treatment photograph",
+    "original": "pages/spa-beauty/head-spa/assets/review-2/matrix-waterfall-original.jpg",
+    "optimized": "pages/spa-beauty/head-spa/assets/review-2/matrix-waterfall.webp",
+    "dimensions": [
+      1200,
+      1600
+    ],
+    "sha256": "3d3ea560bbb7c9a6ee044aa9f0e37448e2c8e26efaf135cf659bdc739a417a55"
+  },
+  {
+    "page": "head-spa",
+    "name": "matrix-scalp-care",
+    "source": "https://static.wixstatic.com/media/e4cc43_8b943f9192c3477b892b1267162fa2fc~mv2.jpeg",
+    "provenance": "Existing public Matrix Head Spa treatment photograph",
+    "original": "pages/spa-beauty/head-spa/assets/review-2/matrix-scalp-care-original.jpeg",
+    "optimized": "pages/spa-beauty/head-spa/assets/review-2/matrix-scalp-care.webp",
+    "dimensions": [
+      1282,
+      1536
+    ],
+    "sha256": "4e7b54d04a9f87dbcd9fe389a524b256cd4b37c69bb5805bdfafb9b6fe0853a0"
+  },
+  {
+    "page": "head-spa",
+    "name": "matrix-products",
+    "source": "https://static.wixstatic.com/media/e4cc43_a6f7c611d563475db49e418bb571a626~mv2.jpeg",
+    "provenance": "Existing public Matrix infusion photograph",
+    "original": "pages/spa-beauty/head-spa/assets/review-2/matrix-products-original.jpeg",
+    "optimized": "pages/spa-beauty/head-spa/assets/review-2/matrix-products.webp",
+    "dimensions": [
+      1440,
+      1080
+    ],
+    "sha256": "f66622b91930a84758ad7ef841136396d0904e5dfc0902780e8b9cc51e3b70a0"
+  },
+  {
+    "page": "head-spa",
+    "name": "matrix-infusions",
+    "source": "https://static.wixstatic.com/media/e4cc43_75fb2173a1444fe8b9f220044d57ec56~mv2.jpeg",
+    "provenance": "Existing public Matrix infusion photograph",
+    "original": "pages/spa-beauty/head-spa/assets/review-2/matrix-infusions-original.jpeg",
+    "optimized": "pages/spa-beauty/head-spa/assets/review-2/matrix-infusions.webp",
+    "dimensions": [
+      1440,
+      1080
+    ],
+    "sha256": "fb489031711db1b6c9b7b0a1ecfed6e7fe8cae660dd6b9a094e9131007d7f711"
+  },
+  {
+    "page": "waxing",
+    "name": "wax-preparation",
+    "source": "Built-in image generation, 2026-11-06",
+    "provenance": "Illustrative documentary-style wax preparation; not actual Matrix equipment",
+    "original": "pages/spa-beauty/waxing/assets/review-2/wax-preparation-original.png",
+    "optimized": "pages/spa-beauty/waxing/assets/review-2/wax-preparation.webp",
+    "dimensions": [
+      1440,
+      960
+    ],
+    "sha256": "04c7df1084fd9faff0b651fbd8ef394ab7b78b6c62f3d7d103949e61375f3aa5"
+  },
+  {
+    "page": "waxing",
+    "name": "brow-detail",
+    "source": "Built-in image generation, 2026-11-06",
+    "provenance": "Illustrative documentary-style brow waxing; not an actual Matrix client",
+    "original": "pages/spa-beauty/waxing/assets/review-2/brow-detail-original.png",
+    "optimized": "pages/spa-beauty/waxing/assets/review-2/brow-detail.webp",
+    "dimensions": [
+      1440,
+      960
+    ],
+    "sha256": "4921d8551b922554004cc6556125536717eca9e8577d97b668a857fe0305f6c0"
+  },
+  {
+    "name": "water",
+    "source": "pages/massage/manual-lymphatic-drainage/assets/matrix-water-background.webp",
+    "provenance": "Intact existing Matrix water texture. Do not use damaged main/assets/water.jpeg."
+  },
+  {
+    "name": "logo",
+    "source": "pages/massage/deep-tissue/assets/matrix-bodywork-approved.jpg",
+    "provenance": "Exact owner-approved artwork; preserve 4px black frame."
+  }
+]
