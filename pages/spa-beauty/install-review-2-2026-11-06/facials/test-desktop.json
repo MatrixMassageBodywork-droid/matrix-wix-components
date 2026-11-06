@@ -1,0 +1,36 @@
+{
+  "bodyHeight": 7054.53125,
+  "footerTop": 7228.53125,
+  "h1": [
+    "Facials in Salem, WI"
+  ],
+  "images": [
+    {
+      "ok": true,
+      "src": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg/v1/fill/w_659,h_3468,al_c,q_90,enc_avif,quality_auto/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg"
+    },
+    {
+      "ok": true,
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/massage/deep-tissue/assets/matrix-bodywork-approved.jpg"
+    },
+    {
+      "ok": true,
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/facials/assets/review-2/facial-mask.webp"
+    },
+    {
+      "ok": true,
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/facials/assets/review-2/circadia-serums.webp"
+    },
+    {
+      "ok": true,
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/spa-beauty/facials/assets/review-2/circadia-hydration.webp"
+    },
+    {
+      "ok": false,
+      "src": ""
+    }
+  ],
+  "scrollWidth": 1348,
+  "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi?rc=test-site",
+  "width": 1348
+}

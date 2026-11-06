@@ -1,0 +1,15 @@
+{
+  "page": "rrxx1",
+  "section": "comp-mpon0yyx",
+  "sectionVeloId": "Section1RegularMediaImage1RuleNoFaceImage",
+  "sectionHeight": 8040,
+  "element": "comp-mupsnbvb",
+  "elementId": "matrixServicePage",
+  "source": "Velo matrix-service-page.js",
+  "tag": "matrix-service-page",
+  "elementHeight": 8000,
+  "elementY": 134,
+  "dataset": "matrixServicePageDataset",
+  "datasetAction": "preserve unchanged",
+  "sharedShell": "preserve"
+}

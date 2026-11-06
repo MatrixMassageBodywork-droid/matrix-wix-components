@@ -1,0 +1,5 @@
+# Approved Waxing installation
+Existing page ganam; original code default empty scaffold. Preserve permanent URL/title/canonical/indexing and genuine reviews comp-mposjgn94 plus children, shared header/footer.
+Reuse original hero section comp-mposjgmb for new matrixWaxingReview element. Source https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@143a56d2eb86306386085d2cb4a57cc5967f06b8/pages/spa-beauty/waxing/review-2/renderer.js ; tag matrix-waxing-review. Install exact WIX_PAGE_CODE.js.
+After rendering verified, remove only old hero children comp-mposjgmd1, comp-mposjgme4, comp-mposjgmf3, comp-mposjgmg1, comp-mposjgmh. Remove obsolete spacer comp-mposjgmi3 and obsolete services comp-mposjgmj7. Keep reviews section comp-mposjgn94 and its genuine text/slideshow unchanged.
+Stretch full width margins0; align top at Y134. Section height matches element native height; runtime auto-height handles FAQs. Check desktop and320pxmobile: full content, water/photos/logo, no horizontal overflow/clipping, native reviews below, booking links. Native SEO complete tags merge only approved patch then publish3pages afterQA.
