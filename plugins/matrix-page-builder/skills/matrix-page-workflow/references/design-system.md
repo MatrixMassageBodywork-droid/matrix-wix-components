@@ -6,7 +6,7 @@ Use the published M4 and facial/pathway work as visual references. Keep the webs
 
 - Clinical luxury: cream `#f7f1e8`, near-white `#fdfcf9`, deep teal ink `#123d40`, dark teal `#102e30`, turquoise/hover `#087776`, restrained pale aqua `#eaf5f1`.
 - Full-width backgrounds and hero image/headline panels, without black side gutters. Text can retain a max width for readability. Native Wix stretch must also be on; CSS width 100% cannot escape a 980px host.
-- Subpage hero: cream text panel and service-specific image; compact approved logo, small eyebrow, one clear H1, outcome-focused lead and book CTA. Main hubs can use a centered logo over water.
+- Subpage hero: cream text panel and service-specific image; compact approved logo, small eyebrow, one clear H1, outcome-focused lead and book CTA. Main hubs use the larger centered, black-framed logo over water described below.
 - Approved subpage font pair: Cormorant-style serif headings and Montserrat body, with Georgia/Arial fallbacks. Use externally served, pinned font assets instead of embedding large base64 fonts in production renderers.
 - Generous spacing; readable short paragraphs; substantial cream surfaces; teal/water used selectively. No all-teal wall, cramped three-column copy, giant dead bands or duplicate local footer.
 - Responsive stacking with readable type and tap targets. Retain visible focus states, reduced-motion support, and image alt text. Full-width does not mean stretching photos out of proportion.
@@ -18,8 +18,10 @@ Approved compact subpage logo from the published M2/M3/M4 design:
 
 Repository source: `pages/massage/deep-tissue/assets/matrix-bodywork-approved.jpg`.
 
-Approved centered main-page logo (different presentation):
-`https://static.wixstatic.com/media/e4cc43_1c6fb0c45df748cfa852ef777f4689f9~mv2.png`
+Owner-approved standard for ALL main pages going forward (2026-11-06):
+`https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg`
+
+Center this exact logo in a white rectangular panel with a solid black border, and make the logo visually larger than the H1. The approved Spa & Beauty reference uses a 660 × 330 px panel, 6 px black border on desktop; responsive 2:1 panel, 4 px border, and full available width on mobile. Keep the complete logo artwork visible, with no distortion; only excess blank image whitespace may be cropped. Reference: `pages/spa-beauty/main/review-3/style.css` at commit `20d3bd458255462d89f119f9b4e697e68d57361b`. Subpage logos may remain smaller. This forward rule does not authorize retroactive changes to unrelated live pages. The earlier `e4cc43_1c6fb0c45df748cfa852ef777f4689f9~mv2.png` main-logo choice is superseded by this explicit owner decision.
 
 Never use the rejected IMG_5499 logo `e4cc43_76d25cc5213c40599f31ff0c490f40c8~mv2.jpg`. Do not select a look-alike by filename. Preserve the shared site's existing global logo separately.
 

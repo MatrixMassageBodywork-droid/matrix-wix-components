@@ -1,29 +1,30 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
-  "name": "matrix-page-builder",
-  "version": "1.0.0",
-  "description": "Create and repeat Matrix Wix service pages with approved clinical luxury design, distinct imagery, SEO preservation, GitHub versioning, proofs and verified publication.",
   "author": {
-    "name": "Matrix Massage & Bodywork"
+    "email": "matrixmassage.bodywork@gmail.com",
+    "name": "Matrix Massage"
   },
+  "description": "Create and repeat Matrix Wix service pages with approved clinical luxury design, distinct imagery, SEO preservation, GitHub versioning, proofs and verified publication.",
   "extensions": {
     "com.openai": {
       "apps": "./.app.json",
       "interface": {
-        "displayName": "Matrix Page Builder",
-        "shortDescription": "Design, approve, save, publish",
-        "longDescription": "Reuse the approved Matrix service-page workflow: read current project sources, create a full-width cream and teal page with service-specific images, preserve existing SEO and genuine reviews, save code/assets/proofs to the Matrix GitHub repository, show a complete proof, and install/publish only within the owner\u2019s current approval. Includes Wix, GitHub, Google Drive and Browser connections, an approved layout reference, local build helper, native Wix execution steps and QA receipts. Uses the existing Matrix site; does not replace it or publish new designs automatically.",
-        "developerName": "Matrix Massage & Bodywork",
-        "category": "Business & Operations",
-        "capabilities": [],
         "brandColor": "#123D40",
+        "capabilities": [],
+        "category": "Business & Operations",
         "defaultPrompt": [
           "Design the next Matrix service page and show me the complete proof. Save everything to GitHub.",
           "Update this Matrix page with distinct service images while preserving its SEO and approved style.",
           "Publish my approved Matrix page, verify the live result, and save the release record to GitHub."
-        ]
+        ],
+        "developerName": "Matrix Massage",
+        "displayName": "Matrix Page Builder",
+        "longDescription": "Reuse the approved Matrix service-page workflow: read current project sources, create a full-width cream and teal page with service-specific images, preserve existing SEO and genuine reviews, save code/assets/proofs to the Matrix GitHub repository, show a complete proof, and install/publish only within the owner\u2019s current approval. Includes Wix, GitHub, Google Drive and Browser connections, an approved layout reference, local build helper, native Wix execution steps and QA receipts. Uses the existing Matrix site; does not replace it or publish new designs automatically.",
+        "shortDescription": "Design, approve, save, publish"
       }
     }
   },
-  "repository": "https://github.com/MatrixMassageBodywork-droid/matrix-wix-components"
+  "name": "matrix-page-builder",
+  "repository": "https://github.com/MatrixMassageBodywork-droid/matrix-wix-components",
+  "version": "1.0.1"
 }

@@ -16,7 +16,7 @@ description: "Design, preview, save, install, and verify Matrix Massage & Bodywo
 
 Read [design and image rules](references/design-system.md). Design the body between the existing Wix header and footer. Preserve genuine native reviews. Deliver the whole page, not a collage or isolated hero image.
 
-Use the approved cream/deep-teal visual system, full-width section backgrounds and split hero. Keep a comfortable text measure inside full-width sections. Choose distinct, service-appropriate imagery with a dark teal water treatment where it supports the composition. Preserve the exact approved logo. Use generated imagery only as illustrative imagery, never as a claim to show actual Matrix clients or facilities.
+Use the approved cream/deep-teal visual system, full-width section backgrounds. Use a large centered logo in a white, black-bordered panel for main pages, visually larger than the H1; subpages may use a smaller logo and split hero. Keep a comfortable text measure inside full-width sections. Choose distinct, service-appropriate imagery with a dark teal water treatment where it supports the composition. Preserve the exact approved logo. Use generated imagery only as illustrative imagery, never as a claim to show actual Matrix clients or facilities.
 
 Read the page-specific approved copy and current offerings. Do not invent prices, credentials, treatment promises, reviews or links. Research uncertain clinical claims using primary authoritative sources. Avoid copying another service's medical guidance into a new service. For image-only or width-only revisions, preserve all unrelated copy, markup, URLs and style.
 

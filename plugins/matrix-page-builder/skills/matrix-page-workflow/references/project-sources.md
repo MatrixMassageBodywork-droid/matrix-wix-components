@@ -17,18 +17,23 @@ Business: Matrix Massage & Bodywork, DaNelle, Salem, Wisconsin. Dates shown to t
 
 Read latest sources, not just this snapshot. The old Core control contains superseded native/CMS designs and pending publication states. Later verified receipts and explicit owner decisions establish the current static architecture. Do not revive obsolete architecture, approval gates, pricing or copy. Keep durable rules in the existing project folder; verify a same-named folder does not already exist before creating one. Do not move live assets, databases or scripts for organization.
 
+## Current logo decision
+
+The owner approved the large centered, black-framed logo for ALL main pages going forward on 2026-11-06; subpages may use smaller logos. Read the exact artwork and dimensions in `design-system.md`. Canonical rule source in GitHub: `docs/MAIN_PAGE_LOGO_STANDARD_2026-11-06.md`; source/proof: `pages/spa-beauty/main/REVIEW_2_LOGO_CHECKPOINT_2026-11-06.md`.
+
 ## Wix identity and protected routes
 
 Site `cdec8df6-d518-4859-9f1e-f06bf5346d41`; editor document `a276c9bf-bc17-4680-959b-a24ebe7370f6`.
 
 | Page | Wix page ID | Permanent path | Repository folder |
 | --- | --- | --- | --- |
+| Spa & Beauty Main | ualp6 | /spa-and-beauty-services-salem-wi | pages/spa-beauty/main |
 | Main Massage | anvbe | /massage-therapy-services-salem-wi | pages/massage/main |
 | Deep Tissue | cib7o | /deep-tissue-massage-salem-wi | pages/massage/deep-tissue |
 | Swedish | l014i | /swedish-massage-salem-wi | pages/massage/swedish |
 | Manual Lymphatic Drainage | lb1iq | /manual-lymphatic-drainage-massage-salem-wi | pages/massage/manual-lymphatic-drainage |
 
-Base domain: `https://www.matrixmassage.net`. All four were published before plugin creation. M2/M3 full-width correction and M4 image revision were published together. Verify new state before editing.
+Base domain: `https://www.matrixmassage.net`. The four massage pages were published before plugin creation. Spa & Beauty redesign review 2 was approved for installation/publication on 2026-11-06; consult its latest installation/publication receipt rather than assuming release. M2/M3 full-width correction and M4 image revision were published together. Verify new state before editing.
 
 Prenatal and Facial & Head Massage are planning branches, not proof that dedicated pages exist. Prenatal previously remained on the hub to avoid splitting search authority. Facial & Head Massage routes relevant scalp-cleansing intent toward Japanese Head Spa. Recheck the latest decision and inventory before creating any page/slug. Do not assume either is automatically the next page.
 

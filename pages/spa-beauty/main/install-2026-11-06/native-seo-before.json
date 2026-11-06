@@ -1,0 +1,379 @@
+{
+  "status": 200,
+  "itemSeoTags": {
+    "id": "STATIC_PAGE:ualp6",
+    "itemType": "STATIC_PAGE",
+    "itemId": "ualp6",
+    "tags": [
+      {
+        "type": "title",
+        "children": "Spa Services in Salem, WI | Facials, Head Spa & Wellness",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "meta",
+        "props": {
+          "name": "description",
+          "content": "Explore spa services in Salem, WI including custom facials, Japanese Head Spa, waxing, infrared sauna and red light therapy at Matrix Massage & Bodywork."
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "script",
+        "props": {
+          "type": "application/ld+json"
+        },
+        "meta": {
+          "schemaType": "h5gKfQTJ",
+          "displayName": "GEO Spa Beauty Schema"
+        },
+        "children": "{\"@context\":\"https://schema.org\",\"@type\":\"HealthAndBeautyBusiness\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi\",\"image\":\"https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg\",\"telephone\":\"+1-262-939-9325\",\"priceRange\":\"$$\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"},\"areaServed\":[{\"@type\":\"City\",\"name\":\"Salem\"},{\"@type\":\"City\",\"name\":\"Paddock Lake\"},{\"@type\":\"City\",\"name\":\"Kenosha\"},{\"@type\":\"City\",\"name\":\"Bristol\"},{\"@type\":\"City\",\"name\":\"Pleasant Prairie\"},{\"@type\":\"City\",\"name\":\"Twin Lakes\"},{\"@type\":\"City\",\"name\":\"Antioch\"},{\"@type\":\"City\",\"name\":\"Union Grove\"}],\"description\":\"Matrix Massage & Bodywork offers luxury facials, head spa treatments, scalp therapy, and waxing services in Salem, WI.\"}",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "script",
+        "props": {
+          "type": "application/ld+json"
+        },
+        "meta": {
+          "schemaType": "aSN21qT0",
+          "displayName": "Spa Beauty Services Catalog Schema"
+        },
+        "children": "{\"@context\":\"https://schema.org\",\"@type\":\"OfferCatalog\",\"name\":\"Spa and Beauty Services\",\"url\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi\",\"itemListElement\":[{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Facials\",\"description\":\"Customized facial treatments in Salem, WI designed to support hydration, glow, texture, relaxation, and healthy-looking skin.\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Head Spa\",\"description\":\"Luxury head spa treatments featuring scalp massage, scalp wellness, steam, waterfall therapy, aromatherapy, and relaxation-focused rituals.\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Waxing\",\"description\":\"Professional facial and body waxing services in Salem, WI in a clean, relaxing spa environment.\"}}]}",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "link",
+        "props": {
+          "rel": "canonical",
+          "href": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "script",
+        "props": {
+          "type": "application/ld+json"
+        },
+        "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Spa Services in Salem, WI\",\"item\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi\"}]}",
+        "custom": false,
+        "disabled": false
+      }
+    ],
+    "focusKeywords": [
+      {
+        "term": "spa Salem WI",
+        "isMain": true
+      },
+      {
+        "term": "spa services Salem WI",
+        "isMain": false
+      },
+      {
+        "term": "facials Salem WI",
+        "isMain": false
+      },
+      {
+        "term": "head spa Salem WI",
+        "isMain": false
+      }
+    ],
+    "hasOverride": true,
+    "resolvedTags": [
+      {
+        "tag": {
+          "type": "title",
+          "children": "Spa Services in Salem, WI | Facials, Head Spa & Wellness",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "title",
+          "children": "SPA & BEAUTY SERVICES | Matrix Massage & Bodywork",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Explore spa services in Salem, WI including custom facials, Japanese Head Spa, waxing, infrared sauna and red light therapy at Matrix Massage & Bodywork."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "link",
+          "props": {
+            "rel": "canonical",
+            "href": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "link",
+          "props": {
+            "rel": "canonical",
+            "href": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:title",
+            "content": "Spa Services in Salem, WI | Facials, Head Spa & Wellness"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "meta",
+          "props": {
+            "property": "og:title",
+            "content": "SPA & BEAUTY SERVICES | Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:description",
+            "content": "Explore spa services in Salem, WI including custom facials, Japanese Head Spa, waxing, infrared sauna and red light therapy at Matrix Massage & Bodywork."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image:width",
+            "content": "2500"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image:height",
+            "content": "1330"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:url",
+            "content": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:site_name",
+            "content": "Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:type",
+            "content": "website"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Spa Services in Salem, WI\",\"item\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi\"}]}",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "h5gKfQTJ",
+            "displayName": "GEO Spa Beauty Schema"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"HealthAndBeautyBusiness\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi\",\"image\":\"https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg\",\"telephone\":\"+1-262-939-9325\",\"priceRange\":\"$$\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"},\"areaServed\":[{\"@type\":\"City\",\"name\":\"Salem\"},{\"@type\":\"City\",\"name\":\"Paddock Lake\"},{\"@type\":\"City\",\"name\":\"Kenosha\"},{\"@type\":\"City\",\"name\":\"Bristol\"},{\"@type\":\"City\",\"name\":\"Pleasant Prairie\"},{\"@type\":\"City\",\"name\":\"Twin Lakes\"},{\"@type\":\"City\",\"name\":\"Antioch\"},{\"@type\":\"City\",\"name\":\"Union Grove\"}],\"description\":\"Matrix Massage & Bodywork offers luxury facials, head spa treatments, scalp therapy, and waxing services in Salem, WI.\"}",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "aSN21qT0",
+            "displayName": "Spa Beauty Services Catalog Schema"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"OfferCatalog\",\"name\":\"Spa and Beauty Services\",\"url\":\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi\",\"itemListElement\":[{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Facials\",\"description\":\"Customized facial treatments in Salem, WI designed to support hydration, glow, texture, relaxation, and healthy-looking skin.\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Head Spa\",\"description\":\"Luxury head spa treatments featuring scalp massage, scalp wellness, steam, waterfall therapy, aromatherapy, and relaxation-focused rituals.\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Waxing\",\"description\":\"Professional facial and body waxing services in Salem, WI in a clean, relaxing spa environment.\"}}]}",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "google-site-verification",
+            "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_SITE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:card",
+            "content": "summary_large_image"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:title",
+            "content": "Spa Services in Salem, WI | Facials, Head Spa & Wellness"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:title",
+            "content": "SPA & BEAUTY SERVICES | Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:description",
+            "content": "Explore spa services in Salem, WI including custom facials, Japanese Head Spa, waxing, infrared sauna and red light therapy at Matrix Massage & Bodywork."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      }
+    ],
+    "hostPageId": "ualp6",
+    "publishStatus": "PUBLISH_STATUS_UNSPECIFIED",
+    "origin": "ORIGIN_UNSPECIFIED"
+  }
+}
