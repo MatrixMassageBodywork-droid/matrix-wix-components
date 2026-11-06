@@ -1,0 +1,72 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "Matrix Gift Cards",
+    "revision": "gift-cards-review-1",
+    "tagName": "matrix-gift-cards",
+    "elementId": "matrixGiftCards",
+    "rootClass": "matrix-gift-cards",
+    "pageUrl": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+    "seoTitle": "Massage & Spa Gift Cards in Salem, WI | Matrix",
+    "seoDescription": "Give massage, facial or Head Spa gift cards in Salem, WI. Send by text or email today or schedule a holiday gift. Near Twin Lakes, Bristol & Antioch.",
+    "seoSource": "NEW PAGE: proposed native SEO; Square public storefront verified 2026-11-06",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 11
+  },
+  "seo": {
+    "title": "Massage & Spa Gift Cards in Salem, WI | Matrix",
+    "description": "Give massage, facial or Head Spa gift cards in Salem, WI. Send by text or email today or schedule a holiday gift. Near Twin Lakes, Bristol & Antioch.",
+    "canonical": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+    "source": "NEW PAGE: proposed native SEO; Square public storefront verified 2026-11-06"
+  },
+  "h1": "Massage & Spa Gift Cards in Salem, WI",
+  "faqCount": 11,
+  "links": [
+    "https://app.squareup.com/gift/MLJ7B3VJVPBSS/order",
+    "#gc-experiences",
+    "#gc-how",
+    "#gc-experiences",
+    "#gc-holidays",
+    "#gc-faq",
+    "https://app.squareup.com/gift/MLJ7B3VJVPBSS/order",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "https://app.squareup.com/gift/MLJ7B3VJVPBSS/order",
+    "https://app.squareup.com/gift/MLJ7B3VJVPBSS/order",
+    "sms:+12629399325",
+    "https://www.matrixmassage.net/book-online",
+    "sms:+12629399325",
+    "https://app.squareup.com/gift/MLJ7B3VJVPBSS/check-balance",
+    "https://app.squareup.com/gift/MLJ7B3VJVPBSS/reload",
+    "https://app.squareup.com/gift/MLJ7B3VJVPBSS/order"
+  ],
+  "images": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/massage/deep-tissue/assets/matrix-bodywork-approved.jpg",
+      "alt": "Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@657e1bdb061e09531b7a5ffa9fcbac58896ec3c6/pages/massage/manual-lymphatic-drainage/assets/mld-gentle-touch.webp",
+      "alt": "Gentle massage touch illustrated with relaxed hands and a soft towel"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@657e1bdb061e09531b7a5ffa9fcbac58896ec3c6/pages/spa-beauty/facials/assets/review-2/facial-treatment.webp",
+      "alt": "Facial treatment with steam at Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@657e1bdb061e09531b7a5ffa9fcbac58896ec3c6/pages/spa-beauty/head-spa/assets/review-2/matrix-scalp-care.webp",
+      "alt": "Japanese Head Spa scalp care at Matrix in Salem, Wisconsin"
+    }
+  ],
+  "files": {
+    "body.html": "f57db7f9e22ee3b45cfeb0b4e16a23fe3d40598bb48947b2dd32d73b6f150e33",
+    "style.css": "2e7690539aa437392853b810755bbf30c4674b9e27c16a1c151a9dc5b87f5cc1",
+    "renderer.js": "7aaf316901019d020bf7e39bfa354ceb9c424c31907e778faed49682874df401",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "6c926d15f7f1fabf473172eaff91ff6be64d35ea15ec6005f11c0c5a29c58c9b",
+    "preview.html": "96faf34b3fa4476a27920539298f36941bff0efb92e74c5178c7ff75c3af24fb",
+    "faq-schema.json": "3c61cfc90b2dbac079c20abc3d9d15a4bd955b266a71c3f9298170e00bb46c11"
+  },
+  "rendererBytes": 25158
+}
