@@ -1,0 +1,208 @@
+{
+  "canonical": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+  "component": {
+    "height": 5833.15625,
+    "width": 1348,
+    "x": 0,
+    "y": 134
+  },
+  "description": "Give massage, facial or Head Spa gift cards in Salem, WI. Send by text or email today or schedule a holiday gift. Near Twin Lakes, Bristol & Antioch.",
+  "documentWidth": 1348,
+  "faqCount": 11,
+  "footer": {
+    "height": 373.03125,
+    "width": 1348,
+    "x": 0,
+    "y": 5983.15625
+  },
+  "giftLinks": [
+    {
+      "href": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+      "text": "GIFT CARDS"
+    },
+    {
+      "href": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+      "text": "Gift Cards​"
+    },
+    {
+      "href": "https://www.matrixmassage.net/local-wellness-partnerships",
+      "text": "Partner with Us"
+    },
+    {
+      "href": "https://www.matrixmassage.net/massage-therapist-jobs-salem-wi",
+      "text": "Work with Us"
+    }
+  ],
+  "h1": [
+    "Massage & Spa Gift Cards in Salem, WI"
+  ],
+  "images": [
+    {
+      "alt": "Matrix Massage & Bodywork",
+      "loaded": true
+    },
+    {
+      "alt": "Gentle massage touch illustrated with relaxed hands and a soft towel",
+      "loaded": true
+    },
+    {
+      "alt": "Facial treatment with steam at Matrix Massage & Bodywork",
+      "loaded": true
+    },
+    {
+      "alt": "Japanese Head Spa scalp care at Matrix in Salem, Wisconsin",
+      "loaded": true
+    }
+  ],
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Buy from our Square eGift Card store. Choose an amount, add a message and select text or email delivery. Your card is for Matrix Massage & Bodywork in Salem, Wisconsin."
+          },
+          "name": "Where can I buy Matrix massage and spa gift cards?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Square offers a “Today (instantly)” delivery option by text or email. You can also choose to send the card to yourself. Check the recipient’s contact details before buying."
+          },
+          "name": "Can I send a last-minute gift card today?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Choose a future delivery date and time in Square so your eGift Card arrives when you want it to. It is an easy way to plan Christmas gifts, holiday surprises, birthdays and anniversaries ahead of time."
+          },
+          "name": "Can I schedule a Christmas, holiday or birthday gift?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. You choose a dollar amount, giving the recipient room to choose their experience. Browse our massage, facial and Japanese Head Spa pages for ideas. A gift-card purchase does not reserve an appointment."
+          },
+          "name": "Do I need to choose a treatment when I buy?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Choose a preset amount or enter a custom amount in Square. Check our current service menu if you want to cover a particular appointment, or give an amount toward their visit. Contact Matrix if you would like help choosing."
+          },
+          "name": "What amount should I put on a spa gift card?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely. Massage, facials and Head Spa experiences make thoughtful gifts for him, gifts for her and anyone who could use time for themselves. Choose around the person’s interests rather than a one-size-fits-all gift list."
+          },
+          "name": "Are these good gifts for men as well as women?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our studio is at 24804 75th St, Salem, WI 53168. We welcome guests from Salem Lakes, Paddock Lake, Bristol, Trevor, Twin Lakes, Union Grove, Kenosha, Pleasant Prairie and Antioch, Illinois. Gift cards can be purchased online from anywhere; appointments take place at our Salem studio."
+          },
+          "name": "Where will the recipient use their Matrix gift card?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "They can view our current services and availability through Book Online or text Matrix at 262-939-9325 for help. They should keep their eGift Card handy for their visit. Gift-card purchase and appointment booking are separate steps."
+          },
+          "name": "How does the recipient book their visit?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Square offers a group gift card option that lets people contribute toward one recipient’s gift. It also offers a multiple-recipient purchase option. Give together for a birthday, thank-you or team gift."
+          },
+          "name": "Can several people contribute, or can I buy for a team?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For current Matrix gift-card deals or seasonal offers, check with us before purchasing. If you have an active discount code, Square provides a place to enter it during checkout. Promotions have their own terms; a holiday gift does not automatically include a discount."
+          },
+          "name": "Where can I find gift-card deals or holiday offers?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Use Square’s Check balance or Reload card options for your Matrix eGift Card. You can find direct links below. Need help? Text 262-939-9325."
+          },
+          "name": "How can I check a gift-card balance or add more?"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi#webpage",
+          "@type": "WebPage",
+          "about": {
+            "@id": "https://www.matrixmassage.net/#business"
+          },
+          "description": "Digital Matrix Massage & Bodywork gift cards for massage, facials and Japanese Head Spa in Salem, Wisconsin.",
+          "inLanguage": "en-US",
+          "name": "Massage & Spa Gift Cards in Salem, WI | Matrix",
+          "potentialAction": {
+            "@type": "BuyAction",
+            "target": "https://app.squareup.com/gift/MLJ7B3VJVPBSS/order"
+          },
+          "url": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "item": "https://www.matrixmassage.net/",
+              "name": "Home",
+              "position": 1
+            },
+            {
+              "@type": "ListItem",
+              "item": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+              "name": "Gift Cards",
+              "position": 2
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "robots": "No robots restriction",
+  "title": "Massage & Spa Gift Cards in Salem, WI | Matrix",
+  "url": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+  "viewport": 1363,
+  "water": [
+    {
+      "background": "linear-gradient(105deg, rgba(3, 37, 40, 0.78), rgba(4, 43, 45, 0.64), rgba(4, 31, 35, 0.76)), url(\"https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@a1cf5155e8f0fad0eaa1e288364e6e7f60f7ea9e/pages/massage/manual-lymphatic-drainage/assets/matrix-water-background.webp\")",
+      "class": "gc-hero"
+    },
+    {
+      "background": "linear-gradient(105deg, rgba(3, 37, 40, 0.78), rgba(4, 43, 45, 0.64), rgba(4, 31, 35, 0.76)), url(\"https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@a1cf5155e8f0fad0eaa1e288364e6e7f60f7ea9e/pages/massage/manual-lymphatic-drainage/assets/matrix-water-background.webp\")",
+      "class": "gc-section gc-water"
+    },
+    {
+      "background": "linear-gradient(105deg, rgba(3, 37, 40, 0.78), rgba(4, 43, 45, 0.64), rgba(4, 31, 35, 0.76)), url(\"https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@a1cf5155e8f0fad0eaa1e288364e6e7f60f7ea9e/pages/massage/manual-lymphatic-drainage/assets/matrix-water-background.webp\")",
+      "class": "gc-close gc-water"
+    }
+  ]
+}

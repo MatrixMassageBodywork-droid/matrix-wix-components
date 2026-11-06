@@ -1,0 +1,116 @@
+- banner:
+  - img "Matrix Massage & Bodywork Logo"
+  - generic: Matrix Massage & Bodywork
+  - link "Skip navigation":
+    - /url: "#skip-navigation-destination"
+  - link "Buy gift card":
+    - /url: /gift/MLJ7B3VJVPBSS/order
+  - link "Reload card":
+    - /url: /gift/MLJ7B3VJVPBSS/reload
+  - link "Check balance":
+    - /url: /gift/MLJ7B3VJVPBSS/check-balance
+- main:
+  - heading "Give the Perfect Gift" [level=1]
+  - generic: Get a gift card for yourself or give one to a friend.
+  - region "Gift Card Theme Selector":
+    - button "Previous Theme":
+      - img "Arrow back icon"
+    - img "Preset black background with business name"
+    - button "Next Theme":
+      - img "Arrow forward icon"
+    - group "Quick select thumbnails":
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+      - button
+  - generic: What kind of gift is it?
+  - generic "Individual gift icon":
+    - img "Individual gift icon"
+  - generic: Individual gift card
+  - generic: Send a gift card to one recipient or make a bulk purchase
+  - generic "Multiple gift icon":
+    - img "Multiple gift icon"
+  - generic: For multiple people
+  - generic: Send gift cards to multiple people all at once
+  - generic "Group gift icon":
+    - img "Group gift icon"
+  - generic: Group gift card
+  - generic: Pool money from multiple contributors for one recipient
+  - generic: eGift card amount
+  - button "$5.00":
+    - generic: $5.00
+  - button "$10.00":
+    - generic: $10.00
+  - button "$20.00":
+    - generic: $20.00
+  - button "$50.00":
+    - generic: $50.00
+  - button "Custom":
+    - generic: Custom
+  - button "Add Discount Code":
+    - generic: Add Discount Code
+  - paragraph: Delivery details
+  - listbox "Send this card to myself":
+    - generic: Send this card to myself
+    - switch "Send this card to myself"
+  - generic: Send by text
+  - generic: Send by email
+  - textbox "Recipient name"
+  - textbox "Recipient phone number"
+  - generic: Delivery date
+  - textbox "Delivery date": Today (instantly)
+  - generic: Date
+  - generic: Time
+  - paragraph: Your details
+  - textbox "Name"
+  - textbox "Email address"
+  - textbox "Personal message (optional)"
+  - paragraph: By selecting Checkout, you confirm that we may send a one-time text message to the mobile phone number entered above in order to deliver your eGift card. Please contact Matrix Massage & Bodywork directly for details about their privacy practices. Messages and data rates apply.
+  - button "Checkout":
+    - generic: Checkout
+- contentinfo:
+  - paragraph:
+    - text: Powered by
+    - link "Square Gift Cards":
+      - /url: /us/gift-cards
+  - link "Privacy Policy":
+    - /url: https://squareup.com/legal/privacy-no-account
+- img "Close"
+- iframe [name="a-el1ga9ik8jqr"]:
+  - text: protected by
+  - strong: reCAPTCHA
