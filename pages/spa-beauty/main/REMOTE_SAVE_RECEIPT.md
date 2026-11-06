@@ -1,3 +1,5 @@
+Current status: see `REVIEW_2_LOGO_CHECKPOINT_2026-11-06.md` and current `review-3/` build. The receipt below records the preceding review.
+
 # Remote save receipt — 2026-11-06 UTC
 
 The complete design package was saved to GitHub commit `ba27bdcc39820f19b66ad6894a2da7e060ad7f89`. All 60 files were verified against the remote Git tree with matching Git object hashes. The image source commit is `da120f1a8a3c621b17a2c9828ce6b069f9296662`.

@@ -1,14 +1,15 @@
 # Spa & Beauty MAIN — Design review 1
 
-**Current: `review-2/`** (second internal build of the first owner design review). Awaiting owner design approval. Not installed or published.
+**Current: `review-3/`** (owner design review 2: larger framed logo). Initial design praised; requested logo revision now awaiting review. Not installed or published.
 
 - Entire page review: `proofs/index.html`; desktop and mobile selectors included.
 - Direct width wrappers: `proofs/viewport-1440.html`, `proofs/viewport-390.html`, `proofs/viewport-320.html`.
-- Full-length screenshots: `qa/full-page-1440.jpg`, `qa/full-page-390.jpg`.
-- Component source: `body.html`, `style.css`, `page-config.json`, and `review-2/renderer.js`.
+- Initial-review full-length screenshots: `qa/full-page-1440.jpg`, `qa/full-page-390.jpg`.
+- Component source: `body.html`, `style.css`, `page-config.json`, and `review-3/renderer.js`.
+- Current revised hero screenshots and QA: `qa/review-2/`.
 - Source evidence and existing SEO/shell: `baseline/`.
 - Original generated imagery, optimized derivatives, existing approved logo/water and generation briefs: `assets/`.
-- Scope, dependencies and verification: `REVIEW_CHECKPOINT_2026-11-06.md`, `SOURCE_DECISIONS.md`, `qa/`.
+- Scope, dependencies and verification: `REVIEW_2_LOGO_CHECKPOINT_2026-11-06.md`, `REVIEW_CHECKPOINT_2026-11-06.md`, `SOURCE_DECISIONS.md`, `qa/`.
 
 ## Reproduce
 

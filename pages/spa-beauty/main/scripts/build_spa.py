@@ -18,7 +18,7 @@ def img(name,alt):
 body=f'''<div class="matrix-spa-main">
 <section class="sb-hero" aria-labelledby="sb-title">
  <div class="sb-hero-inner">
-  <img class="sb-logo" src="https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg" width="224" height="167" alt="Matrix Massage &amp; Bodywork" decoding="async">
+  <img class="sb-logo" src="https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg" width="660" height="330" alt="Matrix Massage &amp; Bodywork" decoding="async">
   <p class="sb-eyebrow">CLINICAL LUXURY · SALEM, WISCONSIN</p>
   <h1 id="sb-title">Spa &amp; Beauty Services<br> in Salem, WI</h1>
   <p class="sb-lead">Thoughtful care for your skin, scalp, and finishing touches.<br> A little time for yourself. A beautifully refreshed feeling.</p>
@@ -69,7 +69,7 @@ body=f'''<div class="matrix-spa-main">
 </div>'''
 (ROOT/'body.html').write_text(body)
 base=json.loads((ROOT/'baseline/live-dom.json').read_text())
-cfg={'serviceName':'Matrix Spa & Beauty','revision':'spa-review-1','tagName':'matrix-spa-main','elementId':'matrixSpaMain','rootClass':'matrix-spa-main','pageUrl':base['url'],'seoTitle':base['title'],'seoDescription':base['description'],'seoSource':'baseline/live-dom.json','bodyFile':'body.html','cssFile':'style.css','expectedFaqCount':4}
+cfg={'serviceName':'Matrix Spa & Beauty','revision':'spa-review-2-large-logo','tagName':'matrix-spa-main','elementId':'matrixSpaMain','rootClass':'matrix-spa-main','pageUrl':base['url'],'seoTitle':base['title'],'seoDescription':base['description'],'seoSource':'baseline/live-dom.json','bodyFile':'body.html','cssFile':'style.css','expectedFaqCount':4}
 (ROOT/'page-config.json').write_text(json.dumps(cfg,indent=2)+'\n')
 provenance={'assetCommit':'da120f1a8a3c621b17a2c9828ce6b069f9296662','imagery':'Four illustrative AI-generated service photographs; not actual Matrix clients, staff, facilities, or before/after results. Generated with built-in image generation. Originals preserved; WebP files are optimized encodings.','logo':'Exact c35a32fb asset verified in current Main Massage renderer; chosen over stale bundled PNG recommendation to satisfy owner request to match approved Main Massage logo. No logo redraw.','water':'Existing shared Matrix Wix water texture; darkened with CSS overlays.','imageUrls':{n:ASSET+n+'.webp' for n in ['facial','headspa','lashes','waxing']},'prompts':'assets/image-prompts.json'}
 (ROOT/'asset-map.json').write_text(json.dumps(provenance,indent=2)+'\n')

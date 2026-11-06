@@ -1,0 +1,26 @@
+[
+  {
+    "bodyHeight": 6088.203125,
+    "h1Count": 1,
+    "imagesLoaded": true,
+    "logoHeight": 330,
+    "logoWidth": 660,
+    "overflow": [],
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "imagesLoaded": true,
+    "logoHeight": 173,
+    "logoWidth": 346,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "imagesLoaded": true,
+    "logoHeight": 138,
+    "logoWidth": 276,
+    "scrollWidth": 320,
+    "width": 320
+  }
+]
