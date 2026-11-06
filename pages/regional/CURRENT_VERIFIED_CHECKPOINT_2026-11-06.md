@@ -1,3 +1,5 @@
+> RELEASE UPDATE — Both regional pages were PUBLISHED and verified on 2026-11-06 after explicit owner approval. See PUBLISHED_RELEASE_2026-11-06.md and qa/*-live-* for current release evidence. The draft checkpoint below is retained as installation history; its remaining-release section is superseded. Do not reinstall or republish.
+
 # Union Grove + Pleasant Prairie — verified Wix draft checkpoint
 Date: 2026-11-06
 Project: FACIAL WEB SEO PW

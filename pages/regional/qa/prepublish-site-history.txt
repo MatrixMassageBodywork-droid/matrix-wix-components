@@ -1,0 +1,301 @@
+- link:
+  - /url: https://wix.com/?referralAdditionalInfo=Dashboard
+- generic: Matrix Massage & Bodywork
+- button "Explore":
+  - text: Explore
+- link "Hire a Professional":
+  - /url: https://www.wix.com/marketplace/brief/match?entry=bm-header&serviceType=1&origin=hire-a-professional&referralAdditionalInfo=Dashboard&msid=cdec8df6-d518-4859-9f1e-f06bf5346d41
+  - generic: Hire a Professional
+- button "Help":
+  - generic: Help
+- button "Upgrade":
+  - generic: Upgrade
+- textbox "Search..."
+- button "12":
+  - generic: "12"
+- button "Open account menu":
+- button "Ask Aria":
+  - generic: Ask Aria
+- main "Settings":
+  - generic: Site History
+  - link:
+    - /url: https://support.wix.com/en/article/managing-your-site-history-1079227?referral=MAD_history_help
+  - combobox "Show": All Revisions
+  - generic: Show
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 06, 2026, 3:02 PM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button [disabled]:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 06, 2026, 2:54 PM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 06, 2026, 2:45 PM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 06, 2026, 2:43 PM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 06, 2026, 2:39 PM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 06, 2026, 2:39 PM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 06, 2026, 2:27 PM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 06, 2026, 12:48 PM
+  - generic: Published by site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 06, 2026, 12:18 PM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 06, 2026, 12:02 PM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 06, 2026, 11:58 AM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 06, 2026, 11:46 AM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - text: Restoring a version of your site?
+  - button "Some things won’t change. Read more":
+    - generic: Some things won’t change. Read more
+  - iframe:
+    - button "Skip to Main Content"
+    - region "top of page"
+    - banner:
+      - navigation "Site":
+        - list:
+          - link "HOME":
+            - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975
+            - generic: HOME
+          - link "BOOK NOW":
+            - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975/book-appointments-salem-wi
+            - generic: BOOK NOW
+          - link "MASSAGE THERAPY SERVICES":
+            - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975/massage-therapy-services-salem-wi
+            - generic: MASSAGE THERAPY SERVICES
+          - button "Toggle MASSAGE THERAPY SERVICES":
+          - link "SPA & BEAUTY SERVICES":
+            - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975/spa-and-beauty-services-salem-wi
+            - generic: SPA & BEAUTY SERVICES
+          - button "Toggle SPA & BEAUTY SERVICES":
+          - link "GIFT CARDS":
+            - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975/massage-spa-gift-cards-salem-wi
+            - generic: GIFT CARDS
+          - link "FACIALS":
+            - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+            - generic: FACIALS
+          - link "WELLNESS & BIOTECH SERVICES":
+            - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975/wellness-biotech-services-salem-wi
+            - generic: WELLNESS & BIOTECH SERVICES
+          - button "Toggle WELLNESS & BIOTECH SERVICES":
+          - link "ABOUT":
+            - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975/about-5
+            - generic: ABOUT
+          - link "BLOG":
+            - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975/salem-wi-blog
+            - generic: BLOG
+    - main:
+      - img "Water"
+      - link "BOOK NOW":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975/book-appointments-salem-wi
+        - generic: BOOK NOW
+      - generic "Holistic health& beauty (2)_edited_edite":
+        - img "Matrix Massage & Bodywork logo"
+      - heading "Japanese Head Spa, Facials & Massage in Salem, WI" [level=1]
+      - paragraph: A spa day with purpose. Clinical luxury Japanese Head Spa with our own Precision Scalp Infusions™, custom facials, red light therapy, infrared sauna, lymphatic drainage and massage in Salem, WI.
+      - link "BOOK NOW":
+        - /url: https://www.matrixmassage.net/book-appointments-salem-wi
+        - generic: BOOK NOW
+      - img "ChatGPT Image Jan 28, 2026, 03_19_23 PM.png"
+      - heading "Personalized Massage Services for Stress Relief & Overall Wellness - Welcome To The Matrix in Kenosha County, WI!" [level=2]: Personalized Massage Services for Stress Relief & Overall Wellness - Welcome To The Matrix in Kenosha County, WI!
+      - heading "Customized Swedish, Deep Tissue, & Lymphatic Massage" [level=2]
+      - paragraph: "We believe your body is more than just muscles and symptoms — it's a beautifully interconnected matrix of systems. When one piece is off, it impacts everything: energy levels drop, stress hormones like cortisol spike, metabolism slows, and your sleep and mood can suffer."
+      - paragraph:
+        - text: Through integrative massage therapy, red light therapy,
+        - link "lymphatic drainage":
+          - /url: https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi
+        - text: ", and wellness tools backed by science, we help you restore balance, boost energy, and feel like yourself again."
+      - paragraph: Whether you need an immersive, relaxing & rejuvenating spa awakening for your body, recovery from a workout or athletic event, or a complete nervous system reset; we have what you need.
+      - heading "Why Choose Matrix Massage Salem WI?" [level=2]
+      - paragraph:
+        - text: Experience the Matrix difference — where wellness meets evidence, and where every session supports your body’s natural ability to heal. Come see for yourself. We offer
+        - link "Swedish Massage":
+          - /url: https://www.matrixmassage.net/swedish-massage-salem-wi
+        - text: ","
+        - link "Deep Tissue Massage":
+          - /url: https://www.matrixmassage.net/deep-tissue-massage-salem-wi
+        - text: ","
+        - link "Lymphatic Drainage Massage":
+          - /url: https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi
+        - text: ","
+        - link "Facials":
+          - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+        - text: ","
+        - link "Head Spa":
+          - /url: https://www.matrixmassage.net/japanese-head-spa-salem-wi
+        - text: ", Infrared Sauna, Waxing, Facial Massage, Prenatal Massage & SO much more!"
+      - heading "Book your massage in Salem, WI today!" [level=2]
+      - paragraph: Or
+      - paragraph: Learn more by clicking below.
+      - link "BOOK NOW":
+        - /url: https://www.matrixmassage.net/book-appointments-salem-wi
+        - generic: BOOK NOW
+      - link "Massage Therapy Services":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975/massage-therapy-services-salem-wi
+        - generic: Massage Therapy Services
+      - heading "Personalized Massage Services for Stress Relief & Overall Wellness - TRY OUR FREE Assessment Tool" [level=2]:
+        - text: Personalized
+        - link "Massage Services":
+          - /url: https://www.matrixmassage.net/massage-therapy-services-salem-wi
+        - text: for Stress Relief & Overall
+        - link "Wellness":
+          - /url: https://www.matrixmassage.net/wellness-biotech-services-salem-wi
+        - text: "- TRY OUR FREE Assessment Tool"
+      - link "GET RELIEF NOW":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975/massage-therapy-services-salem-wi
+        - generic: GET RELIEF NOW
+      - heading "FREQUENTLY ASKED QUESTIONS" [level=2]:
+        - generic: FREQUENTLY ASKED QUESTIONS
+      - heading "What services does Matrix Massage & Bodywork offer?" [level=3]:
+        - generic: What services does Matrix Massage & Bodywork offer?
+      - paragraph: Matrix offers Japanese Head Spa, custom facials, red light therapy, infrared sauna, manual lymphatic drainage, Swedish, deep tissue and prenatal massage, cupping, waxing and dermaplaning in our Salem, WI studio.
+      - paragraph
+      - heading "What is a spa day with purpose?" [level=3]:
+        - generic: What is a spa day with purpose?
+      - paragraph: "It is our clinical luxury approach: every visit feels indulgent and relaxing, and every service is chosen with intention for how you want to look and feel, from scalp and skin to recovery and stress relief."
+      - paragraph
+      - heading "Do you offer Japanese Head Spa near me?" [level=3]:
+        - generic: Do you offer Japanese Head Spa near me?
+      - paragraph: Yes. Our Japanese Head Spa rituals feature Matrix Precision Scalp Infusions™ that we craft in house, plus complimentary Zen Lounge time. Rituals start at $95.
+      - paragraph
+      - heading "Do you have a new client facial offer?" [level=3]:
+        - generic: Do you have a new client facial offer?
+      - paragraph: Yes. New guests can enjoy a 45-minute custom facial for $79, regularly $95.
+      - paragraph
+      - heading "How do I book an appointment?" [level=3]:
+        - generic: How do I book an appointment?
+      - paragraph: Book online anytime through our Square booking page or text (262) 939-9325. We are happy to help you choose the right service.
+      - paragraph
+      - heading "What is your cancellation policy?" [level=3]:
+        - generic: What is your cancellation policy?
+      - paragraph: Your appointment time is reserved just for you, so we ask for at least 24 hours' notice to cancel or reschedule. Cancellations made within 24 hours of your appointment, for any reason, and no-shows are charged the full price of the service plus an automatic 20% gratuity.
+      - paragraph
+      - heading "Do I need a card on file to book?" [level=3]:
+        - generic: Do I need a card on file to book?
+      - paragraph: Yes. To secure your appointment, complete our intake form and credit card authorization form when you book. If you have a Matrix gift card on file instead, its remaining balance is applied toward any late-cancellation fee.
+      - paragraph
+      - heading "What areas do you serve?" [level=3]:
+        - generic: What areas do you serve?
+      - paragraph: Our Salem studio at 24804 75th St welcomes guests from Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Silver Lake, Kansasville, Union Grove, Burlington, Pleasant Prairie, Kenosha and Antioch, IL.
+    - contentinfo:
+      - paragraph:
+        - text: © 2026 Matrix Massage & Bodywork · Salem Lakes, WI
+        - text: (262) 939-9325 · 24804 75th St, Salem, WI 53168
+        - link "Massage Therapy":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975/massage-therapy-services-salem-wi
+        - text: ·
+        - link "Custom Facials":
+          - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+        - text: ·
+        - link "Japanese Head Spa":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975/japanese-head-spa-salem-wi
+      - paragraph:
+        - emphasis: One Salem studio serving Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Kenosha County, Union Grove and nearby Antioch, Illinois.
+        - text: Plan
+        - link "massage near Union Grove":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975/massage-near-union-grove-wi
+        - text: ","
+        - link "facials near Antioch":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975/facials-near-antioch-il
+        - text: ","
+        - link "Japanese Head Spa near Bristol":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975/japanese-head-spa-near-bristol-wi
+        - text: ", or"
+        - link "spa services near Paddock Lake":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/revisions/view/a276c9bf-bc17-4680-959b-a24ebe7370f6/975/spa-services-near-paddock-lake-wi
+        - text: . All appointments are provided at Matrix Massage & Bodywork in Salem, Wisconsin.
+      - iframe [name="htmlComp-iframe"]
+      - iframe [name="htmlComp-iframe"]
+      - iframe [name="htmlComp-iframe"]
+      - iframe [name="htmlComp-iframe"]
+      - paragraph:
+        - generic: "Links:"
+      - paragraph:
+        - link "Gift Cards":
+          - /url: https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi
+          - generic: Gift Cards
+      - paragraph:
+        - link "Partner with Us":
+          - /url: https://www.matrixmassage.net/local-wellness-partnerships
+          - generic: Partner with Us
+      - paragraph
+      - paragraph:
+        - link "Work with Us":
+          - /url: https://www.matrixmassage.net/massage-therapist-jobs-salem-wi
+          - generic: Work with Us
+      - paragraph
+      - paragraph
+      - iframe
+    - region "bottom of page"
+    - iframe
