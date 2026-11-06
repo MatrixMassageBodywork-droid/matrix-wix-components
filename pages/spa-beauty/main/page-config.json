@@ -1,0 +1,14 @@
+{
+  "serviceName": "Matrix Spa & Beauty",
+  "revision": "spa-review-1",
+  "tagName": "matrix-spa-main",
+  "elementId": "matrixSpaMain",
+  "rootClass": "matrix-spa-main",
+  "pageUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+  "seoTitle": "Spa Services in Salem, WI | Facials, Head Spa & Wellness",
+  "seoDescription": "Explore spa services in Salem, WI including custom facials, Japanese Head Spa, waxing, infrared sauna and red light therapy at Matrix Massage & Bodywork.",
+  "seoSource": "baseline/live-dom.json",
+  "bodyFile": "body.html",
+  "cssFile": "style.css",
+  "expectedFaqCount": 4
+}

@@ -1,0 +1,238 @@
+{
+  "REVIEW_CHECKPOINT_2026-11-06.md": {
+    "sha256": "0dc0d535f734d421fce6c9c3deae1859efa785a9cde64c3366e33870d6c2d68a",
+    "bytes": 4400
+  },
+  "body.html": {
+    "sha256": "5d5e732632c69214bf07ab5be1dc7a9f4d9b9556c1b89ef873f5a00701ed09e6",
+    "bytes": 12032
+  },
+  ".gitignore": {
+    "sha256": "7d651db9eb806bdec5c42dc601fbe70f176abd686d33bd1c6d56b61f187511ad",
+    "bytes": 28
+  },
+  "asset-map.json": {
+    "sha256": "6eaf08db3506564e1bc3f23924194237ee69647faedd7b0320266cd869ac4e6e",
+    "bytes": 1359
+  },
+  "SOURCE_DECISIONS.md": {
+    "sha256": "e35bf42276b25eedec9396ea5d09c029171dbecfe7b533d481acdac269515f7b",
+    "bytes": 3869
+  },
+  "README.md": {
+    "sha256": "228f685209649a12948cfdd0e56cd1512a4c27181b4f1dc68a538798a67d0866",
+    "bytes": 2055
+  },
+  "page-config.json": {
+    "sha256": "6bc9b48842d0cf92cd1e81114d33a688d9050675c1cf7ffb453ae1a98268bcfc",
+    "bytes": 620
+  },
+  "style.css": {
+    "sha256": "1de43e0040158d87d2ca18cc693b97bdaa4363728eca40e28faf50d82295cf2e",
+    "bytes": 10426
+  },
+  "review-2/faq-schema.json": {
+    "sha256": "aad1a755678ee73289bb633f538f6263b6e3dfee44de5bfc9afa4c2e675b0b7c",
+    "bytes": 1694
+  },
+  "review-2/WIX_SEO_SNIPPET_CANDIDATE.js": {
+    "sha256": "c047c33da8a72d559322e6ace016f3f2b904a2d49d67b01a80a689df5aec3ee1",
+    "bytes": 12657
+  },
+  "review-2/renderer.js": {
+    "sha256": "701fdb2c2f622f75ef06c80f28145649b0f18e3eb40e82687f19881accc1c91d",
+    "bytes": 23658
+  },
+  "review-2/preview.html": {
+    "sha256": "c2461f496c15e2c9d9367d403d630f7be07010243de0357e0155e9f11de9799a",
+    "bytes": 22812
+  },
+  "review-2/build-manifest.json": {
+    "sha256": "9761b036335a20cf42ee54a1ae13835c04a8dd7476a6e1dff4b19b8eb5559ae7",
+    "bytes": 5101
+  },
+  "review-2/body.html": {
+    "sha256": "5d5e732632c69214bf07ab5be1dc7a9f4d9b9556c1b89ef873f5a00701ed09e6",
+    "bytes": 12032
+  },
+  "review-2/style.css": {
+    "sha256": "1de43e0040158d87d2ca18cc693b97bdaa4363728eca40e28faf50d82295cf2e",
+    "bytes": 10426
+  },
+  "proofs/index.html": {
+    "sha256": "7abca38882dc8a5bf710c251b7ca7bffad9a154e9938fd5539eaaa2ce27c9509",
+    "bytes": 3166
+  },
+  "proofs/full-page.html": {
+    "sha256": "7b6600759dfbbc3c406250f19acde9dafc499ab373ae6b4497dbf411e2ca3853",
+    "bytes": 29553
+  },
+  "proofs/viewport-1440.html": {
+    "sha256": "7abca38882dc8a5bf710c251b7ca7bffad9a154e9938fd5539eaaa2ce27c9509",
+    "bytes": 3166
+  },
+  "proofs/viewport-1280.html": {
+    "sha256": "3b63157e17bf831e0181ac55137094dfe46dbfe9e57bed3853a68b9b7dfde4eb",
+    "bytes": 3167
+  },
+  "proofs/viewport-320.html": {
+    "sha256": "8588519d0c1faa3a00f0b613dde29bff644aefbb2ff8e64f89d50932840900b0",
+    "bytes": 3165
+  },
+  "proofs/viewport-390.html": {
+    "sha256": "e70ba44d7de767413a4eca10bb18402c22737780b5f03a00ea30a52d2859f21a",
+    "bytes": 3165
+  },
+  "proofs/viewport-1920.html": {
+    "sha256": "30b73d8075907c45c93d4b5229cce629221047da82a653b0e09c9fe8af730c25",
+    "bytes": 3167
+  },
+  "baseline/waxing-public-content.json": {
+    "sha256": "328b4d89bbea98cd160b5a57575bc9132ca7e41faa29ae579ea4cd2db1ee3bb8",
+    "bytes": 10247
+  },
+  "baseline/live-dom.json": {
+    "sha256": "ffd0cc32758150be53bc55216cdff5d438a808267d6415426c74a681fac104be",
+    "bytes": 38180
+  },
+  "baseline/square-menu.json": {
+    "sha256": "90293d4bbfe5749bb0af77d88ebbb25beba839a6a10b16a30042457ccfa6a980",
+    "bytes": 32243
+  },
+  "baseline/booking-public-content.json": {
+    "sha256": "f5e09f276689c2b52fe3a762dd8b38ad7c0f5feb22d8c31d77b0687f6ece098e",
+    "bytes": 6077
+  },
+  "baseline/head-spa-public-content.json": {
+    "sha256": "173cb490fe3fea98d6f5893550323383a90221820b2ec868f87e2e2bd4d3a100",
+    "bytes": 13221
+  },
+  "baseline/square-menu.txt": {
+    "sha256": "d38918a61a919b4dbbe3ce834d2d6b3a31eda4508048494537071e60da9f3489",
+    "bytes": 57735
+  },
+  "baseline/massage-public-content.json": {
+    "sha256": "0a92320ac0b097e43c5b532e2eb2c917887a2ac0cd42317504d6eae47fc9f46a",
+    "bytes": 5902
+  },
+  "baseline/spa-public-content.json": {
+    "sha256": "a9b83a71a549b7e808d7dd393d6df11d74405079c0a311d94c559f40a6fa6d4a",
+    "bytes": 8071
+  },
+  "baseline/facials-public-content.json": {
+    "sha256": "e968c9d9efab62a45a1d73fb7e7c5436b96d0c31ce2bd40ee0e9398e0903b2ca",
+    "bytes": 5402
+  },
+  "review-1/faq-schema.json": {
+    "sha256": "aad1a755678ee73289bb633f538f6263b6e3dfee44de5bfc9afa4c2e675b0b7c",
+    "bytes": 1694
+  },
+  "review-1/WIX_SEO_SNIPPET_CANDIDATE.js": {
+    "sha256": "6acbb8896dd4c365d45093103ad3325645c2ce0d618f0d56ca2ed45cbaa9ae5a",
+    "bytes": 12652
+  },
+  "review-1/renderer.js": {
+    "sha256": "47916c0b6a91d75fda1cd447e7a67859fb8e52c93bec9e117e6797339942a9c5",
+    "bytes": 23653
+  },
+  "review-1/preview.html": {
+    "sha256": "2f5823c0e1a50a75fd379d9d4db7a7f48f9eae8396d5ed3f1bf8ded90754c94d",
+    "bytes": 22807
+  },
+  "review-1/build-manifest.json": {
+    "sha256": "7de34af5e247c604db11ac1bdec5752342c907ad39175a4c714daeb0d4813cf6",
+    "bytes": 5101
+  },
+  "review-1/body.html": {
+    "sha256": "f470025a3fee580402e1451ac5f0e6b02b6a68d2d61298ca7c63a6ae9fc24316",
+    "bytes": 12027
+  },
+  "review-1/SUPERSEDED.md": {
+    "sha256": "f0e80d1ca229add705cdfe3c270c2791ffe792c39e3dd6dba1fd1ee28838ab54",
+    "bytes": 162
+  },
+  "review-1/style.css": {
+    "sha256": "1de43e0040158d87d2ca18cc693b97bdaa4363728eca40e28faf50d82295cf2e",
+    "bytes": 10426
+  },
+  "qa/full-page-1440.jpg": {
+    "sha256": "0ee52316f5a5dce62a77f2b227e35b152404d20610d9704847bf75876487f5f2",
+    "bytes": 599900
+  },
+  "qa/link-audit.json": {
+    "sha256": "f1dd9c03124d8b84fc3e34c46066cd81e3e099d977e8277a84a9f8311699b0c4",
+    "bytes": 5421
+  },
+  "qa/mobile-hero.jpg": {
+    "sha256": "e3ee76641e1577424d5b27f441b33cfac1a01c9f0f427b76c443cc93f00d1ec5",
+    "bytes": 64332
+  },
+  "qa/responsive-check.json": {
+    "sha256": "d17d404e29e497ec606061c65c1e016d787f2756f0fc14b3d261dac26e31be9b",
+    "bytes": 734
+  },
+  "qa/desktop-hero.jpg": {
+    "sha256": "8d7f9bba8b4ced61d503b90861849e29f2c88d36aaad95eedb7b0101200cb53f",
+    "bytes": 91032
+  },
+  "qa/full-page-390.jpg": {
+    "sha256": "5bf838418e28992adcf62df010bb72672d79017719063cd525c52421e091b7b7",
+    "bytes": 540761
+  },
+  "scripts/prepare_proof.py": {
+    "sha256": "7d2d1b32f06b49283e3b12bc3cbc23ffddba7a0fdac7e3827bc1622350f8938a",
+    "bytes": 10931
+  },
+  "scripts/build_spa.py": {
+    "sha256": "eaa5891ff1026caee104a4ffba9f64a0979b42769a89219572fdec1179f6a3ec",
+    "bytes": 11530
+  },
+  "assets/headspa-original.png": {
+    "sha256": "20e6fa23998ff69b9a8a9b69d721f15bb3e83a7ad75a93809e11f6417caacd70",
+    "bytes": 786446
+  },
+  "assets/lashes-original.png": {
+    "sha256": "e4f7da9be4e9ff93565eb6eef04f33ef471fc3715738a3e668292d6a1554dfc8",
+    "bytes": 786444
+  },
+  "assets/image-prompts.json": {
+    "sha256": "a4dcfd402893b2642272de22142ce9df8bc81657d0bb9f7e03c0cc6b22a2b3e8",
+    "bytes": 2600
+  },
+  "assets/waxing.webp": {
+    "sha256": "92c1544a023da1be9d63069824d3bd5bab71a32fec2100b8b0734b511cf2896b",
+    "bytes": 126628
+  },
+  "assets/facial.webp": {
+    "sha256": "630bc11c2647084612b0d6f74e6e34a4225a15d54bbdda5380e13b96df850b30",
+    "bytes": 159774
+  },
+  "assets/waxing-original.png": {
+    "sha256": "613a697a7a53a818030b437a9cc277545521249674937174082021b197dcbc4c",
+    "bytes": 786444
+  },
+  "assets/main-logo.jpg": {
+    "sha256": "7ffb947caea7309fb8e4c42b24049b75b5f421e338711568a0085b4c39417708",
+    "bytes": 181940
+  },
+  "assets/water.jpeg": {
+    "sha256": "887498618a6dc59bff0f2cdd78f01069dd2cbba721bd5a5676651be349c997d7",
+    "bytes": 786444
+  },
+  "assets/beauty-logo.png": {
+    "sha256": "cdf19298bc26312d460504559a8669762b2a1a79d63b4088f9a7e5df16e1dc56",
+    "bytes": 534289
+  },
+  "assets/facial-original.png": {
+    "sha256": "472651d222c04b966d09cc565565479b05f4d87a1ae25b8693bbc1db9c49beae",
+    "bytes": 786445
+  },
+  "assets/lashes.webp": {
+    "sha256": "2858aed3bfd6d738f6d9fcf921a62de4d246eecd5e0793d4c1bed7fb1a2c2d91",
+    "bytes": 168042
+  },
+  "assets/headspa.webp": {
+    "sha256": "72b886816073fea47b339e377578841f7989bbb75daf68370d62873fce2f3b52",
+    "bytes": 160736
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "Matrix Spa & Beauty",
+    "revision": "spa-review-1",
+    "tagName": "matrix-spa-main",
+    "elementId": "matrixSpaMain",
+    "rootClass": "matrix-spa-main",
+    "pageUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "seoTitle": "Spa Services in Salem, WI | Facials, Head Spa & Wellness",
+    "seoDescription": "Explore spa services in Salem, WI including custom facials, Japanese Head Spa, waxing, infrared sauna and red light therapy at Matrix Massage & Bodywork.",
+    "seoSource": "baseline/live-dom.json",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 4
+  },
+  "seo": {
+    "title": "Spa Services in Salem, WI | Facials, Head Spa & Wellness",
+    "description": "Explore spa services in Salem, WI including custom facials, Japanese Head Spa, waxing, infrared sauna and red light therapy at Matrix Massage & Bodywork.",
+    "canonical": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "source": "baseline/live-dom.json"
+  },
+  "h1": "Spa & Beauty Services in Salem, WI",
+  "faqCount": 4,
+  "links": [
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "#sb-services",
+    "#sb-facials",
+    "#sb-headspa",
+    "#sb-lashes",
+    "#sb-waxing",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/IUTRINR4YWTL7ULZ3QVEK4QG",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/JBJI7MD5EU2QM3E4MQXE5TSK",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/AHZUYXVN3SZNP3PGGFKXDNZZ",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/KGPGPGY2THJJRWGXP22WJPTZ",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/JS7RTFPI4HOWHCZRGZ6NUXCN",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/PZR2CBQCWBF3RUKLT5S4JUTI",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/YY2UJGDPSWQQ5HHCOKYYRTBE",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/ANHVUNL2SFY2ETFWNCU5WNJS",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/XWPHF2HC3LRMMRBBQ2DYM4LL",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/OP6MUOQDI5QPD5E5L3SXLRPY",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "sms:+12629399325",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+      "alt": "Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@da120f1a8a3c621b17a2c9828ce6b069f9296662/pages/spa-beauty/main/assets/facial.webp",
+      "alt": "Illustrative facial treatment with a soft brush and creamy mask"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@da120f1a8a3c621b17a2c9828ce6b069f9296662/pages/spa-beauty/main/assets/headspa.webp",
+      "alt": "Illustrative Japanese Head Spa waterfall rinse and gentle scalp care"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@da120f1a8a3c621b17a2c9828ce6b069f9296662/pages/spa-beauty/main/assets/lashes.webp",
+      "alt": "Illustrative close-up of a softly defined lash line"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@da120f1a8a3c621b17a2c9828ce6b069f9296662/pages/spa-beauty/main/assets/waxing.webp",
+      "alt": "Illustrative professional wax warmer, clean spatula, and fresh towels"
+    }
+  ],
+  "files": {
+    "body.html": "f470025a3fee580402e1451ac5f0e6b02b6a68d2d61298ca7c63a6ae9fc24316",
+    "style.css": "1de43e0040158d87d2ca18cc693b97bdaa4363728eca40e28faf50d82295cf2e",
+    "renderer.js": "47916c0b6a91d75fda1cd447e7a67859fb8e52c93bec9e117e6797339942a9c5",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "6acbb8896dd4c365d45093103ad3325645c2ce0d618f0d56ca2ed45cbaa9ae5a",
+    "preview.html": "2f5823c0e1a50a75fd379d9d4db7a7f48f9eae8396d5ed3f1bf8ded90754c94d",
+    "faq-schema.json": "aad1a755678ee73289bb633f538f6263b6e3dfee44de5bfc9afa4c2e675b0b7c"
+  },
+  "rendererBytes": 23653
+}

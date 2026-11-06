@@ -1,0 +1,13 @@
+{
+  "assetCommit": "da120f1a8a3c621b17a2c9828ce6b069f9296662",
+  "imagery": "Four illustrative AI-generated service photographs; not actual Matrix clients, staff, facilities, or before/after results. Generated with built-in image generation. Originals preserved; WebP files are optimized encodings.",
+  "logo": "Exact c35a32fb asset verified in current Main Massage renderer; chosen over stale bundled PNG recommendation to satisfy owner request to match approved Main Massage logo. No logo redraw.",
+  "water": "Existing shared Matrix Wix water texture; darkened with CSS overlays.",
+  "imageUrls": {
+    "facial": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@da120f1a8a3c621b17a2c9828ce6b069f9296662/pages/spa-beauty/main/assets/facial.webp",
+    "headspa": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@da120f1a8a3c621b17a2c9828ce6b069f9296662/pages/spa-beauty/main/assets/headspa.webp",
+    "lashes": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@da120f1a8a3c621b17a2c9828ce6b069f9296662/pages/spa-beauty/main/assets/lashes.webp",
+    "waxing": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@da120f1a8a3c621b17a2c9828ce6b069f9296662/pages/spa-beauty/main/assets/waxing.webp"
+  },
+  "prompts": "assets/image-prompts.json"
+}
