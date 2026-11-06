@@ -1,4 +1,8 @@
 {
+  "REMOTE_SAVE_RECEIPT.md": {
+    "sha256": "3e53089f9e26c4c051400c00915af857b541747d9c7ce267621a313dd9c355b2",
+    "bytes": 821
+  },
   "REVIEW_CHECKPOINT_2026-11-06.md": {
     "sha256": "0dc0d535f734d421fce6c9c3deae1859efa785a9cde64c3366e33870d6c2d68a",
     "bytes": 4400
@@ -60,32 +64,32 @@
     "bytes": 10426
   },
   "proofs/index.html": {
-    "sha256": "7abca38882dc8a5bf710c251b7ca7bffad9a154e9938fd5539eaaa2ce27c9509",
-    "bytes": 3166
+    "sha256": "72c03c81fe150188bc65492212811d7d8b590c34171f73af1b06297e3db13d70",
+    "bytes": 3394
   },
   "proofs/full-page.html": {
-    "sha256": "7b6600759dfbbc3c406250f19acde9dafc499ab373ae6b4497dbf411e2ca3853",
-    "bytes": 29553
+    "sha256": "f95db270ac9ef17f854e372a7b77d26edfe4a0d9fc5a16fb7875fa2fda70ab4f",
+    "bytes": 29859
   },
   "proofs/viewport-1440.html": {
-    "sha256": "7abca38882dc8a5bf710c251b7ca7bffad9a154e9938fd5539eaaa2ce27c9509",
-    "bytes": 3166
+    "sha256": "466fd1929bf233c10df0d8683606eb20132e913481ec10624cd5b5d7aa32cbb2",
+    "bytes": 3391
   },
   "proofs/viewport-1280.html": {
-    "sha256": "3b63157e17bf831e0181ac55137094dfe46dbfe9e57bed3853a68b9b7dfde4eb",
-    "bytes": 3167
+    "sha256": "557001104a0d2bd6402b8fb4addbd020a3fbfc143a9e957fb2498af8611bc292",
+    "bytes": 3392
   },
   "proofs/viewport-320.html": {
-    "sha256": "8588519d0c1faa3a00f0b613dde29bff644aefbb2ff8e64f89d50932840900b0",
-    "bytes": 3165
+    "sha256": "c08fb31563ca6797855aa850e501c7126de62f64ec5ef89087720aafdb276cd5",
+    "bytes": 3389
   },
   "proofs/viewport-390.html": {
-    "sha256": "e70ba44d7de767413a4eca10bb18402c22737780b5f03a00ea30a52d2859f21a",
-    "bytes": 3165
+    "sha256": "69b185f06ed6339436895749b2bc4559e5ae1487c0ccda20825fc57eeb4eb734",
+    "bytes": 3389
   },
   "proofs/viewport-1920.html": {
-    "sha256": "30b73d8075907c45c93d4b5229cce629221047da82a653b0e09c9fe8af730c25",
-    "bytes": 3167
+    "sha256": "bbb411e6d30f19022d76892af95b280a8bd21fbb0a4196cb5839a96bfe8f4e81",
+    "bytes": 3392
   },
   "baseline/waxing-public-content.json": {
     "sha256": "328b4d89bbea98cd160b5a57575bc9132ca7e41faa29ae579ea4cd2db1ee3bb8",
@@ -180,8 +184,8 @@
     "bytes": 540761
   },
   "scripts/prepare_proof.py": {
-    "sha256": "7d2d1b32f06b49283e3b12bc3cbc23ffddba7a0fdac7e3827bc1622350f8938a",
-    "bytes": 10931
+    "sha256": "1262a9ca6e31bf76c8d244cc045e0ff68e80f5780a25ae573fe5b6acb31ce948",
+    "bytes": 11579
   },
   "scripts/build_spa.py": {
     "sha256": "eaa5891ff1026caee104a4ffba9f64a0979b42769a89219572fdec1179f6a3ec",
