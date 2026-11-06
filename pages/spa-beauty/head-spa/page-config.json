@@ -1,0 +1,14 @@
+{
+  "serviceName": "Japanese Head Spa",
+  "revision": "review-1-2026-11-06",
+  "tagName": "matrix-head-spa-review",
+  "elementId": "matrixHeadSpaReview",
+  "rootClass": "matrix-head-spa",
+  "pageUrl": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+  "seoTitle": "Japanese Head Spa in Salem, WI | Scalp Treatments & Infusions",
+  "seoDescription": "Book a Japanese Head Spa in Salem, WI with scalp analysis, waterfall therapy, steam, massage and customized Matrix Precision Scalp Infusions.",
+  "seoSource": "../subpage-review-2026-11-06/baseline/head-spa.json",
+  "bodyFile": "body.html",
+  "cssFile": "style.css",
+  "expectedFaqCount": 8
+}

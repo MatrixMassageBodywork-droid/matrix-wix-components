@@ -1,0 +1,14 @@
+{
+  "serviceName": "Custom Facials",
+  "revision": "review-1-2026-11-06",
+  "tagName": "matrix-facials-review",
+  "elementId": "matrixFacialReview",
+  "rootClass": "matrix-facials",
+  "pageUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+  "seoTitle": "Custom Facials in Salem, WI | Matrix Massage & Bodywork",
+  "seoDescription": "Customized facials in Salem, WI with professional skincare, Circadia options, real Matrix treatment photos, skin-goal pathways and personalized care.",
+  "seoSource": "../subpage-review-2026-11-06/baseline/facials.json",
+  "bodyFile": "body.html",
+  "cssFile": "style.css",
+  "expectedFaqCount": 6
+}

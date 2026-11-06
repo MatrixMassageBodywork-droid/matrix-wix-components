@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which facial should I choose for acne-prone skin?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with a Custom Facial and tell your provider that acne-prone skin or congestion is your priority. Clear + Balance is the related skin-goal pathway. Suitability and treatment steps are decided after reviewing your skin and routine."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer anti-acne facials?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matrix offers personalized cosmetic facial care for acne-prone skin through the Custom Facial. Cleansing, suitable exfoliation, masks and hydration are selected for the individual. Facials do not replace medical acne treatment or guarantee clear skin."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are extractions included in every facial?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Extractions are considered only when appropriate for your skin, comfort and booked appointment. Discuss congestion and active breakouts with your provider before treatment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I share before my appointment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tell us about allergies, sensitivities, current skincare, prescription products, recent peels or waxing, and any active irritation. Follow your prescriber\u2019s directions; ask about treatment timing if you are unsure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I combine facial care with a Head Spa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The current menu includes Matrix Head Spa + Hydrating Glow Facial, which pairs customized scalp care with a mini facial, facial massage and hydration. Review its current details when booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I book a facial near Paddock Lake or Antioch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matrix Massage & Bodywork is at 24804 75th St, Salem, WI 53168. Our Salem studio welcomes clients from Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Pleasant Prairie, Kenosha County and nearby Antioch, Illinois. Book online or text 262-939-9325."
+      }
+    }
+  ]
+}

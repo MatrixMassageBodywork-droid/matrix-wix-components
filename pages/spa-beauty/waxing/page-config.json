@@ -1,0 +1,14 @@
+{
+  "serviceName": "Waxing & Hair Removal",
+  "revision": "review-1-2026-11-06",
+  "tagName": "matrix-waxing-review",
+  "elementId": "matrixWaxingReview",
+  "rootClass": "matrix-waxing",
+  "pageUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+  "seoTitle": "Waxing & Hair Removal in Salem WI | Matrix Massage & Bodywork",
+  "seoDescription": "Book face and body waxing in Salem, WI at Matrix Massage & Bodywork. Personalized hair removal near Paddock Lake, Bristol and Antioch.",
+  "seoSource": "../subpage-review-2026-11-06/baseline/waxing.json",
+  "bodyFile": "body.html",
+  "cssFile": "style.css",
+  "expectedFaqCount": 8
+}

@@ -1,0 +1,723 @@
+{
+  "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+  "status": 200,
+  "title": "Waxing & Hair Removal in Salem WI | Matrix Massage & Bodywork",
+  "metadata": [
+    {
+      "charset": "utf-8"
+    },
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1",
+      "id": "wixDesktopViewport"
+    },
+    {
+      "http-equiv": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "name": "generator",
+      "content": "Wix.com Website Builder"
+    },
+    {
+      "name": "format-detection",
+      "content": "telephone=no"
+    },
+    {
+      "name": "skype_toolbar",
+      "content": "skype_toolbar_parser_compatible"
+    },
+    {
+      "http-equiv": "X-Wix-Meta-Site-Id",
+      "content": "cdec8df6-d518-4859-9f1e-f06bf5346d41"
+    },
+    {
+      "http-equiv": "X-Wix-Application-Instance-Id",
+      "content": "a276c9bf-bc17-4680-959b-a24ebe7370f6"
+    },
+    {
+      "http-equiv": "X-Wix-Published-Version",
+      "content": "951"
+    },
+    {
+      "http-equiv": "etag",
+      "content": "bug"
+    },
+    {
+      "name": "description",
+      "content": "Book face and body waxing in Salem, WI at Matrix Massage & Bodywork. Personalized hair removal near Paddock Lake, Bristol and Antioch."
+    },
+    {
+      "property": "og:title",
+      "content": "Waxing & Hair Removal in Salem WI | Matrix Massage & Bodywork"
+    },
+    {
+      "property": "og:description",
+      "content": "Book face and body waxing in Salem, WI at Matrix Massage & Bodywork. Personalized hair removal near Paddock Lake, Bristol and Antioch."
+    },
+    {
+      "property": "og:image",
+      "content": "https://static.wixstatic.com/media/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png/v1/fill/w_1050,h_600,al_c/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png"
+    },
+    {
+      "property": "og:image:width",
+      "content": "1050"
+    },
+    {
+      "property": "og:image:height",
+      "content": "600"
+    },
+    {
+      "property": "og:url",
+      "content": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Matrix Massage & Bodywork"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "name": "google-site-verification",
+      "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Waxing & Hair Removal in Salem WI | Matrix Massage & Bodywork"
+    },
+    {
+      "name": "twitter:description",
+      "content": "Book face and body waxing in Salem, WI at Matrix Massage & Bodywork. Personalized hair removal near Paddock Lake, Bristol and Antioch."
+    },
+    {
+      "name": "twitter:image",
+      "content": "https://static.wixstatic.com/media/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png/v1/fill/w_1050,h_600,al_c/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png"
+    }
+  ],
+  "links": [
+    {
+      "tag": "link",
+      "rel": "icon",
+      "sizes": "192x192",
+      "href": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "tag": "link",
+      "rel": "shortcut icon",
+      "href": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "tag": "link",
+      "rel": "apple-touch-icon",
+      "href": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "tag": "link",
+      "rel": "canonical",
+      "href": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net",
+      "target": "_self",
+      "class": "itemDepth02233374943__root StylableHorizontalMenu3372578893__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "target": "_self",
+      "class": "itemDepth02233374943__root StylableHorizontalMenu3372578893__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+      "target": "_self",
+      "class": "itemDepth02233374943__root StylableHorizontalMenu3372578893__menuItem itemShared2352141355__menuItem",
+      "aria-expanded": "false",
+      "aria-haspopup": "true",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+      "target": "_self",
+      "class": "itemDepth12472627565__root submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/swedish-massage-salem-wi",
+      "target": "_self",
+      "class": "itemDepth12472627565__root submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+      "target": "_self",
+      "class": "itemDepth12472627565__root submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/the-science-of-massage-therapy",
+      "target": "_self",
+      "class": "itemDepth12472627565__root submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+      "target": "_self",
+      "class": "itemDepth02233374943__root StylableHorizontalMenu3372578893__menuItem itemShared2352141355__menuItem",
+      "aria-expanded": "false",
+      "aria-haspopup": "true",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+      "target": "_self",
+      "class": "itemDepth12472627565__root submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+      "target": "_self",
+      "class": "itemDepth12472627565__root submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+      "target": "_self",
+      "class": "itemDepth12472627565__root itemDepth12472627565--isCurrentPage submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+      "target": "_self",
+      "class": "itemDepth02233374943__root StylableHorizontalMenu3372578893__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "target": "_self",
+      "class": "itemDepth02233374943__root StylableHorizontalMenu3372578893__menuItem itemShared2352141355__menuItem",
+      "aria-expanded": "false",
+      "aria-haspopup": "true",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+      "target": "_self",
+      "class": "itemDepth12472627565__root submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/supplements",
+      "target": "_self",
+      "class": "itemDepth12472627565__root submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/about-5",
+      "target": "_self",
+      "class": "itemDepth02233374943__root StylableHorizontalMenu3372578893__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/salem-wi-blog",
+      "target": "_self",
+      "class": "itemDepth02233374943__root StylableHorizontalMenu3372578893__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "target": "_blank",
+      "rel": "noreferrer noopener",
+      "class": "StylableButton2545352419__root StylableButton2545352419__forcedColorsBackground style-mposjgmi1__root wixui-button StylableButton2545352419__link",
+      "aria-label": "BOOK NOW"
+    },
+    {
+      "tag": "a",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "target": "_blank",
+      "rel": "noreferrer noopener",
+      "class": "twJknM wixui-button ZhVEJq",
+      "aria-disabled": "false",
+      "aria-label": "BOOK NOW"
+    },
+    {
+      "tag": "a",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "target": "_blank",
+      "rel": "noreferrer noopener",
+      "class": "twJknM wixui-button ZhVEJq",
+      "aria-disabled": "false",
+      "aria-label": "BOOK NOW"
+    },
+    {
+      "tag": "a",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "target": "_blank",
+      "rel": "noreferrer noopener",
+      "class": "twJknM wixui-button ZhVEJq",
+      "aria-disabled": "false",
+      "aria-label": "BOOK NOW"
+    },
+    {
+      "tag": "a",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "target": "_blank",
+      "rel": "noreferrer noopener",
+      "class": "twJknM wixui-button ZhVEJq",
+      "aria-disabled": "false",
+      "aria-label": "BOOK MY WAXING"
+    },
+    {
+      "tag": "a",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+      "target": "_self",
+      "class": "twJknM wixui-button ZhVEJq",
+      "aria-disabled": "false",
+      "aria-label": "BACK TO BEAUTY & SPA SERVICES"
+    },
+    {
+      "tag": "a",
+      "href": "./#comp-mposjgnh",
+      "aria-label": "Section3SlideShowItem1MediaImage1",
+      "class": "v1smN8 JPnvZO"
+    },
+    {
+      "tag": "a",
+      "href": "./#comp-mposjgnk5",
+      "aria-label": "Section3SlideShowItem2MediaImage1",
+      "class": "v1smN8"
+    },
+    {
+      "tag": "a",
+      "href": "./#comp-mposjgno5",
+      "aria-label": "Section3SlideShowItem3MediaImage1",
+      "class": "v1smN8"
+    },
+    {
+      "tag": "a",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "target": "_blank",
+      "rel": "noreferrer noopener",
+      "class": "StylableButton2545352419__root StylableButton2545352419__forcedColorsBackground style-mposjgnt4__root wixui-button StylableButton2545352419__link",
+      "aria-label": "Book Now"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+      "target": "_self",
+      "style": "color:#ffffff; text-decoration:underline;",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+      "target": "_self",
+      "style": "color:#ffffff; text-decoration:underline;",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+      "target": "_self",
+      "style": "color:#ffffff; text-decoration:underline;",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/massage-near-union-grove-wi",
+      "target": "_self",
+      "style": "color:#ffffff; text-decoration:underline;",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/facials-near-antioch-il",
+      "target": "_self",
+      "style": "color:#ffffff; text-decoration:underline;",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/japanese-head-spa-near-bristol-wi",
+      "target": "_self",
+      "style": "color:#ffffff; text-decoration:underline;",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+      "target": "_self",
+      "style": "color:#ffffff; text-decoration:underline;",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/local-wellness-partnerships",
+      "target": "_blank",
+      "rel": "noreferrer noopener",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/massage-therapist-jobs-salem-wi",
+      "target": "_blank",
+      "rel": "noreferrer noopener",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "link",
+      "href": "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%22b976560c-3122-4351-878f-453f337b7245%22%3A%221358%22%2C%227479d596-137c-4fa3-89cd-d7091042ba61%22%3A%22132%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.DisableDocumentScrollWhenLightBoxOpen%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.a11yContrast%2C.addIdAsClassName%2C.allowWebpAvifTransforms%2C.builderBoxSizingBorderBox%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.customImageDomain%2C.dom_store%2C.dontApplyDacOverridesOnBoBApps%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixDocumentLinkInPremiumPreview%2C.fixFirefoxLinkBarIntrinsicSizing%2C.imageEncodingAVIF%2C.interactionsUseReactionEffectId%2C.isClassNameToRootEnabled%2C.isClassNameToRootEnabledNext%2C.logVsmFeaturesModuleDiff%2C.plainClassSelectors%2C.responsiveContainerRoleGroup%2C.sectionA11yProps%2C.splitSlotSelectors%2C.svgResolver_2%2C.takeTranslationsFromManifest%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useFragmentHrefForTopBottomAnchor%2C.useImageAvifFormatInNativeProGallery%2C.useResponsiveImgClassicFixed%2C.useSvgLoaderFeature%2C.useSvgLoaderFeatureOnBuilderComps%2C.useWowImageInFastGallery%2C.vsmFeaturesModule%2C.vsm_interactions_v1%2C.vsm_interactions_v2%2C.vsm_shapes%2CbuilderComponentsPageScoping%2CglobalCssStudio2%2CtpaBrandFonts&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Other&dfCk=6&dfVersion=1.5682.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.matrixmassage.net&fileId=17b4fd24.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=true&hasUserDomainMedia=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=true&isUrlMigrated=true&isWixCodeOnPage=true&isWixCodeOnSite=true&language=en&languageResolutionMethod=QueryParam&locale=en-us&metaSiteId=cdec8df6-d518-4859-9f1e-f06bf5346d41&module=thunderbolt-features&originalLanguage=en&pageId=e4cc43_97e6caba0f6b980e38b04116e3dd77b5_951.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15633.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15633.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=a276c9bf-bc17-4680-959b-a24ebe7370f6&siteRevision=951&staticHTMLComponentUrl=https%3A%2F%2Fwww-matrixmassage-net.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop",
+      "id": "features_masterPage",
+      "as": "fetch",
+      "position": "post-scripts",
+      "rel": "prefetch",
+      "crossorigin": "anonymous"
+    },
+    {
+      "tag": "link",
+      "href": "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%22b976560c-3122-4351-878f-453f337b7245%22%3A%221358%22%2C%227479d596-137c-4fa3-89cd-d7091042ba61%22%3A%22132%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.DisableDocumentScrollWhenLightBoxOpen%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.a11yContrast%2C.addIdAsClassName%2C.allowWebpAvifTransforms%2C.builderBoxSizingBorderBox%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.customImageDomain%2C.dom_store%2C.dontApplyDacOverridesOnBoBApps%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixDocumentLinkInPremiumPreview%2C.fixFirefoxLinkBarIntrinsicSizing%2C.imageEncodingAVIF%2C.interactionsUseReactionEffectId%2C.isClassNameToRootEnabled%2C.isClassNameToRootEnabledNext%2C.logVsmFeaturesModuleDiff%2C.plainClassSelectors%2C.responsiveContainerRoleGroup%2C.sectionA11yProps%2C.splitSlotSelectors%2C.svgResolver_2%2C.takeTranslationsFromManifest%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useFragmentHrefForTopBottomAnchor%2C.useImageAvifFormatInNativeProGallery%2C.useResponsiveImgClassicFixed%2C.useSvgLoaderFeature%2C.useSvgLoaderFeatureOnBuilderComps%2C.useWowImageInFastGallery%2C.vsmFeaturesModule%2C.vsm_interactions_v1%2C.vsm_interactions_v2%2C.vsm_shapes%2CbuilderComponentsPageScoping%2CglobalCssStudio2%2CtpaBrandFonts&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Other&dfCk=6&dfVersion=1.5682.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.matrixmassage.net&fileId=17b4fd24.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=true&hasUserDomainMedia=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&languageResolutionMethod=QueryParam&locale=en-us&metaSiteId=cdec8df6-d518-4859-9f1e-f06bf5346d41&module=thunderbolt-features&originalLanguage=en&pageId=e4cc43_239eee15b27843ac1d6dee1d0cbcd546_896.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15633.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15633.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=a276c9bf-bc17-4680-959b-a24ebe7370f6&siteRevision=951&staticHTMLComponentUrl=https%3A%2F%2Fwww-matrixmassage-net.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop",
+      "id": "features_ganam",
+      "as": "fetch",
+      "position": "post-scripts",
+      "rel": "prefetch",
+      "crossorigin": "anonymous"
+    },
+    {
+      "tag": "link",
+      "href": "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%22b976560c-3122-4351-878f-453f337b7245%22%3A%221358%22%2C%227479d596-137c-4fa3-89cd-d7091042ba61%22%3A%22132%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.addIdAsClassName%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.customImageDomain%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixFirefoxLinkBarIntrinsicSizing%2C.isClassNameToRootEnabled%2C.isClassNameToRootEnabledNext%2C.logVsmPlatformDiff%2C.migrateSdkDataMappers%2C.plainClassSelectors%2C.splitSlotSelectors%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useImageAvifFormatInNativeProGallery%2C.useWowImageInFastGallery%2C.vsmPlatform%2C.vsm_shapes%2CtpaBrandFonts&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5682.0&editorName=Unknown&experiments=dm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.matrixmassage.net&fileId=3055342c.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=true&hasUserDomainMedia=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=true&isWixCodeOnSite=true&language=en&locale=en-us&metaSiteId=cdec8df6-d518-4859-9f1e-f06bf5346d41&module=thunderbolt-platform&originalLanguage=en&pageId=e4cc43_97e6caba0f6b980e38b04116e3dd77b5_951.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15633.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15633.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=a276c9bf-bc17-4680-959b-a24ebe7370f6&siteRevision=951&staticHTMLComponentUrl=https%3A%2F%2Fwww-matrixmassage-net.filesusr.com%2F&viewMode=desktop",
+      "id": "platform_masterPage",
+      "as": "fetch",
+      "position": "post-scripts",
+      "rel": "prefetch",
+      "crossorigin": "anonymous"
+    },
+    {
+      "tag": "link",
+      "href": "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%22b976560c-3122-4351-878f-453f337b7245%22%3A%221358%22%2C%227479d596-137c-4fa3-89cd-d7091042ba61%22%3A%22132%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.addIdAsClassName%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.customImageDomain%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixFirefoxLinkBarIntrinsicSizing%2C.isClassNameToRootEnabled%2C.isClassNameToRootEnabledNext%2C.logVsmPlatformDiff%2C.migrateSdkDataMappers%2C.plainClassSelectors%2C.splitSlotSelectors%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useImageAvifFormatInNativeProGallery%2C.useWowImageInFastGallery%2C.vsmPlatform%2C.vsm_shapes%2CtpaBrandFonts&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5682.0&editorName=Unknown&experiments=dm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.matrixmassage.net&fileId=3055342c.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=true&hasUserDomainMedia=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&locale=en-us&metaSiteId=cdec8df6-d518-4859-9f1e-f06bf5346d41&module=thunderbolt-platform&originalLanguage=en&pageId=e4cc43_239eee15b27843ac1d6dee1d0cbcd546_896.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15633.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15633.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=a276c9bf-bc17-4680-959b-a24ebe7370f6&siteRevision=951&staticHTMLComponentUrl=https%3A%2F%2Fwww-matrixmassage-net.filesusr.com%2F&viewMode=desktop",
+      "id": "platform_ganam",
+      "as": "fetch",
+      "position": "post-scripts",
+      "rel": "prefetch",
+      "crossorigin": "anonymous"
+    }
+  ],
+  "text": [
+    "Waxing & Hair Removal in Salem WI | Matrix Massage & Bodywork",
+    "top of page",
+    "HOME",
+    "BOOK NOW",
+    "MASSAGE THERAPY SERVICES",
+    "DEEP TISSUE MASSAGE",
+    "SWEDISH MASSAGE",
+    "MANUAL LYMPHATIC DRAINAGE",
+    "THE SCIENCE OF MASSAGE",
+    "SPA & BEAUTY SERVICES",
+    "JAPANESE HEAD SPA",
+    "HEAD SPA",
+    "WAXING",
+    "FACIALS",
+    "WELLNESS & BIOTECH SERVICES",
+    "RED LIGHT THERAPY",
+    "SUPPLEMENTS & WELLNESS",
+    "ABOUT",
+    "BLOG",
+    "Smooth skin, clean results, and luxury spa comfort from start to finish.",
+    "Professional Waxing Hair Removal Services in Salem, WI | Matrix Massage & Bodywork",
+    "Experience professional face and body waxing services designed to help you feel smooth, refreshed, and confident. At Matrix Massage & Bodywork in Salem, WI, our waxing treatments combine precision, comfort-focused techniques, and a relaxing spa environment for a clean, polished experience.",
+    "\u200b",
+    "Starting at $20",
+    "BOOK NOW",
+    "LUXURY WAXING SERVICES DESIGNED FOR SMOOTH, CONFIDENT SKIN",
+    "Smooth skin. Comfortable experience. Clean results.",
+    "\u200b",
+    "Our waxing services are designed to help remove unwanted hair while creating a comfortable, relaxing spa experience. We provide professional face and body waxing services using skin-conscious techniques designed to support smooth, clean results.",
+    "\u200b",
+    "Whether you\u2019re looking for facial waxing, body waxing, or routine maintenance treatments, every service is performed with attention to comfort, precision, and your individual preferences.",
+    "\u200b",
+    "At Matrix Massage & Bodywork, we combine a luxury spa atmosphere with professional waxing services designed to help you feel refreshed, confident, and polished.",
+    "BOOK NOW",
+    "BENEFITS OF WAXING HAIR REMOVAL",
+    "\u200b",
+    "Smooth Long-Lasting Results",
+    "Waxing helps remove hair from the root for smoother-feeling skin that lasts longer than shaving.",
+    "\u200b",
+    "Convenient Maintenance",
+    "Routine waxing appointments can help simplify your beauty and self-care routine.",
+    "Precision Hair Removal",
+    "Professional waxing allows for clean shaping and detailed hair removal for face and body treatments.",
+    "Luxury Spa Experience",
+    "Relax in a calming spa environment designed to make your treatment as comfortable as possible.",
+    "Customized Services",
+    "Each treatment is tailored to your selected areas, preferences, and comfort level.",
+    "BOOK NOW",
+    "WHAT TO EXPECT DURING YOUR WAXING APPOINTMENT",
+    "Professional care. Comfortable treatments. Smooth results.",
+    "\u200b",
+    "Your appointment begins with a brief consultation to review the treatment areas, discuss sensitivities, and answer any questions you may have before your service begins.",
+    "\u200b",
+    "Your provider will perform the waxing treatment using professional techniques designed to help maximize comfort and precision while supporting clean, smooth results.",
+    "\u200b",
+    "After your treatment, you may receive simple aftercare recommendations to help support skin comfort and maintain your results between appointments.",
+    "BOOK NOW",
+    "ENHANCE YOUR WAXING EXPERIENCE",
+    "FAQ's",
+    "Q: What waxing services do you offer?",
+    "A: We offer a variety of face and body waxing services designed to help remove unwanted hair and support smooth, polished skin.",
+    "\u200b",
+    "Q: How long does waxing last?",
+    "A: Results vary from person to person, but many clients enjoy smoother skin for several weeks depending on hair growth patterns and treatment area.",
+    "\u200b",
+    "Q: Does waxing hurt?",
+    "A: Some temporary discomfort is normal during waxing treatments, but we use comfort-focused techniques designed to create the best experience possible.",
+    "\u200b",
+    "Q: How long should my hair be before waxing?",
+    "A:Hair should typically be at least about 1/4 inch long for best waxing results.",
+    "\u200b",
+    "Q: What should I avoid after waxing?",
+    "A: Many clients choose to avoid excessive heat, UV exposure or tanning, friction, heavy sweating, or aggressive exfoliation immediately after treatment to help support skin comfort",
+    "Q:How do I book a waxing appointment?",
+    "A: Click the \u201cBook Now\u201d button on this page or text 262-939-9325 to schedule your waxing appointment at Matrix Massage & Bodywork in Salem, WI.",
+    "BOOK MY WAXING",
+    "BACK TO BEAUTY & SPA SERVICES",
+    "What our Clients Say..",
+    "First time visiting DaNelle at Matrix. She was professional, inquired about the issues I was experiencing and offered possible solutions, and gave a great first massage. I will be returning.",
+    "Book Now",
+    "\u00a9 2026 Matrix Massage & Bodywork \u00b7 Salem Lakes, WI",
+    "(262) 939-9325 \u00b7 24804 75th St, Salem, WI 53168",
+    "Massage Therapy",
+    "\u00b7",
+    "Custom Facials",
+    "\u00b7",
+    "Japanese Head Spa",
+    "One Salem studio serving Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Kenosha County, Union Grove and nearby Antioch, Illinois.",
+    "Plan",
+    "massage near Union Grove",
+    ",",
+    "facials near Antioch",
+    ",",
+    "Japanese Head Spa near Bristol",
+    ", or",
+    "spa services near Paddock Lake",
+    ". All appointments are provided at Matrix Massage & Bodywork in Salem, Wisconsin.",
+    "\u200bLinks:",
+    "\u200b",
+    "Partner with Us",
+    "\u200b",
+    "Work with Us",
+    "\u200b",
+    "\u200b",
+    "bottom of page"
+  ],
+  "schemas": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What waxing services do you offer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matrix Massage & Bodywork offers facial and body waxing services in Salem, WI in a clean and relaxing spa environment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long should hair be before waxing?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For best results, hair should typically be about one quarter inch long before waxing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does waxing hurt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Some temporary discomfort is normal during waxing, but most clients find the process quick and manageable."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long do waxing results last?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Waxing results vary by individual, but many clients enjoy smoother skin for several weeks."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I book a waxing appointment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can book online or text 262-939-9325 to schedule your waxing appointment at Matrix Massage & Bodywork in Salem, WI."
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "HealthAndBeautyBusiness",
+      "name": "Matrix Massage & Bodywork",
+      "image": "https://static.wixstatic.com/media/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png/v1/fill/w_1050,h_600,al_c/e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png",
+      "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+      "telephone": "+1-262-939-9325",
+      "priceRange": "$$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "24804 75th St",
+        "addressLocality": "Salem",
+        "addressRegion": "WI",
+        "postalCode": "53168",
+        "addressCountry": "US"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "42.5585",
+        "longitude": "-88.1234"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Salem"
+        },
+        {
+          "@type": "City",
+          "name": "Kenosha"
+        },
+        {
+          "@type": "City",
+          "name": "Pleasant Prairie"
+        },
+        {
+          "@type": "City",
+          "name": "Bristol"
+        },
+        {
+          "@type": "City",
+          "name": "Antioch"
+        },
+        {
+          "@type": "City",
+          "name": "Union Grove"
+        }
+      ],
+      "description": "Professional waxing and hair removal services in Salem, WI at Matrix Massage & Bodywork.",
+      "serviceType": "Waxing"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "Waxing and hair removal",
+      "name": "Waxing Services in Salem WI",
+      "description": "Professional facial and body waxing services at Matrix Massage & Bodywork in Salem, WI.",
+      "provider": {
+        "@type": "HealthAndBeautyBusiness",
+        "name": "Matrix Massage & Bodywork",
+        "telephone": "+1-262-939-9325",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "24804 75th St",
+          "addressLocality": "Salem",
+          "addressRegion": "WI",
+          "postalCode": "53168",
+          "addressCountry": "US"
+        }
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Salem"
+        },
+        {
+          "@type": "City",
+          "name": "Kenosha"
+        },
+        {
+          "@type": "City",
+          "name": "Pleasant Prairie"
+        },
+        {
+          "@type": "City",
+          "name": "Bristol"
+        },
+        {
+          "@type": "City",
+          "name": "Antioch"
+        },
+        {
+          "@type": "City",
+          "name": "Union Grove"
+        }
+      ]
+    }
+  ]
+}

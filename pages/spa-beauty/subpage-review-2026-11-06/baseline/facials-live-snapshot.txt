@@ -1,0 +1,299 @@
+- region "top of page" [active]
+- button "Skip to Main Content"
+- banner:
+  - navigation "Site":
+    - list:
+      - link "HOME":
+        - /url: https://www.matrixmassage.net
+        - generic: HOME
+      - link "BOOK NOW":
+        - /url: https://www.matrixmassage.net/book-appointments-salem-wi
+        - generic: BOOK NOW
+      - link "MASSAGE THERAPY SERVICES":
+        - /url: https://www.matrixmassage.net/massage-therapy-services-salem-wi
+        - generic: MASSAGE THERAPY SERVICES
+      - button "Toggle MASSAGE THERAPY SERVICES":
+      - link "SPA & BEAUTY SERVICES":
+        - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi
+        - generic: SPA & BEAUTY SERVICES
+      - button "Toggle SPA & BEAUTY SERVICES":
+      - link "FACIALS":
+        - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+        - generic: FACIALS
+      - link "WELLNESS & BIOTECH SERVICES":
+        - /url: https://www.matrixmassage.net/wellness-biotech-services-salem-wi
+        - generic: WELLNESS & BIOTECH SERVICES
+      - button "Toggle WELLNESS & BIOTECH SERVICES":
+      - link "ABOUT":
+        - /url: https://www.matrixmassage.net/about-5
+        - generic: ABOUT
+      - link "BLOG":
+        - /url: https://www.matrixmassage.net/salem-wi-blog
+        - generic: BLOG
+- main:
+  - img "Water"
+  - main "Facials in Salem, WI":
+    - region "Facials in Salem, WI":
+      - img "Matrix Massage & Bodywork"
+      - paragraph: MATRIX MASSAGE & BODYWORK · SALEM, WISCONSIN
+      - heading "Facials in Salem, WI" [level=1]
+      - paragraph: Thoughtful skincare, restorative touch, and treatments selected for the way your skin looks and feels today.
+      - link "BOOK A FACIAL":
+        - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - link "EXPLORE SKIN GOALS":
+        - /url: "#skin-goals"
+      - paragraph: MATRIX MASSAGE & BODYWORK · 24804 75TH ST · SALEM, WI 53168 · 262-939-9325
+    - region "Care with room to be personal.":
+      - article:
+        - img "Editorial facial treatment detail"
+        - paragraph: THE MATRIX CUSTOM FACIAL
+        - heading "Care with room to be personal." [level=2]
+        - paragraph: Your Custom Facial is shaped around the condition of your skin, the care you enjoy and the kind of finish you are after. Select a 60- or 90-minute appointment for a complete, considered treatment.
+        - list:
+          - listitem: Professional cleansing and exfoliation
+          - listitem: Targeted masks, serums and hydration
+          - listitem: Extractions or red light when appropriate
+        - link "BOOK A CUSTOM FACIAL":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - complementary:
+        - paragraph: NEW TO MATRIX FACIALS
+        - heading "New Client Facial" [level=2]
+        - paragraph: A welcoming 45-minute facial with Lexy, created around your skin's current condition, comfort and goals.
+        - generic: $79
+        - generic: 45 MINUTES
+        - paragraph: Available to guests new to Matrix facial services.
+        - link "BOOK NEW CLIENT FACIAL":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+    - region "Choose the facial that fits your skin and your time.":
+      - paragraph: CURRENT FACIAL SERVICES
+      - heading "Choose the facial that fits your skin and your time." [level=2]
+      - paragraph: Explore current facial appointments—from a first visit to Circadia and dermaplaning options. Choose by time, treatment style or the experience you want, then reserve online.
+      - paragraph: First visit & custom care
+      - generic: A thoughtful beginning or a complete facial shaped around your skin.
+      - article:
+        - paragraph: "01.01"
+        - paragraph: 45 MINUTES · $79
+        - heading "New Client Facial DEAL | 45 Mins w/Lexy" [level=3]
+        - paragraph: A personalized first facial with Lexy, including a brief consultation and professional skincare selected for the appointment.
+        - link "BOOK NOW":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - article:
+        - paragraph: "01.02"
+        - paragraph: 60 OR 90 MINUTES · PRICE VARIES
+        - heading "Custom Facial" [level=3]
+        - paragraph: A complete facial with professional cleansing, exfoliation, targeted skincare and finishing care selected for your skin.
+        - link "BOOK NOW":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - paragraph: Circadia signature facials
+      - generic: Elevated treatments for hydration, radiance and a polished-looking complexion.
+      - article:
+        - paragraph: "02.01"
+        - paragraph: 90 MINUTES · $175
+        - heading "Circadia Dream Facial" [level=3]
+        - paragraph: A restorative Circadia treatment with intensive hydration, cooling professional care and a refreshed, well-rested-looking finish.
+        - link "BOOK NOW":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - article:
+        - paragraph: "02.02"
+        - paragraph: 75 MINUTES · $150
+        - heading "Circadia Luxe Lift Facial" [level=3]
+        - paragraph: A focused Circadia facial with Raspberry Enzyme, a Firming Peptide Mask and targeted hydration for brighter, smoother-looking skin.
+        - link "BOOK NOW":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - paragraph: Dermaplaning treatments
+      - generic: Choose a focused refresh or pair dermaplaning with a complete facial.
+      - article:
+        - paragraph: "03.01"
+        - paragraph: 30 MINUTES · $65
+        - heading "Dermaplane Refresh" [level=3]
+        - paragraph: A focused professional dermaplaning treatment with targeted hydration and finishing care.
+        - link "BOOK NOW":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - article:
+        - paragraph: "03.02"
+        - paragraph: 60 MINUTES · $135
+        - heading "Custom Dermaplane Facial" [level=3]
+        - paragraph: Professional dermaplaning paired with a complete facial, masks, serums, hydration and finishing care selected for your skin.
+        - link "BOOK NOW":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - article:
+        - paragraph: "03.03"
+        - paragraph: 90 MINUTES · $185
+        - heading "Luxe Dermaplane Facial" [level=3]
+        - paragraph: An extended dermaplaning facial with additional time for professional skincare, masks, hydration and a polished finish.
+        - link "BOOK NOW":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - paragraph: Facial & scalp ritual
+      - generic: A massage-focused experience for the face, head and scalp.
+      - article:
+        - paragraph: "04.01"
+        - paragraph: 30 MINUTES + · PRICE VARIES
+        - heading "Facial & Head/Scalp Massage" [level=3]
+        - paragraph: A standalone or eligible add-on service featuring focused facial, head and scalp massage with lightweight facial hydration.
+        - link "BOOK NOW":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+    - region "A thoughtful appointment, shaped around your skin.":
+      - img "Editorial skincare serum beside water and stone"
+      - paragraph: WHAT TO EXPECT
+      - heading "A thoughtful appointment, shaped around your skin." [level=2]
+      - paragraph: Settle in, share what your skin has been doing lately, and enjoy care selected around your comfort, preferences and appointment.
+      - list:
+        - generic: "01"
+        - heading "Arrive" [level=3]
+        - paragraph: Take a moment to settle into the studio and share your current skincare routine, preferences and any sensitivities.
+        - generic: "02"
+        - heading "Personalize" [level=3]
+        - paragraph: Your facial provider selects professional products, touch and techniques that fit your appointment and how your skin is presenting that day.
+        - generic: "03"
+        - heading "Leave refreshed" [level=3]
+        - paragraph: Finish with hydration and simple, practical guidance for caring for your skin between visits.
+    - region "A closer look at what matters to your skin.":
+      - paragraph: EXPLORE BY SKIN GOAL
+      - heading "A closer look at what matters to your skin." [level=2]
+      - paragraph: Discover focused facial care for the concerns and results you have in mind.
+      - article:
+        - paragraph: "01"
+        - heading "Hydrate + Restore" [level=3]
+        - paragraph: For dry or depleted skin seeking a softer, more comfortable feel.
+        - link "EXPLORE HYDRATE + RESTORE":
+          - /url: https://www.matrixmassage.net/facial-goals/hydrate-restore
+      - article:
+        - paragraph: "02"
+        - heading "Brighten + Smooth" [level=3]
+        - paragraph: For dull-looking skin or uneven-looking texture that could use a polished refresh.
+        - link "EXPLORE BRIGHTEN + SMOOTH":
+          - /url: https://www.matrixmassage.net/facial-goals/brighten-smooth
+      - article:
+        - paragraph: "03"
+        - heading "Clear + Balance" [level=3]
+        - paragraph: For an unsettled complexion or congestion-prone skin that calls for thoughtful care.
+        - link "EXPLORE CLEAR + BALANCE":
+          - /url: https://www.matrixmassage.net/facial-goals/clear-balance
+      - article:
+        - paragraph: "04"
+        - heading "Calm + Support" [level=3]
+        - paragraph: For skin that feels easily stressed, sensitive or in need of a gentler approach.
+        - link "EXPLORE CALM + SUPPORT":
+          - /url: https://www.matrixmassage.net/facial-goals/calm-support
+      - article:
+        - paragraph: "05"
+        - heading "Age-Defying + Firm" [level=3]
+        - paragraph: For a refined focus on firmness, radiance and smooth-looking texture.
+        - link "EXPLORE AGE-DEFYING + FIRM":
+          - /url: https://www.matrixmassage.net/facial-goals/age-defying-firm
+      - article:
+        - paragraph: "06"
+        - heading "Maintain + Glow" [level=3]
+        - paragraph: For regular facial care and the healthy-looking glow that comes with consistency.
+        - link "EXPLORE MAINTAIN + GLOW":
+          - /url: https://www.matrixmassage.net/facial-goals/maintain-glow
+    - region "Professional care, beautifully paced.":
+      - figure "IN THE TREATMENT ROOM":
+        - img "Facial treatment at Matrix Massage & Bodywork in Salem, Wisconsin"
+        - generic: IN THE TREATMENT ROOM
+      - figure "CONSIDERED SKINCARE":
+        - img "Editorial dermaplaning tool with skincare serum and towel"
+        - generic: CONSIDERED SKINCARE
+      - figure "PROFESSIONAL PRODUCTS":
+        - img "Professional skincare products at Matrix Massage & Bodywork"
+        - generic: PROFESSIONAL PRODUCTS
+      - figure "A QUIET MOMENT":
+        - img "Editorial water and skincare cream texture"
+        - generic: A QUIET MOMENT
+      - paragraph: THE DETAILS MATTER
+      - heading "Professional care, beautifully paced." [level=2]
+      - paragraph: From the first cleanse to the finishing touch, every facial is a chance to slow down and give your skin considered attention.
+      - paragraph: Pair your love of facial care with a scalp-focused escape. Discover Matrix Japanese Head Spa experiences in Salem.
+      - link "EXPLORE JAPANESE HEAD SPA":
+        - /url: https://www.matrixmassage.net/japanese-head-spa-salem-wi
+    - region "A few helpful details.":
+      - paragraph: FACIAL QUESTIONS
+      - heading "A few helpful details." [level=2]
+      - article:
+        - heading "Which facial should I choose?" [level=3]:
+          - button "Which facial should I choose?" [expanded]:
+            - generic: Which facial should I choose?
+            - generic: +
+        - region "Which facial should I choose?":
+          - paragraph: A Custom Facial is a versatile choice when you want a treatment shaped around your skin. If you have a particular experience in mind—such as a Circadia facial or dermaplaning—choose it from the facial menu.
+      - article:
+        - heading "What happens during a Custom Facial?" [level=3]:
+          - button "What happens during a Custom Facial?":
+            - generic: What happens during a Custom Facial?
+            - generic: +
+      - article:
+        - heading "Can I book dermaplaning?" [level=3]:
+          - button "Can I book dermaplaning?":
+            - generic: Can I book dermaplaning?
+            - generic: +
+      - article:
+        - heading "What should I share before my appointment?" [level=3]:
+          - button "What should I share before my appointment?":
+            - generic: What should I share before my appointment?
+            - generic: +
+      - article:
+        - heading "Can facial care be paired with Head Spa?" [level=3]:
+          - button "Can facial care be paired with Head Spa?":
+            - generic: Can facial care be paired with Head Spa?
+            - generic: +
+      - article:
+        - heading "Where is Matrix located?" [level=3]:
+          - button "Where is Matrix located?":
+            - generic: Where is Matrix located?
+            - generic: +
+    - region "Book the facial that feels right for you.":
+      - paragraph: MAKE TIME FOR YOUR SKIN
+      - heading "Book the facial that feels right for you." [level=2]
+      - paragraph: Explore the current facial menu and reserve the treatment you would like to experience at Matrix Massage & Bodywork in Salem.
+      - link "BOOK A FACIAL":
+        - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - link "EXPLORE SKIN GOALS":
+        - /url: "#skin-goals"
+      - paragraph: MATRIX MASSAGE & BODYWORK · 24804 75TH ST · SALEM, WI 53168 · 262-939-9325
+- contentinfo:
+  - paragraph:
+    - text: © 2026 Matrix Massage & Bodywork · Salem Lakes, WI
+    - text: (262) 939-9325 · 24804 75th St, Salem, WI 53168
+    - link "Massage Therapy":
+      - /url: https://www.matrixmassage.net/massage-therapy-services-salem-wi
+    - text: ·
+    - link "Custom Facials":
+      - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+    - text: ·
+    - link "Japanese Head Spa":
+      - /url: https://www.matrixmassage.net/japanese-head-spa-salem-wi
+  - paragraph:
+    - emphasis: One Salem studio serving Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Kenosha County, Union Grove and nearby Antioch, Illinois.
+    - text: Plan
+    - link "massage near Union Grove":
+      - /url: https://www.matrixmassage.net/massage-near-union-grove-wi
+    - text: ","
+    - link "facials near Antioch":
+      - /url: https://www.matrixmassage.net/facials-near-antioch-il
+    - text: ","
+    - link "Japanese Head Spa near Bristol":
+      - /url: https://www.matrixmassage.net/japanese-head-spa-near-bristol-wi
+    - text: ", or"
+    - link "spa services near Paddock Lake":
+      - /url: https://www.matrixmassage.net/spa-services-near-paddock-lake-wi
+    - text: . All appointments are provided at Matrix Massage & Bodywork in Salem, Wisconsin.
+  - iframe [name="htmlComp-iframe"]
+  - iframe [name="htmlComp-iframe"]
+  - iframe [name="htmlComp-iframe"]
+  - iframe [name="htmlComp-iframe"]
+  - paragraph:
+    - generic: "Links:"
+  - paragraph
+  - paragraph:
+    - link "Partner with Us":
+      - /url: https://www.matrixmassage.net/local-wellness-partnerships
+      - generic: Partner with Us
+  - paragraph
+  - paragraph:
+    - link "Work with Us":
+      - /url: https://www.matrixmassage.net/massage-therapist-jobs-salem-wi
+      - generic: Work with Us
+  - paragraph
+  - paragraph
+  - iframe
+- region "bottom of page"

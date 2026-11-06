@@ -1,0 +1,258 @@
+{
+  "pages/spa-beauty/facials/body.html": {
+    "sha256": "962c89513740dda7011b2ee9f4b592fd6abab4bded4699ea5894a1ebd6d04468",
+    "bytes": 12721
+  },
+  "pages/spa-beauty/facials/page-config.json": {
+    "sha256": "2c21465ca7277fa391450edc7377b3d0a60ae1361b6ee9890936a1fffde60683",
+    "bytes": 672
+  },
+  "pages/spa-beauty/facials/review-1/WIX_SEO_SNIPPET_CANDIDATE.js": {
+    "sha256": "ef2f2da3ab60b882ab478ef7c0ce20c229d76a50173b8ef4f1f751809ed8966a",
+    "bytes": 13246
+  },
+  "pages/spa-beauty/facials/review-1/body.html": {
+    "sha256": "962c89513740dda7011b2ee9f4b592fd6abab4bded4699ea5894a1ebd6d04468",
+    "bytes": 12721
+  },
+  "pages/spa-beauty/facials/review-1/build-manifest.json": {
+    "sha256": "eccb8b7aa0cca86a177ac4092ede6b0ab00ea55722f075bb18e2edd105a4255b",
+    "bytes": 4538
+  },
+  "pages/spa-beauty/facials/review-1/faq-schema.json": {
+    "sha256": "6e7c61d8a39ebb14a5f8e3f7278eace91e80d1908b41336907bc9307a8e8e696",
+    "bytes": 2495
+  },
+  "pages/spa-beauty/facials/review-1/preview.html": {
+    "sha256": "a03f46937f1e1f3260a802e79c65a7cdfa03e8f26f1f3c18a3a1c30becb1a087",
+    "bytes": 23313
+  },
+  "pages/spa-beauty/facials/review-1/renderer.js": {
+    "sha256": "04e939491081a2379df06f0ce1a0a5bebce09a111c831c70fd2c6fda2f98768b",
+    "bytes": 24061
+  },
+  "pages/spa-beauty/facials/review-1/review-preview.html": {
+    "sha256": "053a976b9a66cc4b4019a902888283a0d44084e125bdfa1eb64b8f5585b1a4fe",
+    "bytes": 24085
+  },
+  "pages/spa-beauty/facials/review-1/style.css": {
+    "sha256": "05370733f7e40bf0f0fb2db8bcf902e2375b44b933c4aa16f75bb9f25d233731",
+    "bytes": 10247
+  },
+  "pages/spa-beauty/facials/style.css": {
+    "sha256": "05370733f7e40bf0f0fb2db8bcf902e2375b44b933c4aa16f75bb9f25d233731",
+    "bytes": 10247
+  },
+  "pages/spa-beauty/head-spa/body.html": {
+    "sha256": "6f8423d32e722c877df80a5c9733d8d9a122344d30ee35822bd3b3304154ee63",
+    "bytes": 12522
+  },
+  "pages/spa-beauty/head-spa/page-config.json": {
+    "sha256": "b30c0a72d3e35ec8b6c519ae24ee4aad26d731329271d0a429d4af9f9dc958e4",
+    "bytes": 654
+  },
+  "pages/spa-beauty/head-spa/review-1/WIX_SEO_SNIPPET_CANDIDATE.js": {
+    "sha256": "ca4529ee17720361f83edbc02ff958d3cefd42704c4df931a5d8998f80ab467a",
+    "bytes": 13013
+  },
+  "pages/spa-beauty/head-spa/review-1/body.html": {
+    "sha256": "6f8423d32e722c877df80a5c9733d8d9a122344d30ee35822bd3b3304154ee63",
+    "bytes": 12522
+  },
+  "pages/spa-beauty/head-spa/review-1/build-manifest.json": {
+    "sha256": "35b2c260415e468d5cf3806c06972168219320417b88afed2e3171d67be3e8c9",
+    "bytes": 4352
+  },
+  "pages/spa-beauty/head-spa/review-1/faq-schema.json": {
+    "sha256": "9caceefdaab45bab901d805829833530bb013ae23dad8bb8f8882031f2474479",
+    "bytes": 3038
+  },
+  "pages/spa-beauty/head-spa/review-1/preview.html": {
+    "sha256": "1d897254e49c25f89b7739df65e13cfd26a9b207317ddee679803e3266d6390e",
+    "bytes": 23257
+  },
+  "pages/spa-beauty/head-spa/review-1/renderer.js": {
+    "sha256": "1a70a0bed47b31c3d3b2b4f0242cc7ee58e7710471e6cd5f5ff712125e0ac844",
+    "bytes": 23969
+  },
+  "pages/spa-beauty/head-spa/review-1/review-preview.html": {
+    "sha256": "84f2c9520fd02cf2a8701d3a860f52826e61bb525fc7ee7975dea41d73f58f26",
+    "bytes": 24029
+  },
+  "pages/spa-beauty/head-spa/review-1/style.css": {
+    "sha256": "27f067205d6044d1c6557d3a5e5d181783951583beaf371541033a655a1b665d",
+    "bytes": 10387
+  },
+  "pages/spa-beauty/head-spa/style.css": {
+    "sha256": "27f067205d6044d1c6557d3a5e5d181783951583beaf371541033a655a1b665d",
+    "bytes": 10387
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/IMAGE_PROVENANCE.json": {
+    "sha256": "e277685a49f9bab49d7ea98c133b0fbb9c6fd54a173e6276f7b6c11627c0450b",
+    "bytes": 9604
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/REVIEW_CHECKPOINT.md": {
+    "sha256": "54f00b11af5f2f7309c14d8704a4ea08fd32b772656a1649fef60c0a85eefc82",
+    "bytes": 7131
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/SEO_PRESERVATION_AND_PROPOSED_PATCH.json": {
+    "sha256": "bf471314d74cf3d3dfbddfdc05a80ced80cc6668f464b1474ff3cc9c82583552",
+    "bytes": 45639
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/asset-http-check.json": {
+    "sha256": "dbe03b0718d78cacc0c34a067d0fe79e288aca22fba4c6c7fc745871536ca40f",
+    "bytes": 1347
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/audit_drafts.py": {
+    "sha256": "0176955335d2d36e50d4aed483d338f4893989d3ec5389834abb335ea2633bd5",
+    "bytes": 1901
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/baseline/clear-balance-live-snapshot.txt": {
+    "sha256": "a0cb859f2144a8860c58616ff73f5efb5b7ef9346844bb43140379303e4d1d83",
+    "bytes": 10284
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/baseline/clear-balance.html.gz": {
+    "sha256": "827b1d69b8f90eda4378df1ac9bafde6d5e7adff541937103d4c9f6f459c56e4",
+    "bytes": 183185
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/baseline/clear-balance.json": {
+    "sha256": "fdfb66dbcad872ed1fcc147479e518d289f622eb01251f082628f8c4be450328",
+    "bytes": 19815
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/baseline/facials-live-hero.jpg": {
+    "sha256": "6102a0cf2d5a5b871c7ab5b33561ee5f054fd0a06d0bb13ed318200eb79b773e",
+    "bytes": 101345
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/baseline/facials-live-snapshot.txt": {
+    "sha256": "ea44859b51ffac9cc31567c314ecc22a626f3a467b5b7fb93f1e2aef558ea48e",
+    "bytes": 16022
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/baseline/facials.html.gz": {
+    "sha256": "fb29825451a0d5859f652075ef6b36caf97a7e6e4e80539e6bf595ee39ba869e",
+    "bytes": 188066
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/baseline/facials.json": {
+    "sha256": "6cc5ec32d409d028ee128d6020653fc93357ac90364eed59d82bfe8048b4669b",
+    "bytes": 29340
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/baseline/head-spa.html.gz": {
+    "sha256": "9adc2d108eb35ca9c0c58a419267e61da64045a8aa2de7531bb781932e8ce34c",
+    "bytes": 183897
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/baseline/head-spa.json": {
+    "sha256": "0ed850dadf3f09d30e3078a5c882edef40269d93581ae6fca38f3727d62b572f",
+    "bytes": 43674
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/baseline/sitemap.html.gz": {
+    "sha256": "1b7cc30f5ac404e9dad28786c092c7fbe93f9237309a3d0bc880f4526244be5a",
+    "bytes": 544
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/baseline/sitemap.json": {
+    "sha256": "ba4ae3ce8365279253041a1606de66c78b099052986b478bd3c0abd93f2ce92b",
+    "bytes": 2586
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/baseline/square-live-snapshot.txt": {
+    "sha256": "d38918a61a919b4dbbe3ce834d2d6b3a31eda4508048494537071e60da9f3489",
+    "bytes": 57735
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/baseline/waxing.html.gz": {
+    "sha256": "26c4a36781414b54d63e7ab3e24b25f017c709faee8c91ff6ca67ab841f23357",
+    "bytes": 191101
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/baseline/waxing.json": {
+    "sha256": "104fe90ced8597ad698b140be996ecb93c9ce54b9eeba30b08e771a206ea868f",
+    "bytes": 37730
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/build_drafts.py": {
+    "sha256": "c2780a0b047cb27ce26add5d0cc4f5037cd2638466a8b3533b18aa81d3a80fff",
+    "bytes": 36635
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/link-and-live-head-audit.json": {
+    "sha256": "7058d6108666db8e1bd9d815165c389e5abd42c1d66197fb1a74b226c002c313",
+    "bytes": 15169
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/prepare_preview.py": {
+    "sha256": "c8a3a2482a2fff71de20b70e7de84ee8fa87b9d74ba8e180031d60142bff073f",
+    "bytes": 1453
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/qa/QA_RECEIPT.json": {
+    "sha256": "966b248d95a0c1f5382d56e13474762341329ef392fc3a2a951bd75fda5e11ce",
+    "bytes": 1262
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/qa/facials-acne-section.jpg": {
+    "sha256": "6ec8f3445ae40895f5577a2ae4a455322aab51166aef4f454d713add1b659b15",
+    "bytes": 88285
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/qa/facials-desktop-hero.jpg": {
+    "sha256": "8b006c20244669907fdd835bd65034f0b35a5c29a5ea9b1a16c0446f00565fea",
+    "bytes": 112930
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/qa/facials-mobile-390.jpg": {
+    "sha256": "7c29c2d86e82e747d1da020baba322d1d1b910feba75ad35232fe89e941bdd6b",
+    "bytes": 50880
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/qa/head-spa-desktop-hero.jpg": {
+    "sha256": "9ef32fec96e51849a6be3e0416dc4ac8f11228105a18ada1033a8e13d455b4c4",
+    "bytes": 105295
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/qa/head-spa-infusion-section.jpg": {
+    "sha256": "bd02fefafc81fe9d03539758c123c9c83c9afb99726705ef1c71c39e30e6ac72",
+    "bytes": 107121
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/qa/mobile-faq-qa.json": {
+    "sha256": "3e955bd4482872d159e6431db63a92efb0203a29134786a37b35bb3d56972b88",
+    "bytes": 472
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/qa/responsive-qa.json": {
+    "sha256": "9ddc177a6c3a815e520daaa398b2e149108a0ee683d10996d03e14e084c7c612",
+    "bytes": 9416
+  },
+  "pages/spa-beauty/subpage-review-2026-11-06/qa/waxing-desktop-hero.jpg": {
+    "sha256": "ac752957add91b810355c801a86cfe8b2c85ecfddd282b38ecaea971d4c082fa",
+    "bytes": 116227
+  },
+  "pages/spa-beauty/waxing/body.html": {
+    "sha256": "553a4877bfe679c17c054136fe7d219d3f473ba43fe4340f3b81b0feb66b6bb6",
+    "bytes": 9549
+  },
+  "pages/spa-beauty/waxing/page-config.json": {
+    "sha256": "9a79581fbb7abe887871d9b198a0181e894268385a724f4cfc881609ad5392af",
+    "bytes": 679
+  },
+  "pages/spa-beauty/waxing/review-1/WIX_SEO_SNIPPET_CANDIDATE.js": {
+    "sha256": "c6f39188e30a03bca3d87087b8022584f21b69676cec9ec6b39d62cde7fa1bf5",
+    "bytes": 9954
+  },
+  "pages/spa-beauty/waxing/review-1/body.html": {
+    "sha256": "553a4877bfe679c17c054136fe7d219d3f473ba43fe4340f3b81b0feb66b6bb6",
+    "bytes": 9549
+  },
+  "pages/spa-beauty/waxing/review-1/build-manifest.json": {
+    "sha256": "b5d15d4d1d514283a349d43b8ee1c46177131609d8971d014f88f0a6a2b7639e",
+    "bytes": 3569
+  },
+  "pages/spa-beauty/waxing/review-1/faq-schema.json": {
+    "sha256": "5aa5b4d6c6c713dcb24f0e47c34f46372fe85616d1ac718db26752d313065185",
+    "bytes": 3027
+  },
+  "pages/spa-beauty/waxing/review-1/preview.html": {
+    "sha256": "06e5582eedaec723eb72bfd7970a0d68386fc798be0c530e08f5587afac79737",
+    "bytes": 20012
+  },
+  "pages/spa-beauty/waxing/review-1/renderer.js": {
+    "sha256": "6fed747b6280b64a24a99106be9399600a32f507e26d94a94237d0e0a4f5858c",
+    "bytes": 20627
+  },
+  "pages/spa-beauty/waxing/review-1/review-preview.html": {
+    "sha256": "092758651c09d3728ef75cce2c8e9efa1f1648cce3af3a50b90e2259bd1de20a",
+    "bytes": 20784
+  },
+  "pages/spa-beauty/waxing/review-1/style.css": {
+    "sha256": "9fbf549107f6e549a319d0f3920db4d2b972f393af468cb7abe4aff335f1d61d",
+    "bytes": 10107
+  },
+  "pages/spa-beauty/waxing/style.css": {
+    "sha256": "9fbf549107f6e549a319d0f3920db4d2b972f393af468cb7abe4aff335f1d61d",
+    "bytes": 10107
+  }
+}

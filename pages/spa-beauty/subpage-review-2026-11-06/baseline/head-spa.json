@@ -1,0 +1,758 @@
+{
+  "url": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+  "status": 200,
+  "title": "Japanese Head Spa in Salem, WI | Scalp Treatments & Infusions",
+  "metadata": [
+    {
+      "charset": "utf-8"
+    },
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1",
+      "id": "wixDesktopViewport"
+    },
+    {
+      "http-equiv": "X-UA-Compatible",
+      "content": "IE=edge"
+    },
+    {
+      "name": "generator",
+      "content": "Wix.com Website Builder"
+    },
+    {
+      "name": "format-detection",
+      "content": "telephone=no"
+    },
+    {
+      "name": "skype_toolbar",
+      "content": "skype_toolbar_parser_compatible"
+    },
+    {
+      "http-equiv": "X-Wix-Meta-Site-Id",
+      "content": "cdec8df6-d518-4859-9f1e-f06bf5346d41"
+    },
+    {
+      "http-equiv": "X-Wix-Application-Instance-Id",
+      "content": "a276c9bf-bc17-4680-959b-a24ebe7370f6"
+    },
+    {
+      "http-equiv": "X-Wix-Published-Version",
+      "content": "951"
+    },
+    {
+      "http-equiv": "etag",
+      "content": "bug"
+    },
+    {
+      "name": "description",
+      "content": "Book a Japanese Head Spa in Salem, WI with scalp analysis, waterfall therapy, steam, massage and customized Matrix Precision Scalp Infusions."
+    },
+    {
+      "property": "og:title",
+      "content": "Japanese Head Spa in Salem, WI | Scalp Treatments & Infusions"
+    },
+    {
+      "property": "og:description",
+      "content": "Book a Japanese Head Spa in Salem, WI with scalp analysis, waterfall therapy, steam, massage and customized Matrix Precision Scalp Infusions."
+    },
+    {
+      "property": "og:image",
+      "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+    },
+    {
+      "property": "og:image:width",
+      "content": "2500"
+    },
+    {
+      "property": "og:image:height",
+      "content": "1330"
+    },
+    {
+      "property": "og:url",
+      "content": "https://www.matrixmassage.net/japanese-head-spa-salem-wi"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Matrix Massage & Bodywork"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "name": "google-site-verification",
+      "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Japanese Head Spa in Salem, WI | Scalp Treatments & Infusions"
+    },
+    {
+      "name": "twitter:description",
+      "content": "Book a Japanese Head Spa in Salem, WI with scalp analysis, waterfall therapy, steam, massage and customized Matrix Precision Scalp Infusions."
+    },
+    {
+      "name": "twitter:image",
+      "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+    }
+  ],
+  "links": [
+    {
+      "tag": "link",
+      "rel": "icon",
+      "sizes": "192x192",
+      "href": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "tag": "link",
+      "rel": "shortcut icon",
+      "href": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "tag": "link",
+      "rel": "apple-touch-icon",
+      "href": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg",
+      "type": "image/jpeg"
+    },
+    {
+      "tag": "link",
+      "rel": "canonical",
+      "href": "https://www.matrixmassage.net/japanese-head-spa-salem-wi"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net",
+      "target": "_self",
+      "class": "itemDepth02233374943__root StylableHorizontalMenu3372578893__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "target": "_self",
+      "class": "itemDepth02233374943__root StylableHorizontalMenu3372578893__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+      "target": "_self",
+      "class": "itemDepth02233374943__root StylableHorizontalMenu3372578893__menuItem itemShared2352141355__menuItem",
+      "aria-expanded": "false",
+      "aria-haspopup": "true",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+      "target": "_self",
+      "class": "itemDepth12472627565__root submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/swedish-massage-salem-wi",
+      "target": "_self",
+      "class": "itemDepth12472627565__root submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+      "target": "_self",
+      "class": "itemDepth12472627565__root submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/the-science-of-massage-therapy",
+      "target": "_self",
+      "class": "itemDepth12472627565__root submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+      "target": "_self",
+      "class": "itemDepth02233374943__root StylableHorizontalMenu3372578893__menuItem itemShared2352141355__menuItem",
+      "aria-expanded": "false",
+      "aria-haspopup": "true",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+      "target": "_self",
+      "class": "itemDepth12472627565__root itemDepth12472627565--isCurrentPage submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+      "target": "_self",
+      "class": "itemDepth12472627565__root itemDepth12472627565--isCurrentPage submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+      "target": "_self",
+      "class": "itemDepth12472627565__root submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+      "target": "_self",
+      "class": "itemDepth02233374943__root StylableHorizontalMenu3372578893__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "target": "_self",
+      "class": "itemDepth02233374943__root StylableHorizontalMenu3372578893__menuItem itemShared2352141355__menuItem",
+      "aria-expanded": "false",
+      "aria-haspopup": "true",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+      "target": "_self",
+      "class": "itemDepth12472627565__root submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/supplements",
+      "target": "_self",
+      "class": "itemDepth12472627565__root submenu815198092__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/about-5",
+      "target": "_self",
+      "class": "itemDepth02233374943__root StylableHorizontalMenu3372578893__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-item-label": "true",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/salem-wi-blog",
+      "target": "_self",
+      "class": "itemDepth02233374943__root StylableHorizontalMenu3372578893__menuItem itemShared2352141355__menuItem",
+      "tabindex": "0"
+    },
+    {
+      "tag": "a",
+      "data-testid": "linkElement",
+      "href": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "target": "_self",
+      "class": "StylableButton2545352419__root StylableButton2545352419__forcedColorsBackground style-msb8u58z1__root wixui-button StylableButton2545352419__link",
+      "aria-label": "BOOK HEAD SPA"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+      "target": "_self",
+      "style": "color:#ffffff; text-decoration:underline;",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+      "target": "_self",
+      "style": "color:#ffffff; text-decoration:underline;",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+      "target": "_self",
+      "style": "color:#ffffff; text-decoration:underline;",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/massage-near-union-grove-wi",
+      "target": "_self",
+      "style": "color:#ffffff; text-decoration:underline;",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/facials-near-antioch-il",
+      "target": "_self",
+      "style": "color:#ffffff; text-decoration:underline;",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/japanese-head-spa-near-bristol-wi",
+      "target": "_self",
+      "style": "color:#ffffff; text-decoration:underline;",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+      "target": "_self",
+      "style": "color:#ffffff; text-decoration:underline;",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/local-wellness-partnerships",
+      "target": "_blank",
+      "rel": "noreferrer noopener",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "a",
+      "href": "https://www.matrixmassage.net/massage-therapist-jobs-salem-wi",
+      "target": "_blank",
+      "rel": "noreferrer noopener",
+      "class": "wixui-rich-text__text"
+    },
+    {
+      "tag": "link",
+      "href": "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%22b976560c-3122-4351-878f-453f337b7245%22%3A%221358%22%2C%227479d596-137c-4fa3-89cd-d7091042ba61%22%3A%22132%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.DisableDocumentScrollWhenLightBoxOpen%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.a11yContrast%2C.addIdAsClassName%2C.allowWebpAvifTransforms%2C.builderBoxSizingBorderBox%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.customImageDomain%2C.dom_store%2C.dontApplyDacOverridesOnBoBApps%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixDocumentLinkInPremiumPreview%2C.fixFirefoxLinkBarIntrinsicSizing%2C.imageEncodingAVIF%2C.interactionsUseReactionEffectId%2C.isClassNameToRootEnabled%2C.isClassNameToRootEnabledNext%2C.logVsmFeaturesModuleDiff%2C.plainClassSelectors%2C.responsiveContainerRoleGroup%2C.sectionA11yProps%2C.splitSlotSelectors%2C.svgResolver_2%2C.takeTranslationsFromManifest%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useFragmentHrefForTopBottomAnchor%2C.useImageAvifFormatInNativeProGallery%2C.useResponsiveImgClassicFixed%2C.useSvgLoaderFeature%2C.useSvgLoaderFeatureOnBuilderComps%2C.useWowImageInFastGallery%2C.vsmFeaturesModule%2C.vsm_interactions_v1%2C.vsm_interactions_v2%2C.vsm_shapes%2CbuilderComponentsPageScoping%2CglobalCssStudio2%2CtpaBrandFonts&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Other&dfCk=6&dfVersion=1.5682.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.matrixmassage.net&fileId=17b4fd24.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=true&hasUserDomainMedia=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=true&isUrlMigrated=true&isWixCodeOnPage=true&isWixCodeOnSite=true&language=en&languageResolutionMethod=QueryParam&locale=en-us&metaSiteId=cdec8df6-d518-4859-9f1e-f06bf5346d41&module=thunderbolt-features&originalLanguage=en&pageId=e4cc43_97e6caba0f6b980e38b04116e3dd77b5_951.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15633.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15633.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=a276c9bf-bc17-4680-959b-a24ebe7370f6&siteRevision=951&staticHTMLComponentUrl=https%3A%2F%2Fwww-matrixmassage-net.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop",
+      "id": "features_masterPage",
+      "as": "fetch",
+      "position": "post-scripts",
+      "rel": "prefetch",
+      "crossorigin": "anonymous"
+    },
+    {
+      "tag": "link",
+      "href": "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%22b976560c-3122-4351-878f-453f337b7245%22%3A%221358%22%2C%227479d596-137c-4fa3-89cd-d7091042ba61%22%3A%22132%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.DisableDocumentScrollWhenLightBoxOpen%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.a11yContrast%2C.addIdAsClassName%2C.allowWebpAvifTransforms%2C.builderBoxSizingBorderBox%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.customImageDomain%2C.dom_store%2C.dontApplyDacOverridesOnBoBApps%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixDocumentLinkInPremiumPreview%2C.fixFirefoxLinkBarIntrinsicSizing%2C.imageEncodingAVIF%2C.interactionsUseReactionEffectId%2C.isClassNameToRootEnabled%2C.isClassNameToRootEnabledNext%2C.logVsmFeaturesModuleDiff%2C.plainClassSelectors%2C.responsiveContainerRoleGroup%2C.sectionA11yProps%2C.splitSlotSelectors%2C.svgResolver_2%2C.takeTranslationsFromManifest%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useFragmentHrefForTopBottomAnchor%2C.useImageAvifFormatInNativeProGallery%2C.useResponsiveImgClassicFixed%2C.useSvgLoaderFeature%2C.useSvgLoaderFeatureOnBuilderComps%2C.useWowImageInFastGallery%2C.vsmFeaturesModule%2C.vsm_interactions_v1%2C.vsm_interactions_v2%2C.vsm_shapes%2CbuilderComponentsPageScoping%2CglobalCssStudio2%2CtpaBrandFonts&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Other&dfCk=6&dfVersion=1.5682.0&disableStaticPagesUrlHierarchy=false&editorName=Unknown&experiments=dm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.matrixmassage.net&fileId=17b4fd24.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=true&hasUserDomainMedia=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isTrackClicksAnalyticsEnabled=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&languageResolutionMethod=QueryParam&locale=en-us&metaSiteId=cdec8df6-d518-4859-9f1e-f06bf5346d41&module=thunderbolt-features&originalLanguage=en&pageId=e4cc43_e5a2a465ac89893771e48a00bebbffd3_896.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15633.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15633.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=a276c9bf-bc17-4680-959b-a24ebe7370f6&siteRevision=951&staticHTMLComponentUrl=https%3A%2F%2Fwww-matrixmassage-net.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop",
+      "id": "features_l21lg",
+      "as": "fetch",
+      "position": "post-scripts",
+      "rel": "prefetch",
+      "crossorigin": "anonymous"
+    },
+    {
+      "tag": "link",
+      "href": "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%22b976560c-3122-4351-878f-453f337b7245%22%3A%221358%22%2C%227479d596-137c-4fa3-89cd-d7091042ba61%22%3A%22132%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.addIdAsClassName%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.customImageDomain%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixFirefoxLinkBarIntrinsicSizing%2C.isClassNameToRootEnabled%2C.isClassNameToRootEnabledNext%2C.logVsmPlatformDiff%2C.migrateSdkDataMappers%2C.plainClassSelectors%2C.splitSlotSelectors%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useImageAvifFormatInNativeProGallery%2C.useWowImageInFastGallery%2C.vsmPlatform%2C.vsm_shapes%2CtpaBrandFonts&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5682.0&editorName=Unknown&experiments=dm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.matrixmassage.net&fileId=3055342c.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=true&hasUserDomainMedia=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=true&isWixCodeOnSite=true&language=en&locale=en-us&metaSiteId=cdec8df6-d518-4859-9f1e-f06bf5346d41&module=thunderbolt-platform&originalLanguage=en&pageId=e4cc43_97e6caba0f6b980e38b04116e3dd77b5_951.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15633.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15633.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=a276c9bf-bc17-4680-959b-a24ebe7370f6&siteRevision=951&staticHTMLComponentUrl=https%3A%2F%2Fwww-matrixmassage-net.filesusr.com%2F&viewMode=desktop",
+      "id": "platform_masterPage",
+      "as": "fetch",
+      "position": "post-scripts",
+      "rel": "prefetch",
+      "crossorigin": "anonymous"
+    },
+    {
+      "tag": "link",
+      "href": "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%2214bcded7-0066-7c35-14d7-466cb3f09103%22%3A%221335%22%2C%2213d21c63-b5ec-5912-8397-c3a5ddb27a97%22%3A%22440%22%2C%22b976560c-3122-4351-878f-453f337b7245%22%3A%221358%22%2C%227479d596-137c-4fa3-89cd-d7091042ba61%22%3A%22132%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%7D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.addIdAsClassName%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.customImageDomain%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixFirefoxLinkBarIntrinsicSizing%2C.isClassNameToRootEnabled%2C.isClassNameToRootEnabledNext%2C.logVsmPlatformDiff%2C.migrateSdkDataMappers%2C.plainClassSelectors%2C.splitSlotSelectors%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useImageAvifFormatInNativeProGallery%2C.useWowImageInFastGallery%2C.vsmPlatform%2C.vsm_shapes%2CtpaBrandFonts&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5682.0&editorName=Unknown&experiments=dm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.matrixmassage.net&fileId=3055342c.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=true&hasUserDomainMedia=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=true&language=en&locale=en-us&metaSiteId=cdec8df6-d518-4859-9f1e-f06bf5346d41&module=thunderbolt-platform&originalLanguage=en&pageId=e4cc43_e5a2a465ac89893771e48a00bebbffd3_896.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15633.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15633.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=a276c9bf-bc17-4680-959b-a24ebe7370f6&siteRevision=951&staticHTMLComponentUrl=https%3A%2F%2Fwww-matrixmassage-net.filesusr.com%2F&viewMode=desktop",
+      "id": "platform_l21lg",
+      "as": "fetch",
+      "position": "post-scripts",
+      "rel": "prefetch",
+      "crossorigin": "anonymous"
+    }
+  ],
+  "text": [
+    "Japanese Head Spa in Salem, WI | Scalp Treatments & Infusions",
+    "top of page",
+    "HOME",
+    "BOOK NOW",
+    "MASSAGE THERAPY SERVICES",
+    "DEEP TISSUE MASSAGE",
+    "SWEDISH MASSAGE",
+    "MANUAL LYMPHATIC DRAINAGE",
+    "THE SCIENCE OF MASSAGE",
+    "SPA & BEAUTY SERVICES",
+    "JAPANESE HEAD SPA",
+    "HEAD SPA",
+    "WAXING",
+    "FACIALS",
+    "WELLNESS & BIOTECH SERVICES",
+    "RED LIGHT THERAPY",
+    "SUPPLEMENTS & WELLNESS",
+    "ABOUT",
+    "BLOG",
+    "JAPANESE HEAD SPA IN SALEM, WI",
+    "A restorative scalp and sensory ritual with scalp analysis, double cleansing, waterfall therapy, steam, massage and targeted M1\u2013M6 infusions\u2014minutes from Paddock Lake, Bristol, Antioch and Kenosha.",
+    "BOOK HEAD SPA",
+    "FEATURED HEAD SPA SERVICES",
+    "Every service includes one customized Matrix Precision Scalp Infusion\u2122 selected after scalp analysis. Start with three client favorites; expanded rituals and enhancements appear below.",
+    "MATRIX SCALP RESET \u00b7 45 MIN \u00b7 $95",
+    "Focused weekly scalp maintenance with scalp analysis, customized scalp infusion, cleanse, steam-towel therapy, scalp massage, waterfall rinse and warm-towel finish.",
+    "MATRIX SIGNATURE HEAD SPA \u00b7 60 MIN \u00b7 $135",
+    "Our core luxury head spa with scalp analysis, customized scalp infusion, cleanse, exfoliation, waterfall therapy, steam infusion, extended scalp massage, neck-and-shoulder work, eye infusion, red-light enhancement, aromatherapy and warm towels.",
+    "MATRIX CROWN RITUAL \u00b7 90 MIN \u00b7 $195",
+    "An extended luxury scalp ritual with deeper detox work, advanced scalp massage, facial massage, hand-and-arm massage, grounding enhancement and extended red-light therapy.",
+    "MATRIX BIOTECH SCALP RENEWAL \u00b7 120 MIN \u00b7 $265",
+    "Scalp imaging, customized infusion, cleanse, exfoliation, waterfall therapy, steam infusion, intensive scalp massage, advanced scalp serum infusion, red-light therapy, facial massage, grounding, eye infusion and recovery finish.",
+    "MATRIX SCALP RECOVERY RITUAL \u00b7 60 MIN \u00b7 $135",
+    "Designed for shaved, thinning, short or low-hair scalps with cleanse, customized infusion, intensive scalp massage, neck-and-shoulder work, pressure-point therapy, aromatherapy and red-light enhancement.",
+    "MATRIX CROWN & GLOW RITUAL \u00b7 120 MIN \u00b7 $285",
+    "Our signature Head Spa + Facial combination with scalp infusion, waterfall therapy, extended scalp massage, customized mini facial, facial massage, hydration infusion, LED enhancement and warm-towel finish.",
+    "WEEKLY SERIES",
+    "Scalp Reset Series \u00b7 4 \u00d7 45 min \u00b7 $340",
+    "Signature Scalp Series \u00b7 4 \u00d7 60 min \u00b7 $500",
+    "ENHANCEMENTS",
+    "Advanced Scalp Infusion \u00b7 10 min \u00b7 $25 | Deep Scalp Detox \u00b7 10 min \u00b7 $25 | Luxury Hair Mask \u00b7 $25",
+    "Facial Massage Ritual \u00b7 20 min \u00b7 $45 | Mini Facial \u00b7 30 min \u00b7 $65 | Grounding \u00b7 $15",
+    "Full Body Red Light \u00b7 20 min $25 / 30 min $35 | Infrared Sauna \u00b7 30 min \u00b7 $35",
+    "Every Head Spa includes one customized Matrix Precision Scalp Infusion\u2122 after scalp analysis plus up to 30 minutes of complimentary Zen Lounge access. Take-home infusions: 3 mL $14\u2013$20; 2 oz $52\u2013$74.",
+    "COMPLETE JAPANESE HEAD SPA MENU",
+    "THE MATRIX HEAD SPA EXPERIENCE",
+    "A Japanese Head Spa at Matrix is a spa day with purpose. Every ritual begins with a scalp analysis, then flows through double cleansing, gentle exfoliation, warm steam, a soothing waterfall rinse and slow, intentional scalp, neck and shoulder massage. You leave with a scalp that feels refreshed, hair that feels soft and a calm that stays with you long after your visit.",
+    "\u200b",
+    "Matrix Precision Scalp Infusions\u2122, crafted in house",
+    "What sets Matrix apart is what goes onto your scalp. We formulate our own organic Precision Scalp Infusions\u2122 in our Salem studio, guided by scalp science, and your provider selects the one your scalp needs that day:",
+    "M1 HYDRATE\u2122",
+    "for barrier recovery and lasting moisture",
+    "M2 DETOX\u2122",
+    "for a clarifying reset from oil and product buildup",
+    "M3 CALM\u2122",
+    "for sensitive, easily irritated scalps",
+    "M4 STIMULATE\u2122",
+    "for an invigorating, follicle-focused boost",
+    "M5 NEUROCALM\u2122",
+    "for deep stress release",
+    "M6 RECOVERY\u2122",
+    "for scalp, jaw and neck tension relief",
+    "Love how your scalp feels? Take your infusion home in 3 mL vials ($14 to $20) or 2 oz bottles ($52 to $74) and keep your results going between visits.",
+    "\u200b",
+    "Time to unwind in the Zen Lounge",
+    "Every Head Spa includes up to 30 minutes of complimentary Zen Lounge time after your session. Make your visit even more indulgent with a Luxury Hair Mask ($25), Deep Scalp Detox ($25), Advanced Infusion Upgrade ($25), Facial Massage Ritual ($45), Mini Facial ($65), grounding ($15), full-body red light therapy or a private infrared sauna session.",
+    "\u200b",
+    "Your head spa near Kenosha County and Antioch",
+    "Guests visit our Salem studio from Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Silver Lake, Kansasville, Union Grove, Burlington, Pleasant Prairie, Kenosha and Antioch, IL. Book your ritual online or text (262) 939-9325 and we will help you choose the perfect fit.",
+    "JAPANESE HEAD SPA QUESTIONS, ANSWERED",
+    "What is a Japanese Head Spa?",
+    "A Japanese Head Spa is a luxurious scalp and relaxation ritual. At Matrix it includes a scalp analysis, double cleansing, exfoliation, steam, waterfall therapy, a customized Precision Scalp Infusion\u2122 and an extended scalp, neck and shoulder massage.",
+    "\u200b",
+    "What makes the Matrix Head Spa different?",
+    "We craft our own organic Precision Scalp Infusions\u2122 in house, based on scalp science, and match one to your scalp after analysis. Every Head Spa also includes up to 30 minutes of complimentary Zen Lounge time.",
+    "\u200b",
+    "Which Head Spa should I book first?",
+    "The Matrix Signature Head Spa (60 minutes, $135) is our core luxury ritual and a beautiful first visit. Choose the Scalp Reset (45 minutes, $95) for focused maintenance, the Crown Ritual (90 minutes, $195) for an extended escape, or the BioTech Scalp Renewal (120 minutes, $265) for our most advanced experience with scalp imaging.",
+    "\u200b",
+    "Can I book a Head Spa with short, thinning or no hair?",
+    "Yes. The Matrix Scalp Recovery Ritual (60 minutes, $135) is designed for shaved, thinning, short and low-hair scalps, with intensive scalp massage, pressure point therapy and a customized infusion.",
+    "\u200b",
+    "Can I combine a Head Spa and a facial?",
+    "Yes. The Matrix Crown & Glow Ritual (120 minutes, $285) pairs our signature Head Spa with a customized mini facial. You can also add a Facial Massage Ritual or Mini Facial to any Head Spa.",
+    "\u200b",
+    "How often should I book a Head Spa?",
+    "Many guests love a weekly or biweekly rhythm for ongoing scalp care. Our Scalp Reset Series (4 x 45 minutes, $340) and Signature Scalp Series (4 x 60 minutes, $500) make that easy.",
+    "\u200b",
+    "Can I get my hair styled after my Head Spa?",
+    "Yes. Add an Express Blow Dry (from $35) or Luxury Blowout Styling (from $55), performed by a licensed cosmetologist when available.",
+    "\u200b",
+    "What is your cancellation policy?",
+    "Your appointment time is reserved just for you, so we ask for at least 24 hours' notice to cancel or reschedule. Cancellations made within 24 hours of your appointment, for any reason, and no-shows are charged the full price of the service plus an automatic 20% gratuity.",
+    "\u200b",
+    "Do I need a card on file to book?",
+    "Yes. To secure your appointment, complete our intake form and credit card authorization form when you book. If you have a Matrix gift card on file instead, its remaining balance is applied toward any late-cancellation fee.",
+    "\u200b",
+    "Where is Matrix located for Japanese Head Spa?",
+    "Matrix Massage & Bodywork is at 24804 75th St, Salem, WI 53168, an easy drive from Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Silver Lake, Kansasville, Union Grove, Burlington, Pleasant Prairie, Kenosha and Antioch, IL. Book online or text (262) 939-9325.",
+    "\u00a9 2026 Matrix Massage & Bodywork \u00b7 Salem Lakes, WI",
+    "(262) 939-9325 \u00b7 24804 75th St, Salem, WI 53168",
+    "Massage Therapy",
+    "\u00b7",
+    "Custom Facials",
+    "\u00b7",
+    "Japanese Head Spa",
+    "One Salem studio serving Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Kenosha County, Union Grove and nearby Antioch, Illinois.",
+    "Plan",
+    "massage near Union Grove",
+    ",",
+    "facials near Antioch",
+    ",",
+    "Japanese Head Spa near Bristol",
+    ", or",
+    "spa services near Paddock Lake",
+    ". All appointments are provided at Matrix Massage & Bodywork in Salem, Wisconsin.",
+    "\u200bLinks:",
+    "\u200b",
+    "Partner with Us",
+    "\u200b",
+    "Work with Us",
+    "\u200b",
+    "\u200b",
+    "bottom of page"
+  ],
+  "schemas": [
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.matrixmassage.net/japanese-head-spa-salem-wi#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.matrixmassage.net/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Spa & Beauty Services",
+          "item": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Japanese Head Spa in Salem, WI",
+          "item": "https://www.matrixmassage.net/japanese-head-spa-salem-wi"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is a Japanese Head Spa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Japanese Head Spa is a luxurious scalp and relaxation ritual. At Matrix it includes a scalp analysis, double cleansing, exfoliation, steam, waterfall therapy, a customized Precision Scalp Infusion\u2122 and an extended scalp, neck and shoulder massage."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What makes the Matrix Head Spa different?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We craft our own organic Precision Scalp Infusions\u2122 in house, based on scalp science, and match one to your scalp after analysis. Every Head Spa also includes up to 30 minutes of complimentary Zen Lounge time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which Head Spa should I book first?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Matrix Signature Head Spa (60 minutes, $135) is our core luxury ritual and a beautiful first visit. Choose the Scalp Reset (45 minutes, $95) for focused maintenance, the Crown Ritual (90 minutes, $195) for an extended escape, or the BioTech Scalp Renewal (120 minutes, $265) for our most advanced experience with scalp imaging."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book a Head Spa with short, thinning or no hair?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The Matrix Scalp Recovery Ritual (60 minutes, $135) is designed for shaved, thinning, short and low-hair scalps, with intensive scalp massage, pressure point therapy and a customized infusion."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I combine a Head Spa and a facial?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The Matrix Crown & Glow Ritual (120 minutes, $285) pairs our signature Head Spa with a customized mini facial. You can also add a Facial Massage Ritual or Mini Facial to any Head Spa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often should I book a Head Spa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Many guests love a weekly or biweekly rhythm for ongoing scalp care. Our Scalp Reset Series (4 x 45 minutes, $340) and Signature Scalp Series (4 x 60 minutes, $500) make that easy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I get my hair styled after my Head Spa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Add an Express Blow Dry (from $35) or Luxury Blowout Styling (from $55), performed by a licensed cosmetologist when available."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is your cancellation policy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Your appointment time is reserved just for you, so we ask for at least 24 hours' notice to cancel or reschedule. Cancellations made within 24 hours of your appointment, for any reason, and no-shows are charged the full price of the service plus an automatic 20% gratuity."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need a card on file to book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. To secure your appointment, complete our intake form and credit card authorization form when you book. If you have a Matrix gift card on file instead, its remaining balance is applied toward any late-cancellation fee."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is Matrix located for Japanese Head Spa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matrix Massage & Bodywork is at 24804 75th St, Salem, WI 53168, an easy drive from Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Silver Lake, Kansasville, Union Grove, Burlington, Pleasant Prairie, Kenosha and Antioch, IL. Book online or text (262) 939-9325."
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "@id": "https://www.matrixmassage.net/japanese-head-spa-salem-wi#service",
+      "name": "Japanese Head Spa in Salem, Wisconsin",
+      "alternateName": "Matrix Japanese Head Spa and Scalp Infusions",
+      "serviceType": "Japanese-inspired head spa and cosmetic scalp treatment",
+      "description": "A personalized head spa service with scalp analysis, cleansing, waterfall therapy, steam, scalp massage and a customized Matrix Precision Scalp Infusion selected after scalp analysis.",
+      "url": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+      "provider": {
+        "@type": "HealthAndBeautyBusiness",
+        "@id": "https://www.matrixmassage.net/#business",
+        "name": "Matrix Massage & Bodywork",
+        "url": "https://www.matrixmassage.net",
+        "telephone": "+1-262-939-9325",
+        "priceRange": "$$",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "24804 75th St",
+          "addressLocality": "Salem",
+          "addressRegion": "WI",
+          "postalCode": "53168",
+          "addressCountry": "US"
+        }
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Salem Lakes, Wisconsin"
+        },
+        {
+          "@type": "City",
+          "name": "Paddock Lake, Wisconsin"
+        },
+        {
+          "@type": "City",
+          "name": "Bristol, Wisconsin"
+        },
+        {
+          "@type": "City",
+          "name": "Kenosha, Wisconsin"
+        },
+        {
+          "@type": "City",
+          "name": "Antioch, Illinois"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Matrix Head Spa Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "price": "95",
+            "priceCurrency": "USD",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Matrix Scalp Cleanse & Refresh Head Spa",
+              "duration": "PT45M"
+            }
+          },
+          {
+            "@type": "Offer",
+            "price": "135",
+            "priceCurrency": "USD",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Matrix Signature Head Spa",
+              "duration": "PT60M"
+            }
+          },
+          {
+            "@type": "Offer",
+            "price": "195",
+            "priceCurrency": "USD",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Matrix Deep Relaxation Head Spa",
+              "duration": "PT90M"
+            }
+          },
+          {
+            "@type": "Offer",
+            "price": "265",
+            "priceCurrency": "USD",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Matrix Intensive Scalp Renewal Head Spa",
+              "duration": "PT120M"
+            }
+          },
+          {
+            "@type": "Offer",
+            "price": "135",
+            "priceCurrency": "USD",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Matrix Men's Scalp Refresh + Mini Facial",
+              "duration": "PT60M"
+            }
+          },
+          {
+            "@type": "Offer",
+            "price": "285",
+            "priceCurrency": "USD",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Matrix Head Spa + Hydrating Glow Facial",
+              "duration": "PT120M"
+            }
+          },
+          {
+            "@type": "Offer",
+            "price": "175",
+            "priceCurrency": "USD",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Matrix Men's Head Spa + Refreshing Custom Facial",
+              "duration": "PT90M"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

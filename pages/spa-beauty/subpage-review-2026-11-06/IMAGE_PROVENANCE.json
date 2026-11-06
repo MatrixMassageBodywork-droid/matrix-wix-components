@@ -1,0 +1,62 @@
+{
+  "created": "2026-11-06",
+  "tool": "built-in image generation",
+  "purpose": "Illustrative Spa & Beauty subpage photos; no real Matrix clients, staff or premises are depicted.",
+  "prompts": [
+    {
+      "key": "facials",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium spa website editorial hero, portrait 4:5. Create a refined realistic photograph of an adult woman receiving a gentle facial massage, eyes closed, comfortably reclined under an ivory linen drape, hair neatly wrapped in an ivory headband. Only the cosmetologist's two anatomically natural hands visible, fingertips resting gently at temples and cheekbones; no tools or devices. Warm cream, dark espresso, subtle deep teal spa textiles. Soft side lighting, realistic skin texture, shallow depth of field, calm luxurious professional atmosphere. Frame head and shoulders with space around them, no text, no watermark, no logos, no before/after. This is illustrative service imagery, not a real Matrix location or customer. A fresh composition distinct from mask brush treatment photos.",
+      "sourceHint": "Generated images are saved to /workspace/scratch/cc92727eec5a/generated_images as /workspace/scratch/cc92727eec5a/generated_images/exec-a788dd48-aa4d-49b3-a6f5-9f722f3bc9dd.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "key": "head-spa",
+      "prompt": "Use case: photorealistic-natural. Asset type: premium Japanese head spa website hero, portrait 4:5. Editorial photograph from three-quarter side view of an adult woman comfortably reclined with her head supported at a black ceramic shampoo basin, her long damp dark hair gently massaged at the scalp by a cosmetologist's two natural hands with clean short nails. Eyes closed, ivory towel modestly covering shoulders, deep teal and warm brown room blurred in background, elegant warm indirect lighting, realistic skin and wet hair. Focus on the tactile scalp massage, no running waterfall arc, no face mask, no visible machinery, no exaggerated steam, no text or logos. High-end calm spa service illustration, not a specific real facility or customer.",
+      "sourceHint": "Generated images are saved to /workspace/scratch/cc92727eec5a/generated_images as /workspace/scratch/cc92727eec5a/generated_images/exec-7c82b5f9-7631-4559-b651-46526c78538e.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "key": "waxing",
+      "prompt": "Use case: photorealistic-natural. Asset type: spa waxing webpage editorial hero, portrait 4:5. Professional clean close-up photograph of facial waxing preparation: adult woman reclined comfortably with eyes closed and ivory headband; a cosmetologist wearing clean black nitrile gloves carefully applies a small smooth strip of honey-colored wax below one eyebrow with a single-use wooden applicator, the other gloved hand gently stabilizing skin. Natural anatomy, subtle realistic skin texture, calm professional treatment, luxurious cream linens and warm taupe background with a small deep teal accent. Eyebrow in clear focus, no wax on eyelid or eyelashes, no redness or injury, no medical claims, no text, labels or logos. Illustrative photograph distinct from a wax warmer still life.",
+      "sourceHint": "Generated images are saved to /workspace/scratch/cc92727eec5a/generated_images as /workspace/scratch/cc92727eec5a/generated_images/exec-eb51d9bd-84a0-4519-80da-0e0ade994972.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "key": "facials-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: luxury facial website supporting editorial photograph, landscape 3:2. A young adult woman with medium brown skin, natural realistic mild acne blemishes and skin texture along one cheek, seated in a softly lit professional skincare consultation setting, calm hopeful expression, looking toward an off-frame provider. Close portrait crop with visible natural texture, clean neutral cream clothing and softly blurred warm taupe background with deep teal textile. Tasteful empathetic professional editorial imagery. No before/after, no exaggerated blemishes, no makeup transformation, no needles or devices, no text, no logos. Not a real customer, no claim of treatment result.",
+      "sourceHint": "Generated images are saved to /workspace/scratch/cc92727eec5a/generated_images as /workspace/scratch/cc92727eec5a/generated_images/exec-fac00bfe-9b9a-432b-b0ac-3cd341170479.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "key": "head-spa-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: luxury Japanese head spa editorial supporting image, landscape 3:2. Intimate overhead still life of a black ceramic scalp massage brush, clear glass dropper holding a drop of pale golden scalp oil above a small unlabelled amber bottle, neatly folded ivory towel, a small shallow dark teal ceramic dish on a warm travertine surface with gentle watery reflections from nearby basin. Minimal elegant editorial arrangement, restrained botanical sprig, soft warm side lighting, highly realistic premium materials. No branded packaging or labels, no people, no stones pile, no candles, no text, no promises. Illustrative scalp care imagery.",
+      "sourceHint": "Generated images are saved to /workspace/scratch/cc92727eec5a/generated_images as /workspace/scratch/cc92727eec5a/generated_images/exec-53fa03f4-84f7-4c48-8d1d-604dcef3fed1.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "key": "waxing-hero-v2",
+      "prompt": "Use case: photorealistic-natural. Asset type: luxury waxing service website hero, portrait 4:5. Close editorial photograph of a professional body waxing treatment on an adult woman's forearm resting naturally on fresh ivory towels. The client's other arm and face are out of frame. Exactly two black nitrile gloved cosmetologist hands: one gently stabilizes the forearm, the other uses a clean single-use flat wooden applicator to lay a neat small strip of honey colored wax on the forearm. Elegant warm brown and cream spa environment with subtle deep teal background. Realistic skin, anatomically correct hands, hygienic calm professional process, no redness or injury, no nudity, no text or logos. Premium comforting photographic realism.",
+      "sourceHint": "Generated images are saved to /workspace/scratch/cc92727eec5a/generated_images as /workspace/scratch/cc92727eec5a/generated_images/exec-3cd622ad-0a52-4195-be41-384520e438a9.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    },
+    {
+      "key": "waxing-support",
+      "prompt": "Use case: photorealistic-natural. Asset type: luxury waxing webpage supporting editorial photograph, landscape 3:2. A fresh ivory linen treatment bed edge with neatly stacked cotton towels, a dark brown ceramic bowl of smooth golden wax, several unused single-use wooden spatulas lying neatly on a clean tray, folded deep teal cloth accent and a small unlabelled pump bottle of aftercare lotion. Close crop with warm travertine and espresso surfaces, natural window light, high-end clean comfortable professional spa mood. No branding or text, no stock image border, no stones or candles, no people.",
+      "sourceHint": "Generated images are saved to /workspace/scratch/cc92727eec5a/generated_images as /workspace/scratch/cc92727eec5a/generated_images/exec-b9a19308-41b1-4229-918a-34aa8062482c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+    }
+  ],
+  "selected": {
+    "facials": [
+      "facials",
+      "facials-support"
+    ],
+    "head-spa": [
+      "head-spa",
+      "head-spa-support"
+    ],
+    "waxing": [
+      "waxing-hero-v2",
+      "waxing-support"
+    ]
+  },
+  "rejected": [
+    {
+      "key": "waxing",
+      "reason": "Replaced eyebrow waxing composition with clearer, less ambiguous forearm treatment."
+    }
+  ]
+}

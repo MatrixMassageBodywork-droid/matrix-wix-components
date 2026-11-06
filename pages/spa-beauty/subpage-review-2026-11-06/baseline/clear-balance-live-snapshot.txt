@@ -1,0 +1,165 @@
+- region "top of page" [active]
+- button "Skip to Main Content"
+- banner:
+  - navigation "Site":
+    - list:
+      - link "HOME":
+        - /url: https://www.matrixmassage.net
+        - generic: HOME
+      - link "BOOK NOW":
+        - /url: https://www.matrixmassage.net/book-appointments-salem-wi
+        - generic: BOOK NOW
+      - link "MASSAGE THERAPY SERVICES":
+        - /url: https://www.matrixmassage.net/massage-therapy-services-salem-wi
+        - generic: MASSAGE THERAPY SERVICES
+      - button "Toggle MASSAGE THERAPY SERVICES":
+      - link "SPA & BEAUTY SERVICES":
+        - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi
+        - generic: SPA & BEAUTY SERVICES
+      - button "Toggle SPA & BEAUTY SERVICES":
+      - link "FACIALS":
+        - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+        - generic: FACIALS
+      - link "WELLNESS & BIOTECH SERVICES":
+        - /url: https://www.matrixmassage.net/wellness-biotech-services-salem-wi
+        - generic: WELLNESS & BIOTECH SERVICES
+      - button "Toggle WELLNESS & BIOTECH SERVICES":
+      - link "ABOUT":
+        - /url: https://www.matrixmassage.net/about-5
+        - generic: ABOUT
+      - link "BLOG":
+        - /url: https://www.matrixmassage.net/salem-wi-blog
+        - generic: BLOG
+- main:
+  - main:
+    - img "Facial treatment at Matrix Massage & Bodywork in Salem, Wisconsin"
+    - img "Matrix Beauty & Skincare"
+    - paragraph: Clear + Balance
+    - heading "Facials for Congested Skin in Salem, WI" [level=1]
+    - paragraph: Visible congestion, a shiny T-zone or uneven texture can make choosing skincare feel complicated. Start with what you are noticing. At Matrix, your Custom Facial can focus on a fresher-looking complexion while keeping your skin's comfort in view.
+    - link "Book a Facial":
+      - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+    - link "View All Facials":
+      - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+    - heading "When clarity is your skin goal" [level=2]
+    - paragraph: You might notice blackheads around your nose, a bumpy surface beneath makeup or areas that feel oily while others feel tight. Bring those details to your appointment. This skin goal helps you explain your priorities so your provider can assess whether the booked facial is suitable and choose appropriate care.
+    - complementary "When this skin goal may suit you":
+      - paragraph: Does this sound like your skin?
+      - list:
+        - listitem: Visible congestion or clogged-looking pores are your main cosmetic concern.
+        - listitem: You would like attention to surface texture and excess shine.
+        - listitem: You want help choosing facial care without adding unnecessary steps.
+    - figure:
+      - img "Illustrative gentle facial cleansing with a soft sponge."
+    - heading "A clean feel and a refreshed complexion" [level=2]
+    - paragraph: Professional facial care can give surface texture and oily-feeling areas focused attention. Share whether blackheads, shine or overall freshness matters most so your provider can explain what is appropriate for the visit. A facial is cosmetic care; painful, persistent or rapidly changing breakouts need advice from an appropriate healthcare professional.
+    - heading "How your appointment takes shape" [level=2]
+    - img "Matrix monogram"
+    - list:
+      - generic: "01"
+      - heading "Talk through the pattern" [level=3]
+      - paragraph: Describe where congestion appears, how long you have noticed it and whether your skin also feels dry or sensitive. Share current skincare, allergies and any prescription treatments so your provider has useful context.
+      - generic: "02"
+      - heading "Choose appropriate care" [level=3]
+      - paragraph: Within your booked facial, care may include cleansing, suitable exfoliation, a mask and hydration. Your provider adjusts the approach to your skin and comfort. Any extractions depend on suitability; they are not a guaranteed part of every appointment.
+      - generic: "03"
+      - heading "Leave with clear next steps" [level=3]
+      - paragraph: Leave with aftercare for the treatment you received and practical priorities for your routine. Discuss a return visit based on your experience and goals, with room to reassess as your skin changes.
+    - heading "Facials to explore" [level=2]
+    - paragraph: Choose an existing service from the current facial menu, then share Clear + Balance as your skin goal. You do not need to find a separate appointment with that name.
+    - article:
+      - heading "Custom Facial" [level=3]
+      - paragraph: A flexible starting point when congestion, shine or uneven texture is your priority. Review the available options in the booking menu. If you have active irritation or are unsure whether a facial is appropriate, contact Matrix before selecting a time.
+      - link "Book a Facial":
+        - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+    - figure:
+      - img "Illustrative home-care still life with an unbranded serum, cream dish and folded linen."
+    - heading "Useful details to bring" [level=2]
+    - paragraph: Bring a short list or photos of your skincare products, including anything new. Mention recent waxing, exfoliation or professional procedures. Share prescription skincare and follow your prescriber's instructions; ask about facial timing if you are unsure.
+    - list:
+      - listitem: Point out areas that are painful, irritated or particularly sensitive.
+      - listitem: Mention any recent picking, squeezing or new products before treatment.
+      - listitem: Mention an upcoming event so expectations can be discussed beforehand.
+    - complementary:
+      - heading "Keep the follow-through simple" [level=2]
+      - paragraph: Follow the instructions given for your facial. Keep cleansing gentle, use a moisturizer your skin tolerates and choose broad-spectrum sunscreen with SPF 30 or higher. Leave blemishes alone rather than picking, and ask when to resume exfoliating products. Keep changes to your routine gradual so you can notice how your skin responds.
+    - heading "Personal facial care near Paddock Lake" [level=2]
+    - paragraph: "Matrix Massage & Bodywork welcomes guests from Paddock Lake and Salem Lakes at our Salem studio: 24804 75th St, Salem, WI 53168. Explore the current facial menu online, or text 262-939-9325 if you would like help choosing an appointment for your skin goal."
+    - link "Book a Facial":
+      - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+    - link "View All Facials":
+      - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+    - img "Matrix Beauty & Skincare"
+    - heading "Questions about this skin goal" [level=2]
+    - generic "Can I book if my skin is oily and sensitive?":
+      - generic: Can I book if my skin is oily and sensitive?
+    - generic "Are extractions part of a facial for blackheads?":
+      - generic: Are extractions part of a facial for blackheads?
+    - generic "Is Clear + Balance an acne treatment?":
+      - generic: Is Clear + Balance an acne treatment?
+    - generic "Should I choose this goal or Brighten + Smooth?":
+      - generic: Should I choose this goal or Brighten + Smooth?
+    - heading "Explore a related skin goal" [level=2]
+    - navigation "Related skin goals":
+      - link "Brighten + Smooth":
+        - /url: https://www.matrixmassage.net/facial-goals/brighten-smooth
+        - generic: Brighten + Smooth
+        - generic: ↗
+      - link "Calm + Support":
+        - /url: https://www.matrixmassage.net/facial-goals/calm-support
+        - generic: Calm + Support
+        - generic: ↗
+    - generic: Skincare imagery is illustrative.
+    - heading "Choose your starting point for clearer-looking skin" [level=2]
+    - paragraph: Explore Custom Facial options and tell us where you want to focus. We will begin with your goals, your routine and how your skin feels today.
+    - link "Book a Facial":
+      - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+    - link "View All Facials":
+      - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+- contentinfo:
+  - paragraph:
+    - text: © 2026 Matrix Massage & Bodywork · Salem Lakes, WI
+    - text: (262) 939-9325 · 24804 75th St, Salem, WI 53168
+    - link "Massage Therapy":
+      - /url: https://www.matrixmassage.net/massage-therapy-services-salem-wi
+    - text: ·
+    - link "Custom Facials":
+      - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+    - text: ·
+    - link "Japanese Head Spa":
+      - /url: https://www.matrixmassage.net/japanese-head-spa-salem-wi
+  - paragraph:
+    - emphasis: One Salem studio serving Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Kenosha County, Union Grove and nearby Antioch, Illinois.
+    - text: Plan
+    - link "massage near Union Grove":
+      - /url: https://www.matrixmassage.net/massage-near-union-grove-wi
+    - text: ","
+    - link "facials near Antioch":
+      - /url: https://www.matrixmassage.net/facials-near-antioch-il
+    - text: ","
+    - link "Japanese Head Spa near Bristol":
+      - /url: https://www.matrixmassage.net/japanese-head-spa-near-bristol-wi
+    - text: ", or"
+    - link "spa services near Paddock Lake":
+      - /url: https://www.matrixmassage.net/spa-services-near-paddock-lake-wi
+    - text: . All appointments are provided at Matrix Massage & Bodywork in Salem, Wisconsin.
+  - iframe [name="htmlComp-iframe"]
+  - iframe [name="htmlComp-iframe"]
+  - iframe [name="htmlComp-iframe"]
+  - iframe [name="htmlComp-iframe"]
+  - paragraph:
+    - generic: "Links:"
+  - paragraph
+  - paragraph:
+    - link "Partner with Us":
+      - /url: https://www.matrixmassage.net/local-wellness-partnerships
+      - generic: Partner with Us
+  - paragraph
+  - paragraph:
+    - link "Work with Us":
+      - /url: https://www.matrixmassage.net/massage-therapist-jobs-salem-wi
+      - generic: Work with Us
+  - paragraph
+  - paragraph
+  - iframe
+- region "bottom of page"

@@ -1,0 +1,334 @@
+{
+  "checkedAt": "2026-11-06T13:15:21.784745+00:00",
+  "results": [
+    {
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/5ARKZCV4NSRAFWNYZOTEKTOU",
+      "finalUrl": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/5ARKZCV4NSRAFWNYZOTEKTOU",
+      "status": 200,
+      "bytes": 221625,
+      "title": "Matrix Massage & Bodywork | Book Appointments | SALEM, WI",
+      "canonical": [],
+      "description": [
+        "Book appointments online with Matrix Massage & Bodywork in SALEM, WI. View services and real-time availability, and book securely with Square."
+      ],
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "sha256": "89b111ab0ecaf330eba93bf9f218619242d3a393f44b3aed0ae0e70ecd055590"
+    },
+    {
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/5TMAAL7UNW75SMC6XG7R53QA",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/ANHVUNL2SFY2ETFWNCU5WNJS",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/E3GF7465U2EEJBNBUWKE7O5B",
+      "finalUrl": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/E3GF7465U2EEJBNBUWKE7O5B",
+      "status": 200,
+      "bytes": 221625,
+      "title": "Matrix Massage & Bodywork | Book Appointments | SALEM, WI",
+      "canonical": [],
+      "description": [
+        "Book appointments online with Matrix Massage & Bodywork in SALEM, WI. View services and real-time availability, and book securely with Square."
+      ],
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "sha256": "b5f2081964318e869459bfc86aeaa11a6d00b46d1a7dd084ba198a7d577e075b"
+    },
+    {
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/GJ7PY2ONLPOVK4JIYCIWJGG4",
+      "finalUrl": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/GJ7PY2ONLPOVK4JIYCIWJGG4",
+      "status": 200,
+      "bytes": 221625,
+      "title": "Matrix Massage & Bodywork | Book Appointments | SALEM, WI",
+      "canonical": [],
+      "description": [
+        "Book appointments online with Matrix Massage & Bodywork in SALEM, WI. View services and real-time availability, and book securely with Square."
+      ],
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "sha256": "966ff725236376a68e3f5b900c3831540621cdebc8f31738ce492df84e7d931d"
+    },
+    {
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/IUTRINR4YWTL7ULZ3QVEK4QG",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/JBJI7MD5EU2QM3E4MQXE5TSK",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/PZR2CBQCWBF3RUKLT5S4JUTI",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/RM2XACH3ZAVQ65UTSENKJAGW",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/UGLNWFVWMYIZSHHC6MDZPCFA",
+      "finalUrl": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/UGLNWFVWMYIZSHHC6MDZPCFA",
+      "status": 200,
+      "bytes": 221625,
+      "title": "Matrix Massage & Bodywork | Book Appointments | SALEM, WI",
+      "canonical": [],
+      "description": [
+        "Book appointments online with Matrix Massage & Bodywork in SALEM, WI. View services and real-time availability, and book securely with Square."
+      ],
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "sha256": "c4d085cce88f6305127ef896399ec9d9a4b9c6a402383e41028fa95a2642c401"
+    },
+    {
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/VJPRLALSE5VDWQRMF6LQLOHM",
+      "finalUrl": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/VJPRLALSE5VDWQRMF6LQLOHM",
+      "status": 200,
+      "bytes": 221625,
+      "title": "Matrix Massage & Bodywork | Book Appointments | SALEM, WI",
+      "canonical": [],
+      "description": [
+        "Book appointments online with Matrix Massage & Bodywork in SALEM, WI. View services and real-time availability, and book securely with Square."
+      ],
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "sha256": "8eecf795a246f902985fd1f38b93587543557d653391f3de4d21ef1d351d5713"
+    },
+    {
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/WBRKBJ3WLEKZEMRTZ52M26Q6",
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/YY2UJGDPSWQQ5HHCOKYYRTBE",
+      "finalUrl": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/YY2UJGDPSWQQ5HHCOKYYRTBE",
+      "status": 200,
+      "bytes": 221625,
+      "title": "Matrix Massage & Bodywork | Book Appointments | SALEM, WI",
+      "canonical": [],
+      "description": [
+        "Book appointments online with Matrix Massage & Bodywork in SALEM, WI. View services and real-time availability, and book securely with Square."
+      ],
+      "robots": [
+        "noindex,nofollow"
+      ],
+      "sha256": "c67b20d2fc864350c66b7bbd51551df21c6eb149eabe17630a56c11ebc6f9a7e"
+    },
+    {
+      "url": "https://www.matrixmassage.net/facial-goals/age-defying-firm",
+      "finalUrl": "https://www.matrixmassage.net/facial-goals/age-defying-firm",
+      "status": 200,
+      "bytes": 809705,
+      "title": "Mature Skin & Firmness Facials in Salem, WI | Matrix",
+      "canonical": [
+        "https://www.matrixmassage.net/facial-goals/age-defying-firm"
+      ],
+      "description": [
+        "Explore facial care for mature skin, fine lines and a refreshed-looking complexion at Matrix in Salem, WI, welcoming nearby Salem Lakes and Paddock Lake guests."
+      ],
+      "robots": [
+        "follow, index"
+      ],
+      "sha256": "16092075908e693239e662df0df375d4ae6e3dbcb69baceebcd041ba41f74def"
+    },
+    {
+      "url": "https://www.matrixmassage.net/facial-goals/brighten-smooth",
+      "finalUrl": "https://www.matrixmassage.net/facial-goals/brighten-smooth",
+      "status": 200,
+      "bytes": 811634,
+      "title": "Brightening Facials & Dermaplaning | Salem, WI | Matrix",
+      "canonical": [
+        "https://www.matrixmassage.net/facial-goals/brighten-smooth"
+      ],
+      "description": [
+        "Explore brightening facial and dermaplaning options at Matrix in Salem, WI. Find care for dull-looking skin and uneven surface texture near Paddock Lake."
+      ],
+      "robots": [
+        "follow, index"
+      ],
+      "sha256": "25a873e9fd516861552a59aa7fc2526418796180005ac188b85b9930adc2fdc9"
+    },
+    {
+      "url": "https://www.matrixmassage.net/facial-goals/calm-support",
+      "finalUrl": "https://www.matrixmassage.net/facial-goals/calm-support",
+      "status": 200,
+      "bytes": 807495,
+      "title": "Sensitive Skin Facial Care in Salem, WI | Matrix",
+      "canonical": [
+        "https://www.matrixmassage.net/facial-goals/calm-support"
+      ],
+      "description": [
+        "Explore gentle, individualized facial care at Matrix in Salem, WI. Share your sensitivities, learn what to expect and choose a comfortable starting point."
+      ],
+      "robots": [
+        "follow, index"
+      ],
+      "sha256": "424f765b6a4f3c1c34c7ed837c91c97b8a71009b18681df1735303de952bc6ce"
+    },
+    {
+      "url": "https://www.matrixmassage.net/facial-goals/clear-balance",
+      "finalUrl": "https://www.matrixmassage.net/facial-goals/clear-balance",
+      "status": 200,
+      "bytes": 808297,
+      "title": "Facials for Congested Skin in Salem, WI | Matrix",
+      "canonical": [
+        "https://www.matrixmassage.net/facial-goals/clear-balance"
+      ],
+      "description": [
+        "Explore personalized facial care for congested or oily-looking skin at Matrix in Salem, WI, near Paddock Lake. Learn what to expect and how to book."
+      ],
+      "robots": [
+        "follow, index"
+      ],
+      "sha256": "5e01af62b7572122de22627f3fe5a1719d9e52324011144099edad648c3bc9c3"
+    },
+    {
+      "url": "https://www.matrixmassage.net/facial-goals/hydrate-restore",
+      "finalUrl": "https://www.matrixmassage.net/facial-goals/hydrate-restore",
+      "status": 200,
+      "bytes": 808939,
+      "title": "Hydrating Facials in Salem, WI | Matrix Skin Goals",
+      "canonical": [
+        "https://www.matrixmassage.net/facial-goals/hydrate-restore"
+      ],
+      "description": [
+        "Explore facial care for dry, tight-feeling skin at Matrix in Salem, WI, near Paddock Lake. Compare options, know what to expect, and plan your visit."
+      ],
+      "robots": [
+        "follow, index"
+      ],
+      "sha256": "4abdeae3148a124e2262d10fa2fd14ad98fe5ecb203fccc3a31069c7d8f4ac64"
+    },
+    {
+      "url": "https://www.matrixmassage.net/facial-goals/maintain-glow",
+      "finalUrl": "https://www.matrixmassage.net/facial-goals/maintain-glow",
+      "status": 200,
+      "bytes": 807769,
+      "title": "Maintenance Facials & Fresh Glow in Salem, WI | Matrix",
+      "canonical": [
+        "https://www.matrixmassage.net/facial-goals/maintain-glow"
+      ],
+      "description": [
+        "Keep facial care part of your routine at Matrix in Salem, WI. Explore personalized maintenance facials, practical aftercare and a refreshed-looking glow."
+      ],
+      "robots": [
+        "follow, index"
+      ],
+      "sha256": "c6756a63970a4373a127dfb2e0897c3d460018e2f1f637ccbe7c0ad0deb19614"
+    },
+    {
+      "url": "https://www.matrixmassage.net/facials-near-antioch-il",
+      "finalUrl": "https://www.matrixmassage.net/facials-near-antioch-il",
+      "status": 200,
+      "bytes": 893989,
+      "title": "Facials Near Antioch, IL | Custom Facials at Matrix",
+      "canonical": [
+        "https://www.matrixmassage.net/facials-near-antioch-il"
+      ],
+      "description": [
+        "Looking for facials near Antioch, IL? Visit Matrix in Salem, WI for personalized Custom Facials, Circadia treatments, dermaplaning and relaxing skincare."
+      ],
+      "robots": [],
+      "sha256": "c8f91e21526f676b84cd36f5c97ef7190773ce7c999b381debe102bf4628c488"
+    },
+    {
+      "url": "https://www.matrixmassage.net/japanese-head-spa-near-bristol-wi",
+      "finalUrl": "https://www.matrixmassage.net/japanese-head-spa-near-bristol-wi",
+      "status": 200,
+      "bytes": 837096,
+      "title": "Japanese Head Spa Near Bristol WI | Matrix Massage",
+      "canonical": [
+        "https://www.matrixmassage.net/japanese-head-spa-near-bristol-wi"
+      ],
+      "description": [
+        "Plan a Japanese Head Spa near Bristol, WI at Matrix in Salem with scalp analysis, waterfall therapy, steam, massage and customized scalp infusions."
+      ],
+      "robots": [],
+      "sha256": "fd6ac8b1a11e1e27f72498138ef80a7403d6f442d792b2ef9a240846d8aff74a"
+    },
+    {
+      "url": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+      "status": 200,
+      "bytes": 856011,
+      "title": "Japanese Head Spa in Salem, WI | Scalp Treatments & Infusions",
+      "canonical": [
+        "https://www.matrixmassage.net/japanese-head-spa-salem-wi"
+      ],
+      "description": [
+        "Book a Japanese Head Spa in Salem, WI with scalp analysis, waterfall therapy, steam, massage and customized Matrix Precision Scalp Infusions."
+      ],
+      "robots": [],
+      "sha256": "c36ffe7b798f256de2f2a3b7d5bf5b3bebe87a79a02a1f7b71447b142feb14da"
+    },
+    {
+      "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+      "status": 200,
+      "bytes": 847296,
+      "title": "Spa Services in Salem, WI | Facials, Head Spa & Wellness",
+      "canonical": [
+        "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi"
+      ],
+      "description": [
+        "Explore spa services in Salem, WI including custom facials, Japanese Head Spa, waxing, infrared sauna and red light therapy at Matrix Massage & Bodywork."
+      ],
+      "robots": [],
+      "sha256": "cfad2e3650cf37ff30f4b6f351d1ee3388fec4d0ddb6124cc085791a96eb6994"
+    },
+    {
+      "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+      "status": 200,
+      "bytes": 843234,
+      "title": "Custom Facials in Salem, WI | Matrix Massage & Bodywork",
+      "canonical": [
+        "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi"
+      ],
+      "description": [
+        "Customized facials in Salem, WI with professional skincare, Circadia options, real Matrix treatment photos, skin-goal pathways and personalized care."
+      ],
+      "robots": [],
+      "sha256": "be37963d6fcfa32bec58b5603f851c61febdec10a01464b8c4aa2b17ad3b2b53"
+    },
+    {
+      "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+      "status": 200,
+      "bytes": 918001,
+      "title": "Waxing & Hair Removal in Salem WI | Matrix Massage & Bodywork",
+      "canonical": [
+        "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi"
+      ],
+      "description": [
+        "Book face and body waxing in Salem, WI at Matrix Massage & Bodywork. Personalized hair removal near Paddock Lake, Bristol and Antioch."
+      ],
+      "robots": [],
+      "sha256": "8a65177b64b7e7e6c51d1e33a32b21ec931ae0db9440c7baf7b91ec8270e7a46"
+    },
+    {
+      "url": "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+      "finalUrl": "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+      "status": 200,
+      "bytes": 881160,
+      "title": "Spa Services Near Paddock Lake, WI | Matrix Massage",
+      "canonical": [
+        "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi"
+      ],
+      "description": [
+        "Looking for spa services near Paddock Lake, WI? Explore custom facials, massage, Japanese Head Spa, waxing and wellness at Matrix in nearby Salem."
+      ],
+      "robots": [],
+      "sha256": "42df642ae363136fba57471c082a3059aa7fe228d1ebaa8499349417ad562b77"
+    }
+  ]
+}

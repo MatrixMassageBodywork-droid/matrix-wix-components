@@ -1,0 +1,72 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "Japanese Head Spa",
+    "revision": "review-1-2026-11-06",
+    "tagName": "matrix-head-spa-review",
+    "elementId": "matrixHeadSpaReview",
+    "rootClass": "matrix-head-spa",
+    "pageUrl": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "seoTitle": "Japanese Head Spa in Salem, WI | Scalp Treatments & Infusions",
+    "seoDescription": "Book a Japanese Head Spa in Salem, WI with scalp analysis, waterfall therapy, steam, massage and customized Matrix Precision Scalp Infusions.",
+    "seoSource": "../subpage-review-2026-11-06/baseline/head-spa.json",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 8
+  },
+  "seo": {
+    "title": "Japanese Head Spa in Salem, WI | Scalp Treatments & Infusions",
+    "description": "Book a Japanese Head Spa in Salem, WI with scalp analysis, waterfall therapy, steam, massage and customized Matrix Precision Scalp Infusions.",
+    "canonical": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "source": "../subpage-review-2026-11-06/baseline/head-spa.json"
+  },
+  "h1": "Japanese Head Spa in Salem, WI",
+  "faqCount": 8,
+  "links": [
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "#experience",
+    "#experience",
+    "#head-spa-menu",
+    "#infusions",
+    "#before-your-visit",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/JBJI7MD5EU2QM3E4MQXE5TSK",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/E3GF7465U2EEJBNBUWKE7O5B",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/5ARKZCV4NSRAFWNYZOTEKTOU",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/RM2XACH3ZAVQ65UTSENKJAGW",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/ANHVUNL2SFY2ETFWNCU5WNJS",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/VJPRLALSE5VDWQRMF6LQLOHM",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/UGLNWFVWMYIZSHHC6MDZPCFA",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/ANHVUNL2SFY2ETFWNCU5WNJS",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-near-bristol-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+      "alt": "Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@2144cb97570bc101d7f70cf9983d59ee39482998/pages/spa-beauty/head-spa/assets/hero.webp",
+      "alt": "Illustrative relaxing scalp massage at a black ceramic Head Spa basin."
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@2144cb97570bc101d7f70cf9983d59ee39482998/pages/spa-beauty/head-spa/assets/support.webp",
+      "alt": "Illustrative scalp-care brush, unbranded amber bottle and cream towels."
+    }
+  ],
+  "files": {
+    "body.html": "6f8423d32e722c877df80a5c9733d8d9a122344d30ee35822bd3b3304154ee63",
+    "style.css": "27f067205d6044d1c6557d3a5e5d181783951583beaf371541033a655a1b665d",
+    "renderer.js": "1a70a0bed47b31c3d3b2b4f0242cc7ee58e7710471e6cd5f5ff712125e0ac844",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "ca4529ee17720361f83edbc02ff958d3cefd42704c4df931a5d8998f80ab467a",
+    "preview.html": "1d897254e49c25f89b7739df65e13cfd26a9b207317ddee679803e3266d6390e",
+    "faq-schema.json": "9caceefdaab45bab901d805829833530bb013ae23dad8bb8f8882031f2474479"
+  },
+  "rendererBytes": 23969
+}

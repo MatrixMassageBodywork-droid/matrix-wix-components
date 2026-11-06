@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@2144cb97570bc101d7f70cf9983d59ee39482998/pages/spa-beauty/facials/assets/hero.webp",
+    "status": 200,
+    "bytes": 146216
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@2144cb97570bc101d7f70cf9983d59ee39482998/pages/spa-beauty/facials/assets/support.webp",
+    "status": 200,
+    "bytes": 84444
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@2144cb97570bc101d7f70cf9983d59ee39482998/pages/spa-beauty/head-spa/assets/hero.webp",
+    "status": 200,
+    "bytes": 87616
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@2144cb97570bc101d7f70cf9983d59ee39482998/pages/spa-beauty/head-spa/assets/support.webp",
+    "status": 200,
+    "bytes": 254012
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@2144cb97570bc101d7f70cf9983d59ee39482998/pages/spa-beauty/waxing/assets/hero.webp",
+    "status": 200,
+    "bytes": 127084
+  },
+  {
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@2144cb97570bc101d7f70cf9983d59ee39482998/pages/spa-beauty/waxing/assets/support.webp",
+    "status": 200,
+    "bytes": 216178
+  }
+]

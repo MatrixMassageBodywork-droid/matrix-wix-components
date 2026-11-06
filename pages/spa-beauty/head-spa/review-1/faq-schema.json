@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a Japanese Head Spa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Japanese Head Spa is a cosmetic scalp-care and relaxation experience combining scalp analysis, customized products, cleansing, warm-water therapy and massage. The exact steps and massage time depend on the service you book."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which Head Spa should I choose for my first visit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Matrix Signature Head Spa is the core 60-minute experience at $135. Choose Scalp Cleanse & Refresh for a 45-minute visit, or a longer Head Spa for more massage and scalp-care time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will my hair be dry when I leave?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Hair is left wet. Professional drying or styling must be booked separately, so arrange it in advance if you want that service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I book with short hair, thinning hair or extensions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your provider can discuss scalp care for your hair needs. Contact Matrix first if you have extensions, braids, very short or thinning hair, recent chemical services or scalp concerns so the suitable approach can be confirmed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Head Spa treat hair loss or scalp disease?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Matrix Head Spa services focus on cosmetic scalp care and relaxation. New hair loss, painful or inflamed areas and persistent scalp symptoms should be evaluated by an appropriate healthcare professional."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I add a facial to my Head Spa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Choose Matrix Head Spa + Hydrating Glow Facial for a 120-minute combination at $285. The booking menu also offers men\u2019s Head Spa combinations with a mini facial or a custom facial."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I book?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose a schedule around your preferences, scalp comfort and the experience you enjoy. Your provider can discuss a suitable return visit; a fixed weekly schedule is not required."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is Matrix located?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Visit Matrix Massage & Bodywork at 24804 75th St, Salem, WI 53168. We welcome guests from Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Kenosha County and nearby Antioch, Illinois. Book online or text 262-939-9325."
+      }
+    }
+  ]
+}

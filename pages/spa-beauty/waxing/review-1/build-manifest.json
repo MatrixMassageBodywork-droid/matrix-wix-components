@@ -1,0 +1,65 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "Waxing & Hair Removal",
+    "revision": "review-1-2026-11-06",
+    "tagName": "matrix-waxing-review",
+    "elementId": "matrixWaxingReview",
+    "rootClass": "matrix-waxing",
+    "pageUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+    "seoTitle": "Waxing & Hair Removal in Salem WI | Matrix Massage & Bodywork",
+    "seoDescription": "Book face and body waxing in Salem, WI at Matrix Massage & Bodywork. Personalized hair removal near Paddock Lake, Bristol and Antioch.",
+    "seoSource": "../subpage-review-2026-11-06/baseline/waxing.json",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 8
+  },
+  "seo": {
+    "title": "Waxing & Hair Removal in Salem WI | Matrix Massage & Bodywork",
+    "description": "Book face and body waxing in Salem, WI at Matrix Massage & Bodywork. Personalized hair removal near Paddock Lake, Bristol and Antioch.",
+    "canonical": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+    "source": "../subpage-review-2026-11-06/baseline/waxing.json"
+  },
+  "h1": "Waxing & Hair Removal in Salem, WI",
+  "faqCount": 8,
+  "links": [
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "#experience",
+    "#experience",
+    "#waxing-menu",
+    "#before-your-visit",
+    "#aftercare",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/PZR2CBQCWBF3RUKLT5S4JUTI",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/YY2UJGDPSWQQ5HHCOKYYRTBE",
+    "sms:+12629399325",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+      "alt": "Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@2144cb97570bc101d7f70cf9983d59ee39482998/pages/spa-beauty/waxing/assets/hero.webp",
+      "alt": "Illustrative professional forearm waxing with black gloves and a clean wooden applicator."
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@2144cb97570bc101d7f70cf9983d59ee39482998/pages/spa-beauty/waxing/assets/support.webp",
+      "alt": "Illustrative waxing preparation with fresh linens, wooden applicators and aftercare lotion."
+    }
+  ],
+  "files": {
+    "body.html": "553a4877bfe679c17c054136fe7d219d3f473ba43fe4340f3b81b0feb66b6bb6",
+    "style.css": "9fbf549107f6e549a319d0f3920db4d2b972f393af468cb7abe4aff335f1d61d",
+    "renderer.js": "6fed747b6280b64a24a99106be9399600a32f507e26d94a94237d0e0a4f5858c",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "c6f39188e30a03bca3d87087b8022584f21b69676cec9ec6b39d62cde7fa1bf5",
+    "preview.html": "06e5582eedaec723eb72bfd7970a0d68386fc798be0c530e08f5587afac79737",
+    "faq-schema.json": "5aa5b4d6c6c713dcb24f0e47c34f46372fe85616d1ac718db26752d313065185"
+  },
+  "rendererBytes": 20627
+}

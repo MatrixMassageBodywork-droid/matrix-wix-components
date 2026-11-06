@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What waxing services do you offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matrix offers Facial Waxing Services and Body Waxing. The booking menu lists the areas and combinations currently available, along with appointment times and pricing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long should hair be before waxing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hair should generally be around one-quarter inch long. If you are unsure about the length or have recently shaved, contact Matrix before booking so timing can be discussed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does waxing hurt?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Temporary discomfort is normal when hair is removed. Sensitivity varies by area and person. Tell your provider how you are feeling so the service can be paced around your comfort."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long do waxing results last?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Results vary with hair growth, the area treated and your routine. Many people enjoy a smooth feel for several weeks, but there is no fixed result or regrowth schedule for everyone."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I wax if I use retinol or acne medication?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tell your provider about all skincare and medications before booking. Retinoids, isotretinoin and some other products or treatments can make waxing unsafe for the skin. Do not wax while taking isotretinoin or within six months of taking it. Ask your prescriber about safe timing and alternatives."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I have waxing and a facial on the same day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ask Matrix before booking both. Suitability depends on the area, skin condition and the facial steps planned; exfoliating treatments may need separate timing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I avoid after waxing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Follow the aftercare given for your treatment area. Keep care gentle and ask about heat, sweating, friction, sun exposure and when to resume exfoliating products."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I book waxing near Paddock Lake or Antioch?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matrix Massage & Bodywork offers waxing at 24804 75th St, Salem, WI 53168, serving Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Pleasant Prairie, Kenosha County and nearby Antioch, Illinois. Book online or text 262-939-9325."
+      }
+    }
+  ]
+}

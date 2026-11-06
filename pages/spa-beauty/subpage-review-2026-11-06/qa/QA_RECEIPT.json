@@ -1,0 +1,54 @@
+{
+  "status": "TESTED in standalone browser preview; native Wix not tested",
+  "responsiveChecks": 15,
+  "responsiveWidths": [
+    320,
+    390,
+    1280,
+    1440,
+    1920
+  ],
+  "faqExpanded": {
+    "desktop": {
+      "facials": 6,
+      "head-spa": 8,
+      "waxing": 8
+    },
+    "mobile": [
+      {
+        "page": "facials",
+        "faqBottom": 9202.546875,
+        "nextTop": 9202.546875,
+        "open": 6,
+        "scrollWidth": 305,
+        "total": 6,
+        "width": 305
+      },
+      {
+        "page": "head-spa",
+        "faqBottom": 9086,
+        "nextTop": 9086,
+        "open": 8,
+        "scrollWidth": 305,
+        "total": 8,
+        "width": 305
+      },
+      {
+        "page": "waxing",
+        "faqBottom": 6618.28125,
+        "nextTop": 6618.28125,
+        "open": 8,
+        "scrollWidth": 305,
+        "total": 8,
+        "width": 305
+      }
+    ]
+  },
+  "screenshotLimitation": "Full-page screenshot export timed out; full HTML proofs and representative section screenshots retained",
+  "browser": {
+    "facials": "http://terminal.local:4173/facials.html",
+    "head-spa": "http://terminal.local:4173/head-spa.html",
+    "waxing": "http://terminal.local:4173/waxing.html"
+  },
+  "publication": "NOT INSTALLED / NOT PUBLISHED"
+}
