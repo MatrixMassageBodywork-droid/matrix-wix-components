@@ -1,0 +1,37 @@
+{
+  "revision": "home-review-3",
+  "previewUrl": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/MatrixMassageBodywork-droid/matrix-wix-components/c2be8d1a07b79f5c07b600e1b70e6a7f8634f858/pages/home/review-3/preview.html",
+  "sourceCommit": "c2be8d1a07b79f5c07b600e1b70e6a7f8634f858",
+  "nativeInstalled": false,
+  "published": false,
+  "h1Count": 1,
+  "imageCount": 8,
+  "loadedImageCount": 8,
+  "existingSiteLinks200": 18,
+  "standaloneViewportWidthsTested": [
+    320,
+    390,
+    1280,
+    1440,
+    1920
+  ],
+  "horizontalOverflow": false,
+  "minimumBookingButtonHeight": 50,
+  "faqKeyboardToggle": "passed",
+  "serviceAnchorNavigation": "passed",
+  "originalFaqAnswersPreserved": 8,
+  "faqAdditions": 3,
+  "metadataPreservedInConfig": [
+    "title",
+    "description",
+    "canonical"
+  ],
+  "nativeMetadataChanges": false,
+  "bookingsCreated": 0,
+  "fullPageScreenshot": "timeout; viewport screenshots saved instead",
+  "limitations": [
+    "Standalone proof only; native Wix rendering not tested",
+    "No completed booking or tracking attribution test",
+    "Specials hub specification saved; no new page created"
+  ]
+}
