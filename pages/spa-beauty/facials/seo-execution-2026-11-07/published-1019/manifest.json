@@ -1,0 +1,22 @@
+{
+  "release": 1019,
+  "previousRelease": 1007,
+  "verifiedAt": "2026-11-07T14:28:36.342176+00:00",
+  "sha256": {
+    "facial-native-mobile-qa-20261107.json": "8814d74b7b51e1fb4071b10e4b24ed04ba5da47b28653f7b802deb871e78e83c",
+    "pathway-renderer-native-saved-20261107.js": "b57a94c482e69f90fe3934632d4482286aa80ea20fed9a82c254239a775b6bd6",
+    "facial-mobile-proof-20261107.jpg": "2a64a0c9eb049966300951d0141fb546992b4b28b6a0b9c058a78a34832cf3aa",
+    "pathway-renderer-native-before-20261107.js": "0d3fe224f108a9eb09dbf9d05b85bec923e492019bbbcd154509037f73a9d41f",
+    "pathway-markup-native-saved-20261107.js": "6c5bf23fcb0f039484da9bdaef7db8334ddb511bc96ce74950ac6a30b8d49f7a",
+    "site-release-comparison.json": "b55c72265c25f9b84422f2d2ca6c31b66a1dc118bdfd6c90814c3d96bf76be10",
+    "facial-links-live-proof-20261107.jpg": "75466f53d0fc9e60258f0feada23f7069def16aad4f6db677c8bd0160260160e",
+    "facial-native-before-20261107.js": "f23c5a9d7d1d580f4b836450a1cc17d3bfecd992be299b7dc3d4f0e89d8a0a76",
+    "facial-live-runtime-qa-20261107.json": "28ac9406fe1992486d8a424d3d24c7d0cdc188cbc50b67d92c5cbbc67ea272bb",
+    "facial-square-destinations-20261107.json": "ab69ecb7964f3e073b70628e1c63250fa8585a9935f96bdc270cdeeb06b9c65e",
+    "pathway-page-native-before-20261107.js": "c4880b577bfc5f18c502ba0ae5c76a2745ffec0d121424e0ea3689cc4ab1a960",
+    "facial-test-runtime-qa-20261107.json": "6ed32bbf2749eac6a3a7c4f547b539c23ab38f8ef49139a93c58f97178203e2c",
+    "facial-published-version-1019.jpg": "6c5fad1009a3ee023ba0089e1594c084e94fd1bf15325a90af9db1666e3f6dce",
+    "facial-native-saved-20261107.js": "0e003e803cf14b19720eac5601bc362f78a7a98645067d99319e01e8d9c69a1c",
+    "pathway-markup-native-before-20261107.js": "15a979acecf3df20d99576b739858f2489c35b5340d0177448e4b728695d9cef"
+  }
+}
