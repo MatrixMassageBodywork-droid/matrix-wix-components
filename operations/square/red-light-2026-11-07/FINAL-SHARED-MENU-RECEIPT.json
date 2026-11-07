@@ -1,0 +1,258 @@
+{
+  "status": "SAVED_VERIFIED",
+  "date": "2026-11-07",
+  "approval": "Owner: Yes, approved — shared massage red-light enhancement menu and linked CCF synchronization.",
+  "requests": [
+    {
+      "requestId": "SSM-20261107-RLSHARED1",
+      "updatedAt": "11/7/2026 12:40:19",
+      "status": "SAVED_VERIFIED",
+      "operation": "UPDATE",
+      "proposal": {
+        "operation": "UPDATE",
+        "update_mode": "MSSM_RED_LIGHT_SHARED_20261107",
+        "request_id": "SSM-20261107-RLSHARED1",
+        "baseline_hash": "f8b21c228a8f84ee988688419b02c6c547c193c6fc2beb494098f4617b23bc23",
+        "changes": [
+          {
+            "list": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+            "modifier": "BYZZXJ63KW3FZXLIPUG27GPW",
+            "from": 2500,
+            "to": 2299,
+            "add": {
+              "id": "#MSSMRL_FACE_20261107",
+              "name": "Red Light (face/head)",
+              "cents": 1499
+            }
+          },
+          {
+            "list": "SHLF7QFESV3Q3VPCLQAMPIC6",
+            "modifier": "SB3EY6RC3JJGQPWV7OW3IYHY",
+            "from": 75,
+            "to": 69,
+            "add": {
+              "id": "#MSSMRL_FACE_CCF_20261107",
+              "name": "CCF - Red Light (face/head)",
+              "cents": 45
+            }
+          },
+          {
+            "list": "NJVQD7HIY7MD2PYLEFQ3UAG6",
+            "modifier": "OVP5XYD6DWH3H6X32TG52AT4",
+            "from": 75,
+            "to": 78,
+            "oldName": "CCF-3 - 20 Minute Session ($0.75)",
+            "newName": "CCF-3 - 20 Minute Session ($0.78)"
+          },
+          {
+            "list": "M66TFMQVRHEG6VRWRJN3N6RM",
+            "modifier": "VDVPIIMGP7ZSJIFBUNPRP6OK",
+            "from": 75,
+            "to": 69,
+            "oldName": "CCF-3 - 20 Minute Session ($0.75)",
+            "newName": "CCF-3 - 20 Minute Session ($0.69)"
+          }
+        ]
+      },
+      "approvalFingerprint": "1636604fb1eedfb856a03e5d48bbef9ee4990a75fe0af6f9c25cb8b063c6a759",
+      "approvedAt": "2026-11-07T18:33:10.508Z",
+      "idempotencyKey": "mssm-redlight-shared-20261107-1636604fb1eedfb856",
+      "squareObjectIds": "GKKPB7JCCQA6S3MIFWHY5Y4W | SHLF7QFESV3Q3VPCLQAMPIC6 | NJVQD7HIY7MD2PYLEFQ3UAG6 | M66TFMQVRHEG6VRWRJN3N6RM",
+      "newModifierIds": "EK53D45LED4YAUPUWP3YR4SK | ONUANZ23V2NTQJYVEYDPJXUV",
+      "verification": {
+        "ok": true,
+        "errors": [],
+        "summary": {
+          "mode": "MSSM_RED_LIGHT_SHARED_20261107",
+          "lists": [
+            {
+              "id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+              "name": "Add Massage Enhancements",
+              "version": 1794076399966,
+              "options": [
+                {
+                  "id": "BYZZXJ63KW3FZXLIPUG27GPW",
+                  "name": "Red Light (full body) - 20 Mins",
+                  "price": {
+                    "amount": 2299,
+                    "currency": "USD"
+                  },
+                  "hidden_online": true
+                },
+                {
+                  "id": "EK53D45LED4YAUPUWP3YR4SK",
+                  "name": "Red Light (face/head)",
+                  "price": {
+                    "amount": 1499,
+                    "currency": "USD"
+                  },
+                  "hidden_online": true
+                }
+              ]
+            },
+            {
+              "id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+              "name": "Payment Method - Massage Enhancements",
+              "version": 1794076399966,
+              "options": [
+                {
+                  "id": "SB3EY6RC3JJGQPWV7OW3IYHY",
+                  "name": "CCF - Red Light (full body) - 20 Mins",
+                  "price": {
+                    "amount": 69,
+                    "currency": "USD"
+                  },
+                  "hidden_online": true
+                },
+                {
+                  "id": "ONUANZ23V2NTQJYVEYDPJXUV",
+                  "name": "CCF - Red Light (face/head)",
+                  "price": {
+                    "amount": 45,
+                    "currency": "USD"
+                  },
+                  "hidden_online": true
+                }
+              ]
+            },
+            {
+              "id": "NJVQD7HIY7MD2PYLEFQ3UAG6",
+              "name": "Payment Method - Red & Near Infrared Light Therapy | Matrix Wellness & Biotech",
+              "version": 1794076399966,
+              "options": [
+                {
+                  "id": "OVP5XYD6DWH3H6X32TG52AT4",
+                  "name": "CCF-3 - 20 Minute Session ($0.78)",
+                  "price": {
+                    "amount": 78,
+                    "currency": "USD"
+                  },
+                  "hidden_online": true
+                }
+              ]
+            },
+            {
+              "id": "M66TFMQVRHEG6VRWRJN3N6RM",
+              "name": "Payment Method - Full Body Red Light Therapy (add-on)",
+              "version": 1794076399966,
+              "options": [
+                {
+                  "id": "VDVPIIMGP7ZSJIFBUNPRP6OK",
+                  "name": "CCF-3 - 20 Minute Session ($0.69)",
+                  "price": {
+                    "amount": 69,
+                    "currency": "USD"
+                  },
+                  "hidden_online": true
+                }
+              ]
+            }
+          ],
+          "unchanged_face_ccf": 45,
+          "associated_items_checked": 11,
+          "unrelated_options_and_settings_preserved": true,
+          "id_mappings": {
+            "#MSSMRL_FACE_20261107": "EK53D45LED4YAUPUWP3YR4SK",
+            "#MSSMRL_FACE_CCF_20261107": "ONUANZ23V2NTQJYVEYDPJXUV"
+          }
+        }
+      },
+      "notes": "Full reconciliation verified. Square reindexed modifier ordinals with identical order; new face CCF visibility corrected separately. No repeat price writes."
+    },
+    {
+      "requestId": "SSM-20261107-RLFEEVIS1",
+      "updatedAt": "11/7/2026 12:39:17",
+      "status": "SAVED_VERIFIED",
+      "operation": "UPDATE",
+      "proposal": {
+        "operation": "UPDATE",
+        "update_mode": "MSSM_RED_LIGHT_FEE_VISIBILITY_20261107",
+        "request_id": "SSM-20261107-RLFEEVIS1",
+        "existing_item_id": "D6WBEWYNPLZ5ET3YB4APHMVT",
+        "expected_item_version": 1794076399966,
+        "original_request": "SSM-20261107-RLSHARED1",
+        "fields_to_change": "new_face_ccf_hidden_online_override",
+        "baseline_hash": "5a617c73b5b869ccf3e59a9bd63e0ea36b9f1281608195c4e7bd3e9fa0b25054"
+      },
+      "approvalFingerprint": "447ae149c5b733419d2fcd9b5068bc485dd103d0a32106b2c25d6696e3855a41",
+      "approvedAt": "2026-11-07T18:38:57.542Z",
+      "idempotencyKey": "mssm-rl-fee-visibility-20261107-447ae149c5b733419d",
+      "squareObjectIds": "D6WBEWYNPLZ5ET3YB4APHMVT",
+      "newModifierIds": null,
+      "verification": {
+        "ok": true,
+        "errors": [],
+        "summary": {
+          "item_id": "D6WBEWYNPLZ5ET3YB4APHMVT",
+          "version": 1794076756054,
+          "modifier_id": "ONUANZ23V2NTQJYVEYDPJXUV",
+          "hidden_online_override": "YES",
+          "unrelated_fields_preserved": true,
+          "price_changes": 0
+        }
+      },
+      "notes": "Exact new face CCF visibility correction; no price changes."
+    }
+  ],
+  "gates": [
+    [
+      "SERVICE_MANAGER_ENABLED",
+      "FALSE"
+    ],
+    [
+      "SERVICE_WRITE_ENABLED",
+      "TRUE"
+    ],
+    [
+      "APPROVAL_PHRASE",
+      "APPROVE SQUARE"
+    ],
+    [
+      "WORKER_INTERVAL_MINUTES",
+      "1"
+    ],
+    [
+      "IMAGE_PHASE_ENABLED",
+      "FALSE"
+    ],
+    [
+      "MASSAGE_REFERENCE_ITEM_ID",
+      "D6WBEWYNPLZ5ET3YB4APHMVT"
+    ],
+    [
+      "MASSAGE_REFERENCE_NAME",
+      "Custom Therapeutic Massage"
+    ],
+    [
+      "PAYMENT_STRUCTURE_MODE",
+      "MSSM168_DEDICATED_CCF_3_PERCENT_PER_VARIATION"
+    ],
+    [
+      "MASSAGE_MODIFIER_MODE",
+      "COPY_CANONICAL_MASSAGE_REFERENCE"
+    ],
+    [
+      "WRITE_SHARED_MODIFIER_LISTS_ENABLED",
+      "FALSE"
+    ]
+  ],
+  "publicQa": {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/D6WBEWYNPLZ5ET3YB4APHMVT",
+    "facePrice1499": true,
+    "fullBodyPrice2299": true,
+    "faceChoiceSelectedAndCleared": true,
+    "feesNotVisible": true,
+    "bookingSubmitted": false,
+    "proof": "square-massage-redlight-menu.png"
+  },
+  "installedSource": {
+    "file": "manager-sync-corrected.gs",
+    "normalizedCharacters": 109717,
+    "reloadedAndCompared": true
+  },
+  "tests": {
+    "initialSharedTests": 26,
+    "targetedCorrectionTests": 11
+  },
+  "website": "SAVED_VERIFIED draft; UNPUBLISHED; email/report release remains off."
+}

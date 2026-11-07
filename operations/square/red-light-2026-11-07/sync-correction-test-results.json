@@ -1,0 +1,6 @@
+{
+  "ok": true,
+  "tests": 11,
+  "real_square_writes": 0,
+  "scope": "Actual Square ordinal normalization accepted only with identical order; exact new fee override corrected; no price changes"
+}

@@ -1,0 +1,118 @@
+- banner:
+  - link "Matrix Massage & Bodywork":
+    - /url: /appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+    - heading "Matrix Massage & Bodywork" [level=1]
+  - generic "Menu":
+    - button "Menu":
+- region "Main content":
+  - navigation "Breadcrumb":
+    - list:
+      - link "All services":
+        - /url: /appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - text: /
+      - generic: Custom Therapeutic Massage
+  - heading "Custom Therapeutic Massage" [level=2]
+  - generic: Price varies ・ 30 min+
+  - text: Your therapist adjusts pressure and techniques to your goals and tolerance. Whether you’re looking for a relaxing massage (Swedish) or deep tissue, our massages are therapeutic and customized to your needs. Effective work does not need to feel painful. Choose 30 minutes for one focused area, 60 minutes for a focused or broader session, and 90 or 120 minutes for more comprehensive work with extra time for your priorities. Tell us what feels tight or restricted, and we will tailor the session around you.
+  - paragraph
+  - heading "Options" [level=3]
+  - alert
+  - listbox "Options":
+    - option "60 Mins $110.00・1 hr 60 Mins":
+      - generic: 60 Mins
+      - generic: $110.00・1 hr
+      - generic "60 Mins":
+        - radio
+    - option "30 Mins $65.00・30 min 30 Mins":
+      - generic: 30 Mins
+      - generic: $65.00・30 min
+      - generic "30 Mins":
+        - radio
+    - option "90 Mins $160.00・1 hr 30 min 90 Mins":
+      - generic: 90 Mins
+      - generic: $160.00・1 hr 30 min
+      - generic "90 Mins":
+        - radio
+    - option "120 Mins $210.00・2 hr 120 Mins":
+      - generic: 120 Mins
+      - generic: $210.00・2 hr
+      - generic "120 Mins":
+        - radio
+  - heading "Add Massage Enhancements" [level=3]
+  - list:
+    - generic: Optional
+  - listbox:
+    - option "Relaxing Botanical Oil Scalp Massage + $15.00 Relaxing Botanical Oil Scalp Massage":
+      - generic: Relaxing Botanical Oil Scalp Massage
+      - generic: + $15.00
+      - generic "Relaxing Botanical Oil Scalp Massage":
+        - checkbox
+    - option "30 Mins - Signature Facial & Scalp Massage + $55.00 30 Mins - Signature Facial & Scalp Massage":
+      - generic: 30 Mins - Signature Facial & Scalp Massage
+      - generic: + $55.00
+      - generic "30 Mins - Signature Facial & Scalp Massage":
+        - checkbox
+    - option "Matrix Repair Hydrating Foot mask + $25.00 Matrix Repair Hydrating Foot mask":
+      - generic: Matrix Repair Hydrating Foot mask
+      - generic: + $25.00
+      - generic "Matrix Repair Hydrating Foot mask":
+        - checkbox
+    - option "Infrared Sauna - 30 Mins + $25.00 Infrared Sauna - 30 Mins":
+      - generic: Infrared Sauna - 30 Mins
+      - generic: + $25.00
+      - generic "Infrared Sauna - 30 Mins":
+        - checkbox
+    - option "Hand Compression & Heat Therapy + $13.00 Hand Compression & Heat Therapy":
+      - generic: Hand Compression & Heat Therapy
+      - generic: + $13.00
+      - generic "Hand Compression & Heat Therapy":
+        - checkbox
+    - option "Neck Cervical Tension Release Booster + $12.00 Neck Cervical Tension Release Booster":
+      - generic: Neck Cervical Tension Release Booster
+      - generic: + $12.00
+      - generic "Neck Cervical Tension Release Booster":
+        - checkbox
+    - option "Breathe & Balance Aromatherapy Inhaler + $6.00 Breathe & Balance Aromatherapy Inhaler":
+      - generic: Breathe & Balance Aromatherapy Inhaler
+      - generic: + $6.00
+      - generic "Breathe & Balance Aromatherapy Inhaler":
+        - checkbox
+    - option "Red Light (full body) - 20 Mins + $22.99 Red Light (full body) - 20 Mins":
+      - generic: Red Light (full body) - 20 Mins
+      - generic: + $22.99
+      - generic "Red Light (full body) - 20 Mins":
+        - checkbox
+    - option "Grounding Mat + $10.00 Grounding Mat":
+      - generic: Grounding Mat
+      - generic: + $10.00
+      - generic "Grounding Mat":
+        - checkbox
+    - option "Therapeutic Cupping + $20.00 Therapeutic Cupping":
+      - generic: Therapeutic Cupping
+      - generic: + $20.00
+      - generic "Therapeutic Cupping":
+        - checkbox
+    - option "Muscle Scraping + $20.00 Muscle Scraping":
+      - generic: Muscle Scraping
+      - generic: + $20.00
+      - generic "Muscle Scraping":
+        - checkbox
+    - option "Red Light (face/head) + $14.99 Red Light (face/head)":
+      - generic: Red Light (face/head)
+      - generic: + $14.99
+      - generic "Red Light (face/head)" [active]:
+        - checkbox "Red Light (face/head)"
+  - heading "Staff" [level=3]
+  - alert
+  - list "Staff":
+    - generic: Da
+    - generic: DaNelle
+  - button "Add":
+    - generic: Add
+- contentinfo:
+  - generic: Powered by Square
+  - button "Cookie Preferences":
+    - generic: Cookie Preferences
+- button "Phone with notification Text us":
+  - img "Phone with notification"
+  - paragraph: Text us

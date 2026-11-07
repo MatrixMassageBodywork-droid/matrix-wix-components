@@ -1,0 +1,1946 @@
+{
+  "captured_at": "2026-11-07T18:32:26.548Z",
+  "lists": {
+    "GKKPB7JCCQA6S3MIFWHY5Y4W": {
+      "type": "MODIFIER_LIST",
+      "id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+      "updated_at": "2026-09-20T18:39:42.279Z",
+      "created_at": "2026-04-27T01:29:07.277Z",
+      "version": 1789929582279,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "modifier_list_data": {
+        "name": "Add Massage Enhancements",
+        "ordinal": 1,
+        "selection_type": "MULTIPLE",
+        "modifiers": [
+          {
+            "type": "MODIFIER",
+            "id": "ZAEWNI4PVVM3QCF63UMUL7L7",
+            "updated_at": "2026-09-20T18:39:42.279Z",
+            "created_at": "2026-04-27T01:29:07.277Z",
+            "version": 1789929582279,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "Relaxing Botanical Oil Scalp Massage",
+              "price_money": {
+                "amount": 1500,
+                "currency": "USD"
+              },
+              "on_by_default": false,
+              "ordinal": 1,
+              "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "74RX44MPSBBGYCRIAOTANRTT",
+            "updated_at": "2026-09-20T18:39:42.279Z",
+            "created_at": "2026-04-27T01:29:07.277Z",
+            "version": 1789929582279,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "30 Mins - Signature Facial & Scalp Massage",
+              "price_money": {
+                "amount": 5500,
+                "currency": "USD"
+              },
+              "on_by_default": false,
+              "ordinal": 2,
+              "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "FULLZEBIQUGUYL5ATPHUQMXY",
+            "updated_at": "2026-09-20T18:39:42.279Z",
+            "created_at": "2026-04-27T01:29:07.277Z",
+            "version": 1789929582279,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "Matrix Repair Hydrating Foot mask",
+              "price_money": {
+                "amount": 2500,
+                "currency": "USD"
+              },
+              "on_by_default": false,
+              "ordinal": 3,
+              "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "LOGYZXVMO5MOHM4L4LO2T4BO",
+            "updated_at": "2026-09-20T18:39:42.279Z",
+            "created_at": "2026-04-27T01:29:07.277Z",
+            "version": 1789929582279,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "Infrared Sauna - 30 Mins",
+              "price_money": {
+                "amount": 2500,
+                "currency": "USD"
+              },
+              "on_by_default": false,
+              "ordinal": 4,
+              "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "DD3FWTLZNESFLEKCDI5HIR26",
+            "updated_at": "2026-09-20T18:39:42.279Z",
+            "created_at": "2026-04-27T01:29:07.277Z",
+            "version": 1789929582279,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "Hand Compression & Heat Therapy",
+              "price_money": {
+                "amount": 1300,
+                "currency": "USD"
+              },
+              "on_by_default": false,
+              "ordinal": 5,
+              "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "TKKVDYEX6QKGX2XVMQRN24FK",
+            "updated_at": "2026-09-20T18:39:42.279Z",
+            "created_at": "2026-04-27T01:29:07.277Z",
+            "version": 1789929582279,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "Neck Cervical Tension Release Booster",
+              "price_money": {
+                "amount": 1200,
+                "currency": "USD"
+              },
+              "on_by_default": false,
+              "ordinal": 6,
+              "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "MZ2LVEEQOBFUUUDXA25GOXBJ",
+            "updated_at": "2026-09-20T18:39:42.279Z",
+            "created_at": "2026-04-27T01:29:07.277Z",
+            "version": 1789929582279,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "Breathe & Balance Aromatherapy Inhaler",
+              "price_money": {
+                "amount": 600,
+                "currency": "USD"
+              },
+              "on_by_default": false,
+              "ordinal": 7,
+              "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "WZXH6LIQI4BTNMMT3TCLNVFI",
+            "updated_at": "2026-09-20T18:39:42.279Z",
+            "created_at": "2026-04-27T01:29:07.277Z",
+            "version": 1789929582279,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "Caffeine & Hyaluronic Acid Undereye Treat",
+              "price_money": {
+                "amount": 600,
+                "currency": "USD"
+              },
+              "on_by_default": false,
+              "ordinal": 8,
+              "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+              "location_overrides": [
+                {
+                  "location_id": "LGNQ4P8GPMSEQ",
+                  "sold_out": true
+                }
+              ],
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "BYZZXJ63KW3FZXLIPUG27GPW",
+            "updated_at": "2026-09-20T18:39:42.279Z",
+            "created_at": "2026-04-27T01:29:07.277Z",
+            "version": 1789929582279,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "Red Light (full body) - 20 Mins",
+              "price_money": {
+                "amount": 2500,
+                "currency": "USD"
+              },
+              "on_by_default": false,
+              "ordinal": 9,
+              "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "PYPMI3HZYXPXLGF37HOUHT6X",
+            "updated_at": "2026-09-20T18:39:42.279Z",
+            "created_at": "2026-04-27T01:29:07.277Z",
+            "version": 1789929582279,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "Grounding Mat",
+              "price_money": {
+                "amount": 1000,
+                "currency": "USD"
+              },
+              "on_by_default": false,
+              "ordinal": 10,
+              "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "53IGTJISZSSK4BDPTBQAVVN6",
+            "updated_at": "2026-09-20T18:39:42.279Z",
+            "created_at": "2026-04-27T01:29:07.277Z",
+            "version": 1789929582279,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "Therapeutic Cupping",
+              "price_money": {
+                "amount": 2000,
+                "currency": "USD"
+              },
+              "on_by_default": false,
+              "ordinal": 11,
+              "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "OYNXEY4AISGOPFIKRW7QQDGJ",
+            "updated_at": "2026-09-20T18:39:42.279Z",
+            "created_at": "2026-04-27T01:29:07.277Z",
+            "version": 1789929582279,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "Muscle Scraping",
+              "price_money": {
+                "amount": 2000,
+                "currency": "USD"
+              },
+              "on_by_default": false,
+              "ordinal": 12,
+              "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+              "hidden_online": true
+            }
+          }
+        ],
+        "allow_quantities": false,
+        "is_conversational": false,
+        "modifier_type": "LIST",
+        "max_length": 150,
+        "text_required": false,
+        "internal_name": "Massage Enhancements",
+        "min_selected_modifiers": 0,
+        "max_selected_modifiers": 0,
+        "hidden_from_customer": false
+      }
+    },
+    "SHLF7QFESV3Q3VPCLQAMPIC6": {
+      "type": "MODIFIER_LIST",
+      "id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+      "updated_at": "2026-09-20T20:50:21.033Z",
+      "created_at": "2026-09-20T19:42:01.556Z",
+      "version": 1789937421033,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "modifier_list_data": {
+        "name": "Payment Method - Massage Enhancements",
+        "ordinal": 93,
+        "selection_type": "MULTIPLE",
+        "modifiers": [
+          {
+            "type": "MODIFIER",
+            "id": "XH7WYTNJYUVS5YCFM4HQ2L7S",
+            "updated_at": "2026-09-20T20:50:21.033Z",
+            "created_at": "2026-09-20T19:42:01.556Z",
+            "version": 1789937421033,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "Cash Payment",
+              "ordinal": 0,
+              "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "NCOZ46MGI6U2W3BIVHO75J55",
+            "updated_at": "2026-09-20T20:50:21.033Z",
+            "created_at": "2026-09-20T20:50:21.07Z",
+            "version": 1789937421033,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "NONE",
+              "ordinal": 1,
+              "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "WNM67ASJQ7DMTAC6BUWX4NY7",
+            "updated_at": "2026-09-20T20:50:21.033Z",
+            "created_at": "2026-09-20T19:42:01.556Z",
+            "version": 1789937421033,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF - Relaxing Botanical Oil Scalp Massage",
+              "price_money": {
+                "amount": 45,
+                "currency": "USD"
+              },
+              "ordinal": 2,
+              "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "BMGKH7TYUGJBAVV4NAIMXTGT",
+            "updated_at": "2026-09-20T20:50:21.033Z",
+            "created_at": "2026-09-20T19:42:01.556Z",
+            "version": 1789937421033,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF- 30 Mins - Signature Facial & Scalp Massage",
+              "price_money": {
+                "amount": 165,
+                "currency": "USD"
+              },
+              "ordinal": 3,
+              "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "I4T2FF357NY3ENREQDERBRJM",
+            "updated_at": "2026-09-20T20:50:21.033Z",
+            "created_at": "2026-09-20T19:42:01.556Z",
+            "version": 1789937421033,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF - Matrix Repair Hydrating Foot mask",
+              "price_money": {
+                "amount": 75,
+                "currency": "USD"
+              },
+              "ordinal": 4,
+              "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "F2O2HSD7XA3XEFTXU66Y2CFZ",
+            "updated_at": "2026-09-20T20:50:21.033Z",
+            "created_at": "2026-09-20T19:49:56.187Z",
+            "version": 1789937421033,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF - Infrared Sauna - 30 Mins",
+              "price_money": {
+                "amount": 75,
+                "currency": "USD"
+              },
+              "ordinal": 5,
+              "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "O4LUMLVPHS3I77TUM7ISJMZL",
+            "updated_at": "2026-09-20T20:50:21.033Z",
+            "created_at": "2026-09-20T19:49:56.187Z",
+            "version": 1789937421033,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF - Hand Compression & Heat Therapy",
+              "price_money": {
+                "amount": 39,
+                "currency": "USD"
+              },
+              "ordinal": 6,
+              "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "D3GSUGHZKXASJ6LAM5BCOEDZ",
+            "updated_at": "2026-09-20T20:50:21.033Z",
+            "created_at": "2026-09-20T19:49:56.187Z",
+            "version": 1789937421033,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF - Neck Cervical Tension Release Booster",
+              "price_money": {
+                "amount": 36,
+                "currency": "USD"
+              },
+              "ordinal": 7,
+              "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "FTIUCCHJIKCW42JTC7D2VVJW",
+            "updated_at": "2026-09-20T20:50:21.033Z",
+            "created_at": "2026-09-20T19:49:56.187Z",
+            "version": 1789937421033,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF - Breathe & Balance Aromatherapy Inhaler",
+              "price_money": {
+                "amount": 18,
+                "currency": "USD"
+              },
+              "ordinal": 8,
+              "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "KMTJAVHXCAOOTI7KCILRMR2W",
+            "updated_at": "2026-09-20T20:50:21.033Z",
+            "created_at": "2026-09-20T19:49:56.187Z",
+            "version": 1789937421033,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF - Caffeine & Hyaluronic Acid Undereye Treat",
+              "price_money": {
+                "amount": 18,
+                "currency": "USD"
+              },
+              "ordinal": 9,
+              "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "SB3EY6RC3JJGQPWV7OW3IYHY",
+            "updated_at": "2026-09-20T20:50:21.033Z",
+            "created_at": "2026-09-20T19:49:56.187Z",
+            "version": 1789937421033,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF - Red Light (full body) - 20 Mins",
+              "price_money": {
+                "amount": 75,
+                "currency": "USD"
+              },
+              "ordinal": 10,
+              "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "G7W7UCBETHR6WTAJJYT6LPVY",
+            "updated_at": "2026-09-20T20:50:21.033Z",
+            "created_at": "2026-09-20T19:49:56.187Z",
+            "version": 1789937421033,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF - Grounding Mat",
+              "price_money": {
+                "amount": 30,
+                "currency": "USD"
+              },
+              "ordinal": 11,
+              "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "OZKYBREIV3QHQPBC4CA2JJZ3",
+            "updated_at": "2026-09-20T20:50:21.033Z",
+            "created_at": "2026-09-20T19:49:56.187Z",
+            "version": 1789937421033,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF - Therapeutic Cupping",
+              "price_money": {
+                "amount": 60,
+                "currency": "USD"
+              },
+              "ordinal": 12,
+              "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "ZUM6TT5X5RPWI6CTBNP3YHBP",
+            "updated_at": "2026-09-20T20:50:21.033Z",
+            "created_at": "2026-09-20T19:49:56.187Z",
+            "version": 1789937421033,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF - Muscle Scraping",
+              "price_money": {
+                "amount": 60,
+                "currency": "USD"
+              },
+              "ordinal": 13,
+              "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+              "hidden_online": true
+            }
+          }
+        ],
+        "allow_quantities": false,
+        "is_conversational": false,
+        "modifier_type": "LIST",
+        "min_selected_modifiers": 1,
+        "max_selected_modifiers": 0,
+        "hidden_from_customer": false
+      }
+    },
+    "NJVQD7HIY7MD2PYLEFQ3UAG6": {
+      "type": "MODIFIER_LIST",
+      "id": "NJVQD7HIY7MD2PYLEFQ3UAG6",
+      "updated_at": "2026-08-03T17:12:04.537Z",
+      "created_at": "2026-08-02T22:43:27.156Z",
+      "version": 1785777124537,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "modifier_list_data": {
+        "name": "Payment Method - Red & Near Infrared Light Therapy | Matrix Wellness & Biotech",
+        "ordinal": 48,
+        "selection_type": "SINGLE",
+        "modifiers": [
+          {
+            "type": "MODIFIER",
+            "id": "QMGD7AJEFKBUTFOGAH43IF7W",
+            "updated_at": "2026-08-03T17:12:04.537Z",
+            "created_at": "2026-08-02T22:43:27.156Z",
+            "version": 1785777124537,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "Cash Payment",
+              "price_money": {
+                "amount": 0,
+                "currency": "USD"
+              },
+              "ordinal": 0,
+              "modifier_list_id": "NJVQD7HIY7MD2PYLEFQ3UAG6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "OVP5XYD6DWH3H6X32TG52AT4",
+            "updated_at": "2026-08-03T17:12:04.537Z",
+            "created_at": "2026-08-02T22:43:27.156Z",
+            "version": 1785777124537,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF-3 - 20 Minute Session ($0.75)",
+              "price_money": {
+                "amount": 75,
+                "currency": "USD"
+              },
+              "ordinal": 1,
+              "modifier_list_id": "NJVQD7HIY7MD2PYLEFQ3UAG6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "5TSV3XNCYIT2FNGMES6PXWJK",
+            "updated_at": "2026-08-03T17:12:04.537Z",
+            "created_at": "2026-08-02T22:43:27.156Z",
+            "version": 1785777124537,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF-3 - 30 Minute Session ($1.05)",
+              "price_money": {
+                "amount": 105,
+                "currency": "USD"
+              },
+              "ordinal": 2,
+              "modifier_list_id": "NJVQD7HIY7MD2PYLEFQ3UAG6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "WXJZJ3YE6HL7XQ4DYSMWX4D6",
+            "updated_at": "2026-08-03T17:12:04.537Z",
+            "created_at": "2026-08-02T22:43:27.156Z",
+            "version": 1785777124537,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF-3 - 40 Minute Session ($1.35)",
+              "price_money": {
+                "amount": 135,
+                "currency": "USD"
+              },
+              "ordinal": 3,
+              "modifier_list_id": "NJVQD7HIY7MD2PYLEFQ3UAG6",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "HACSLDGQF44OPMX3DJVJTMHW",
+            "updated_at": "2026-08-03T17:12:04.537Z",
+            "created_at": "2026-08-02T22:43:27.156Z",
+            "version": 1785777124537,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF-3 - 50 Minute Session ($1.65)",
+              "price_money": {
+                "amount": 165,
+                "currency": "USD"
+              },
+              "ordinal": 4,
+              "modifier_list_id": "NJVQD7HIY7MD2PYLEFQ3UAG6",
+              "hidden_online": true
+            }
+          }
+        ],
+        "modifier_type": "LIST",
+        "min_selected_modifiers": 1,
+        "max_selected_modifiers": 1
+      }
+    },
+    "M66TFMQVRHEG6VRWRJN3N6RM": {
+      "type": "MODIFIER_LIST",
+      "id": "M66TFMQVRHEG6VRWRJN3N6RM",
+      "updated_at": "2026-08-03T17:12:04.537Z",
+      "created_at": "2026-08-02T22:47:34.255Z",
+      "version": 1785777124537,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "modifier_list_data": {
+        "name": "Payment Method - Full Body Red Light Therapy (add-on)",
+        "ordinal": 79,
+        "selection_type": "SINGLE",
+        "modifiers": [
+          {
+            "type": "MODIFIER",
+            "id": "JZVE5WDCUTDL7SLIGPR5F5QK",
+            "updated_at": "2026-08-03T17:12:04.537Z",
+            "created_at": "2026-08-02T22:47:34.255Z",
+            "version": 1785777124537,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "Cash Payment",
+              "price_money": {
+                "amount": 0,
+                "currency": "USD"
+              },
+              "ordinal": 0,
+              "modifier_list_id": "M66TFMQVRHEG6VRWRJN3N6RM",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "VDVPIIMGP7ZSJIFBUNPRP6OK",
+            "updated_at": "2026-08-03T17:12:04.537Z",
+            "created_at": "2026-08-02T22:47:34.255Z",
+            "version": 1785777124537,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF-3 - 20 Minute Session ($0.75)",
+              "price_money": {
+                "amount": 75,
+                "currency": "USD"
+              },
+              "ordinal": 1,
+              "modifier_list_id": "M66TFMQVRHEG6VRWRJN3N6RM",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "FFXUW46Q3VLFRQ42SSW6CZDY",
+            "updated_at": "2026-08-03T17:12:04.537Z",
+            "created_at": "2026-08-02T22:47:34.255Z",
+            "version": 1785777124537,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF-3 - 30 Minute Session ($1.05)",
+              "price_money": {
+                "amount": 105,
+                "currency": "USD"
+              },
+              "ordinal": 2,
+              "modifier_list_id": "M66TFMQVRHEG6VRWRJN3N6RM",
+              "hidden_online": true
+            }
+          }
+        ],
+        "modifier_type": "LIST",
+        "min_selected_modifiers": 1,
+        "max_selected_modifiers": 1
+      }
+    },
+    "XS6URRPU2EFUVZBNNCA5YS2K": {
+      "type": "MODIFIER_LIST",
+      "id": "XS6URRPU2EFUVZBNNCA5YS2K",
+      "updated_at": "2026-08-03T17:12:04.537Z",
+      "created_at": "2026-08-02T22:44:44.682Z",
+      "version": 1785777124537,
+      "is_deleted": false,
+      "present_at_all_locations": true,
+      "modifier_list_data": {
+        "name": "Payment Method - Red Light Therapy (Face & Neck)",
+        "ordinal": 59,
+        "selection_type": "SINGLE",
+        "modifiers": [
+          {
+            "type": "MODIFIER",
+            "id": "LGALSADGJ62AYC4VKI5RKX2W",
+            "updated_at": "2026-08-03T17:12:04.537Z",
+            "created_at": "2026-08-02T22:44:44.682Z",
+            "version": 1785777124537,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "Cash Payment",
+              "price_money": {
+                "amount": 0,
+                "currency": "USD"
+              },
+              "ordinal": 0,
+              "modifier_list_id": "XS6URRPU2EFUVZBNNCA5YS2K",
+              "hidden_online": true
+            }
+          },
+          {
+            "type": "MODIFIER",
+            "id": "7MVQBXHI63SCSBUBQW4AJX34",
+            "updated_at": "2026-08-03T17:12:04.537Z",
+            "created_at": "2026-08-02T22:44:44.682Z",
+            "version": 1785777124537,
+            "is_deleted": false,
+            "present_at_all_locations": true,
+            "modifier_data": {
+              "name": "CCF-3",
+              "price_money": {
+                "amount": 45,
+                "currency": "USD"
+              },
+              "ordinal": 1,
+              "modifier_list_id": "XS6URRPU2EFUVZBNNCA5YS2K",
+              "hidden_online": true
+            }
+          }
+        ],
+        "modifier_type": "LIST",
+        "min_selected_modifiers": 1,
+        "max_selected_modifiers": 1
+      }
+    }
+  },
+  "massage_item": {
+    "type": "ITEM",
+    "id": "D6WBEWYNPLZ5ET3YB4APHMVT",
+    "updated_at": "2026-10-22T03:33:09.585Z",
+    "created_at": "2026-04-26T23:08:15.606Z",
+    "version": 1792639989585,
+    "is_deleted": false,
+    "present_at_all_locations": true,
+    "item_data": {
+      "name": "Custom Therapeutic Massage",
+      "description": "Your therapist adjusts pressure and techniques to your goals and tolerance. Whether you’re looking for a relaxing massage (Swedish) or deep tissue, our massages are therapeutic and customized to your needs. Effective work does not need to feel painful. Choose 30 minutes for one focused area, 60 minutes for a focused or broader session, and 90 or 120 minutes for more comprehensive work with extra time for your priorities. Tell us what feels tight or restricted, and we will tailor the session around you.",
+      "is_taxable": false,
+      "ordinal": 1,
+      "tax_ids": [
+        "5TEAI7DWETA22WYLGB6UEMKQ"
+      ],
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+          "modifier_overrides": [
+            {
+              "modifier_id": "ZAEWNI4PVVM3QCF63UMUL7L7",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "74RX44MPSBBGYCRIAOTANRTT",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "FULLZEBIQUGUYL5ATPHUQMXY",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "LOGYZXVMO5MOHM4L4LO2T4BO",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "DD3FWTLZNESFLEKCDI5HIR26",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "TKKVDYEX6QKGX2XVMQRN24FK",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "MZ2LVEEQOBFUUUDXA25GOXBJ",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "WZXH6LIQI4BTNMMT3TCLNVFI",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "BYZZXJ63KW3FZXLIPUG27GPW",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "PYPMI3HZYXPXLGF37HOUHT6X",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "53IGTJISZSSK4BDPTBQAVVN6",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "OYNXEY4AISGOPFIKRW7QQDGJ",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            }
+          ],
+          "min_selected_modifiers": 0,
+          "max_selected_modifiers": 0,
+          "enabled": true,
+          "hidden_from_customer": false,
+          "ordinal": 1,
+          "allow_quantities": "NO",
+          "is_conversational": "NO",
+          "hidden_from_customer_override": "NO"
+        },
+        {
+          "modifier_list_id": "LV64UUB7LDUR3GIXZN2QFKW3",
+          "enabled": true,
+          "ordinal": 3,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "Q6EITI2CLBI6MBIVOZKPNJH5",
+          "modifier_overrides": [
+            {
+              "modifier_id": "RAVGBOKC5CB5YKVHJRQEQ5UP",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "KZPCB4WDNTC2W55KE7AZ6SGJ",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "C56YGLEBJQHU2V7AKHJZO5NQ",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            }
+          ],
+          "min_selected_modifiers": 1,
+          "max_selected_modifiers": 0,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 4,
+          "allow_quantities": "NO",
+          "is_conversational": "NO",
+          "hidden_from_customer_override": "NO"
+        },
+        {
+          "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+          "modifier_overrides": [
+            {
+              "modifier_id": "XH7WYTNJYUVS5YCFM4HQ2L7S",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "NCOZ46MGI6U2W3BIVHO75J55",
+              "on_by_default": true,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "YES"
+            },
+            {
+              "modifier_id": "WNM67ASJQ7DMTAC6BUWX4NY7",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "BMGKH7TYUGJBAVV4NAIMXTGT",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "I4T2FF357NY3ENREQDERBRJM",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "F2O2HSD7XA3XEFTXU66Y2CFZ",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "O4LUMLVPHS3I77TUM7ISJMZL",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "D3GSUGHZKXASJ6LAM5BCOEDZ",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "FTIUCCHJIKCW42JTC7D2VVJW",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "KMTJAVHXCAOOTI7KCILRMR2W",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "SB3EY6RC3JJGQPWV7OW3IYHY",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "G7W7UCBETHR6WTAJJYT6LPVY",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "OZKYBREIV3QHQPBC4CA2JJZ3",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "ZUM6TT5X5RPWI6CTBNP3YHBP",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            }
+          ],
+          "min_selected_modifiers": 1,
+          "max_selected_modifiers": 0,
+          "enabled": true,
+          "hidden_from_customer": false,
+          "ordinal": 5,
+          "allow_quantities": "YES",
+          "is_conversational": "NO",
+          "hidden_from_customer_override": "NO"
+        }
+      ],
+      "variations": [
+        {
+          "type": "ITEM_VARIATION",
+          "id": "NFKTO32K5ES3DEYF6T4JBJPK",
+          "updated_at": "2026-10-22T03:33:09.585Z",
+          "created_at": "2026-04-26T23:08:15.606Z",
+          "version": 1792639989585,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "D6WBEWYNPLZ5ET3YB4APHMVT",
+            "name": "60 Mins",
+            "ordinal": 0,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 11000,
+              "currency": "USD"
+            },
+            "location_overrides": [
+              {
+                "location_id": "LGNQ4P8GPMSEQ",
+                "resource_tokens": [
+                  "PVDNMAOSCDE4NCBTAHNNE4ZV"
+                ]
+              }
+            ],
+            "service_duration": 3600000,
+            "available_for_booking": true,
+            "transition_time": 900000,
+            "sellable": true,
+            "stockable": true,
+            "team_member_ids": [
+              "TM9QAb_o_MEVYMVP"
+            ],
+            "subscription_plan_ids": [
+              "OM3A27ZNBBECD6VXNGMQEVHH"
+            ],
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        },
+        {
+          "type": "ITEM_VARIATION",
+          "id": "L6MM7BDH27CPUCUE7ZHUNCL7",
+          "updated_at": "2026-10-13T02:29:48.848Z",
+          "created_at": "2026-04-26T23:08:15.606Z",
+          "version": 1791858588848,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "D6WBEWYNPLZ5ET3YB4APHMVT",
+            "name": "30 Mins",
+            "ordinal": 1,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 6500,
+              "currency": "USD"
+            },
+            "location_overrides": [
+              {
+                "location_id": "LGNQ4P8GPMSEQ",
+                "resource_tokens": [
+                  "PVDNMAOSCDE4NCBTAHNNE4ZV"
+                ]
+              }
+            ],
+            "service_duration": 1800000,
+            "available_for_booking": true,
+            "transition_time": 900000,
+            "sellable": true,
+            "stockable": true,
+            "team_member_ids": [
+              "TM9QAb_o_MEVYMVP"
+            ],
+            "subscription_plan_ids": [
+              "OM3A27ZNBBECD6VXNGMQEVHH"
+            ],
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        },
+        {
+          "type": "ITEM_VARIATION",
+          "id": "DCLTEVH6QD4MRKGMXXKPWTW6",
+          "updated_at": "2026-10-13T02:29:48.848Z",
+          "created_at": "2026-04-26T23:09:33.732Z",
+          "version": 1791858588848,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "D6WBEWYNPLZ5ET3YB4APHMVT",
+            "name": "90 Mins",
+            "ordinal": 2,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 16000,
+              "currency": "USD"
+            },
+            "location_overrides": [
+              {
+                "location_id": "LGNQ4P8GPMSEQ",
+                "resource_tokens": [
+                  "PVDNMAOSCDE4NCBTAHNNE4ZV"
+                ]
+              }
+            ],
+            "service_duration": 5400000,
+            "available_for_booking": true,
+            "transition_time": 900000,
+            "sellable": true,
+            "stockable": true,
+            "team_member_ids": [
+              "TM9QAb_o_MEVYMVP"
+            ],
+            "subscription_plan_ids": [
+              "OM3A27ZNBBECD6VXNGMQEVHH"
+            ],
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        },
+        {
+          "type": "ITEM_VARIATION",
+          "id": "SZKW5YREU44PNR7IJUEC5ZEB",
+          "updated_at": "2026-10-13T02:29:48.848Z",
+          "created_at": "2026-04-26T23:09:33.732Z",
+          "version": 1791858588848,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "D6WBEWYNPLZ5ET3YB4APHMVT",
+            "name": "120 Mins",
+            "ordinal": 3,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 21000,
+              "currency": "USD"
+            },
+            "location_overrides": [
+              {
+                "location_id": "LGNQ4P8GPMSEQ",
+                "resource_tokens": [
+                  "PVDNMAOSCDE4NCBTAHNNE4ZV"
+                ]
+              }
+            ],
+            "service_duration": 7200000,
+            "available_for_booking": true,
+            "transition_time": 900000,
+            "sellable": true,
+            "stockable": true,
+            "team_member_ids": [
+              "TM9QAb_o_MEVYMVP"
+            ],
+            "subscription_plan_ids": [
+              "OM3A27ZNBBECD6VXNGMQEVHH"
+            ],
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        }
+      ],
+      "product_type": "APPOINTMENTS_SERVICE",
+      "skip_modifier_screen": false,
+      "ecom_visibility": "VISIBLE",
+      "categories": [
+        {
+          "id": "DIDPUWGIAX47Z3WFKFAPU726",
+          "ordinal": -2251799595581440
+        }
+      ],
+      "description_html": "Your therapist adjusts pressure and techniques to your goals and tolerance. Whether you’re looking for a relaxing massage (Swedish) or deep tissue, our massages are therapeutic and customized to your needs. Effective work does not need to feel painful. Choose 30 minutes for one focused area, 60 minutes for a focused or broader session, and 90 or 120 minutes for more comprehensive work with extra time for your priorities. Tell us what feels tight or restricted, and we will tailor the session around you.</p>",
+      "description_plaintext": "Your therapist adjusts pressure and techniques to your goals and tolerance. Whether you’re looking for a relaxing massage (Swedish) or deep tissue, our massages are therapeutic and customized to your needs. Effective work does not need to feel painful. Choose 30 minutes for one focused area, 60 minutes for a focused or broader session, and 90 or 120 minutes for more comprehensive work with extra time for your priorities. Tell us what feels tight or restricted, and we will tailor the session around you.",
+      "channels": [
+        "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+        "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+      ],
+      "location_overrides": [
+        {
+          "location_id": "LGNQ4P8GPMSEQ",
+          "ordinal": 2
+        }
+      ],
+      "is_archived": false,
+      "reporting_category": {
+        "id": "DIDPUWGIAX47Z3WFKFAPU726",
+        "ordinal": -2251799595581440
+      },
+      "is_alcoholic": false,
+      "use_location_fulfillment_methods": false
+    }
+  },
+  "associations": [
+    {
+      "id": "2W7HJS5C6ZD2FGRS2NNE4TWE",
+      "name": "Candlelight Calm Signature Massage",
+      "version": 1791572933802,
+      "archived": false,
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 1,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "F4IJZGA4CWKUBOQ4A25C5FAJ",
+          "enabled": true,
+          "hidden_from_customer": false,
+          "ordinal": 2,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        }
+      ],
+      "object_hash": "d0943ff48ecd41254621e0bcfa131a7b49910a7deee266ea7086dccd0b6e90e3"
+    },
+    {
+      "id": "4UVQEGTGIYKL45UJO2LXYBBR",
+      "name": "Lymphatic Drainage Massage (Manual)",
+      "version": 1792639989585,
+      "archived": false,
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 1,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "MG3LFLSQBXWD2HT4ZNM3KIJE",
+          "enabled": true,
+          "ordinal": 2,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        }
+      ],
+      "object_hash": "8f232feb20da80aab34fdd1bfeb52c20b767cc87d7df19acfd5539fd144cde05"
+    },
+    {
+      "id": "5TMAAL7UNW75SMC6XG7R53QA",
+      "name": "Circadia Dream Facial",
+      "version": 1792639989585,
+      "archived": false,
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "WXYWRYILDHHFP4MAMWLGB3Y4",
+          "modifier_overrides": [
+            {
+              "modifier_id": "MCGXOW47BH53CITUQWSLSE4P",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "T3OEQSRXZ353EUSY4UDHXEQY",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            }
+          ],
+          "min_selected_modifiers": 1,
+          "max_selected_modifiers": 1,
+          "enabled": true,
+          "hidden_from_customer": false,
+          "ordinal": 1,
+          "allow_quantities": "NO",
+          "is_conversational": "NO",
+          "hidden_from_customer_override": "NO"
+        },
+        {
+          "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+          "modifier_overrides": [
+            {
+              "modifier_id": "ZAEWNI4PVVM3QCF63UMUL7L7",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "74RX44MPSBBGYCRIAOTANRTT",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "FULLZEBIQUGUYL5ATPHUQMXY",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "LOGYZXVMO5MOHM4L4LO2T4BO",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "DD3FWTLZNESFLEKCDI5HIR26",
+              "on_by_default": true,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "YES"
+            },
+            {
+              "modifier_id": "TKKVDYEX6QKGX2XVMQRN24FK",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "MZ2LVEEQOBFUUUDXA25GOXBJ",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "WZXH6LIQI4BTNMMT3TCLNVFI",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "BYZZXJ63KW3FZXLIPUG27GPW",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "PYPMI3HZYXPXLGF37HOUHT6X",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "53IGTJISZSSK4BDPTBQAVVN6",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "OYNXEY4AISGOPFIKRW7QQDGJ",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            }
+          ],
+          "min_selected_modifiers": 0,
+          "max_selected_modifiers": 0,
+          "enabled": true,
+          "hidden_from_customer": false,
+          "ordinal": 2,
+          "allow_quantities": "NO",
+          "is_conversational": "NO",
+          "hidden_from_customer_override": "NO"
+        },
+        {
+          "modifier_list_id": "FTSQHDOOE6CKO7O4PV6ERMW6",
+          "modifier_overrides": [
+            {
+              "modifier_id": "COIJBY2J4RQDMUCEIQAPNV2K",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "NLGUBHNRCPOHZWGZAXBDHEVH",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "MCJ5TWXRLPBTYX6BSGWCKNQR",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "OK736ESVFUD6YBJH5BBGKZYL",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "TLZAB7JIQOGVAWDJ77V7BQ2P",
+              "on_by_default": true,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "YES"
+            }
+          ],
+          "min_selected_modifiers": 0,
+          "max_selected_modifiers": 0,
+          "enabled": true,
+          "hidden_from_customer": false,
+          "ordinal": 3,
+          "allow_quantities": "NO",
+          "is_conversational": "NO",
+          "hidden_from_customer_override": "NO"
+        }
+      ],
+      "object_hash": "fbb43cfd7e8c6c1635753f415b84b572c37d540afb7dc9fa7943d22b1a346b2a"
+    },
+    {
+      "id": "BN254HDC5Q22KUKF64BRBIMD",
+      "name": "Prenatal Massage (Pregnancy Massage)",
+      "version": 1792639989585,
+      "archived": false,
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": true,
+          "hidden_from_customer": false,
+          "ordinal": 1,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "IEEQTYGRJYGHTBZRUY52CO3H",
+          "enabled": true,
+          "ordinal": 2,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        }
+      ],
+      "object_hash": "708b2f6c52c2eb5af5a4e769eec3fb6e19a831833d7cd2e2588150049cd3be87"
+    },
+    {
+      "id": "D6WBEWYNPLZ5ET3YB4APHMVT",
+      "name": "Custom Therapeutic Massage",
+      "version": 1792639989585,
+      "archived": false,
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+          "modifier_overrides": [
+            {
+              "modifier_id": "ZAEWNI4PVVM3QCF63UMUL7L7",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "74RX44MPSBBGYCRIAOTANRTT",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "FULLZEBIQUGUYL5ATPHUQMXY",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "LOGYZXVMO5MOHM4L4LO2T4BO",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "DD3FWTLZNESFLEKCDI5HIR26",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "TKKVDYEX6QKGX2XVMQRN24FK",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "MZ2LVEEQOBFUUUDXA25GOXBJ",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "WZXH6LIQI4BTNMMT3TCLNVFI",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "BYZZXJ63KW3FZXLIPUG27GPW",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "PYPMI3HZYXPXLGF37HOUHT6X",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "53IGTJISZSSK4BDPTBQAVVN6",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "OYNXEY4AISGOPFIKRW7QQDGJ",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            }
+          ],
+          "min_selected_modifiers": 0,
+          "max_selected_modifiers": 0,
+          "enabled": true,
+          "hidden_from_customer": false,
+          "ordinal": 1,
+          "allow_quantities": "NO",
+          "is_conversational": "NO",
+          "hidden_from_customer_override": "NO"
+        },
+        {
+          "modifier_list_id": "LV64UUB7LDUR3GIXZN2QFKW3",
+          "enabled": true,
+          "ordinal": 3,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "Q6EITI2CLBI6MBIVOZKPNJH5",
+          "modifier_overrides": [
+            {
+              "modifier_id": "RAVGBOKC5CB5YKVHJRQEQ5UP",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "KZPCB4WDNTC2W55KE7AZ6SGJ",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "C56YGLEBJQHU2V7AKHJZO5NQ",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            }
+          ],
+          "min_selected_modifiers": 1,
+          "max_selected_modifiers": 0,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 4,
+          "allow_quantities": "NO",
+          "is_conversational": "NO",
+          "hidden_from_customer_override": "NO"
+        },
+        {
+          "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+          "modifier_overrides": [
+            {
+              "modifier_id": "XH7WYTNJYUVS5YCFM4HQ2L7S",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "NCOZ46MGI6U2W3BIVHO75J55",
+              "on_by_default": true,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "YES"
+            },
+            {
+              "modifier_id": "WNM67ASJQ7DMTAC6BUWX4NY7",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "BMGKH7TYUGJBAVV4NAIMXTGT",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "I4T2FF357NY3ENREQDERBRJM",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "F2O2HSD7XA3XEFTXU66Y2CFZ",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "O4LUMLVPHS3I77TUM7ISJMZL",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "D3GSUGHZKXASJ6LAM5BCOEDZ",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "FTIUCCHJIKCW42JTC7D2VVJW",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "KMTJAVHXCAOOTI7KCILRMR2W",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "SB3EY6RC3JJGQPWV7OW3IYHY",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "G7W7UCBETHR6WTAJJYT6LPVY",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "OZKYBREIV3QHQPBC4CA2JJZ3",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "ZUM6TT5X5RPWI6CTBNP3YHBP",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            }
+          ],
+          "min_selected_modifiers": 1,
+          "max_selected_modifiers": 0,
+          "enabled": true,
+          "hidden_from_customer": false,
+          "ordinal": 5,
+          "allow_quantities": "YES",
+          "is_conversational": "NO",
+          "hidden_from_customer_override": "NO"
+        }
+      ],
+      "object_hash": "6c3b920893b86d475e7f6a3a31a743d05416bac0fe1ee23c98d94c96f9b7428a"
+    },
+    {
+      "id": "DLX3E64HZHTJUWFLFVUJIIML",
+      "name": "Red Light Therapy (Face & Neck)",
+      "version": 1794074837491,
+      "archived": false,
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "XS6URRPU2EFUVZBNNCA5YS2K",
+          "enabled": true,
+          "ordinal": 1,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        }
+      ],
+      "object_hash": "891dbd528abc01de7f1fe283f43036c5a889565440b1deebdf1ec168466a4304"
+    },
+    {
+      "id": "E2TY2ERN6L4SHTVWIFEXK7YG",
+      "name": "Facial & Scalp + Golden Honey Heel & Foot Mask",
+      "version": 1792637276664,
+      "archived": false,
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 1,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "SFNZFFXHEMU4S5MQOACQFZCV",
+          "enabled": true,
+          "ordinal": 2,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        }
+      ],
+      "object_hash": "3e15d72d6dfbb2c841b92bf96271c646cc9001409b8cf3b9cce825673c57c639"
+    },
+    {
+      "id": "O3M6MJG44YUUVFQNJFJC7WUC",
+      "name": "Red & Near Infrared Light Therapy | Matrix Wellness & Biotech",
+      "version": 1794074835924,
+      "archived": false,
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "6LOOINCTRK7XU3NERD6MVBNL",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 1,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "JT4KWZKMLVW5QLVA7D63ZPTV",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 2,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "BO7G5WNWDPE2W4HA5VIDLZQN",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 3,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "4FJNRAID6TIIBOFTPSQHWRRI",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 4,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "NTLWGICNPGK3BTHOF3RKN2YT",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 5,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "MNSSMN3VGIDYMCJ45743JPW6",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 6,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "SFDKGO7YCVI4HRZLORKSBL7M",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 7,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "NJVQD7HIY7MD2PYLEFQ3UAG6",
+          "enabled": true,
+          "ordinal": 8,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        }
+      ],
+      "object_hash": "2a5c4da6694438b8ae4b883b073f2852f6b2e298986b9aa23b56fd8eb616c6ef"
+    },
+    {
+      "id": "S276Q6HDDTNWVV745WKVDKT6",
+      "name": "Full Body Red Light Therapy (add-on)",
+      "version": 1794074839014,
+      "archived": false,
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "M66TFMQVRHEG6VRWRJN3N6RM",
+          "enabled": true,
+          "ordinal": 1,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        }
+      ],
+      "object_hash": "76f806958a92cf89ea157574751c34fde2889ba5a2856fe2810bbb4bc5e37a14"
+    },
+    {
+      "id": "SIFSUVAN767S4TCVTRNXRDS7",
+      "name": "Hand Compression & Heat Therapy",
+      "version": 1792639989585,
+      "archived": false,
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 0,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "RZG6ASWGTMFKIO5Z2CEGQOJS",
+          "enabled": true,
+          "ordinal": 1,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        }
+      ],
+      "object_hash": "70d18c9aed62fd4db1fd0711ebef195357b2ea66cec5cca648842b39f6448714"
+    },
+    {
+      "id": "XWPHF2HC3LRMMRBBQ2DYM4LL",
+      "name": "Facial & Head/Scalp Massage",
+      "version": 1792639989585,
+      "archived": false,
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 1,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "FTSQHDOOE6CKO7O4PV6ERMW6",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 2,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "2OMMWVB2SPUKBPZBOVKJH4LC",
+          "enabled": true,
+          "hidden_from_customer": false,
+          "ordinal": 3,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        }
+      ],
+      "object_hash": "9190f91f5aca336f60ddde2cfebc4aaf5fd65b4ef71e9d09a2fb29abce501528"
+    }
+  ],
+  "catalog_item_count": 111
+}

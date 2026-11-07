@@ -1,0 +1,46 @@
+{
+  "operation": "UPDATE",
+  "update_mode": "MSSM_RED_LIGHT_SHARED_20261107",
+  "request_id": "SSM-20261107-RLSHARED1",
+  "baseline_hash": "f8b21c228a8f84ee988688419b02c6c547c193c6fc2beb494098f4617b23bc23",
+  "changes": [
+    {
+      "list": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+      "modifier": "BYZZXJ63KW3FZXLIPUG27GPW",
+      "from": 2500,
+      "to": 2299,
+      "add": {
+        "id": "#MSSMRL_FACE_20261107",
+        "name": "Red Light (face/head)",
+        "cents": 1499
+      }
+    },
+    {
+      "list": "SHLF7QFESV3Q3VPCLQAMPIC6",
+      "modifier": "SB3EY6RC3JJGQPWV7OW3IYHY",
+      "from": 75,
+      "to": 69,
+      "add": {
+        "id": "#MSSMRL_FACE_CCF_20261107",
+        "name": "CCF - Red Light (face/head)",
+        "cents": 45
+      }
+    },
+    {
+      "list": "NJVQD7HIY7MD2PYLEFQ3UAG6",
+      "modifier": "OVP5XYD6DWH3H6X32TG52AT4",
+      "from": 75,
+      "to": 78,
+      "oldName": "CCF-3 - 20 Minute Session ($0.75)",
+      "newName": "CCF-3 - 20 Minute Session ($0.78)"
+    },
+    {
+      "list": "M66TFMQVRHEG6VRWRJN3N6RM",
+      "modifier": "VDVPIIMGP7ZSJIFBUNPRP6OK",
+      "from": 75,
+      "to": 69,
+      "oldName": "CCF-3 - 20 Minute Session ($0.75)",
+      "newName": "CCF-3 - 20 Minute Session ($0.69)"
+    }
+  ]
+}
