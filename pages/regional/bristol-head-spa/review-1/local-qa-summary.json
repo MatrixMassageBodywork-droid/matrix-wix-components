@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-06",
+  "status": "STATIC_DESIGN_TESTED_NOT_WIX",
+  "h1": 1,
+  "faq": 8,
+  "linkDestinations": [
+    "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi"
+  ],
+  "landmarks": [
+    "Bristol 45 Diner",
+    "The Club at Strawberry Creek"
+  ],
+  "localViewportChecks": [
+    320,
+    390,
+    1280,
+    1440,
+    1920
+  ],
+  "scrollWidthEqualsViewportAtAllTestedSizes": true,
+  "allEightFaqsExpanded": true,
+  "externalImagesLoadedInSandbox": false,
+  "wixNativeQA": false,
+  "published": false
+}

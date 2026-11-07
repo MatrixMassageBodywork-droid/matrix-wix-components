@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Matrix's Japanese Head Spa located in Bristol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Matrix Massage & Bodywork has one studio at 24804 75th St, Salem, WI 53168. We welcome Bristol guests, but do not operate a separate Bristol location."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I get to Matrix from Bristol 45 Diner?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use Bristol 45 Diner at 8321 200th Avenue as a starting landmark and follow your live map route west toward our studio on 75th Street in Salem. The Directions from Bristol 45 Diner button above opens the route in Google Maps."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I get directions from Strawberry Creek?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The Club at Strawberry Creek, at 14810 72nd Street in Kenosha, is another nearby reference point. Use the Directions from Strawberry Creek button above for the route to 24804 75th St, Salem."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which Japanese Head Spa should a first-time guest choose?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The 60-minute Matrix Signature Head Spa is a popular starting point at $135. For a shorter visit, choose the 45-minute Scalp Cleanse & Refresh Head Spa at $95. Longer experiences are available on the main Head Spa menu."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in a Japanese Head Spa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Matrix Head Spa is a relaxing cosmetic scalp-care experience with scalp assessment, a customized infusion and hands-on care. Depending on the booked ritual, it may include cleansing, exfoliation, warm-water waterfall therapy, steam and scalp, neck or shoulder massage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will my hair be dry when I leave?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Hair is left wet after Head Spa. If you would like professional drying or styling, arrange that as a separate service before your visit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I book if I have extensions or scalp sensitivities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contact Matrix before booking and share any extensions, braids, recent chemical services, irritation or allergies. Your provider can confirm whether the service and products are suitable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I combine a Head Spa with a facial?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Matrix offers Head Spa and facial combinations at our Salem studio. See the complete Head Spa menu for available experiences and current prices."
+      }
+    }
+  ]
+}
