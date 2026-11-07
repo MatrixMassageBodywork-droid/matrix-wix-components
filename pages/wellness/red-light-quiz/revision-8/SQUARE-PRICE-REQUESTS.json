@@ -1,0 +1,29 @@
+[
+  [
+    "SSM-20261107-RLFULL8",
+    "2026-11-07T17:33:11.635Z",
+    "2026-11-07T17:33:11.635Z",
+    "RESOLVE_REQUESTED",
+    "UPDATE",
+    "Owner requested full body standalone red light therapy at $25.99. Resolve the existing service and all current variations, categories, providers and payment relationships before drafting a price-only UPDATE. Do not infer a duration, delete variations, change bookability, or apply this price to a combination service.",
+    "{\"operation\":\"UPDATE\",\"service_family\":\"WELLNESS\",\"proposed_name\":\"Red & Near Infrared Light Therapy | Matrix Wellness & Biotech\",\"existing_item_id\":\"O3M6MJG44YUUVFQNJFJC7WUC\",\"price_amount_cents\":2599,\"currency\":\"USD\"}"
+  ],
+  [
+    "SSM-20261107-RLFACE8",
+    "2026-11-07T17:33:11.635Z",
+    "2026-11-07T17:33:11.635Z",
+    "RESOLVE_REQUESTED",
+    "UPDATE",
+    "Owner requested face and head red light therapy at $14.99, also available as a massage enhancement. Historical face/neck item ID is a lookup candidate only. Resolve current identity/variations and linked massage modifiers; preserve duration, provider, booking and payment settings. Do not rename neck to head or change shared modifiers without verifying the live match.",
+    "{\"operation\":\"UPDATE\",\"service_family\":\"ADD_ON\",\"proposed_name\":\"Face & Head Red Light Therapy\",\"existing_item_id\":\"DLX3E64HZHTJUWFLFVUJIIML\",\"price_amount_cents\":1499,\"currency\":\"USD\"}"
+  ],
+  [
+    "SSM-20261107-RLENH8",
+    "2026-11-07T17:33:11.635Z",
+    "2026-11-07T17:33:11.635Z",
+    "RESOLVE_REQUESTED",
+    "UPDATE",
+    "Owner requested full body red light during an existing session as a $22.99 add-on/enhancement. Resolve existing item and variations; historical similar item GRFE2B2DWCR5E7U6SWEHOEPZ is a duplicate candidate, not a second authorized write. Preserve durations, provider, booking/payment/category settings and determine which existing option is the during-session enhancement. Do not touch combination service 7QATKULYL2IX7NX3Z72FUOMG.",
+    "{\"operation\":\"UPDATE\",\"service_family\":\"ADD_ON\",\"proposed_name\":\"Full Body Red Light Enhancement\",\"existing_item_id\":\"S276Q6HDDTNWVV745WKVDKT6\",\"price_amount_cents\":2299,\"currency\":\"USD\"}"
+  ]
+]

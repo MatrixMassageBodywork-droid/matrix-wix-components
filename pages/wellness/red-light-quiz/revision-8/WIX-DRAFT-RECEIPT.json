@@ -1,0 +1,71 @@
+{
+  "saved": true,
+  "published": false,
+  "draftPageId": "xv7va",
+  "draftSlug": "red-light-therapy-guide",
+  "nativeHeading": "Red Light Therapy Quiz in Salem, WI",
+  "nativeIntro": "Find your glow at Matrix. Explore skin, scalp, comfort and recovery goals, compare our red light options, and plan a visit that fits you. Full body $25.99 • Face & head $14.99 • Full body enhancement +$22.99.",
+  "desktop": {
+    "section1": {
+      "height": 6500,
+      "y": 134
+    },
+    "htmlGlowQuiz": {
+      "width": 980,
+      "height": 5700,
+      "x": 0,
+      "y": 367
+    },
+    "glowCaptcha": {
+      "y": 6090
+    },
+    "glowStatus": {
+      "y": 6170
+    },
+    "glowVisitInfo": {
+      "y": 6250
+    }
+  },
+  "mobile": {
+    "section1": {
+      "height": 10100,
+      "y": 62
+    },
+    "htmlGlowQuiz": {
+      "width": 320,
+      "height": 9000,
+      "x": 0,
+      "y": 355
+    },
+    "glowCaptcha": {
+      "y": 9380
+    },
+    "glowStatus": {
+      "y": 9455
+    },
+    "glowVisitInfo": {
+      "y": 9540
+    }
+  },
+  "checks": {
+    "mobileDocumentWidth": 320,
+    "mobileScrollWidth": 320,
+    "mobileContentHeight": 8344.234375,
+    "priceSelectorFull": 25.99,
+    "priceSelectorFace": 14.99,
+    "priceSelectorEnhancement": 22.99,
+    "skinPathToContactGate": true,
+    "contactFieldsPreserved": true,
+    "liveSubmissions": false,
+    "emailDelivery": false
+  },
+  "schema": "Wix draft metadata saved and GET verified; noindex retained",
+  "previewUrl": "https://cdec8df6-d518-4859-9f1e-f06bf5346d41.filesusr.com/html/e4cc43_acd766b460b08370a2b37af6d33d943e.html#pricing",
+  "limitations": [
+    "Full-page capture timed out. Viewport screenshots saved; hosted HTML permits complete review.",
+    "Wix editor preview cannot test production origin bridge, live CAPTCHA, CRM storage or triggered email.",
+    "Existing source/test/privacy/email gates retained.",
+    "Full body during-session matching variation and shared enhancement modifiers still require fresh Square resolution.",
+    "Expanded study/report content can require scrolling inside the fixed-height Wix HTML component."
+  ]
+}
