@@ -1,0 +1,14 @@
+{
+  "serviceName": "Lash Extensions in Salem & Paddock Lake",
+  "revision": "review-2",
+  "tagName": "matrix-lash-extensions",
+  "elementId": "matrixLashExtensions",
+  "rootClass": "matrix-lashes",
+  "pageUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi",
+  "seoTitle": "Eyelash Extensions Salem & Paddock Lake, WI | Matrix",
+  "seoDescription": "Classic, Hybrid & Volume lash extensions in Salem near Paddock Lake. Full sets with April from $170, fills from $55. Compare styles, prices & book online.",
+  "seoSource": "SPECIFICATION.md; baseline/site-inventory.json; baseline/square-live-menu.txt",
+  "bodyFile": "body.html",
+  "cssFile": "style.css",
+  "expectedFaqCount": 12
+}

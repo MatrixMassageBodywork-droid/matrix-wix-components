@@ -1,0 +1,86 @@
+[
+  {
+    "faqBottom": 747.578125,
+    "faqs": 12,
+    "height": 14784.8125,
+    "images": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "nextTop": 747.578125,
+    "open": 12,
+    "requested": 320,
+    "scrollWidth": 305,
+    "sectionBounds": true,
+    "width": 305
+  },
+  {
+    "faqBottom": 687.03125,
+    "faqs": 12,
+    "height": 13198.09375,
+    "images": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "nextTop": 687.03125,
+    "open": 12,
+    "requested": 390,
+    "scrollWidth": 375,
+    "sectionBounds": true,
+    "width": 375
+  },
+  {
+    "faqs": 12,
+    "h1": 1,
+    "height": 7120.5,
+    "images": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "scrollWidth": 1265,
+    "sectionBounds": true,
+    "width": 1265,
+    "requested": 1280
+  },
+  {
+    "faqs": 12,
+    "h1": 1,
+    "height": 7168.265625,
+    "images": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "scrollWidth": 1425,
+    "sectionBounds": true,
+    "width": 1425,
+    "requested": 1440
+  },
+  {
+    "faqs": 12,
+    "h1": 1,
+    "height": 7181.296875,
+    "images": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "scrollWidth": 1905,
+    "sectionBounds": true,
+    "width": 1905,
+    "requested": 1920
+  }
+]

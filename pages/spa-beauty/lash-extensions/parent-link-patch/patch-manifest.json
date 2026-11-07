@@ -1,0 +1,12 @@
+{
+  "status": "CANDIDATE ONLY; NOT INSTALLED",
+  "baselineSourceCommit": "d6ba973973555437dc09fa00360f59bd7b4884eb",
+  "pageId": "ualp6",
+  "elementId": "matrixSpaMain",
+  "tagName": "matrix-spa-main",
+  "beforeButton": "<a class=\"sb-button\" href=\"https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services\" target=\"_top\">VIEW LASH MENU &amp; FILLS</a>",
+  "afterButton": "<a class=\"sb-button\" href=\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi\" target=\"_top\">EXPLORE LASH EXTENSIONS</a>",
+  "baselineRendererSha256": "b065270171c740b8fe2ede7971c34a7f59d6434219ecca498e4fafa5a2f46ee6",
+  "patchedRendererSha256": "9188f84d54d6b130ad28c9fd3b75bdafd00b1fdee1ee3efc985f83b5c5883de8",
+  "onlyChange": "One existing lash-card button label and href in visible HTML and seoMarkup; original three booking shortcuts, all other copy, CSS, metadata, schema and native reviews preserved."
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "style": "Classic",
+    "visit": "Full Set",
+    "price": 170,
+    "minutes": 60,
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/AHZUYXVN3SZNP3PGGFKXDNZZ"
+  },
+  {
+    "style": "Classic",
+    "visit": "1-Week Fill",
+    "price": 55,
+    "minutes": 45,
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/Y7YTEMSJSMYJQLC6TWX5JHDW"
+  },
+  {
+    "style": "Classic",
+    "visit": "2-Week Fill",
+    "price": 65,
+    "minutes": 45,
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/GMBTB3SYBZZS2B6U4MA5GHVU"
+  },
+  {
+    "style": "Classic",
+    "visit": "3-Week Fill",
+    "price": 75,
+    "minutes": 45,
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/ZMAXNNHQBBMZRQBFDXFRW2SJ"
+  },
+  {
+    "style": "Hybrid",
+    "visit": "Full Set",
+    "price": 200,
+    "minutes": 60,
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/KGPGPGY2THJJRWGXP22WJPTZ"
+  },
+  {
+    "style": "Hybrid",
+    "visit": "1-Week Fill",
+    "price": 65,
+    "minutes": 45,
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/XJDZPUFYUOT3LIKMIDG2OYW2"
+  },
+  {
+    "style": "Hybrid",
+    "visit": "2-Week Fill",
+    "price": 75,
+    "minutes": 45,
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/SLTZ7HZW5YDRM5LAL6AYYQ6D"
+  },
+  {
+    "style": "Hybrid",
+    "visit": "3-Week Fill",
+    "price": 85,
+    "minutes": 45,
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/KXDLPSHD6A3TRMXPQPWCZUPD"
+  },
+  {
+    "style": "Volume",
+    "visit": "Full Set",
+    "price": 220,
+    "minutes": 60,
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/JS7RTFPI4HOWHCZRGZ6NUXCN"
+  },
+  {
+    "style": "Volume",
+    "visit": "1-Week Fill",
+    "price": 75,
+    "minutes": 45,
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/CGWFEXHSJ2DHRKZBLY6PCDXZ"
+  },
+  {
+    "style": "Volume",
+    "visit": "2-Week Fill",
+    "price": 85,
+    "minutes": 45,
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/XEI2TFU7WOIVVGX4T42SEY5C"
+  },
+  {
+    "style": "Volume",
+    "visit": "3-Week Fill",
+    "price": 95,
+    "minutes": 45,
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/BTGYEPIK3T7DIJ4JCD4GVGST"
+  }
+]

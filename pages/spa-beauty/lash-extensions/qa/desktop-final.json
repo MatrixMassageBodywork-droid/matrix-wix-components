@@ -1,0 +1,128 @@
+{
+  "faqs": 12,
+  "h1": 1,
+  "height": 8272.515625,
+  "images": [
+    {
+      "alt": "Matrix Massage & Bodywork",
+      "loaded": true
+    },
+    {
+      "alt": "Close-up of Volume lash extensions from the Matrix lash photo collection",
+      "loaded": true
+    },
+    {
+      "alt": "Classic lash extensions from the Matrix lash photo collection",
+      "loaded": true
+    },
+    {
+      "alt": "Hybrid lash extensions from the Matrix lash photo collection",
+      "loaded": true
+    },
+    {
+      "alt": "Volume lash extensions from the Matrix lash photo collection",
+      "loaded": true
+    }
+  ],
+  "open": 12,
+  "scrollWidth": 1348,
+  "sections": [
+    {
+      "bottom": -5896.78125,
+      "class": "hero",
+      "left": 0,
+      "right": 1348,
+      "tag": "SECTION",
+      "top": -6652
+    },
+    {
+      "bottom": -5825.78125,
+      "class": "jump",
+      "left": 0,
+      "right": 1348,
+      "tag": "NAV",
+      "top": -5896.78125
+    },
+    {
+      "bottom": -5508.78125,
+      "class": "section intro",
+      "left": 0,
+      "right": 1348,
+      "tag": "SECTION",
+      "top": -5825.78125
+    },
+    {
+      "bottom": -4366.734375,
+      "class": "section water",
+      "left": 0,
+      "right": 1348,
+      "tag": "SECTION",
+      "top": -5508.78125
+    },
+    {
+      "bottom": -3669.734375,
+      "class": "section pricing",
+      "left": 0,
+      "right": 1348,
+      "tag": "SECTION",
+      "top": -4366.734375
+    },
+    {
+      "bottom": -3045.953125,
+      "class": "section paper",
+      "left": 0,
+      "right": 1348,
+      "tag": "SECTION",
+      "top": -3669.734375
+    },
+    {
+      "bottom": -2625.203125,
+      "class": "section artist",
+      "left": 0,
+      "right": 1348,
+      "tag": "SECTION",
+      "top": -3045.953125
+    },
+    {
+      "bottom": -1967.09375,
+      "class": "section",
+      "left": 0,
+      "right": 1348,
+      "tag": "SECTION",
+      "top": -2625.203125
+    },
+    {
+      "bottom": -1430.46875,
+      "class": "section local",
+      "left": 0,
+      "right": 1348,
+      "tag": "SECTION",
+      "top": -1967.09375
+    },
+    {
+      "bottom": 680.65625,
+      "class": "section paper faq",
+      "left": 0,
+      "right": 1348,
+      "tag": "SECTION",
+      "top": -1430.46875
+    },
+    {
+      "bottom": 1076.890625,
+      "class": "section related-section",
+      "left": 0,
+      "right": 1348,
+      "tag": "SECTION",
+      "top": 680.65625
+    },
+    {
+      "bottom": 1620.515625,
+      "class": "close water",
+      "left": 0,
+      "right": 1348,
+      "tag": "SECTION",
+      "top": 1076.890625
+    }
+  ],
+  "width": 1348
+}

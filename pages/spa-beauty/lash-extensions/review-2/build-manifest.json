@@ -1,0 +1,98 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "Lash Extensions in Salem & Paddock Lake",
+    "revision": "review-2",
+    "tagName": "matrix-lash-extensions",
+    "elementId": "matrixLashExtensions",
+    "rootClass": "matrix-lashes",
+    "pageUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi",
+    "seoTitle": "Eyelash Extensions Salem & Paddock Lake, WI | Matrix",
+    "seoDescription": "Classic, Hybrid & Volume lash extensions in Salem near Paddock Lake. Full sets with April from $170, fills from $55. Compare styles, prices & book online.",
+    "seoSource": "SPECIFICATION.md; baseline/site-inventory.json; baseline/square-live-menu.txt",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 12
+  },
+  "seo": {
+    "title": "Eyelash Extensions Salem & Paddock Lake, WI | Matrix",
+    "description": "Classic, Hybrid & Volume lash extensions in Salem near Paddock Lake. Full sets with April from $170, fills from $55. Compare styles, prices & book online.",
+    "canonical": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi",
+    "source": "SPECIFICATION.md; baseline/site-inventory.json; baseline/square-live-menu.txt"
+  },
+  "h1": "Eyelash Extensions in Salem, WI",
+  "faqCount": 12,
+  "links": [
+    "https://www.matrixmassage.net/",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "#lash-styles",
+    "sms:+12629399325",
+    "#lash-styles",
+    "#lash-pricing",
+    "#first-visit",
+    "#lash-faqs",
+    "#visit",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/AHZUYXVN3SZNP3PGGFKXDNZZ",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/KGPGPGY2THJJRWGXP22WJPTZ",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/JS7RTFPI4HOWHCZRGZ6NUXCN",
+    "sms:+12629399325",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/AHZUYXVN3SZNP3PGGFKXDNZZ",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/KGPGPGY2THJJRWGXP22WJPTZ",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/JS7RTFPI4HOWHCZRGZ6NUXCN",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/Y7YTEMSJSMYJQLC6TWX5JHDW",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/XJDZPUFYUOT3LIKMIDG2OYW2",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/CGWFEXHSJ2DHRKZBLY6PCDXZ",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/GMBTB3SYBZZS2B6U4MA5GHVU",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/SLTZ7HZW5YDRM5LAL6AYYQ6D",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/XEI2TFU7WOIVVGX4T42SEY5C",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/ZMAXNNHQBBMZRQBFDXFRW2SJ",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/KXDLPSHD6A3TRMXPQPWCZUPD",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/BTGYEPIK3T7DIJ4JCD4GVGST",
+    "#lash-styles",
+    "#lash-pricing",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "sms:+12629399325",
+    "sms:+12629399325",
+    "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St,+Salem,+WI+53168",
+    "https://www.matrixmassage.net/about-5",
+    "sms:+12629399325",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+    "#lash-styles",
+    "sms:+12629399325"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+      "alt": "Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@e949d41c1b782c57d5002c4d514ce0d4f3675c6e/pages/spa-beauty/lash-extensions/assets/volume.webp",
+      "alt": "Close-up of Volume lash extensions from the Matrix lash photo collection"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@e949d41c1b782c57d5002c4d514ce0d4f3675c6e/pages/spa-beauty/lash-extensions/assets/classic.webp",
+      "alt": "Classic lash extensions from the Matrix lash photo collection"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@e949d41c1b782c57d5002c4d514ce0d4f3675c6e/pages/spa-beauty/lash-extensions/assets/hybrid.webp",
+      "alt": "Hybrid lash extensions from the Matrix lash photo collection"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@e949d41c1b782c57d5002c4d514ce0d4f3675c6e/pages/spa-beauty/lash-extensions/assets/volume.webp",
+      "alt": "Volume lash extensions from the Matrix lash photo collection"
+    }
+  ],
+  "files": {
+    "body.html": "5f08e0785332080ddf2d0199f12dc062cd0e9ff3be31c33932a39d9d1b8c911f",
+    "style.css": "4426d5f0a92fbfda54ebb5063cae3a16e6fdae230d730ab280bc8ea4d1b8e8eb",
+    "renderer.js": "418aacb41337ab50b7644f4150d8bc5f5c4a228f64bbec94dcbef3aff64f8e38",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "1cf24c2fe51a9a55ffad46d8fff58cbead3ea033d601e5158b82aa53db610855",
+    "preview.html": "4bd3bc29b6c1f6378eef31d65db636d5ed6b538749fde10e99271f8170801576",
+    "faq-schema.json": "f4a1e5220cfe0d4bd7b06de724689c957221376b01e64dd11b917a5aca83632c"
+  },
+  "rendererBytes": 33188
+}
