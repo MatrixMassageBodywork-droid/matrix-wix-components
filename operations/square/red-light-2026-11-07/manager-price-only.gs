@@ -1470,7 +1470,7 @@ function mssmRLValidatePrice_(p,c){
 }
 function mssmRLComparable_(obj){
   const c=mssm166Clone_(obj);
-  function walk(o){if(!o||typeof o!=='object')return;['version','updated_at','created_at'].forEach(function(k){delete o[k];});Object.keys(o).forEach(function(k){walk(o[k]);});}
+  function walk(o){if(!o||typeof o!=='object')return;['version','updated_at','created_at'].forEach(function(k){delete o[k];});if(Array.isArray(o.channels))o.channels.sort();Object.keys(o).forEach(function(k){walk(o[k]);});}
   walk(c);return mssm166StableStringify_(c);
 }
 function mssmRLExpected_(p,baseline){

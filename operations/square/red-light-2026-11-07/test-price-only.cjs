@@ -19,3 +19,8 @@ for(let i=0;i<ids.length;i++){
 }
 fs.writeFileSync(__dirname+'/proposals.json',JSON.stringify(proposals,null,2));
 console.log(JSON.stringify({ok:true,tests,realSquareWrites:0}));
+const after=JSON.parse(fs.readFileSync(__dirname+'/addon-after.json')),b=items[ids[2]];
+const c={reference:{structure_signature:'test'},existing_snapshot:b};
+assert.equal(ctx.mssmRLVerifyPrice_(proposals[2],c,{object:after}).ok,true);
+after.item_data.channels[0]='UNEXPECTED_CHANNEL';assert.equal(ctx.mssmRLVerifyPrice_(proposals[2],c,{object:after}).ok,false);
+console.log(JSON.stringify({channelSetTests:2,ok:true}));

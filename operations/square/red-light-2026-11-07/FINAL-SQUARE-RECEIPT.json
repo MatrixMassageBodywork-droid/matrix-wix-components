@@ -1,0 +1,228 @@
+{
+  "verified_at": "2026-11-07T18:15:39.113Z",
+  "requests": [
+    {
+      "request_id": "SSM-20261107-RLFULL8",
+      "status": "SAVED_VERIFIED",
+      "operation": "UPDATE",
+      "proposal": {
+        "operation": "UPDATE",
+        "update_mode": "MSSM_RED_LIGHT_PRICE_ONLY_20261107",
+        "existing_item_id": "O3M6MJG44YUUVFQNJFJC7WUC",
+        "expected_item_version": 1791572933802,
+        "name": "Red & Near Infrared Light Therapy | Matrix Wellness & Biotech",
+        "description": "A standalone red and near-infrared light appointment in the wellness area. Choose an appointment length, and your provider will confirm an appropriate equipment protocol and screening needs. This is not a hands-on massage service. Tell us about photosensitivity, relevant medication, or advice to avoid light exposure before booking.",
+        "product_type": "APPOINTMENTS_SERVICE",
+        "fields_to_change": [
+          "variation_prices"
+        ],
+        "price_updates": [
+          {
+            "variation_id": "VZBMYNIH4FS4P3Q73KI42QDX",
+            "expected_price_cents": 2500,
+            "price_amount_cents": 2599,
+            "currency": "USD"
+          }
+        ]
+      },
+      "approval_fingerprint": "91901464a718816e693b3cdf97d7065dde338796c6a1771f0fccdefd2fd9729a",
+      "approved_at": "2026-11-07T18:06:52.312Z",
+      "idempotency_key": "mssm-rlprice-20261107-0-91901464a718816e693b",
+      "item_id": "O3M6MJG44YUUVFQNJFJC7WUC",
+      "variation_ids": "VZBMYNIH4FS4P3Q73KI42QDX | RTECGTYYZPRECQFGWWJFLMH4 | TU2HAUUNRQ7RO5KQALNAXWP7 | MTTPFYDMD7R5UMZXXX3D2UDS",
+      "verification": {
+        "ok": true,
+        "errors": [],
+        "summary": {
+          "item_id": "O3M6MJG44YUUVFQNJFJC7WUC",
+          "version": 1794074835924,
+          "mode": "PRICE_ONLY",
+          "prices": [
+            {
+              "id": "VZBMYNIH4FS4P3Q73KI42QDX",
+              "name": "20 Minute Session",
+              "price": {
+                "amount": 2599,
+                "currency": "USD"
+              },
+              "duration": 1200000
+            },
+            {
+              "id": "RTECGTYYZPRECQFGWWJFLMH4",
+              "name": "30 Minute Session",
+              "price": {
+                "amount": 3500,
+                "currency": "USD"
+              },
+              "duration": 1800000
+            },
+            {
+              "id": "TU2HAUUNRQ7RO5KQALNAXWP7",
+              "name": "40 Minute Session",
+              "price": {
+                "amount": 4500,
+                "currency": "USD"
+              },
+              "duration": 2400000
+            },
+            {
+              "id": "MTTPFYDMD7R5UMZXXX3D2UDS",
+              "name": "50 Minute Session",
+              "price": {
+                "amount": 5500,
+                "currency": "USD"
+              },
+              "duration": 3000000
+            }
+          ],
+          "unrelated_fields_preserved": true,
+          "payment_modifiers_preserved": true
+        }
+      },
+      "error": "",
+      "notes": "Square read-back matches approved catalog proposal. Provider assignment/manual booking release still pending for CREATE."
+    },
+    {
+      "request_id": "SSM-20261107-RLFACE8",
+      "status": "SAVED_VERIFIED",
+      "operation": "UPDATE",
+      "proposal": {
+        "operation": "UPDATE",
+        "update_mode": "MSSM_RED_LIGHT_PRICE_ONLY_20261107",
+        "existing_item_id": "DLX3E64HZHTJUWFLFVUJIIML",
+        "expected_item_version": 1792637277210,
+        "name": "Red Light Therapy (Face & Neck)",
+        "description": "Add a face-and-neck red LED session to an eligible treatment when it is not already included. This gentle cosmetic enhancement is selected after reviewing your skin, light sensitivity, and the device protocol. It is intended to complement ongoing skincare; results vary and are not guaranteed after a single session.",
+        "product_type": "APPOINTMENTS_SERVICE",
+        "fields_to_change": [
+          "variation_prices"
+        ],
+        "price_updates": [
+          {
+            "variation_id": "NEZMDCUOGHNV5XLZRBJVX5PI",
+            "expected_price_cents": 1500,
+            "price_amount_cents": 1499,
+            "currency": "USD"
+          }
+        ]
+      },
+      "approval_fingerprint": "bd3c526b2749c32adec94cc6cb78f019b5303ed56e45faf2a785ad2f97f66b0b",
+      "approved_at": "2026-11-07T18:06:52.312Z",
+      "idempotency_key": "mssm-rlprice-20261107-1-bd3c526b2749c32adec9",
+      "item_id": "DLX3E64HZHTJUWFLFVUJIIML",
+      "variation_ids": "NEZMDCUOGHNV5XLZRBJVX5PI",
+      "verification": {
+        "ok": true,
+        "errors": [],
+        "summary": {
+          "item_id": "DLX3E64HZHTJUWFLFVUJIIML",
+          "version": 1794074837491,
+          "mode": "PRICE_ONLY",
+          "prices": [
+            {
+              "id": "NEZMDCUOGHNV5XLZRBJVX5PI",
+              "name": "Enhancement / Add-on",
+              "price": {
+                "amount": 1499,
+                "currency": "USD"
+              },
+              "duration": 0
+            }
+          ],
+          "unrelated_fields_preserved": true,
+          "payment_modifiers_preserved": true
+        }
+      },
+      "error": "",
+      "notes": "Square read-back matches approved catalog proposal. Provider assignment/manual booking release still pending for CREATE."
+    },
+    {
+      "request_id": "SSM-20261107-RLENH8",
+      "status": "SAVED_VERIFIED",
+      "operation": "UPDATE",
+      "proposal": {
+        "operation": "UPDATE",
+        "update_mode": "MSSM_RED_LIGHT_PRICE_ONLY_20261107",
+        "existing_item_id": "S276Q6HDDTNWVV745WKVDKT6",
+        "expected_item_version": 1792639989585,
+        "name": "Full Body Red Light Therapy (add-on)",
+        "description": "Extend your visit with a red and near-infrared light session in the wellness area before or after an eligible treatment. Choose a 20- or 30-minute appointment. Your provider confirms an appropriate light-exposure protocol and any screening needs. This separate wellness session is not the same as the small-area face or scalp LED included in some treatments.",
+        "product_type": "APPOINTMENTS_SERVICE",
+        "fields_to_change": [
+          "variation_prices"
+        ],
+        "price_updates": [
+          {
+            "variation_id": "VC4XTO2AGWL55ZLVWQ7TBDOT",
+            "expected_price_cents": 2500,
+            "price_amount_cents": 2299,
+            "currency": "USD"
+          }
+        ]
+      },
+      "approval_fingerprint": "d141495570157d05a29cd3cf634582c74747f11dbbd1c8b7a404239e8c7b2498",
+      "approved_at": "2026-11-07T18:06:52.312Z",
+      "idempotency_key": "mssm-rlprice-20261107-2-d141495570157d05a29c",
+      "item_id": "S276Q6HDDTNWVV745WKVDKT6",
+      "variation_ids": "VC4XTO2AGWL55ZLVWQ7TBDOT | 7C3LQKGBYVHE5VX45PPS6JZM",
+      "verification": {
+        "ok": true,
+        "errors": [],
+        "summary": {
+          "item_id": "S276Q6HDDTNWVV745WKVDKT6",
+          "version": 1794074839014,
+          "mode": "PRICE_ONLY",
+          "prices": [
+            {
+              "id": "VC4XTO2AGWL55ZLVWQ7TBDOT",
+              "name": "20 Minute Session",
+              "price": {
+                "amount": 2299,
+                "currency": "USD"
+              },
+              "duration": 1200000
+            },
+            {
+              "id": "7C3LQKGBYVHE5VX45PPS6JZM",
+              "name": "30 Minute Session",
+              "price": {
+                "amount": 3500,
+                "currency": "USD"
+              },
+              "duration": 1800000
+            }
+          ],
+          "unrelated_fields_preserved": true,
+          "payment_modifiers_preserved": true
+        }
+      },
+      "error": "",
+      "notes": "Read-only receipt recovery: saved price $22.99 verified; identical sales-channel set returned in different order. No repeat Square write."
+    }
+  ],
+  "gates": [
+    [
+      "SERVICE_MANAGER_ENABLED",
+      "FALSE",
+      "Master gate. Leave FALSE until worker installation and read-only preflight pass."
+    ],
+    [
+      "SERVICE_WRITE_ENABLED",
+      "TRUE",
+      "Live Square catalog write gate. Enable only after owner-approved test."
+    ],
+    [
+      "WRITE_SHARED_MODIFIER_LISTS_ENABLED",
+      "FALSE",
+      "Phase 1 will not create/change shared CCF or add-on lists. Missing exact option blocks safely."
+    ]
+  ],
+  "public_booking_verification": {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/S276Q6HDDTNWVV745WKVDKT6",
+    "twenty_minutes_usd": 22.99,
+    "thirty_minutes_usd": 35,
+    "booking_created": false
+  },
+  "source_verified_after_reload": true,
+  "source_length": 86225
+}

@@ -1,0 +1,3 @@
+12:12:18 PM	Notice	Execution started
+12:12:20 PM	Info	{"ok":true,"squareWrites":0,"verification":{"ok":true,"errors":[],"summary":{"item_id":"S276Q6HDDTNWVV745WKVDKT6","version":1794074839014,"mode":"PRICE_ONLY","prices":[{"id":"VC4XTO2AGWL55ZLVWQ7TBDOT","name":"20 Minute Session","price":{"amount":2299,"currency":"USD"},"duration":1200000},{"id":"7C3LQKGBYVHE5VX45PPS6JZM","name":"30 Minute Session","price":{"amount":3500,"currency":"USD"},"duration":1800000}],"unrelated_fields_preserved":true,"payment_modifiers_preserved":true}}}
+12:12:20 PM	Notice	Execution completed

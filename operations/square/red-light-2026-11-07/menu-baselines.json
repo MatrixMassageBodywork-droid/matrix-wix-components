@@ -1,0 +1,553 @@
+{
+  "GKKPB7JCCQA6S3MIFWHY5Y4W": {
+    "type": "MODIFIER_LIST",
+    "id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+    "updated_at": "2026-09-20T18:39:42.279Z",
+    "created_at": "2026-04-27T01:29:07.277Z",
+    "version": 1789929582279,
+    "is_deleted": false,
+    "present_at_all_locations": true,
+    "modifier_list_data": {
+      "name": "Add Massage Enhancements",
+      "ordinal": 1,
+      "selection_type": "MULTIPLE",
+      "modifiers": [
+        {
+          "type": "MODIFIER",
+          "id": "ZAEWNI4PVVM3QCF63UMUL7L7",
+          "updated_at": "2026-09-20T18:39:42.279Z",
+          "created_at": "2026-04-27T01:29:07.277Z",
+          "version": 1789929582279,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "Relaxing Botanical Oil Scalp Massage",
+            "price_money": {
+              "amount": 1500,
+              "currency": "USD"
+            },
+            "on_by_default": false,
+            "ordinal": 1,
+            "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "74RX44MPSBBGYCRIAOTANRTT",
+          "updated_at": "2026-09-20T18:39:42.279Z",
+          "created_at": "2026-04-27T01:29:07.277Z",
+          "version": 1789929582279,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "30 Mins - Signature Facial & Scalp Massage",
+            "price_money": {
+              "amount": 5500,
+              "currency": "USD"
+            },
+            "on_by_default": false,
+            "ordinal": 2,
+            "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "FULLZEBIQUGUYL5ATPHUQMXY",
+          "updated_at": "2026-09-20T18:39:42.279Z",
+          "created_at": "2026-04-27T01:29:07.277Z",
+          "version": 1789929582279,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "Matrix Repair Hydrating Foot mask",
+            "price_money": {
+              "amount": 2500,
+              "currency": "USD"
+            },
+            "on_by_default": false,
+            "ordinal": 3,
+            "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "LOGYZXVMO5MOHM4L4LO2T4BO",
+          "updated_at": "2026-09-20T18:39:42.279Z",
+          "created_at": "2026-04-27T01:29:07.277Z",
+          "version": 1789929582279,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "Infrared Sauna - 30 Mins",
+            "price_money": {
+              "amount": 2500,
+              "currency": "USD"
+            },
+            "on_by_default": false,
+            "ordinal": 4,
+            "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "DD3FWTLZNESFLEKCDI5HIR26",
+          "updated_at": "2026-09-20T18:39:42.279Z",
+          "created_at": "2026-04-27T01:29:07.277Z",
+          "version": 1789929582279,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "Hand Compression & Heat Therapy",
+            "price_money": {
+              "amount": 1300,
+              "currency": "USD"
+            },
+            "on_by_default": false,
+            "ordinal": 5,
+            "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "TKKVDYEX6QKGX2XVMQRN24FK",
+          "updated_at": "2026-09-20T18:39:42.279Z",
+          "created_at": "2026-04-27T01:29:07.277Z",
+          "version": 1789929582279,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "Neck Cervical Tension Release Booster",
+            "price_money": {
+              "amount": 1200,
+              "currency": "USD"
+            },
+            "on_by_default": false,
+            "ordinal": 6,
+            "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "MZ2LVEEQOBFUUUDXA25GOXBJ",
+          "updated_at": "2026-09-20T18:39:42.279Z",
+          "created_at": "2026-04-27T01:29:07.277Z",
+          "version": 1789929582279,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "Breathe & Balance Aromatherapy Inhaler",
+            "price_money": {
+              "amount": 600,
+              "currency": "USD"
+            },
+            "on_by_default": false,
+            "ordinal": 7,
+            "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "WZXH6LIQI4BTNMMT3TCLNVFI",
+          "updated_at": "2026-09-20T18:39:42.279Z",
+          "created_at": "2026-04-27T01:29:07.277Z",
+          "version": 1789929582279,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "Caffeine & Hyaluronic Acid Undereye Treat",
+            "price_money": {
+              "amount": 600,
+              "currency": "USD"
+            },
+            "on_by_default": false,
+            "ordinal": 8,
+            "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+            "location_overrides": [
+              {
+                "location_id": "LGNQ4P8GPMSEQ",
+                "sold_out": true
+              }
+            ],
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "BYZZXJ63KW3FZXLIPUG27GPW",
+          "updated_at": "2026-09-20T18:39:42.279Z",
+          "created_at": "2026-04-27T01:29:07.277Z",
+          "version": 1789929582279,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "Red Light (full body) - 20 Mins",
+            "price_money": {
+              "amount": 2500,
+              "currency": "USD"
+            },
+            "on_by_default": false,
+            "ordinal": 9,
+            "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "PYPMI3HZYXPXLGF37HOUHT6X",
+          "updated_at": "2026-09-20T18:39:42.279Z",
+          "created_at": "2026-04-27T01:29:07.277Z",
+          "version": 1789929582279,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "Grounding Mat",
+            "price_money": {
+              "amount": 1000,
+              "currency": "USD"
+            },
+            "on_by_default": false,
+            "ordinal": 10,
+            "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "53IGTJISZSSK4BDPTBQAVVN6",
+          "updated_at": "2026-09-20T18:39:42.279Z",
+          "created_at": "2026-04-27T01:29:07.277Z",
+          "version": 1789929582279,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "Therapeutic Cupping",
+            "price_money": {
+              "amount": 2000,
+              "currency": "USD"
+            },
+            "on_by_default": false,
+            "ordinal": 11,
+            "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "OYNXEY4AISGOPFIKRW7QQDGJ",
+          "updated_at": "2026-09-20T18:39:42.279Z",
+          "created_at": "2026-04-27T01:29:07.277Z",
+          "version": 1789929582279,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "Muscle Scraping",
+            "price_money": {
+              "amount": 2000,
+              "currency": "USD"
+            },
+            "on_by_default": false,
+            "ordinal": 12,
+            "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+            "hidden_online": true
+          }
+        }
+      ],
+      "allow_quantities": false,
+      "is_conversational": false,
+      "modifier_type": "LIST",
+      "max_length": 150,
+      "text_required": false,
+      "internal_name": "Massage Enhancements",
+      "min_selected_modifiers": 0,
+      "max_selected_modifiers": 0,
+      "hidden_from_customer": false
+    }
+  },
+  "SHLF7QFESV3Q3VPCLQAMPIC6": {
+    "type": "MODIFIER_LIST",
+    "id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+    "updated_at": "2026-09-20T20:50:21.033Z",
+    "created_at": "2026-09-20T19:42:01.556Z",
+    "version": 1789937421033,
+    "is_deleted": false,
+    "present_at_all_locations": true,
+    "modifier_list_data": {
+      "name": "Payment Method - Massage Enhancements",
+      "ordinal": 93,
+      "selection_type": "MULTIPLE",
+      "modifiers": [
+        {
+          "type": "MODIFIER",
+          "id": "XH7WYTNJYUVS5YCFM4HQ2L7S",
+          "updated_at": "2026-09-20T20:50:21.033Z",
+          "created_at": "2026-09-20T19:42:01.556Z",
+          "version": 1789937421033,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "Cash Payment",
+            "ordinal": 0,
+            "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "NCOZ46MGI6U2W3BIVHO75J55",
+          "updated_at": "2026-09-20T20:50:21.033Z",
+          "created_at": "2026-09-20T20:50:21.07Z",
+          "version": 1789937421033,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "NONE",
+            "ordinal": 1,
+            "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "WNM67ASJQ7DMTAC6BUWX4NY7",
+          "updated_at": "2026-09-20T20:50:21.033Z",
+          "created_at": "2026-09-20T19:42:01.556Z",
+          "version": 1789937421033,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "CCF - Relaxing Botanical Oil Scalp Massage",
+            "price_money": {
+              "amount": 45,
+              "currency": "USD"
+            },
+            "ordinal": 2,
+            "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "BMGKH7TYUGJBAVV4NAIMXTGT",
+          "updated_at": "2026-09-20T20:50:21.033Z",
+          "created_at": "2026-09-20T19:42:01.556Z",
+          "version": 1789937421033,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "CCF- 30 Mins - Signature Facial & Scalp Massage",
+            "price_money": {
+              "amount": 165,
+              "currency": "USD"
+            },
+            "ordinal": 3,
+            "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "I4T2FF357NY3ENREQDERBRJM",
+          "updated_at": "2026-09-20T20:50:21.033Z",
+          "created_at": "2026-09-20T19:42:01.556Z",
+          "version": 1789937421033,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "CCF - Matrix Repair Hydrating Foot mask",
+            "price_money": {
+              "amount": 75,
+              "currency": "USD"
+            },
+            "ordinal": 4,
+            "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "F2O2HSD7XA3XEFTXU66Y2CFZ",
+          "updated_at": "2026-09-20T20:50:21.033Z",
+          "created_at": "2026-09-20T19:49:56.187Z",
+          "version": 1789937421033,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "CCF - Infrared Sauna - 30 Mins",
+            "price_money": {
+              "amount": 75,
+              "currency": "USD"
+            },
+            "ordinal": 5,
+            "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "O4LUMLVPHS3I77TUM7ISJMZL",
+          "updated_at": "2026-09-20T20:50:21.033Z",
+          "created_at": "2026-09-20T19:49:56.187Z",
+          "version": 1789937421033,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "CCF - Hand Compression & Heat Therapy",
+            "price_money": {
+              "amount": 39,
+              "currency": "USD"
+            },
+            "ordinal": 6,
+            "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "D3GSUGHZKXASJ6LAM5BCOEDZ",
+          "updated_at": "2026-09-20T20:50:21.033Z",
+          "created_at": "2026-09-20T19:49:56.187Z",
+          "version": 1789937421033,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "CCF - Neck Cervical Tension Release Booster",
+            "price_money": {
+              "amount": 36,
+              "currency": "USD"
+            },
+            "ordinal": 7,
+            "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "FTIUCCHJIKCW42JTC7D2VVJW",
+          "updated_at": "2026-09-20T20:50:21.033Z",
+          "created_at": "2026-09-20T19:49:56.187Z",
+          "version": 1789937421033,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "CCF - Breathe & Balance Aromatherapy Inhaler",
+            "price_money": {
+              "amount": 18,
+              "currency": "USD"
+            },
+            "ordinal": 8,
+            "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "KMTJAVHXCAOOTI7KCILRMR2W",
+          "updated_at": "2026-09-20T20:50:21.033Z",
+          "created_at": "2026-09-20T19:49:56.187Z",
+          "version": 1789937421033,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "CCF - Caffeine & Hyaluronic Acid Undereye Treat",
+            "price_money": {
+              "amount": 18,
+              "currency": "USD"
+            },
+            "ordinal": 9,
+            "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "SB3EY6RC3JJGQPWV7OW3IYHY",
+          "updated_at": "2026-09-20T20:50:21.033Z",
+          "created_at": "2026-09-20T19:49:56.187Z",
+          "version": 1789937421033,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "CCF - Red Light (full body) - 20 Mins",
+            "price_money": {
+              "amount": 75,
+              "currency": "USD"
+            },
+            "ordinal": 10,
+            "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "G7W7UCBETHR6WTAJJYT6LPVY",
+          "updated_at": "2026-09-20T20:50:21.033Z",
+          "created_at": "2026-09-20T19:49:56.187Z",
+          "version": 1789937421033,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "CCF - Grounding Mat",
+            "price_money": {
+              "amount": 30,
+              "currency": "USD"
+            },
+            "ordinal": 11,
+            "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "OZKYBREIV3QHQPBC4CA2JJZ3",
+          "updated_at": "2026-09-20T20:50:21.033Z",
+          "created_at": "2026-09-20T19:49:56.187Z",
+          "version": 1789937421033,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "CCF - Therapeutic Cupping",
+            "price_money": {
+              "amount": 60,
+              "currency": "USD"
+            },
+            "ordinal": 12,
+            "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+            "hidden_online": true
+          }
+        },
+        {
+          "type": "MODIFIER",
+          "id": "ZUM6TT5X5RPWI6CTBNP3YHBP",
+          "updated_at": "2026-09-20T20:50:21.033Z",
+          "created_at": "2026-09-20T19:49:56.187Z",
+          "version": 1789937421033,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "modifier_data": {
+            "name": "CCF - Muscle Scraping",
+            "price_money": {
+              "amount": 60,
+              "currency": "USD"
+            },
+            "ordinal": 13,
+            "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+            "hidden_online": true
+          }
+        }
+      ],
+      "allow_quantities": false,
+      "is_conversational": false,
+      "modifier_type": "LIST",
+      "min_selected_modifiers": 1,
+      "max_selected_modifiers": 0,
+      "hidden_from_customer": false
+    }
+  }
+}

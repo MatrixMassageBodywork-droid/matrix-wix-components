@@ -1,0 +1,1014 @@
+{
+  "O3M6MJG44YUUVFQNJFJC7WUC": {
+    "type": "ITEM",
+    "id": "O3M6MJG44YUUVFQNJFJC7WUC",
+    "updated_at": "2026-10-09T19:08:53.802Z",
+    "created_at": "2026-07-06T04:04:37.189Z",
+    "version": 1791572933802,
+    "is_deleted": false,
+    "present_at_all_locations": true,
+    "item_data": {
+      "name": "Red & Near Infrared Light Therapy | Matrix Wellness & Biotech",
+      "description": "A standalone red and near-infrared light appointment in the wellness area. Choose an appointment length, and your provider will confirm an appropriate equipment protocol and screening needs. This is not a hands-on massage service. Tell us about photosensitivity, relevant medication, or advice to avoid light exposure before booking.",
+      "is_taxable": true,
+      "tax_ids": [
+        "5TEAI7DWETA22WYLGB6UEMKQ"
+      ],
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "6LOOINCTRK7XU3NERD6MVBNL",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 1,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "JT4KWZKMLVW5QLVA7D63ZPTV",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 2,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "BO7G5WNWDPE2W4HA5VIDLZQN",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 3,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "4FJNRAID6TIIBOFTPSQHWRRI",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 4,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "NTLWGICNPGK3BTHOF3RKN2YT",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 5,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "MNSSMN3VGIDYMCJ45743JPW6",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 6,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "SFDKGO7YCVI4HRZLORKSBL7M",
+          "min_selected_modifiers": -1,
+          "max_selected_modifiers": -1,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 7,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "NJVQD7HIY7MD2PYLEFQ3UAG6",
+          "enabled": true,
+          "ordinal": 8,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        }
+      ],
+      "variations": [
+        {
+          "type": "ITEM_VARIATION",
+          "id": "VZBMYNIH4FS4P3Q73KI42QDX",
+          "updated_at": "2026-10-09T19:08:53.802Z",
+          "created_at": "2026-07-06T04:04:37.189Z",
+          "version": 1791572933802,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "O3M6MJG44YUUVFQNJFJC7WUC",
+            "name": "20 Minute Session",
+            "ordinal": 0,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 2500,
+              "currency": "USD"
+            },
+            "inventory_alert_type": "NONE",
+            "service_duration": 1200000,
+            "sellable": true,
+            "stockable": true,
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        },
+        {
+          "type": "ITEM_VARIATION",
+          "id": "RTECGTYYZPRECQFGWWJFLMH4",
+          "updated_at": "2026-10-09T19:08:53.802Z",
+          "created_at": "2026-07-06T04:04:37.189Z",
+          "version": 1791572933802,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "O3M6MJG44YUUVFQNJFJC7WUC",
+            "name": "30 Minute Session",
+            "ordinal": 1,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 3500,
+              "currency": "USD"
+            },
+            "inventory_alert_type": "NONE",
+            "service_duration": 1800000,
+            "sellable": true,
+            "stockable": true,
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        },
+        {
+          "type": "ITEM_VARIATION",
+          "id": "TU2HAUUNRQ7RO5KQALNAXWP7",
+          "updated_at": "2026-10-09T19:08:53.802Z",
+          "created_at": "2026-07-06T04:04:37.189Z",
+          "version": 1791572933802,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "O3M6MJG44YUUVFQNJFJC7WUC",
+            "name": "40 Minute Session",
+            "ordinal": 2,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 4500,
+              "currency": "USD"
+            },
+            "inventory_alert_type": "NONE",
+            "service_duration": 2400000,
+            "sellable": true,
+            "stockable": true,
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        },
+        {
+          "type": "ITEM_VARIATION",
+          "id": "MTTPFYDMD7R5UMZXXX3D2UDS",
+          "updated_at": "2026-10-09T19:08:53.802Z",
+          "created_at": "2026-07-06T04:04:37.189Z",
+          "version": 1791572933802,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "O3M6MJG44YUUVFQNJFJC7WUC",
+            "name": "50 Minute Session",
+            "ordinal": 3,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 5500,
+              "currency": "USD"
+            },
+            "inventory_alert_type": "NONE",
+            "service_duration": 3000000,
+            "sellable": true,
+            "stockable": true,
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        }
+      ],
+      "product_type": "APPOINTMENTS_SERVICE",
+      "skip_modifier_screen": false,
+      "ecom_visibility": "VISIBLE",
+      "categories": [
+        {
+          "id": "62WUQTOKW4RNIMSUCMZGTJIL",
+          "ordinal": -2251799746576388
+        }
+      ],
+      "description_html": "<p>A standalone red and near-infrared light appointment in the wellness area. Choose an appointment length, and your provider will confirm an appropriate equipment protocol and screening needs. This is not a hands-on massage service. Tell us about photosensitivity, relevant medication, or advice to avoid light exposure before booking.</p>",
+      "description_plaintext": "A standalone red and near-infrared light appointment in the wellness area. Choose an appointment length, and your provider will confirm an appropriate equipment protocol and screening needs. This is not a hands-on massage service. Tell us about photosensitivity, relevant medication, or advice to avoid light exposure before booking.",
+      "channels": [
+        "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+        "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+      ],
+      "is_archived": false,
+      "reporting_category": {
+        "id": "62WUQTOKW4RNIMSUCMZGTJIL",
+        "ordinal": -2251799746576388
+      },
+      "is_alcoholic": false,
+      "use_location_fulfillment_methods": false
+    }
+  },
+  "DLX3E64HZHTJUWFLFVUJIIML": {
+    "type": "ITEM",
+    "id": "DLX3E64HZHTJUWFLFVUJIIML",
+    "updated_at": "2026-10-22T02:47:57.21Z",
+    "created_at": "2026-07-06T15:31:31.007Z",
+    "version": 1792637277210,
+    "is_deleted": false,
+    "present_at_all_locations": true,
+    "item_data": {
+      "name": "Red Light Therapy (Face & Neck)",
+      "description": "Add a face-and-neck red LED session to an eligible treatment when it is not already included. This gentle cosmetic enhancement is selected after reviewing your skin, light sensitivity, and the device protocol. It is intended to complement ongoing skincare; results vary and are not guaranteed after a single session.",
+      "is_taxable": true,
+      "tax_ids": [
+        "5TEAI7DWETA22WYLGB6UEMKQ"
+      ],
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "XS6URRPU2EFUVZBNNCA5YS2K",
+          "enabled": true,
+          "ordinal": 1,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        }
+      ],
+      "variations": [
+        {
+          "type": "ITEM_VARIATION",
+          "id": "NEZMDCUOGHNV5XLZRBJVX5PI",
+          "updated_at": "2026-10-22T02:47:57.21Z",
+          "created_at": "2026-07-06T15:31:31.007Z",
+          "version": 1792637277210,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "DLX3E64HZHTJUWFLFVUJIIML",
+            "name": "Enhancement / Add-on",
+            "ordinal": 0,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 1500,
+              "currency": "USD"
+            },
+            "inventory_alert_type": "NONE",
+            "service_duration": 0,
+            "available_for_booking": false,
+            "sellable": true,
+            "stockable": true,
+            "team_member_ids": [
+              "TMDgAKDYaCU7oYvG"
+            ],
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        }
+      ],
+      "product_type": "APPOINTMENTS_SERVICE",
+      "skip_modifier_screen": false,
+      "ecom_visibility": "VISIBLE",
+      "categories": [
+        {
+          "id": "62WUQTOKW4RNIMSUCMZGTJIL",
+          "ordinal": -2251799746576386
+        }
+      ],
+      "description_html": "<p>Add a face-and-neck red LED session to an eligible treatment when it is not already included. This gentle cosmetic enhancement is selected after reviewing your skin, light sensitivity, and the device protocol. It is intended to complement ongoing skincare; results vary and are not guaranteed after a single session.</p>",
+      "description_plaintext": "Add a face-and-neck red LED session to an eligible treatment when it is not already included. This gentle cosmetic enhancement is selected after reviewing your skin, light sensitivity, and the device protocol. It is intended to complement ongoing skincare; results vary and are not guaranteed after a single session.",
+      "channels": [
+        "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+        "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+      ],
+      "is_archived": false,
+      "reporting_category": {
+        "id": "62WUQTOKW4RNIMSUCMZGTJIL",
+        "ordinal": -2251799746576386
+      },
+      "is_alcoholic": false,
+      "use_location_fulfillment_methods": false
+    }
+  },
+  "S276Q6HDDTNWVV745WKVDKT6": {
+    "type": "ITEM",
+    "id": "S276Q6HDDTNWVV745WKVDKT6",
+    "updated_at": "2026-10-22T03:33:09.585Z",
+    "created_at": "2026-07-06T15:32:04.801Z",
+    "version": 1792639989585,
+    "is_deleted": false,
+    "present_at_all_locations": true,
+    "item_data": {
+      "name": "Full Body Red Light Therapy (add-on)",
+      "description": "Extend your visit with a red and near-infrared light session in the wellness area before or after an eligible treatment. Choose a 20- or 30-minute appointment. Your provider confirms an appropriate light-exposure protocol and any screening needs. This separate wellness session is not the same as the small-area face or scalp LED included in some treatments.",
+      "is_taxable": true,
+      "ordinal": 11,
+      "tax_ids": [
+        "5TEAI7DWETA22WYLGB6UEMKQ"
+      ],
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "M66TFMQVRHEG6VRWRJN3N6RM",
+          "enabled": true,
+          "ordinal": 1,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        }
+      ],
+      "variations": [
+        {
+          "type": "ITEM_VARIATION",
+          "id": "VC4XTO2AGWL55ZLVWQ7TBDOT",
+          "updated_at": "2026-10-22T02:47:56.664Z",
+          "created_at": "2026-07-06T15:32:04.801Z",
+          "version": 1792637276664,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "S276Q6HDDTNWVV745WKVDKT6",
+            "name": "20 Minute Session",
+            "ordinal": 0,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 2500,
+              "currency": "USD"
+            },
+            "location_overrides": [
+              {
+                "location_id": "LGNQ4P8GPMSEQ",
+                "resource_tokens": [
+                  "ODAE76PTFOHPHCVJPWXVFXCJ",
+                  "VF6GW57YLU5IJ27RO4AXLYFO"
+                ]
+              }
+            ],
+            "inventory_alert_type": "NONE",
+            "service_duration": 1200000,
+            "available_for_booking": true,
+            "transition_time": 900000,
+            "sellable": true,
+            "stockable": true,
+            "team_member_ids": [
+              "TMPI8PcGwojPrWrm",
+              "TM9QAb_o_MEVYMVP",
+              "TMDgAKDYaCU7oYvG"
+            ],
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        },
+        {
+          "type": "ITEM_VARIATION",
+          "id": "7C3LQKGBYVHE5VX45PPS6JZM",
+          "updated_at": "2026-10-22T02:47:56.664Z",
+          "created_at": "2026-07-06T15:32:04.801Z",
+          "version": 1792637276664,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "S276Q6HDDTNWVV745WKVDKT6",
+            "name": "30 Minute Session",
+            "ordinal": 1,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 3500,
+              "currency": "USD"
+            },
+            "location_overrides": [
+              {
+                "location_id": "LGNQ4P8GPMSEQ",
+                "resource_tokens": [
+                  "ODAE76PTFOHPHCVJPWXVFXCJ",
+                  "VF6GW57YLU5IJ27RO4AXLYFO"
+                ]
+              }
+            ],
+            "inventory_alert_type": "NONE",
+            "service_duration": 1800000,
+            "available_for_booking": true,
+            "transition_time": 900000,
+            "sellable": true,
+            "stockable": true,
+            "team_member_ids": [
+              "TMPI8PcGwojPrWrm",
+              "TM9QAb_o_MEVYMVP",
+              "TMDgAKDYaCU7oYvG"
+            ],
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        }
+      ],
+      "product_type": "APPOINTMENTS_SERVICE",
+      "skip_modifier_screen": false,
+      "ecom_visibility": "VISIBLE",
+      "categories": [
+        {
+          "id": "62WUQTOKW4RNIMSUCMZGTJIL",
+          "ordinal": -2251799747231744
+        }
+      ],
+      "description_html": "<p>Extend your visit with a red and near-infrared light session in the wellness area before or after an eligible treatment. Choose a 20- or 30-minute appointment. Your provider confirms an appropriate light-exposure protocol and any screening needs. This separate wellness session is not the same as the small-area face or scalp LED included in some treatments.</p>",
+      "description_plaintext": "Extend your visit with a red and near-infrared light session in the wellness area before or after an eligible treatment. Choose a 20- or 30-minute appointment. Your provider confirms an appropriate light-exposure protocol and any screening needs. This separate wellness session is not the same as the small-area face or scalp LED included in some treatments.",
+      "channels": [
+        "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o",
+        "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o"
+      ],
+      "location_overrides": [
+        {
+          "location_id": "LGNQ4P8GPMSEQ",
+          "ordinal": 12
+        }
+      ],
+      "is_archived": false,
+      "reporting_category": {
+        "id": "62WUQTOKW4RNIMSUCMZGTJIL",
+        "ordinal": -2251799747231744
+      },
+      "is_alcoholic": false,
+      "use_location_fulfillment_methods": false
+    }
+  },
+  "GRFE2B2DWCR5E7U6SWEHOEPZ": {
+    "type": "ITEM",
+    "id": "GRFE2B2DWCR5E7U6SWEHOEPZ",
+    "updated_at": "2026-10-22T02:47:57.21Z",
+    "created_at": "2026-07-06T15:31:38.679Z",
+    "version": 1792637277210,
+    "is_deleted": false,
+    "present_at_all_locations": true,
+    "item_data": {
+      "name": "Red & Near Infrared Light Therapy (add-on)",
+      "description": "Add a red and near-infrared light appointment before or after an eligible service. Choose 20 or 30 minutes, with the actual treatment protocol selected for the equipment and your suitability. This is a separate wellness enhancement rather than hands-on massage; tell us about light sensitivity or relevant medication before your visit.",
+      "is_taxable": true,
+      "tax_ids": [
+        "5TEAI7DWETA22WYLGB6UEMKQ"
+      ],
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "26SRT4BYBEV34M4U3L37UR5R",
+          "enabled": true,
+          "ordinal": 1,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        }
+      ],
+      "variations": [
+        {
+          "type": "ITEM_VARIATION",
+          "id": "3DLRFW6MOLLRB5IBPBUN6ZSQ",
+          "updated_at": "2026-10-22T02:47:57.21Z",
+          "created_at": "2026-07-06T15:31:38.679Z",
+          "version": 1792637277210,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "GRFE2B2DWCR5E7U6SWEHOEPZ",
+            "name": "20 Minute Session",
+            "ordinal": 0,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 2500,
+              "currency": "USD"
+            },
+            "inventory_alert_type": "NONE",
+            "service_duration": 1200000,
+            "sellable": true,
+            "stockable": true,
+            "team_member_ids": [
+              "TMDgAKDYaCU7oYvG"
+            ],
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        },
+        {
+          "type": "ITEM_VARIATION",
+          "id": "PQ6OOVZFH5LGP5QUPSNUAMNS",
+          "updated_at": "2026-10-22T02:47:57.21Z",
+          "created_at": "2026-07-06T15:31:38.679Z",
+          "version": 1792637277210,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "GRFE2B2DWCR5E7U6SWEHOEPZ",
+            "name": "30 Minute Session",
+            "ordinal": 1,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 3500,
+              "currency": "USD"
+            },
+            "inventory_alert_type": "NONE",
+            "service_duration": 1800000,
+            "sellable": true,
+            "stockable": true,
+            "team_member_ids": [
+              "TMDgAKDYaCU7oYvG"
+            ],
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        }
+      ],
+      "product_type": "APPOINTMENTS_SERVICE",
+      "skip_modifier_screen": false,
+      "ecom_visibility": "VISIBLE",
+      "categories": [
+        {
+          "id": "62WUQTOKW4RNIMSUCMZGTJIL",
+          "ordinal": -2251799746576392
+        }
+      ],
+      "description_html": "<p>Add a red and near-infrared light appointment before or after an eligible service. Choose 20 or 30 minutes, with the actual treatment protocol selected for the equipment and your suitability. This is a separate wellness enhancement rather than hands-on massage; tell us about light sensitivity or relevant medication before your visit.</p>",
+      "description_plaintext": "Add a red and near-infrared light appointment before or after an eligible service. Choose 20 or 30 minutes, with the actual treatment protocol selected for the equipment and your suitability. This is a separate wellness enhancement rather than hands-on massage; tell us about light sensitivity or relevant medication before your visit.",
+      "channels": [
+        "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+        "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+      ],
+      "is_archived": false,
+      "reporting_category": {
+        "id": "62WUQTOKW4RNIMSUCMZGTJIL",
+        "ordinal": -2251799746576392
+      },
+      "is_alcoholic": false,
+      "use_location_fulfillment_methods": false
+    }
+  },
+  "D6WBEWYNPLZ5ET3YB4APHMVT": {
+    "type": "ITEM",
+    "id": "D6WBEWYNPLZ5ET3YB4APHMVT",
+    "updated_at": "2026-10-22T03:33:09.585Z",
+    "created_at": "2026-04-26T23:08:15.606Z",
+    "version": 1792639989585,
+    "is_deleted": false,
+    "present_at_all_locations": true,
+    "item_data": {
+      "name": "Custom Therapeutic Massage",
+      "description": "Your therapist adjusts pressure and techniques to your goals and tolerance. Whether you\u2019re looking for a relaxing massage (Swedish) or deep tissue, our massages are therapeutic and customized to your needs. Effective work does not need to feel painful. Choose 30 minutes for one focused area, 60 minutes for a focused or broader session, and 90 or 120 minutes for more comprehensive work with extra time for your priorities. Tell us what feels tight or restricted, and we will tailor the session around you.",
+      "is_taxable": false,
+      "ordinal": 1,
+      "tax_ids": [
+        "5TEAI7DWETA22WYLGB6UEMKQ"
+      ],
+      "modifier_list_info": [
+        {
+          "modifier_list_id": "GKKPB7JCCQA6S3MIFWHY5Y4W",
+          "modifier_overrides": [
+            {
+              "modifier_id": "ZAEWNI4PVVM3QCF63UMUL7L7",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "74RX44MPSBBGYCRIAOTANRTT",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "FULLZEBIQUGUYL5ATPHUQMXY",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "LOGYZXVMO5MOHM4L4LO2T4BO",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "DD3FWTLZNESFLEKCDI5HIR26",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "TKKVDYEX6QKGX2XVMQRN24FK",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "MZ2LVEEQOBFUUUDXA25GOXBJ",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "WZXH6LIQI4BTNMMT3TCLNVFI",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "BYZZXJ63KW3FZXLIPUG27GPW",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "PYPMI3HZYXPXLGF37HOUHT6X",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "53IGTJISZSSK4BDPTBQAVVN6",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "OYNXEY4AISGOPFIKRW7QQDGJ",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            }
+          ],
+          "min_selected_modifiers": 0,
+          "max_selected_modifiers": 0,
+          "enabled": true,
+          "hidden_from_customer": false,
+          "ordinal": 1,
+          "allow_quantities": "NO",
+          "is_conversational": "NO",
+          "hidden_from_customer_override": "NO"
+        },
+        {
+          "modifier_list_id": "LV64UUB7LDUR3GIXZN2QFKW3",
+          "enabled": true,
+          "ordinal": 3,
+          "allow_quantities": "NOT_SET",
+          "is_conversational": "NOT_SET",
+          "hidden_from_customer_override": "NOT_SET"
+        },
+        {
+          "modifier_list_id": "Q6EITI2CLBI6MBIVOZKPNJH5",
+          "modifier_overrides": [
+            {
+              "modifier_id": "RAVGBOKC5CB5YKVHJRQEQ5UP",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "KZPCB4WDNTC2W55KE7AZ6SGJ",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "C56YGLEBJQHU2V7AKHJZO5NQ",
+              "on_by_default": false,
+              "hidden_online_override": "NO",
+              "on_by_default_override": "NO"
+            }
+          ],
+          "min_selected_modifiers": 1,
+          "max_selected_modifiers": 0,
+          "enabled": false,
+          "hidden_from_customer": false,
+          "ordinal": 4,
+          "allow_quantities": "NO",
+          "is_conversational": "NO",
+          "hidden_from_customer_override": "NO"
+        },
+        {
+          "modifier_list_id": "SHLF7QFESV3Q3VPCLQAMPIC6",
+          "modifier_overrides": [
+            {
+              "modifier_id": "XH7WYTNJYUVS5YCFM4HQ2L7S",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "NCOZ46MGI6U2W3BIVHO75J55",
+              "on_by_default": true,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "YES"
+            },
+            {
+              "modifier_id": "WNM67ASJQ7DMTAC6BUWX4NY7",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "BMGKH7TYUGJBAVV4NAIMXTGT",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "I4T2FF357NY3ENREQDERBRJM",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "F2O2HSD7XA3XEFTXU66Y2CFZ",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "O4LUMLVPHS3I77TUM7ISJMZL",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "D3GSUGHZKXASJ6LAM5BCOEDZ",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "FTIUCCHJIKCW42JTC7D2VVJW",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "KMTJAVHXCAOOTI7KCILRMR2W",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "SB3EY6RC3JJGQPWV7OW3IYHY",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "G7W7UCBETHR6WTAJJYT6LPVY",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "OZKYBREIV3QHQPBC4CA2JJZ3",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            },
+            {
+              "modifier_id": "ZUM6TT5X5RPWI6CTBNP3YHBP",
+              "on_by_default": false,
+              "hidden_online_override": "YES",
+              "on_by_default_override": "NO"
+            }
+          ],
+          "min_selected_modifiers": 1,
+          "max_selected_modifiers": 0,
+          "enabled": true,
+          "hidden_from_customer": false,
+          "ordinal": 5,
+          "allow_quantities": "YES",
+          "is_conversational": "NO",
+          "hidden_from_customer_override": "NO"
+        }
+      ],
+      "variations": [
+        {
+          "type": "ITEM_VARIATION",
+          "id": "NFKTO32K5ES3DEYF6T4JBJPK",
+          "updated_at": "2026-10-22T03:33:09.585Z",
+          "created_at": "2026-04-26T23:08:15.606Z",
+          "version": 1792639989585,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "D6WBEWYNPLZ5ET3YB4APHMVT",
+            "name": "60 Mins",
+            "ordinal": 0,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 11000,
+              "currency": "USD"
+            },
+            "location_overrides": [
+              {
+                "location_id": "LGNQ4P8GPMSEQ",
+                "resource_tokens": [
+                  "PVDNMAOSCDE4NCBTAHNNE4ZV"
+                ]
+              }
+            ],
+            "service_duration": 3600000,
+            "available_for_booking": true,
+            "transition_time": 900000,
+            "sellable": true,
+            "stockable": true,
+            "team_member_ids": [
+              "TM9QAb_o_MEVYMVP"
+            ],
+            "subscription_plan_ids": [
+              "OM3A27ZNBBECD6VXNGMQEVHH"
+            ],
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        },
+        {
+          "type": "ITEM_VARIATION",
+          "id": "L6MM7BDH27CPUCUE7ZHUNCL7",
+          "updated_at": "2026-10-13T02:29:48.848Z",
+          "created_at": "2026-04-26T23:08:15.606Z",
+          "version": 1791858588848,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "D6WBEWYNPLZ5ET3YB4APHMVT",
+            "name": "30 Mins",
+            "ordinal": 1,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 6500,
+              "currency": "USD"
+            },
+            "location_overrides": [
+              {
+                "location_id": "LGNQ4P8GPMSEQ",
+                "resource_tokens": [
+                  "PVDNMAOSCDE4NCBTAHNNE4ZV"
+                ]
+              }
+            ],
+            "service_duration": 1800000,
+            "available_for_booking": true,
+            "transition_time": 900000,
+            "sellable": true,
+            "stockable": true,
+            "team_member_ids": [
+              "TM9QAb_o_MEVYMVP"
+            ],
+            "subscription_plan_ids": [
+              "OM3A27ZNBBECD6VXNGMQEVHH"
+            ],
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        },
+        {
+          "type": "ITEM_VARIATION",
+          "id": "DCLTEVH6QD4MRKGMXXKPWTW6",
+          "updated_at": "2026-10-13T02:29:48.848Z",
+          "created_at": "2026-04-26T23:09:33.732Z",
+          "version": 1791858588848,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "D6WBEWYNPLZ5ET3YB4APHMVT",
+            "name": "90 Mins",
+            "ordinal": 2,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 16000,
+              "currency": "USD"
+            },
+            "location_overrides": [
+              {
+                "location_id": "LGNQ4P8GPMSEQ",
+                "resource_tokens": [
+                  "PVDNMAOSCDE4NCBTAHNNE4ZV"
+                ]
+              }
+            ],
+            "service_duration": 5400000,
+            "available_for_booking": true,
+            "transition_time": 900000,
+            "sellable": true,
+            "stockable": true,
+            "team_member_ids": [
+              "TM9QAb_o_MEVYMVP"
+            ],
+            "subscription_plan_ids": [
+              "OM3A27ZNBBECD6VXNGMQEVHH"
+            ],
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        },
+        {
+          "type": "ITEM_VARIATION",
+          "id": "SZKW5YREU44PNR7IJUEC5ZEB",
+          "updated_at": "2026-10-13T02:29:48.848Z",
+          "created_at": "2026-04-26T23:09:33.732Z",
+          "version": 1791858588848,
+          "is_deleted": false,
+          "present_at_all_locations": true,
+          "item_variation_data": {
+            "item_id": "D6WBEWYNPLZ5ET3YB4APHMVT",
+            "name": "120 Mins",
+            "ordinal": 3,
+            "pricing_type": "FIXED_PRICING",
+            "price_money": {
+              "amount": 21000,
+              "currency": "USD"
+            },
+            "location_overrides": [
+              {
+                "location_id": "LGNQ4P8GPMSEQ",
+                "resource_tokens": [
+                  "PVDNMAOSCDE4NCBTAHNNE4ZV"
+                ]
+              }
+            ],
+            "service_duration": 7200000,
+            "available_for_booking": true,
+            "transition_time": 900000,
+            "sellable": true,
+            "stockable": true,
+            "team_member_ids": [
+              "TM9QAb_o_MEVYMVP"
+            ],
+            "subscription_plan_ids": [
+              "OM3A27ZNBBECD6VXNGMQEVHH"
+            ],
+            "channels": [
+              "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+              "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+            ]
+          }
+        }
+      ],
+      "product_type": "APPOINTMENTS_SERVICE",
+      "skip_modifier_screen": false,
+      "ecom_visibility": "VISIBLE",
+      "categories": [
+        {
+          "id": "DIDPUWGIAX47Z3WFKFAPU726",
+          "ordinal": -2251799595581440
+        }
+      ],
+      "description_html": "Your therapist adjusts pressure and techniques to your goals and tolerance. Whether you\u2019re looking for a relaxing massage (Swedish) or deep tissue, our massages are therapeutic and customized to your needs. Effective work does not need to feel painful. Choose 30 minutes for one focused area, 60 minutes for a focused or broader session, and 90 or 120 minutes for more comprehensive work with extra time for your priorities. Tell us what feels tight or restricted, and we will tailor the session around you.</p>",
+      "description_plaintext": "Your therapist adjusts pressure and techniques to your goals and tolerance. Whether you\u2019re looking for a relaxing massage (Swedish) or deep tissue, our massages are therapeutic and customized to your needs. Effective work does not need to feel painful. Choose 30 minutes for one focused area, 60 minutes for a focused or broader session, and 90 or 120 minutes for more comprehensive work with extra time for your priorities. Tell us what feels tight or restricted, and we will tailor the session around you.",
+      "channels": [
+        "CH_bZ9GwvgKUai9E77L5otaki6Fj0ccu8G0BQ6w5UR29945o",
+        "CH_IywyT4qseZJ4gi2eL2Obki6Fj0ccu8G0BQ6w5UR29945o"
+      ],
+      "location_overrides": [
+        {
+          "location_id": "LGNQ4P8GPMSEQ",
+          "ordinal": 2
+        }
+      ],
+      "is_archived": false,
+      "reporting_category": {
+        "id": "DIDPUWGIAX47Z3WFKFAPU726",
+        "ordinal": -2251799595581440
+      },
+      "is_alcoholic": false,
+      "use_location_fulfillment_methods": false
+    }
+  }
+}
