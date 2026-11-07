@@ -1,0 +1,20 @@
+{
+  "status": "SOURCE_TESTS_PASSED_NOT_LIVE",
+  "bodyMatchesSeoMarkup": true,
+  "allWordingPreserved": true,
+  "h1Count": 1,
+  "addedContextualAnchors": 4,
+  "dermaplaneHrefChanges": 3,
+  "files": [
+    {
+      "path": "renderer.js",
+      "baselineSha256": "db7d2f3f06398aa6e810ebc588c164adf8b88a73101829a4d555fcabcc382f36",
+      "candidateSha256": "aea170071f66ebfcc8081c4488d99ea4e0956279f74dd764808609037007983f"
+    },
+    {
+      "path": "WIX_PAGE_CODE.js",
+      "baselineSha256": "e6fcc399593070ad598ce5a892a6eb9b944fd5a9cd57b8ec6da0a57262c2e40a",
+      "candidateSha256": "0e003e803cf14b19720eac5601bc362f78a7a98645067d99319e01e8d9c69a1c"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "status": "SOURCE_TESTS_PASSED_NOT_LIVE",
+  "pathways": [
+    {
+      "slug": "hydrate-restore",
+      "serviceCards": 2,
+      "allDirect": true,
+      "allInternalDetails": true,
+      "copyPreserved": true,
+      "faqCount": 4
+    },
+    {
+      "slug": "brighten-smooth",
+      "serviceCards": 4,
+      "allDirect": true,
+      "allInternalDetails": true,
+      "copyPreserved": true,
+      "faqCount": 4
+    },
+    {
+      "slug": "clear-balance",
+      "serviceCards": 1,
+      "allDirect": true,
+      "allInternalDetails": true,
+      "copyPreserved": true,
+      "faqCount": 4
+    },
+    {
+      "slug": "calm-support",
+      "serviceCards": 1,
+      "allDirect": true,
+      "allInternalDetails": true,
+      "copyPreserved": true,
+      "faqCount": 4
+    },
+    {
+      "slug": "age-defying-firm",
+      "serviceCards": 3,
+      "allDirect": true,
+      "allInternalDetails": true,
+      "copyPreserved": true,
+      "faqCount": 4
+    },
+    {
+      "slug": "maintain-glow",
+      "serviceCards": 1,
+      "allDirect": true,
+      "allInternalDetails": true,
+      "copyPreserved": true,
+      "faqCount": 5
+    }
+  ],
+  "serviceCards": 12,
+  "cssAndLifecycleUnchanged": true,
+  "sharedMarkupMatches": true
+}

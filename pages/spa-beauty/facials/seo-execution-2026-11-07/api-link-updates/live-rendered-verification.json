@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-07",
+  "article": {
+    "published": true,
+    "apiReadbackPassed": true,
+    "http200": true,
+    "publicHtmlFiveAnchors": true,
+    "browserFiveAnchors": true,
+    "selfCanonical": true,
+    "screenshot": "matrix-facial-contextual-links-published-20261107.jpg"
+  },
+  "pathways": {
+    "cmsSaved": true,
+    "publicPayloadUpdated": true,
+    "renderedDirectBookingPassed": false,
+    "observed": "Service-card buttons still use full Square services menu",
+    "cause": "Shared buildPathwayMarkup ignores per-service booking values",
+    "sourcePatchTested": true,
+    "installed": false,
+    "mobileRuntimeTested": false
+  },
+  "mainFacial": {
+    "patchPrepared": true,
+    "sourceTested": true,
+    "installed": false
+  },
+  "editor": {
+    "freshLoginSucceeded": true,
+    "newTabError": "Runtime.addBinding timeout",
+    "boundTabNavigationError": "Page.enable timeout",
+    "editorMutationsThisPhase": 0
+  }
+}
+

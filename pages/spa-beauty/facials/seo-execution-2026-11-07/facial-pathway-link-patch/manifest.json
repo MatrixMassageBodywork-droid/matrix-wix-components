@@ -1,0 +1,16 @@
+{
+  "status": "PREPARED_NOT_INSTALLED",
+  "baseline": "Published pathway revision 800; shared markup/renderer from verified 798 logo delta; fresh native readback still required",
+  "files": [
+    {
+      "path": "matrix-pathway-markup.js",
+      "baselineSha256": "15a979acecf3df20d99576b739858f2489c35b5340d0177448e4b728695d9cef",
+      "candidateSha256": "6c5bf23fcb0f039484da9bdaef7db8334ddb511bc96ce74950ac6a30b8d49f7a"
+    },
+    {
+      "path": "matrix-pathway-page.js",
+      "baselineSha256": "0d3fe224f108a9eb09dbf9d05b85bec923e492019bbbcd154509037f73a9d41f",
+      "candidateSha256": "b57a94c482e69f90fe3934632d4482286aa80ea20fed9a82c254239a775b6bd6"
+    }
+  ]
+}

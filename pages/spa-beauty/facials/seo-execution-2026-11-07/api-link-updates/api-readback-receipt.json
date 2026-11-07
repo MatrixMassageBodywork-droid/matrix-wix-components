@@ -1,0 +1,156 @@
+{
+  "services": [
+    {
+      "id": "facial-custom",
+      "title": "Custom Facial",
+      "changed": [
+        "learnMoreCta",
+        "bookingUrl",
+        "_updatedDate",
+        "learnMoreUrl"
+      ],
+      "verified": true,
+      "dataItem": {
+        "id": "facial-custom",
+        "dataCollectionId": "MatrixServices",
+        "data": {
+          "learnMoreCta": "EXPLORE CUSTOM FACIALS IN SALEM",
+          "durationLabel": "1 HR+",
+          "_id": "facial-custom",
+          "_owner": "e4cc431b-a20f-4e73-a8a8-dee9ba5eaf76",
+          "_createdDate": {
+            "$date": "2026-10-01T16:36:23.691Z"
+          },
+          "bookingUrl": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/IUTRINR4YWTL7ULZ3QVEK4QG",
+          "featured": true,
+          "_updatedDate": {
+            "$date": "2026-11-07T12:01:00.351Z"
+          },
+          "priceLabel": "PRICE VARIES",
+          "bestFor": "Not sure what facial you need? Start here.",
+          "learnMoreUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+          "sortOrder": 10,
+          "cta": "BOOK CUSTOM FACIAL",
+          "serviceKey": "facial-custom",
+          "title": "Custom Facial",
+          "categoryKey": "facials",
+          "summary": "The core Matrix facial. Your provider starts with a consultation, assesses your skin and goals, then personalizes the treatment within the time you booked.",
+          "active": true
+        }
+      }
+    },
+    {
+      "id": "facial-circadia-dream",
+      "title": "Circadia Dream Facial",
+      "changed": [
+        "bookingUrl",
+        "_updatedDate"
+      ],
+      "verified": true,
+      "dataItem": {
+        "id": "facial-circadia-dream",
+        "dataCollectionId": "MatrixServices",
+        "data": {
+          "learnMoreCta": "",
+          "durationLabel": "1 HR 30 MIN",
+          "_id": "facial-circadia-dream",
+          "_owner": "e4cc431b-a20f-4e73-a8a8-dee9ba5eaf76",
+          "_createdDate": {
+            "$date": "2026-10-05T22:09:42.954Z"
+          },
+          "bookingUrl": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/5TMAAL7UNW75SMC6XG7R53QA",
+          "featured": false,
+          "_updatedDate": {
+            "$date": "2026-11-07T12:01:00.532Z"
+          },
+          "priceLabel": "$175.00",
+          "bestFor": "Tired, stressed, dehydrated, dull or depleted-looking skin",
+          "learnMoreUrl": "",
+          "sortOrder": 10,
+          "cta": "BOOK DREAM FACIAL",
+          "serviceKey": "facial-circadia-dream",
+          "title": "Circadia Dream Facial",
+          "categoryKey": "facial-specialty",
+          "summary": "A restorative Circadia signature treatment for skin that looks tired, stressed, dehydrated, dull or depleted.",
+          "active": true
+        }
+      }
+    },
+    {
+      "id": "facial-circadia-luxe-lift",
+      "title": "Circadia Luxe Lift Facial",
+      "changed": [
+        "bookingUrl",
+        "_updatedDate"
+      ],
+      "verified": true,
+      "dataItem": {
+        "id": "facial-circadia-luxe-lift",
+        "dataCollectionId": "MatrixServices",
+        "data": {
+          "learnMoreCta": "EXPLORE LUXE LIFT",
+          "durationLabel": "1 HR 15 MIN",
+          "_id": "facial-circadia-luxe-lift",
+          "_owner": "e4cc431b-a20f-4e73-a8a8-dee9ba5eaf76",
+          "_createdDate": {
+            "$date": "2026-10-01T16:36:23.688Z"
+          },
+          "bookingUrl": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/WBRKBJ3WLEKZEMRTZ52M26Q6",
+          "featured": false,
+          "_updatedDate": {
+            "$date": "2026-11-07T12:01:00.706Z"
+          },
+          "priceLabel": "$150.00",
+          "bestFor": "Visible signs of aging, loss of firmness, fine lines, dullness and uneven-looking texture",
+          "learnMoreUrl": "https://www.matrixmassage.net/circadia-luxe-lift-facial-near-antioch",
+          "sortOrder": 20,
+          "cta": "BOOK LUXE LIFT",
+          "serviceKey": "facial-circadia-luxe-lift",
+          "title": "Circadia Luxe Lift Facial",
+          "categoryKey": "facial-specialty",
+          "summary": "A focused Circadia specialty facial for visible signs of aging, loss of firmness, fine lines, dullness and uneven-looking texture.",
+          "active": true
+        }
+      }
+    }
+  ],
+  "article": {
+    "id": "1d9aa303-99fa-4a1d-ad07-dc65301a0a91",
+    "title": "Why Your Pores Still Look Large After Cleansing—and What Facials Can Actually Do",
+    "slug": "how-to-minimize-large-pores-salem-wi",
+    "url": {
+      "base": "https://www.matrixmassage.net",
+      "path": "/post/how-to-minimize-large-pores-salem-wi"
+    },
+    "published": true,
+    "allWordingPreserved": true,
+    "titleAndSlugPreserved": true,
+    "links": [
+      {
+        "text": "customized facials in Salem, WI",
+        "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+        "verified": true
+      },
+      {
+        "text": "Clear + Balance",
+        "url": "https://www.matrixmassage.net/facial-goals/clear-balance",
+        "verified": true
+      },
+      {
+        "text": "Hydrate + Restore",
+        "url": "https://www.matrixmassage.net/facial-goals/hydrate-restore",
+        "verified": true
+      },
+      {
+        "text": "Calm + Support",
+        "url": "https://www.matrixmassage.net/facial-goals/calm-support",
+        "verified": true
+      },
+      {
+        "text": "Brighten + Smooth",
+        "url": "https://www.matrixmassage.net/facial-goals/brighten-smooth",
+        "verified": true
+      }
+    ]
+  }
+}
