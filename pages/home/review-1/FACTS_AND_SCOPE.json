@@ -1,0 +1,39 @@
+{
+  "status": "DESIGNED / STATIC CHECKED. NOT INSTALLED OR PUBLISHED",
+  "revision": "home-review-1",
+  "date": "2026-11-07 UTC",
+  "siteId": "cdec8df6-d518-4859-9f1e-f06bf5346d41",
+  "pageId": "ghmgt",
+  "publicationAuthorized": false,
+  "offer": {
+    "source": "Public Square booking menu captured 2026-11-07 UTC",
+    "serviceId": "GJ7PY2ONLPOVK4JIYCIWJGG4",
+    "minutes": 45,
+    "price": 79,
+    "regularSameServicePrice": 95,
+    "savings": 16,
+    "followup": {
+      "minutes": 60,
+      "price": 85,
+      "condition": "Reserve before leaving first appointment; at checkout; subject to availability",
+      "savingsDisplayed": false
+    },
+    "seasonalOffersIncluded": false
+  },
+  "preservation": {
+    "title": true,
+    "description": true,
+    "canonical": true,
+    "existingFaqAnswers": "Eight retained verbatim, three added",
+    "globalNavigation": "unchanged",
+    "about": "unchanged",
+    "existingTestimonials": "unchanged; verbatim quote from public massage page repeated with link",
+    "legacyPageCode": "captured; retain during merge"
+  },
+  "specials": {
+    "route": "/specials",
+    "state": "planned; no route installed; homepage links current existing facial offer to avoid dead link",
+    "navigation": "no shared-menu edits authorized during this homepage proof",
+    "next": "Build a permanent Specials hub using approved-offer data; homepage and hub must share data; never launch an expired or unapproved campaign."
+  }
+}
