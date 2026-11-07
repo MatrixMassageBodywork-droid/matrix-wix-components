@@ -1,0 +1,6 @@
+{
+  "ok": true,
+  "tests": 26,
+  "real_square_writes": 0,
+  "checks": "Exact allowed scope; unrelated option/association/visibility preservation; duplicate guard; closed gates; approved-row guard; stale version; one atomic batch; uncertain-write stop"
+}
