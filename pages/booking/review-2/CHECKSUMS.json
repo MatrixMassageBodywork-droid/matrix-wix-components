@@ -1,17 +1,18 @@
 {
   "booking-baseline.json": "07aa40efe034c731b523516e6a8e2e6114a76b11d0db366e76862b2c5add5345",
-  "body.html": "5138e839c93f6eabc62a9e6180fa7bc7eee9c36bf877ecf6a5ba82fa01b8e78b",
-  "preview-with-scheduler.html": "08bc70969c961095677167bbdff52ba8905650ec6e1322a443b61e978947e174",
-  "preview.html": "665237238de8d09e956df0cd001786c9f0122d4858e5e81dbbe034c93556398a",
+  "body.html": "32fc67159ac3820b694e269a8abb1cb3038a8bdbd6ce629c77a531fc53094c45",
+  "preview-with-scheduler.html": "7c11c4dd192b50186a46d856ca0621d1b972dd92f46d0fc0d20e3527f587ee3e",
+  "preview.html": "3378952ea96c746b5ca14f98f875c442a3670fb8c8ff6113e06811401d1dd80c",
   "style.css": "a1b6a7c90cac3cd17d09d36ad45ed26fa2a8180e279cea2171afda16c3ee4dce",
   "INTERNAL_LINK_MAP.csv": "2ef498fcd6e8189a94245d01c80cb1b9db8b1b44a648028e0cd1c6a8e2943f3c",
   "booking-redesign-mobile.png": "71a1018850e5624c4497416f397522825c5db609a96cd18c409d638f7bbc67b7",
-  "renderer.js": "913a8bda9e03aa9ef8e4417bf80ffaed151b62198675f01d2f566092ed8edbe2",
+  "renderer.js": "da62556126c10918fa418c86a2e57e0e0e470c750dd32f98c990172a90d10985",
   "page-config.json": "1854cde2a923b84680ba5ae380913f0c47ff5bbffa3e30ce4e8dfe671471c792",
+  "BUTTON_LABEL_UPDATE.md": "72ffaeeb589edd154a6310d85bc0c2d42e4f10c28fb65061571654a7ad9677e7",
   "REVIEW_AND_SEO_PROTECTION.md": "691136b1bbda85179604a084fb478f4b5c6597d1df07da38acc4518c8204e267",
   "build-manifest.json": "510a6e99b23e776afe6c6a0bdab1271637b862c87b4794d603b7edb30d3eb949",
   "booking-redesign-desktop.png": "dab8f309799db9d50a1f75bed651f07f67515267328e769796b86bceffbaf857",
-  "faq-schema.json": "6154bbd0f18a7bf265c38f02a0e6b8511a131dcbebbb32da5cbc17631f2e5e0a",
+  "faq-schema.json": "904c5da04aefb2f3dcc627e5524ca14de623d4992cf322cac45317324292b0cd",
   "booking-qa.json": "53b73b75d766e9503d8b9783ceccbc477bed78360526c94c41e19e13be65d249",
-  "WIX_SEO_SNIPPET_CANDIDATE.js": "4e860ce4c9b97187d2c6545b9ed951b60b528deafe59ef4cff7d8bbcfe92cded"
+  "WIX_SEO_SNIPPET_CANDIDATE.js": "f061527af613f11d0c2f26ade92716fd85823997125eba99a9e0b60913da5c10"
 }
