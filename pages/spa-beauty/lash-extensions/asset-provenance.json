@@ -1,0 +1,24 @@
+{
+  "sourceFolder": "https://drive.google.com/drive/folders/1Ts78PDhILoG8WV0dPnoO3_IbZwVWuDPz",
+  "description": "Owner-provided lash photo collection; source labels Classic set, Hybrid set, Volume. No generated treatment imagery, result alteration or before/after claims. WebP encoding only; original dimensions and composition preserved. No individual pictured is named.",
+  "images": [
+    {
+      "key": "classic",
+      "sourceId": "1DlJsIo1h_nyY7PKhu_4Yoi21AdQWaNhs",
+      "original": "assets/classic-original.jpg",
+      "display": "assets/classic.webp"
+    },
+    {
+      "key": "hybrid",
+      "sourceId": "1DsbaUl8irBPskPXZUNr8dPTdZL0nkFIi",
+      "original": "assets/hybrid-original.jpg",
+      "display": "assets/hybrid.webp"
+    },
+    {
+      "key": "volume",
+      "sourceId": "1RQy55zFhbOypXtX2Fy1cJmEGFH9bRDQz",
+      "original": "assets/volume-original.jpg",
+      "display": "assets/volume.webp"
+    }
+  ]
+}
