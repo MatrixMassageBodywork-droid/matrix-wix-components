@@ -1,0 +1,42 @@
+- banner:
+  - link "Matrix Massage & Bodywork":
+    - /url: /appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+    - heading "Matrix Massage & Bodywork" [level=1]
+  - generic "Menu":
+    - button "Menu":
+- region "Main content":
+  - navigation "Breadcrumb":
+    - list:
+      - link "All services":
+        - /url: /appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - text: /
+      - generic: Matrix Scalp Cleanse & Refresh Head Spa
+  - heading "Matrix Scalp Cleanse & Refresh Head Spa" [level=2]
+  - generic: $95.00 ・ 45 min
+  - paragraph: Best for a fresh, clean-feeling scalp and regular maintenance when you prefer a shorter appointment. This focused Head Spa includes scalp analysis, a customized scalp infusion, gentle cleansing, steam towels, a waterfall rinse, relaxing scalp massage, and a warm-towel finish. Choose this streamlined experience for ongoing scalp care without the extended massage and enhancements of our longer services. Hair is left wet; professional drying or styling must be booked separately. This is cosmetic scalp care and relaxation, not medical treatment for scalp conditions or hair loss.
+  - heading "Staff" [level=3]
+  - alert
+  - listbox "Staff":
+    - option "Any staff Any staff":
+      - generic: Any staff
+      - generic "Any staff":
+        - radio
+    - option "April April":
+      - generic: Ap
+      - generic: April
+      - generic "April":
+        - radio
+    - option "Lexy Lexy":
+      - generic: Le
+      - generic: Lexy
+      - generic "Lexy":
+        - radio
+  - button "Add":
+    - generic: Add
+- contentinfo:
+  - generic: Powered by Square
+  - button "Cookie Preferences":
+    - generic: Cookie Preferences
+- button "Phone with notification Text us":
+  - img "Phone with notification"
+  - paragraph: Text us

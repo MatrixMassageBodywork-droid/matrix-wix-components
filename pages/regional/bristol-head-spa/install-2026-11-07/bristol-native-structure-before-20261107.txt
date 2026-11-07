@@ -1,0 +1,339 @@
+- iframe [id="preview"]:
+  - region "top of page"
+  - banner:
+    - navigation "Site":
+      - list:
+        - link "HOME":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6
+          - generic: HOME
+        - link "BOOK NOW":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/book-appointments-salem-wi
+          - generic: BOOK NOW
+        - link "MASSAGE THERAPY SERVICES":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/massage-therapy-services-salem-wi
+          - generic: MASSAGE THERAPY SERVICES
+        - button "Toggle MASSAGE THERAPY SERVICES":
+        - link "SPA & BEAUTY SERVICES":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/spa-and-beauty-services-salem-wi
+          - generic: SPA & BEAUTY SERVICES
+        - button "Toggle SPA & BEAUTY SERVICES":
+        - link "GIFT CARDS":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/massage-spa-gift-cards-salem-wi
+          - generic: GIFT CARDS
+        - link "FACIALS":
+          - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+          - generic: FACIALS
+        - link "WELLNESS & BIOTECH SERVICES":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/wellness-biotech-services-salem-wi
+          - generic: WELLNESS & BIOTECH SERVICES
+        - button "Toggle WELLNESS & BIOTECH SERVICES":
+        - link "ABOUT":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/about-5
+          - generic: ABOUT
+        - link "BLOG":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/salem-wi-blog
+          - generic: BLOG
+  - main:
+    - img "Soft sea-glass water texture for Matrix Japanese Head Spa in Salem, WI"
+    - heading "JAPANESE HEAD SPA NEAR BRISTOL, WI" [level=1]:
+      - generic: JAPANESE HEAD SPA NEAR BRISTOL, WI
+    - paragraph:
+      - generic: A restorative scalp and sensory ritual with scalp analysis, double cleansing, waterfall therapy, steam, massage and targeted M1–M6 infusions—minutes from Paddock Lake, Bristol, Antioch and Kenosha.
+    - link "BOOK HEAD SPA":
+      - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/book-appointments-salem-wi
+      - generic: BOOK HEAD SPA
+    - heading "FEATURED HEAD SPA SERVICES" [level=2]:
+      - generic: FEATURED HEAD SPA SERVICES
+    - paragraph: Every service includes one customized Matrix Precision Scalp Infusion™ selected after scalp analysis. Start with three client favorites; expanded rituals and enhancements appear below.
+    - heading "MATRIX SCALP RESET · 45 MIN · $95" [level=3]:
+      - generic: MATRIX SCALP RESET · 45 MIN · $95
+    - paragraph: Focused weekly scalp maintenance with scalp analysis, customized scalp infusion, cleanse, steam-towel therapy, scalp massage, waterfall rinse and warm-towel finish.
+    - heading "MATRIX SIGNATURE HEAD SPA · 60 MIN · $135" [level=3]
+    - paragraph: Our core luxury head spa with scalp analysis, customized scalp infusion, cleanse, exfoliation, waterfall therapy, steam infusion, extended scalp massage, neck-and-shoulder work, eye infusion, red-light enhancement, aromatherapy and warm towels.
+    - heading "MATRIX CROWN RITUAL · 90 MIN · $195" [level=3]
+    - paragraph: An extended luxury scalp ritual with deeper detox work, advanced scalp massage, facial massage, hand-and-arm massage, grounding enhancement and extended red-light therapy.
+    - img "Matrix Precision Scalp Infusions M1 through M6 at Matrix Massage & Bodywork in Salem, WI"
+    - heading "COMPLETE JAPANESE HEAD SPA MENU" [level=2]
+    - paragraph: MATRIX BIOTECH SCALP RENEWAL · 120 MIN · $265
+    - paragraph: Best for clients who want our most comprehensive scalp-care experience with extended relaxation. Detailed scalp imaging and analysis guide your customized infusion, cleansing, exfoliation, steam, waterfall therapy, and intensive scalp massage. An advanced scalp serum, scalp red light when appropriate, a hydrating eye treatment, facial massage, and extended neck, shoulder, and arm massage complete the service. Grounding and a warm finishing ritual are included.
+    - paragraph
+    - paragraph:
+      - text: MATRIX SCALP RECOVERY RITUAL · 60 MIN · $135
+      - text: Designed for shaved, thinning, short or low-hair scalps with cleanse, customized infusion, intensive scalp massage, neck-and-shoulder work, pressure-point therapy, aromatherapy and red-light enhancement.
+    - paragraph
+    - paragraph:
+      - text: MATRIX CROWN & GLOW RITUAL · 120 MIN · $285
+      - text: Our signature Head Spa + Facial combination with scalp infusion, waterfall therapy, extended scalp massage, customized mini facial, facial massage, hydration infusion, LED enhancement and warm-towel finish.
+    - paragraph: WEEKLY SERIES
+    - paragraph:
+      - text: Scalp Reset Series · 4 × 45 min · $340
+      - text: Signature Scalp Series · 4 × 60 min · $500
+    - paragraph
+    - paragraph:
+      - text: ENHANCEMENTS
+      - text: Advanced Scalp Infusion · 10 min · $25
+    - paragraph: Deep Scalp Detox · 10 min · $25
+    - paragraph:
+      - text: Luxury Hair Mask · $25
+      - text: Facial Massage Ritual · 20 min · $45
+    - paragraph: Mini Facial · 30 min · $65
+    - paragraph:
+      - text: Grounding · $15
+      - text: Full Body Red Light · 20 min $25 / 30 min $35
+    - paragraph: Infrared Sauna · 30 min · $35
+    - paragraph
+    - paragraph: "Every Head Spa includes one customized Matrix Precision Scalp Infusion™ after scalp analysis plus up to 30 minutes of complimentary Zen Lounge access. Take-home infusions: 3 mL $14–$20; 2 oz $52–$74."
+  - contentinfo:
+    - paragraph:
+      - text: © 2026 Matrix Massage & Bodywork · Salem Lakes, WI
+      - text: (262) 939-9325 | 24804 75th St. Salem, WI 53168
+      - text: "Book online: www.matrixmassage.net/book-appointments-salem-wi"
+    - paragraph:
+      - text: Licensed Massage Therapy,
+      - link "Facials":
+        - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+      - text: ", Day Spa, Beauty & Biotech Spa"
+    - paragraph
+    - paragraph:
+      - generic: Serving Salem WI, Paddock Lake & all of Kenosha County
+    - paragraph
+    - paragraph:
+      - text: Now serving clients from Kenosha, Antioch IL, Bristol,
+      - link "Pleasant Prairie,":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/massage-near-pleasant-prairie-wi
+      - link "Union Grove":
+        - /url: https://www.matrixmassage.net/massage-near-union-grove-wi
+      - text: ", WI and surrounding areas. Matrix Massage & Bodywork offers"
+      - link "therapeutic massage":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/massage-therapy-services-salem-wi
+      - text: ","
+      - link "lymphatic drainage,":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/manual-lymphatic-drainage-massage-salem-wi
+      - link "Facials,":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/spa-and-beauty-services-salem-wi/facials-salem-wi
+      - link "Head Spa,":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/japanese-head-spa-salem-wi
+      - link "waxing":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi
+      - text: ", cupping, and"
+      - link "red light therapy":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/red-light-therapy-salem-wi
+      - text: Salem WI.
+      - link "Get pain relief now!":
+        - /url: https://painrelief.matrixmassage.net/
+    - iframe [name="htmlComp-iframe"]
+    - iframe [name="htmlComp-iframe"]
+    - iframe [name="htmlComp-iframe"]
+    - iframe [name="htmlComp-iframe"]
+    - paragraph:
+      - generic: "Links:"
+    - paragraph:
+      - link "Gift Cards":
+        - /url: https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi
+        - generic: Gift Cards
+    - paragraph:
+      - link "Partner with Us":
+        - /url: https://www.matrixmassage.net/local-wellness-partnerships
+        - generic: Partner with Us
+    - paragraph
+    - paragraph:
+      - link "Work with Us":
+        - /url: https://www.matrixmassage.net/massage-therapist-jobs-salem-wi
+        - generic: Work with Us
+    - paragraph
+    - paragraph
+    - iframe
+  - region "bottom of page"
+  - iframe
+- button:
+- generic: Site
+- generic: Settings
+- generic: Dev Mode
+- generic: Hire a Professional
+- generic: Help
+- generic: Upgrade
+- button "Save":
+  - generic: Save
+- button "Preview":
+  - generic: Preview
+- button:
+- button "Publish":
+  - generic: Publish
+- text: "Page:"
+- generic: JAPANESE HEAD SPA NEAR BRISTOL WI
+- button:
+- button:
+- generic: www.matrixmassage.net
+- button:
+- button:
+- button "100%":
+  - generic: 100%
+- button "Tools":
+  - generic: Tools
+- button "Search":
+  - generic: Search
+- generic: Page Code
+- generic: Main Pages
+- list:
+  - generic: HOME
+  - generic: SPA NEAR BRISTOL
+  - generic: SPA NEAR TWIN LAKES & GENOA CITY
+  - generic: Glow Guide
+  - generic: BOOK NOW
+  - generic: MASSAGE THERAPY SERVICES
+  - generic: SPA & BEAUTY SERVICES
+  - generic: FACIALS
+  - generic: GIFT CARDS
+  - generic: Studio
+  - generic: Studio TV
+  - generic: WELLNESS & BIOTECH SERVICES
+  - generic: 360 GLOW SCORE | Matrix Wellness
+  - generic: ABOUT
+  - generic: NOW HIRING
+  - generic: LOCAL WELLNESS & RECOVERY PARTNERSHIPS
+  - generic: MATRIX PARTNER KIT
+  - generic: MASSAGE NEAR PLEASANT PRAIRIE WI
+- separator
+- generic: masterPage.js
+- generic: Blog Pages
+- list:
+  - generic: Post
+  - generic: BLOG
+- generic: Dynamic Pages
+- list:
+  - generic: Matrix Landing Pages Pages (Dynamic)
+  - list:
+    - generic: Matrix Landing Pages (Item)
+  - generic: Matrix Skin Pathways Pages (Dynamic)
+  - list:
+    - generic: Matrix Skin Pathways (Item)
+- list:
+  - button:
+  - generic: Add Elements
+  - button:
+  - generic: Add Section
+  - button:
+  - generic: Pages & Menu
+  - button:
+  - generic: Site Design
+  - button "3":
+    - generic: "3"
+  - generic: Add Apps
+  - button:
+  - generic: My Business
+  - button:
+  - generic: Media
+  - button:
+  - generic: CMS
+  - button:
+  - generic: Marketing & SEO
+- button:
+- generic: AI Tools
+- generic: "100"
+- generic: "200"
+- generic: "300"
+- generic: "400"
+- generic: "500"
+- generic: "600"
+- generic: "700"
+- generic: "800"
+- generic: "900"
+- generic: "1000"
+- generic: "1100"
+- generic: "1200"
+- generic: "1300"
+- generic: "1400"
+- generic: "1500"
+- generic: "1600"
+- generic: "1700"
+- generic: "1800"
+- generic: "1900"
+- generic: "2000"
+- generic: "2100"
+- generic: "2200"
+- generic: "2300"
+- generic: "2400"
+- generic: "2500"
+- generic: "2600"
+- generic: "2700"
+- generic: "2800"
+- generic: "2900"
+- generic: "3000"
+- generic: "0"
+- generic: "100"
+- generic: "200"
+- generic: "300"
+- generic: "400"
+- generic: "500"
+- generic: "600"
+- generic: "700"
+- generic: "800"
+- generic: "900"
+- banner:
+  - button:
+- region "scrollable content":
+  - generic: JAPANESE HEAD SPA NEAR BRISTOL WI
+  - generic: matrix-pathway-markup.js
+  - generic: matrix-pathway-page.js
+- button "Run":
+  - text: Run
+- button:
+- button:
+- button:
+- button:
+- code:
+  - generic: "1"
+  - generic: import wixSeoFrontend from "wix-seo-frontend";
+  - textbox "Editor content;Press Alt+F1 for Accessibility Options.": "import wixSeoFrontend from \"wix-seo-frontend\"; $w.onReady(function () { $w(\"#Section1ListItem1Title1\").text = \"MATRIX SCALP RESET · 45 MIN · $95\"; $w(\"#Section1ListItem1Longtext1\").text = \"A focused first visit or weekly scalp-maintenance ritual with scalp analysis, customized infusion, cleanse, steam-towel therapy, scalp massage, waterfall rinse and warm-towel finish.\"; $w(\"#Section1ListItem2Title1\").text = \"MATRIX SIGNATURE HEAD SPA · 60 MIN · $135\"; $w(\"#Section1ListItem2Longtext1\").…e-head-spa-near-bristol-wi\", \"provider\": { \"@type\": \"DaySpa\", \"name\": \"Matrix Massage & Bodywork\", \"url\": \"https://www.matrixmassage.net/\", \"telephone\": \"+1-262-939-9325\", \"address\": { \"@type\": \"PostalAddress\", \"streetAddress\": \"24804 75th St\", \"addressLocality\": \"Salem\", \"addressRegion\": \"WI\", \"postalCode\": \"53168\", \"addressCountry\": \"US\" } }, \"areaServed\": { \"@type\": \"City\", \"name\": \"Bristol, Wisconsin\" } }]) ]).catch((error) => console.error(\"Bristol head spa SEO setup failed\", error)); });"
+- paragraph: Select an element to add events, edit its ID, and more.
+- text: Learn more
+- banner:
+  - generic: Layers
+  - button:
+  - button:
+- generic: Header
+- generic: horizontalMenu3
+- generic: Page
+- generic: Section1RegularMediaImage1RuleNoFaceImage
+- generic: section1container1
+- generic: Section1List
+- generic: Section1ListHeaderTitle1
+- generic: Section1ListHeaderLongtext1
+- generic: Section1ListItem1MediaImage1
+- generic: Section1ListItem1Title1
+- generic: Section1ListItem1Longtext1
+- generic: Section1ListItem2MediaImage1
+- generic: Section1ListItem2Title1
+- generic: Section1ListItem2Longtext1
+- generic: Section1ListItem3MediaImage1
+- generic: Section1ListItem3Title1
+- generic: Section1ListItem3Longtext1
+- generic: Section1Regular
+- generic: section1
+- generic: Footer
+- generic: text33
+- generic: text44
+- generic: html2
+- generic: html3
+- generic: html4
+- generic: html6
+- generic: text68
+- generic: googleMaps2
+- button "?"
+- textbox "°" [disabled]: "0"
+- generic: °
+- generic: Size (px)
+- generic: "W:"
+- textbox "W:" [disabled]: "0"
+- generic: "H:"
+- textbox "H:" [disabled]: "0"
+- generic: Position
+- generic: "X:"
+- textbox "X:" [disabled]: "0"
+- generic: "Y:"
+- textbox "Y:" [disabled]: "0"
+- generic: Show on All Pages
+- checkbox
+- button "Layers"
+- alert
+- alert

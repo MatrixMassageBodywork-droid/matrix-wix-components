@@ -1,0 +1,32 @@
+{
+  "content": {
+    "faqs": 8,
+    "h1": 1,
+    "height": 13120.125,
+    "open": 8,
+    "scrollWidth": 320,
+    "width": 320
+  },
+  "native": {
+    "footer": {
+      "bottom": 7625,
+      "height": 781,
+      "left": 514,
+      "right": 834,
+      "top": 6844,
+      "width": 320,
+      "x": 514,
+      "y": 6844
+    },
+    "frame": {
+      "bottom": 6844,
+      "height": 13120,
+      "left": 514,
+      "right": 834,
+      "top": -6276,
+      "width": 320,
+      "x": 514,
+      "y": -6276
+    }
+  }
+}

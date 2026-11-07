@@ -1,0 +1,55 @@
+- banner:
+  - link "Matrix Massage & Bodywork":
+    - /url: /appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+    - heading "Matrix Massage & Bodywork" [level=1]
+  - generic "Menu":
+    - button "Menu":
+- region "Main content":
+  - navigation "Breadcrumb":
+    - list:
+      - link "All services":
+        - /url: /appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - text: /
+      - generic: Matrix Deep Relaxation Head Spa
+  - heading "Matrix Deep Relaxation Head Spa" [level=2]
+  - generic: $195.00 ・ 1 hr 30 min
+  - paragraph: Best for deeper relaxation, more massage time, and a thoroughly refreshed scalp. Enjoy everything in the Matrix Signature Head Spa, with extended waterfall therapy, additional scalp cleansing and massage, facial massage, and hand and arm massage. Grounding, extended scalp red light when appropriate, and a warm finishing ritual are included. Choose this longer experience when your priority is unhurried scalp care and time to fully unwind. Hair is left wet; professional drying or styling must be booked separately. This is cosmetic scalp care and relaxation, not medical treatment for scalp conditions or hair loss.
+  - heading "Payment Method - Crown & Glow" [level=3]
+  - list:
+    - generic: Optional
+  - listbox:
+    - option "Cash payment Cash payment":
+      - generic: Cash payment
+      - generic "Cash payment":
+        - checkbox
+    - option "CCF + $8.55 CCF":
+      - generic: CCF
+      - generic: + $8.55
+      - generic "CCF":
+        - checkbox
+  - heading "Staff" [level=3]
+  - alert
+  - listbox "Staff":
+    - option "Any staff Any staff":
+      - generic: Any staff
+      - generic "Any staff":
+        - radio
+    - option "April April":
+      - generic: Ap
+      - generic: April
+      - generic "April":
+        - radio
+    - option "Lexy Lexy":
+      - generic: Le
+      - generic: Lexy
+      - generic "Lexy":
+        - radio
+  - button "Add":
+    - generic: Add
+- contentinfo:
+  - generic: Powered by Square
+  - button "Cookie Preferences":
+    - generic: Cookie Preferences
+- button "Phone with notification Text us":
+  - img "Phone with notification"
+  - paragraph: Text us
