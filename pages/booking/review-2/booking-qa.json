@@ -1,0 +1,76 @@
+{
+  "widths": [
+    {
+      "faq": 8,
+      "h1": 1,
+      "scrollWidth": 305,
+      "width": 305
+    },
+    {
+      "faq": 8,
+      "h1": 1,
+      "scrollWidth": 375,
+      "width": 375
+    },
+    {
+      "faq": 8,
+      "h1": 1,
+      "scrollWidth": 1265,
+      "width": 1265
+    },
+    {
+      "faq": 8,
+      "h1": 1,
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "faq": 8,
+      "h1": 1,
+      "scrollWidth": 1905,
+      "width": 1905
+    }
+  ],
+  "faq": [
+    {
+      "answer": "Choose a service in the Square scheduler, select an available appointment and follow the booking steps. Review the service details and booking terms before confirming.",
+      "open": true,
+      "question": "How do I book an appointment?"
+    },
+    {
+      "answer": "Use Open Square Booking to open the same scheduler directly. You can also text 262-939-9325 for help choosing a service.",
+      "open": true,
+      "question": "What if the booking menu does not load?"
+    },
+    {
+      "answer": "Explore our massage, facial, Japanese Head Spa, lash, waxing and wellness pages for treatment details. If you are unsure which option fits, text us before booking.",
+      "open": true,
+      "question": "Which service should I choose?"
+    },
+    {
+      "answer": "The introductory facial is for guests new to Matrix facial services, including existing massage, Head Spa and wellness guests who have not had a facial here. Read the full offer terms before booking.",
+      "open": true,
+      "question": "Who qualifies for the introductory facial offer?"
+    },
+    {
+      "answer": "Reserve the recommended 60-minute Custom Facial follow-up before leaving your introductory appointment. It is arranged at checkout, subject to availability, and cannot be combined with other promotions.",
+      "open": true,
+      "question": "How do I receive the $85 facial follow-up?"
+    },
+    {
+      "answer": "All appointments are at Matrix Massage & Bodywork, 24804 75th St, Salem, WI 53168. We welcome guests from Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Kenosha, Union Grove and nearby Antioch.",
+      "open": true,
+      "question": "Where is my appointment?"
+    },
+    {
+      "answer": "Check your Square confirmation for appointment-management options and the booking terms. If you need assistance, text 262-939-9325. Cancellation and rescheduling policies shown during booking apply.",
+      "open": true,
+      "question": "How do I change an appointment?"
+    },
+    {
+      "answer": "Yes. Visit our gift card page to purchase an eGift card. Buying a gift card does not reserve an appointment; the recipient can book a service separately.",
+      "open": true,
+      "question": "Can I buy a gift card instead?"
+    }
+  ]
+}

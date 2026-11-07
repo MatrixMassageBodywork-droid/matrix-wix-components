@@ -1,0 +1,66 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "Matrix Booking Page",
+    "revision": "review-2",
+    "tagName": "matrix-booking-page",
+    "elementId": "matrixBookingPage",
+    "rootClass": "matrix-booking",
+    "pageUrl": "https://www.matrixmassage.net/book-appointments-salem-wi",
+    "seoTitle": "Book Massage & Spa Appointments in Salem WI | Matrix Massage",
+    "seoDescription": "Book massage, facials, head spa, waxing, red light therapy, sauna, and wellness services online at Matrix Massage & Bodywork in Salem, WI.",
+    "seoSource": "booking-baseline.json",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 8
+  },
+  "seo": {
+    "title": "Book Massage & Spa Appointments in Salem WI | Matrix Massage",
+    "description": "Book massage, facials, head spa, waxing, red light therapy, sauna, and wellness services online at Matrix Massage & Bodywork in Salem, WI.",
+    "canonical": "https://www.matrixmassage.net/book-appointments-salem-wi",
+    "source": "booking-baseline.json"
+  },
+  "h1": "Book Your Massage & Spa Appointment in Salem, WI",
+  "faqCount": 8,
+  "links": [
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "#booking-menu",
+    "sms:+12629399325",
+    "#booking-menu",
+    "#booking-offer",
+    "#booking-services",
+    "#booking-faq",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "sms:+12629399325",
+    "https://www.matrixmassage.net/offers/new-client-facial-deal-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/GJ7PY2ONLPOVK4JIYCIWJGG4",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+    "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+    "https://www.google.com/maps/dir/?api=1&destination=24804%2075th%20St%2C%20Salem%2C%20WI%2053168",
+    "sms:+12629399325",
+    "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+    "sms:+12629399325",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+      "alt": "Matrix Massage & Bodywork"
+    }
+  ],
+  "files": {
+    "body.html": "5138e839c93f6eabc62a9e6180fa7bc7eee9c36bf877ecf6a5ba82fa01b8e78b",
+    "style.css": "a1b6a7c90cac3cd17d09d36ad45ed26fa2a8180e279cea2171afda16c3ee4dce",
+    "renderer.js": "913a8bda9e03aa9ef8e4417bf80ffaed151b62198675f01d2f566092ed8edbe2",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "4e860ce4c9b97187d2c6545b9ed951b60b528deafe59ef4cff7d8bbcfe92cded",
+    "preview.html": "665237238de8d09e956df0cd001786c9f0122d4858e5e81dbbe034c93556398a",
+    "faq-schema.json": "6154bbd0f18a7bf265c38f02a0e6b8511a131dcbebbb32da5cbc17631f2e5e0a"
+  },
+  "rendererBytes": 15250
+}

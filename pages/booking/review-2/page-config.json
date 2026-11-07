@@ -1,0 +1,14 @@
+{
+  "serviceName": "Matrix Booking Page",
+  "revision": "review-2",
+  "tagName": "matrix-booking-page",
+  "elementId": "matrixBookingPage",
+  "rootClass": "matrix-booking",
+  "pageUrl": "https://www.matrixmassage.net/book-appointments-salem-wi",
+  "seoTitle": "Book Massage & Spa Appointments in Salem WI | Matrix Massage",
+  "seoDescription": "Book massage, facials, head spa, waxing, red light therapy, sauna, and wellness services online at Matrix Massage & Bodywork in Salem, WI.",
+  "seoSource": "booking-baseline.json",
+  "bodyFile": "body.html",
+  "cssFile": "style.css",
+  "expectedFaqCount": 8
+}
