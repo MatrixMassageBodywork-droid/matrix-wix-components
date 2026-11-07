@@ -1,0 +1,94 @@
+{
+  "booking": [
+    {
+      "text": "Book a Spa Appointment in Salem",
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services"
+    },
+    {
+      "text": "Book a Massage in Salem",
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/D6WBEWYNPLZ5ET3YB4APHMVT"
+    },
+    {
+      "text": "Book a Facial in Salem",
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/IUTRINR4YWTL7ULZ3QVEK4QG"
+    },
+    {
+      "text": "Book a Head Spa in Salem",
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/JBJI7MD5EU2QM3E4MQXE5TSK"
+    },
+    {
+      "text": "Book Classic Lashes in Salem",
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/AHZUYXVN3SZNP3PGGFKXDNZZ"
+    },
+    {
+      "text": "Book Facial Waxing in Salem",
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/PZR2CBQCWBF3RUKLT5S4JUTI"
+    },
+    {
+      "text": "View Salem Wellness Appointments",
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services"
+    },
+    {
+      "text": "Book the $79 Facial in Salem",
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/GJ7PY2ONLPOVK4JIYCIWJGG4"
+    },
+    {
+      "text": "Buy a Matrix Spa Gift Card",
+      "url": "https://app.squareup.com/gift/MLJ7B3VJVPBSS/order"
+    },
+    {
+      "text": "Book a Salem Spa Appointment",
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services"
+    }
+  ],
+  "canonical": "https://www.matrixmassage.net/",
+  "description": "Clinical luxury spa in Salem, WI: Japanese Head Spa with in-house scalp infusions, custom facials, red light, infrared sauna, lymphatic drainage and massage.",
+  "horizontalOverflow": false,
+  "hostHeight": 6519.125,
+  "images": [
+    {
+      "alt": "Matrix Massage & Bodywork",
+      "loaded": true
+    },
+    {
+      "alt": "Massage therapy at Matrix in Salem",
+      "loaded": true
+    },
+    {
+      "alt": "A facial treatment with steam at Matrix",
+      "loaded": true
+    },
+    {
+      "alt": "Japanese Head Spa waterfall rinse at Matrix in Salem",
+      "loaded": true
+    },
+    {
+      "alt": "Classic lash extension photographs from the Matrix portfolio",
+      "loaded": true
+    },
+    {
+      "alt": "Illustrative wax preparation with a wooden applicator",
+      "loaded": true
+    },
+    {
+      "alt": "Illustrative red light therapy session beneath a light panel",
+      "loaded": true
+    },
+    {
+      "alt": "Inside a Matrix treatment room in Salem, Wisconsin",
+      "loaded": true
+    }
+  ],
+  "title": "Japanese Head Spa, Facials & Massage in Salem, WI | Matrix",
+  "version": "1007",
+  "visibleH1": [
+    "Japanese Head Spa, Facials & Massage in Salem, WI"
+  ],
+  "actualBookingClicks": {
+    "massage": "Custom Therapeutic Massage",
+    "facial": "Custom Facial"
+  },
+  "publishedVersion": "1007",
+  "exposure": "100%",
+  "releaseMethod": "Release Manager > Test Site 1007 > Publish this version"
+}
