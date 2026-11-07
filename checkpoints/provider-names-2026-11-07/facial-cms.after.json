@@ -1,0 +1,177 @@
+{
+  "id": "630a7357-8a30-4f7e-835c-1b13ee60c370",
+  "dataCollectionId": "MatrixLandingPages",
+  "data": {
+    "legacyUrl": "https://www.matrixmassage.net/new-client-facial-deal-salem-wi",
+    "_id": "630a7357-8a30-4f7e-835c-1b13ee60c370",
+    "_owner": "e4cc431b-a20f-4e73-a8a8-dee9ba5eaf76",
+    "_createdDate": {
+      "$date": "2026-10-01T12:25:20.843Z"
+    },
+    "ogDescription": "Start with a personalized 45-minute facial for $79 at Matrix in Salem, Wisconsin. If you want to return, reserve a 60-minute Custom Facial for $85 before leaving your first visit.",
+    "internalName": "New Client Facial DEAL",
+    "_updatedDate": {
+      "$date": "2026-10-01T15:52:18.134Z"
+    },
+    "slug": "new-client-facial-deal-salem-wi",
+    "link-matrix-landing-pages-internalName": "/offers/new-client-facial-deal-salem-wi",
+    "structuredData": {
+      "name": "New Client Facial DEAL — 45 minutes",
+      "provider": {
+        "@type": "LocalBusiness",
+        "address": {
+          "streetAddress": "24804 75th St.",
+          "addressLocality": "Salem",
+          "addressCountry": "US",
+          "postalCode": "53168",
+          "@type": "PostalAddress",
+          "addressRegion": "WI"
+        },
+        "name": "Matrix Massage & Bodywork",
+        "telephone": "+1-262-939-9325"
+      },
+      "description": "Personalized 45-minute introductory facial at Matrix Massage & Bodywork in Salem, Wisconsin. A brief consultation is included within the appointment. Eligible guests are new to Matrix facials, including existing massage, Head Spa and wellness clients who have never had a facial at Matrix.",
+      "offers": {
+        "url": "https://book.squareup.com/appointments/8vwiykmo579ztb/location/LGNQ4P8GPMSEQ/services",
+        "priceCurrency": "USD",
+        "description": "One introductory 45-minute facial per eligible guest. Cannot be combined with other promotions.",
+        "price": "79",
+        "@type": "Offer"
+      },
+      "@type": "Service",
+      "@context": "https://schema.org"
+    },
+    "pageConfig": {
+      "offerLabel": "NEW CLIENT FACIAL DEAL",
+      "visits": {
+        "firstHeading": "Start with your skin",
+        "firstCopy": "A personalized 45-minute facial with a brief consultation included in the appointment. Book this introductory service through the button on this page.",
+        "secondHeading": "Build on what you learned",
+        "label": "A SIMPLE WAY TO BEGIN",
+        "timing": "Your recommended follow-up timing depends on your goals and available appointments—not a universal deadline. After the promotional follow-up, regular pricing applies unless another specific offer is agreed.",
+        "secondCopy": "Reserve your discounted 60-minute Custom Facial before leaving your first appointment. The second visit is arranged at checkout, not as a separate publicly bookable promotion.",
+        "title": "Your first two visits"
+      },
+      "eligibility": "New to Matrix facials? You qualify—even if you already visit us for massage or Head Spa.",
+      "assets": {
+        "logo": "https://static.wixstatic.com/media/e4cc43_b5975515720a4699b45ceef173956642~mv2.png",
+        "water": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg"
+      },
+      "provider": {
+        "copy": "Your facial provider listens first, adapts the appointment to your skin and comfort, and helps you understand practical next steps. You can ask questions without feeling that you need to arrive with a perfect routine—or commit to one afterward.",
+        "label": "PERSONALIZED FACIAL CARE",
+        "title": "Care tailored to you"
+      },
+      "secondService": "60-minute Custom Facial",
+      "heroCopy": "Tell us what your skin has been doing, what you’ve tried, and what you want to work on. Your facial provider will personalize your facial and help you understand your next steps—without turning your routine into another overwhelming project.",
+      "faq": {
+        "items": [
+          [
+            "Who qualifies for the $79 facial?",
+            "Anyone new to Matrix facials qualifies, including existing Matrix massage, Head Spa and wellness clients who have never received a facial here. One introductory facial and one discounted follow-up are available per guest."
+          ],
+          [
+            "What happens during the 45-minute appointment?",
+            "A brief consultation happens within the 45 minutes, then your facial provider personalizes the facial to your skin and suitability. Care may include cleansing, exfoliation, hydration, customized masking and finishing skincare. The consultation is not extra time."
+          ],
+          [
+            "Do I need to prepay or book two visits?",
+            "No. There is no prepaid package and no obligation to book the second visit. You can come for the introductory facial alone."
+          ],
+          [
+            "How do I receive the $85 follow-up?",
+            "Before leaving your first appointment, reserve your 60-minute Custom Facial at checkout. That is how you receive the $85 price; the follow-up is not a separate online promotion. Scheduling is subject to provider availability."
+          ],
+          [
+            "Where is Matrix?",
+            "Matrix Massage & Bodywork is physically at 24804 75th St., Salem, WI 53168, near Salem Lakes and Paddock Lake, and convenient for guests from Antioch. Call or text 262-939-9325 with questions."
+          ]
+        ],
+        "label": "GOOD TO KNOW",
+        "title": "A few quick answers"
+      },
+      "secondDuration": "60 minutes",
+      "firstDuration": "45 minutes",
+      "optional": {
+        "consistencyPerks": {
+          "copy": "",
+          "title": ""
+        },
+        "showConsistencyPerks": false
+      },
+      "rebooking": "Keep your care going: book your follow-up before leaving and receive your next 60-minute Custom Facial for $85, regularly $100.",
+      "brand": "Matrix Massage & Bodywork",
+      "alternative": {
+        "luxeLabel": "EXPLORE CIRCADIA LUXE LIFT",
+        "label": "NO PLAN REQUIRED",
+        "copy": "Just looking for a facial and some time for yourself? You’re welcome here, too. Enjoy the first visit without committing to a second, or browse the full facial menu for a different fit.",
+        "title": "Here for one good facial?",
+        "linkLabel": "EXPLORE ALL FACIALS"
+      },
+      "links": {
+        "sms": "sms:+12629399325",
+        "luxeLift": "https://www.matrixmassage.net/circadia-luxe-lift-facial-near-antioch",
+        "facials": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+        "home": "https://www.matrixmassage.net/",
+        "phone": "tel:+12629399325",
+        "booking": "https://book.squareup.com/appointments/8vwiykmo579ztb/location/LGNQ4P8GPMSEQ/services"
+      },
+      "secondRegular": "Regular price: $100",
+      "firstRegular": "Regular 45-minute Express Facial: $95",
+      "firstPrice": "$79",
+      "final": {
+        "copy": "Book your 45-minute New Client Facial DEAL for $79 in Salem, Wisconsin. If another visit feels right, arrange the $85 follow-up before you leave.",
+        "label": "READY WHEN YOU ARE",
+        "title": "Let’s start with your skin."
+      },
+      "phoneLabel": "262-939-9325",
+      "cta": "BOOK MY $79 FACIAL",
+      "h1": "New Client Facial DEAL in Salem, WI",
+      "address": "24804 75th St., Salem, WI 53168",
+      "layout": {
+        "visualStandard": "Matrix water-ripple / Head Spa",
+        "mobileSectionHeight": 6400,
+        "desktopSectionHeight": 4500,
+        "strongTealOverlay": false,
+        "desktopElementHeight": 4411,
+        "mobileElementHeight": 6326,
+        "preserveNaturalWaterColor": true
+      },
+      "heroMessage": "You don’t have to figure out your skin alone.",
+      "terms": "Offer is for one introductory facial and one discounted follow-up per guest. Cannot be combined with other promotions. Reserve the $85 follow-up before leaving the first appointment; follow-up scheduling is subject to provider availability. Matrix’s existing cancellation and rescheduling policies apply. No prepaid package or obligation to book both visits.",
+      "firstService": "New Client Facial DEAL | 45 Mins",
+      "secondPrice": "$85",
+      "plan": {
+        "intro": "Whether your focus is dryness, dullness, congestion, uneven-feeling texture or visible fine lines, the conversation starts with your skin—not a preset routine. This is cosmetic facial care, with realistic goals and room to adjust.",
+        "label": "A PERSONALIZED STARTING POINT",
+        "steps": [
+          [
+            "01",
+            "Talk it through",
+            "Share your skin goal, sensitivities, what you use now and what has or hasn’t worked. The brief consultation is part of your 45-minute appointment."
+          ],
+          [
+            "02",
+            "Care that fits",
+            "Your facial provider chooses suitable care within the booked service. Your facial may include professional cleansing, exfoliation, hydration, a customized mask and finishing skincare, depending on your skin and suitability."
+          ],
+          [
+            "03",
+            "Leave with clarity",
+            "Get manageable home-care guidance rather than a complicated new routine. If you return, your facial provider can revisit your goals and how your skin responded."
+          ]
+        ],
+        "title": "Your skin gets a plan—not the same facial on repeat"
+      },
+      "priceLine": "$79 • 45 minutes • Personalized to your skin"
+    },
+    "canonicalUrl": "https://www.matrixmassage.net/new-client-facial-deal-salem-wi",
+    "ogTitle": "New Client Facial DEAL in Salem, WI | Matrix",
+    "seoTitle": "New Client Facial Deal in Salem, WI | Matrix",
+    "templateVersion": "brand-match-v2-water",
+    "seoMarkup": "<main class=\"page\" aria-label=\"New Client Facial DEAL\">\n<section>\n<div><a href=\"https://www.matrixmassage.net/\">Matrix Massage &amp; Bodywork</a></div>\n<div>\n<p>NEW CLIENT FACIAL DEAL</p><h1>New Client Facial DEAL in Salem, WI</h1>\n<p>You don’t have to figure out your skin alone.</p><p>$79 • 45 minutes • Personalized to your skin</p>\n<p>Tell us what your skin has been doing, what you’ve tried, and what you want to work on. Your facial provider will personalize your facial and help you understand your next steps—without turning your routine into another overwhelming project.</p>\n<div><a href=\"https://book.squareup.com/appointments/8vwiykmo579ztb/location/LGNQ4P8GPMSEQ/services\">BOOK MY $79 FACIAL</a><a href=\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi\">VIEW ALL FACIALS</a></div>\n<p>New to Matrix facials? You qualify—even if you already visit us for massage or Head Spa.</p><p>Keep your care going: book your follow-up before leaving and receive your next 60-minute Custom Facial for $85, regularly $100.</p>\n</div>\n</section>\n<section><div>\n<div><p>A PERSONALIZED STARTING POINT</p><h2>Your skin gets a plan—not the same facial on repeat</h2><p>Whether your focus is dryness, dullness, congestion, uneven-feeling texture or visible fine lines, the conversation starts with your skin—not a preset routine. This is cosmetic facial care, with realistic goals and room to adjust.</p></div>\n<div><article><h3>Talk it through</h3><p>Share your skin goal, sensitivities, what you use now and what has or hasn’t worked. The brief consultation is part of your 45-minute appointment.</p></article><article><h3>Care that fits</h3><p>Your facial provider chooses suitable care within the booked service. Your facial may include professional cleansing, exfoliation, hydration, a customized mask and finishing skincare, depending on your skin and suitability.</p></article><article><h3>Leave with clarity</h3><p>Get manageable home-care guidance rather than a complicated new routine. If you return, your facial provider can revisit your goals and how your skin responded.</p></article></div></div></section>\n<section><div>\n<div><p>PERSONALIZED FACIAL CARE</p><h2>Care tailored to you</h2></div><p>Your facial provider listens first, adapts the appointment to your skin and comfort, and helps you understand practical next steps. You can ask questions without feeling that you need to arrive with a perfect routine—or commit to one afterward.</p>\n</div></section>\n<section><div>\n<div><p>A SIMPLE WAY TO BEGIN</p><h2>Your first two visits</h2><p>Keep your care going: book your follow-up before leaving and receive your next 60-minute Custom Facial for $85, regularly $100.</p></div>\n<div>\n<article><div><span>VISIT 01</span><span>45 minutes</span></div><div>$79</div><p>Regular 45-minute Express Facial: $95</p><h3>Start with your skin</h3><p>New Client Facial DEAL | 45 Mins</p><p>A personalized 45-minute facial with a brief consultation included in the appointment. Book this introductory service through the button on this page.</p></article>\n<article><div><span>VISIT 02</span><span>60 minutes</span></div><div>$85</div><p>Regular price: $100</p><h3>Build on what you learned</h3><p>60-minute Custom Facial</p><p>Reserve your discounted 60-minute Custom Facial before leaving your first appointment. The second visit is arranged at checkout, not as a separate publicly bookable promotion.</p></article>\n</div><p>Your recommended follow-up timing depends on your goals and available appointments—not a universal deadline. After the promotional follow-up, regular pricing applies unless another specific offer is agreed.</p><div><a href=\"https://book.squareup.com/appointments/8vwiykmo579ztb/location/LGNQ4P8GPMSEQ/services\">BOOK MY $79 FACIAL</a></div>\n</div></section>\n<section><div>\n<div><p>NO PLAN REQUIRED</p><h2>Here for one good facial?</h2><p>Just looking for a facial and some time for yourself? You’re welcome here, too. Enjoy the first visit without committing to a second, or browse the full facial menu for a different fit.</p></div>\n<div><a href=\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi\">EXPLORE ALL FACIALS →</a><a href=\"https://www.matrixmassage.net/circadia-luxe-lift-facial-near-antioch\">EXPLORE CIRCADIA LUXE LIFT →</a></div>\n</div></section>\n<section><div>\n<div><p>GOOD TO KNOW</p><h2>A few quick answers</h2></div>\n<div><div><h3>Who qualifies for the $79 facial?</h3><div><p>Anyone new to Matrix facials qualifies, including existing Matrix massage, Head Spa and wellness clients who have never received a facial here. One introductory facial and one discounted follow-up are available per guest.</p></div></div><div><h3>What happens during the 45-minute appointment?</h3><div><p>A brief consultation happens within the 45 minutes, then your facial provider personalizes the facial to your skin and suitability. Care may include cleansing, exfoliation, hydration, customized masking and finishing skincare. The consultation is not extra time.</p></div></div><div><h3>Do I need to prepay or book two visits?</h3><div><p>No. There is no prepaid package and no obligation to book the second visit. You can come for the introductory facial alone.</p></div></div><div><h3>How do I receive the $85 follow-up?</h3><div><p>Before leaving your first appointment, reserve your 60-minute Custom Facial at checkout. That is how you receive the $85 price; the follow-up is not a separate online promotion. Scheduling is subject to provider availability.</p></div></div><div><h3>Where is Matrix?</h3><div><p>Matrix Massage &amp; Bodywork is physically at 24804 75th St., Salem, WI 53168, near Salem Lakes and Paddock Lake, and convenient for guests from Antioch. Call or text 262-939-9325 with questions.</p></div></div></div><p><strong>Offer details.</strong> Offer is for one introductory facial and one discounted follow-up per guest. Cannot be combined with other promotions. Reserve the $85 follow-up before leaving the first appointment; follow-up scheduling is subject to provider availability. Matrix’s existing cancellation and rescheduling policies apply. No prepaid package or obligation to book both visits.</p>\n</div></section>\n<section><div>\n<div><div><p>READY WHEN YOU ARE</p><h2>Let’s start with your skin.</h2><p>Book your 45-minute New Client Facial DEAL for $79 in Salem, Wisconsin. If another visit feels right, arrange the $85 follow-up before you leave.</p></div><a href=\"https://book.squareup.com/appointments/8vwiykmo579ztb/location/LGNQ4P8GPMSEQ/services\">BOOK MY $79 FACIAL</a></div>\n<p>Matrix Massage &amp; Bodywork · 24804 75th St., Salem, WI 53168 · <a href=\"tel:+12629399325\">Call 262-939-9325</a> · <a href=\"sms:+12629399325\">Text 262-939-9325</a></p>\n</div></section>\n</main>",
+    "category": "facial-promotion",
+    "seoDescription": "New to Matrix facials? Book a personalized 45-minute facial for $79 in Salem, WI. Reserve an $85 60-minute follow-up before leaving your first visit.",
+    "active": false
+  }
+}
