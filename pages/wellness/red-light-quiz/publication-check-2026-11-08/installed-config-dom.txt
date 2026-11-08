@@ -1,0 +1,53 @@
+- code:
+  - generic: 
+  - generic: "1"
+  - generic: "2"
+  - generic: "3"
+  - generic: 
+  - generic: "4"
+  - generic: "5"
+  - generic: "6"
+  - generic: "7"
+  - generic: "8"
+  - generic: "9"
+  - generic: "10"
+  - generic: "11"
+  - generic: "12"
+  - generic: "13"
+  - generic: "14"
+  - generic: "15"
+  - generic: "16"
+  - generic: /* BACKEND ONLY. No keys or passwords are required.
+  - generic: "* Do not enable live mode before the launch checklist and owner approval."
+  - generic: "*/"
+  - generic: "export const CONFIG = Object.freeze({"
+  - generic: "mode: 'test', // 'test' stores nothing and sends nothing; 'live' requires approval."
+  - generic: "collectionId: 'MatrixGlowGuideLeads',"
+  - generic: "clientEmailId: '', // Copy the actual ID from the Wix Triggered Emails code snippet."
+  - generic: "ownerEmailId: '', // Different template, with only a reference and client first name."
+  - generic: "ownerContactId: '', // Verify this CRM contact's primary email before enabling."
+  - generic: "ownerEmail: 'matrixmassage.bodywork@matrixmassage.net',"
+  - generic: "consentVersion: 'matrix-glow-marketing-email-2026-10-v2',"
+  - generic: "offersApproved: true, // Owner supplied exact per-service prices on 2026-11-07. No package offers."
+  - generic: "privacyReviewed: false, // Confirm privacy notice, access, retention, email processing."
+  - generic: "bookingUrl: '' // Optional: paste a verified, existing Square appointment URL."
+  - generic: "});"
+  - textbox "Editor content;Press Alt+F1 for Accessibility Options." [active]: "/* BACKEND ONLY. No keys or passwords are required. * Do not enable live mode before the launch checklist and owner approval. */ export const CONFIG = Object.freeze({ mode: 'test', // 'test' stores nothing and sends nothing; 'live' requires approval. collectionId: 'MatrixGlowGuideLeads', clientEmailId: '', // Copy the actual ID from the Wix Triggered Emails code snippet. ownerEmailId: '', // Different template, with only a reference and client first name. ownerContactId: '',"
+- button "?"
+- textbox "°" [disabled]: "0"
+- generic: °
+- generic: Size (px)
+- generic: "W:"
+- textbox "W:" [disabled]: "0"
+- generic: "H:"
+- textbox "H:" [disabled]: "0"
+- generic: Position
+- generic: "X:"
+- textbox "X:" [disabled]: "0"
+- generic: "Y:"
+- textbox "Y:" [disabled]: "0"
+- generic: Show on All Pages
+- checkbox
+- button "Layers"
+- alert
+- alert
