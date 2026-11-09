@@ -1,0 +1,19 @@
+test_changed_baseline_blocks_dependent_publication (__main__.HelperTests.test_changed_baseline_blocks_dependent_publication) ... ok
+test_changed_plan_rejected (__main__.HelperTests.test_changed_plan_rejected) ... ok
+test_ctr_and_change (__main__.HelperTests.test_ctr_and_change) ... ok
+test_cyclic_dependency (__main__.HelperTests.test_cyclic_dependency) ... ok
+test_dependency_order (__main__.HelperTests.test_dependency_order) ... ok
+test_html_and_nested_schema (__main__.HelperTests.test_html_and_nested_schema) ... ok
+test_missing_and_zero (__main__.HelperTests.test_missing_and_zero) ... ok
+test_missing_owner_evidence (__main__.HelperTests.test_missing_owner_evidence) ... ok
+test_partial_draft_approval (__main__.HelperTests.test_partial_draft_approval) ... ok
+test_reject_duplicate_rows (__main__.HelperTests.test_reject_duplicate_rows) ... ok
+test_reject_invalid_metrics (__main__.HelperTests.test_reject_invalid_metrics) ... ok
+test_reject_period_mismatch (__main__.HelperTests.test_reject_period_mismatch) ... ok
+test_script_shell_and_invalid_json (__main__.HelperTests.test_script_shell_and_invalid_json) ... ok
+test_unapproved_dependency (__main__.HelperTests.test_unapproved_dependency) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 0.002s
+
+OK

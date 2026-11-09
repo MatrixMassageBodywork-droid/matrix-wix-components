@@ -1,0 +1,8 @@
+{
+  "apps": {
+    "github": {"id": "connector_76869538009648d5b282a4bb21c3d157"},
+    "wix": {"id": "asdk_app_6947eaa4edd081919561e4ee3a2e5dcc"},
+    "google-drive": {"id": "connector_5f3c8c41a1e54ad7a76272c89e2554fa"},
+    "browser": {"id": "connector_openai_browser"}
+  }
+}

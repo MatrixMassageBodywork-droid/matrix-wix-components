@@ -1,0 +1,26 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "matrix-seo-ai-search-manager",
+  "version": "1.0.0",
+  "description": "Audit Matrix Wix pages, inspect available free search and analytics reports, propose precise SEO and AI search improvements for owner approval, and apply and verify approved changes.",
+  "author": {"name": "Matrix Massage & Bodywork"},
+  "extensions": {
+    "com.openai": {
+      "apps": "./.app.json",
+      "interface": {
+        "displayName": "Matrix SEO & AI Search Manager",
+        "shortDescription": "Audit, approve, improve SEO",
+        "longDescription": "Audit existing Matrix pages or prepare SEO requirements for new pages. Use available Wix, Google Search Console, Google Analytics and free technical checks; present page performance, evidence and exact before-and-after changes for owner approval. Execute only approved edits, preserve existing design and URLs, and verify saved and published results separately. Uses connected Wix, Google Drive, GitHub and browser capabilities; Google reporting requires existing authorized account access or exports. No paid SEO reporting subscription is required. Runs when invoked, not as an unattended background service.",
+        "developerName": "Matrix Massage & Bodywork",
+        "category": "Business & Operations",
+        "capabilities": ["Interactive"],
+        "brandColor": "#123D40",
+        "defaultPrompt": [
+          "Audit Matrix's service and location pages, check available free performance reports, and show me prioritized changes for approval.",
+          "Prepare the SEO and AI search requirements for this new Matrix page and show me the exact copy, links and schema for approval.",
+          "Apply the changes I approved in the latest Matrix SEO report and verify the results."
+        ]
+      }
+    }
+  }
+}

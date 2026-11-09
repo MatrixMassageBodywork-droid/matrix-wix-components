@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "file_count": 12,
+  "subtitle_length": 27,
+  "archive": "/workspace/scratch/cc2f133e01e8/matrix-seo-ai-search-manager-1.0.0.zip",
+  "sha256": "1ff58c48319aad23dea362a932c160f91fb16f65c1392fa9c72d6589501224a8",
+  "files": {
+    ".app.json": "12e9be608b2c0512601327d21597e7df82d997137dfd42ad9ac346248f8140e4",
+    "plugin.json": "a3ba917eb7537286fa1c43524b5919cdf6fc69b57567e7b47df7ea4e5af98034",
+    "skills/matrix-seo-audit-and-optimize/SKILL.md": "1dd88759ebc3a272272c4a421673a226b2894219fb706f415fcfd679133c3fbc",
+    "skills/matrix-seo-audit-and-optimize/references/approval-and-execution.md": "bf630601ca6b9d585a643b9c5a06c57de9119391aaea54fd8e5cf558024a30d7",
+    "skills/matrix-seo-audit-and-optimize/references/free-performance-sources.md": "141d686b0fb3ed3ef5fcdf40792a7029911c1261b03fc04726d6e857a055bc65",
+    "skills/matrix-seo-audit-and-optimize/references/page-checklists.md": "8979f7879cec4ffa7584f51db37f4c0de88506134c551cd6b1e46fc185504762",
+    "skills/matrix-seo-audit-and-optimize/references/project-and-scope.md": "b02f73d059542474dd8a31f87c57771257a485a0d1ac96ac6211a0a65224d174",
+    "skills/matrix-seo-audit-and-optimize/references/report-template.md": "a3e8f8d265643644564d06488d95c7ab86e39f5469f1d842ea65cdc0fe3754be",
+    "skills/matrix-seo-audit-and-optimize/references/sources.md": "ba8484b89ec6b652efa5b5b148a39f9a60f1a3ed08422e6a465b766cbd68dddc",
+    "skills/matrix-seo-audit-and-optimize/scripts/check_approval.py": "c7151b4da11d191f0b1909be43c4d36f1795622c377752de694ffde4999009c2",
+    "skills/matrix-seo-audit-and-optimize/scripts/inspect_html.py": "779a43c393f3c59fa2b17570391c9a84ed62198f525b28aacb3676420521772c",
+    "skills/matrix-seo-audit-and-optimize/scripts/performance_summary.py": "468b8cc873b9311c606a680e55056cb3e74c9fc6457c96bd09467e837a1b5f53"
+  }
+}
