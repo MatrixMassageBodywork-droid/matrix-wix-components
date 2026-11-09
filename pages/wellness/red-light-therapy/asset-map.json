@@ -1,0 +1,20 @@
+{
+  "logo": {
+    "url": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+    "source": "Matrix approved design-system rule"
+  },
+  "water": {
+    "url": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg",
+    "source": "Approved shared water"
+  },
+  "panel": {
+    "file": "assets/panel.jpg",
+    "url": "https://static.wixstatic.com/media/e4cc43_6770ca078851428da084817f8912d7f8~mv2.jpg",
+    "source": "Existing Wix Media file BIOMAX 900.jpg; uploaded 2025-08-06; visually inspected panel closeup"
+  },
+  "product": {
+    "file": "assets/panel-context.png",
+    "url": "https://static.wixstatic.com/media/e4cc43_5d1097c9f904431698b47d8b89e02b36~mv2.png",
+    "source": "Existing Wix Media file PLBM900.png; product/model image, not claimed to depict a Matrix client"
+  }
+}
