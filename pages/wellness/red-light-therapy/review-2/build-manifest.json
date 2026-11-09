@@ -1,0 +1,81 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "Red Light Therapy in Salem, WI",
+    "revision": "red-light-service-r2",
+    "tagName": "matrix-red-light-service",
+    "elementId": "matrixRedLightPage",
+    "rootClass": "matrix-redlight",
+    "pageUrl": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+    "seoTitle": "Red Light Therapy in Salem, WI | Recovery & Skin Wellness",
+    "seoDescription": "Full-body red and near-infrared light therapy in Salem, WI for recovery, relaxation and skin wellness. Book at Matrix Massage & Bodywork.",
+    "seoSource": "baseline/saved-seo.json \u2014 Wix saved SEO captured 2026-11-09",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 9
+  },
+  "seo": {
+    "title": "Red Light Therapy in Salem, WI | Recovery & Skin Wellness",
+    "description": "Full-body red and near-infrared light therapy in Salem, WI for recovery, relaxation and skin wellness. Book at Matrix Massage & Bodywork.",
+    "canonical": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+    "source": "baseline/saved-seo.json \u2014 Wix saved SEO captured 2026-11-09"
+  },
+  "h1": "Red Light Therapy in Salem, WI",
+  "faqCount": 9,
+  "links": [
+    "https://www.matrixmassage.net/",
+    "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+    "https://www.matrixmassage.net/book-appointments-salem-wi",
+    "https://www.matrixmassage.net/red-light-therapy-glow-score",
+    "#rl-benefits",
+    "#rl-prices",
+    "#rl-guide",
+    "#rl-visit",
+    "#rl-faq",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://www.matrixmassage.net/red-light-therapy-glow-score",
+    "https://pubmed.ncbi.nlm.nih.gov/40167796/",
+    "https://pubmed.ncbi.nlm.nih.gov/36286574/",
+    "https://www.matrixmassage.net/book-appointments-salem-wi",
+    "https://www.matrixmassage.net/book-appointments-salem-wi",
+    "https://www.matrixmassage.net/book-appointments-salem-wi",
+    "sms:+12629399325",
+    "https://www.matrixmassage.net/red-light-therapy-glow-score",
+    "https://www.matrixmassage.net/red-light-therapy-glow-score",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "https://us.fullscript.com/s/matrix_massage_wellness/shop",
+    "https://www.matrixmassage.net/red-light-therapy-glow-score",
+    "https://www.matrixmassage.net/book-appointments-salem-wi",
+    "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+    "https://www.matrixmassage.net/about-5",
+    "https://www.matrixmassage.net/book-appointments-salem-wi",
+    "https://www.matrixmassage.net/red-light-therapy-glow-score",
+    "sms:+12629399325",
+    "https://www.aad.org/public/cosmetic/safety/red-light-therapy"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+      "alt": "Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_6770ca078851428da084817f8912d7f8~mv2.jpg",
+      "alt": "Illuminated LEDs on a PlatinumLED BioMax 900 red light panel"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_5d1097c9f904431698b47d8b89e02b36~mv2.png",
+      "alt": "PlatinumLED product image showing a red light panel beside a person"
+    }
+  ],
+  "files": {
+    "body.html": "12e54d8487ac9bde4b9c5cfaa2f5dd5034526148ede51b34a39f49e2570c9e8b",
+    "style.css": "72c8d167fc9aeb3380b7fde5d99f3881f562fc5d41343c2a59a08ae940995990",
+    "renderer.js": "5d04c561bdde4da89102bea0b89e5e3605bc41af1e7e2f21ea77cc2184771b90",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "e6caa5cf01b0289c1f3c6fdc6f74b0f0a4dac4edbcef1b66e7c939b4dd8ccf85",
+    "preview.html": "396bce108b913c3719a449c26c599fe2487dbb021a80d57a4d7aaa87f1f5ab38",
+    "faq-schema.json": "ae124cf07ff3b2a7fef06775f959666bd864a3da7dec9005925b438bacfe4777"
+  },
+  "rendererBytes": 28941
+}

@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is red light therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Red light therapy, also called photobiomodulation, uses red and near-infrared wavelengths of light. It is studied for skin rejuvenation, targeted recovery, and comfort. At Matrix, it is offered as a non-invasive wellness service tailored to your chosen coverage and goals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What equipment does Matrix use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matrix uses PlatinumLED BioMax 900 red and near-infrared panels in a private, comfortable wellness setting. Positioning, settings, and exposure time are chosen for the treatment area and your individual needs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much is red light therapy at Matrix?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Full Body Red Light Therapy is $25.99 per standalone visit. Face & Head Red Light Therapy is $14.99 and can also be added during a massage. Full Body Red Light Enhancement during an existing session is +$22.99, in addition to the main service price."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I come in?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For suitable skin and wellness goals, a Matrix starting plan may be 2\u20133 visits per week for four weeks, followed by a progress review. Your goal, availability, and response shape the plan. Research schedules vary by condition and device; the quiz links the relevant studies in your personalized report."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does a session feel like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You rest in a comfortable position while the panels provide light and may produce gentle warmth. The visit is designed to fit into your day without a recovery period. Your intake and setup help us personalize the experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I add red light therapy to my massage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Face and head red light can be added during a massage for $14.99. Full-body red light during an existing session is a +$22.99 enhancement. The main appointment is priced separately. Choose your service in the booking menu or text Matrix for help pairing appointments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I receive my personalized Glow Guide?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Complete the Red Light Therapy Quiz, enter your name, email, and mobile number, give the separate email and text marketing permissions, and complete verification. Your report is generated from your answers and submitted for email delivery, with relevant research and optional nutrition notes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is Matrix located?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matrix Massage & Bodywork and Matrix Wellness & Biotech are at 24804 75th St, Salem, WI 53168. Our Salem studio welcomes guests from Paddock Lake, Bristol, Trevor, Twin Lakes, Pleasant Prairie, Kenosha, Union Grove, and nearby Antioch, Illinois. Book online or text 262-939-9325."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I review before booking?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Review the appointment details, intake requirements, and current cancellation policy on our booking page. Share light sensitivity, relevant medications, and recent skin procedures before your red light session so we can guide the setup. Open the full booking menu and appointment information."
+      }
+    }
+  ]
+}
