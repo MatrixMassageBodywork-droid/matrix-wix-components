@@ -1,0 +1,7 @@
+{
+  "canonical": true,
+  "description": true,
+  "title": true,
+  "url": true,
+  "schema": true
+}

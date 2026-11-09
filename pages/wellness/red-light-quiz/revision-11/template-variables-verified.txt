@@ -1,0 +1,16 @@
+import { triggeredEmails } from 'wix-crm';
+//...
+triggeredEmails.emailContact('VaR3j2e', <enter-contact-id-here>, {
+  variables: {
+        reportTitle: <enter-value-here>,
+        firstName: <enter-value-here>,
+        reportIntro: <enter-value-here>,
+        planHeading: <enter-value-here>,
+        planBody: <enter-value-here>,
+        researchBody: <enter-value-here>,
+        homeBody: <enter-value-here>,
+        visitBody: <enter-value-here>,
+        nextStepBody: <enter-value-here>,
+        requestRef: <enter-value-here>
+  }
+});
