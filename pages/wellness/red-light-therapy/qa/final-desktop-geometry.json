@@ -1,0 +1,34 @@
+{
+  "component": {
+    "bottom": 4242,
+    "height": 6545,
+    "left": 0,
+    "right": 1348,
+    "top": -2303,
+    "width": 1348,
+    "x": 0,
+    "y": -2303
+  },
+  "footer": true,
+  "header": true,
+  "oldSectionsRemain": [],
+  "reviews": true,
+  "sections": [
+    {
+      "h": 6565,
+      "id": "comp-mdp0tqbs2"
+    },
+    {
+      "h": 565,
+      "id": "comp-mdp0tqe02"
+    },
+    {
+      "h": 32,
+      "id": "comp-mmwkgedr"
+    },
+    {
+      "h": 300,
+      "id": "comp-mdp0tqe46"
+    }
+  ]
+}
