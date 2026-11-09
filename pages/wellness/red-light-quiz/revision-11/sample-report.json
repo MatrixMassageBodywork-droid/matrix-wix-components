@@ -1,0 +1,76 @@
+{
+  "version": 11,
+  "title": "Skin Renewal | Your Matrix Plan",
+  "goal": "Skin & facial rejuvenation",
+  "focus": "Face: fine lines & texture",
+  "route": "visit",
+  "reviewRequired": false,
+  "introduction": "Your focus is smoother-looking skin, visible texture and a refreshed glow. A repeatable routine gives you a clearer picture of change than a single snapshot. Your selected focus: face: fine lines & texture.",
+  "rationale": [
+    "For skin appearance, consistency is the useful starting point: enough visits to establish a rhythm, with a clear moment to compare your progress."
+  ],
+  "planHeading": "Your four-week starting plan",
+  "planBody": "Based on your chosen pathway, we recommend 2–3 visits per week for 4 weeks to start. Since twice weekly fits your calendar, plan two visits each week—eight visits across the first month. For skin appearance, consistency is the useful starting point: enough visits to establish a rhythm, with a clear moment to compare your progress.",
+  "schedule": {
+    "perWeek": 2,
+    "weeks": 4,
+    "visits": 8,
+    "cadence": "2–3 visits per week for 4 weeks to start",
+    "checkpoint": "At week four, compare your starting notes and decide on the next block together.",
+    "kind": "Matrix starting schedule; provider confirms suitability and device setup"
+  },
+  "tracking": "Use consistent facial photos, the same lighting, and one priority such as fine-line appearance or texture.",
+  "maintenance": "At week four, compare your starting notes and photos, celebrate what has changed, and choose the next phase with Matrix—another focused block or a more spaced-out routine.",
+  "nextStep": "Reserve your first full body red light therapy visit and bring this plan. We will confirm the treatment area, comfortable device settings and your next dates with you.",
+  "proposedOffer": {
+    "name": "Full Body Red Light Therapy",
+    "unitPrice": 25.99,
+    "price": 25.99,
+    "visits": 1,
+    "type": "A standalone full body visit.",
+    "cadence": "2–3 visits per week for 4 weeks to start",
+    "note": "Per-visit pricing. Enhancements are added to the main appointment."
+  },
+  "bookingUrl": "https://www.matrixmassage.net/book-appointments-salem-wi",
+  "nutritionIncluded": true,
+  "nutritionSummary": "You chose nutrition support, so here are practical ways to build on your visits. Start with one or two changes you can repeat this week.",
+  "nutritionNotes": [
+    {
+      "name": "Pair protein with color",
+      "why": "Try Greek yogurt or fortified soy yogurt with berries at breakfast; at lunch, pair eggs, chicken, tofu or lentils with bell peppers or broccoli. Protein provides tissue building blocks, while vitamin C is needed for normal collagen formation. Make this a daily habit alongside your skin or comfort routine.",
+      "source": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/",
+      "sourceLabel": "NIH: vitamin C and collagen",
+      "caution": ""
+    },
+    {
+      "name": "A practical skin-support plate",
+      "why": "Build dinner around fish, tofu or beans, colorful vegetables and olive oil, with nuts or seeds if they suit your diet. This gives your routine variety, protein and unsaturated fats without relying on a single “beauty” ingredient.",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/27440261/",
+      "sourceLabel": "Mediterranean-pattern nutrition research",
+      "caution": ""
+    },
+    {
+      "name": "A skin-specific option: oral hyaluronic acid",
+      "why": "For fine lines and hydration, oral hyaluronic acid is an option to discuss. A small, industry-affiliated randomized trial in 40 adults found improvements in hydration and wrinkle measures after 12 weeks using 120 mg daily. This is a studied option to consider alongside your routine, not a guaranteed result or a personal dose instruction.",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/34203487/",
+      "sourceLabel": "Oral hyaluronic acid skin trial",
+      "caution": "Choose a product only after checking its ingredients, suitability and label with your clinician or pharmacist."
+    }
+  ],
+  "fullscriptUrl": "https://us.fullscript.com/s/matrix_massage_wellness/shop",
+  "fullscriptText": "Explore the Matrix Fullscript store for optional nutrition support. We can help you narrow the options to fit your diet, medications and goals.",
+  "nutritionNotice": "Choose foods and products that fit your allergies and medical care. Review new supplements with your clinician or pharmacist; the quiz does not diagnose a deficiency.",
+  "researchNotes": [
+    {
+      "title": "Why a four-week skin starting plan?",
+      "summary": "In a randomized trial of 95 women, a 660 nm red-light mask used two or three times weekly for four weeks improved some measured wrinkle lengths and appearance satisfaction.",
+      "detail": "The study did not find a difference on every wrinkle measure or an advantage of three sessions over two. It supports a consistent skin routine; Matrix uses different equipment, so the study’s exposure dose is not copied.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40167796/"
+    }
+  ],
+  "visitBody": "Full Body Red Light Therapy — $25.99 per visit. A standalone full body visit. Schedule individual visits through the Matrix booking menu.",
+  "deviceNote": "Your provider confirms exposure time, distance, settings and eye protection for the actual device and treatment area. Studies using a mask, laser or other setup inform the discussion; they do not establish an identical Matrix dose.",
+  "deviceSource": "https://www.platinumtherapylights.com/pages/help-product-usage-safety",
+  "closing": "A thoughtful plan. A rhythm you can keep. A little more time for you. — Matrix Massage & Bodywork",
+  "deliveryStatus": "Report generation is automatic. Email acceptance and inbox delivery are tracked separately."
+}

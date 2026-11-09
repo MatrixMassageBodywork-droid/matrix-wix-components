@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "combinations": 15552,
+  "reviewRoutes": 12528,
+  "pricedRoutes": 2016,
+  "nutrition": "Goal-specific foods even when intake reported adequate; supplement options gated; skip respected",
+  "deliveryBridge": "byte-identical to R10",
+  "schema": "unchanged",
+  "actualEmailSent": false
+}
