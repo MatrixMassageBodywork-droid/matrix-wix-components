@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "deliveryScenarios": 24,
+  "realEmailsSent": 0,
+  "liveCustomerRecordsWritten": 0,
+  "checks": [
+    "both consent channels required",
+    "phone normalization",
+    "exact consent wording and timestamp persisted",
+    "save before email",
+    "durable sending marker",
+    "idempotent duplicate and concurrent submissions",
+    "email address and effective-recipient match",
+    "unsubscribe respected",
+    "unknown sends never automatically retried",
+    "owner notification excludes report",
+    "test mode writes and sends nothing"
+  ]
+}

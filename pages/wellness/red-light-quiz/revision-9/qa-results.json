@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "answerCombinations": 15552,
+  "clinicianRoutes": 12528,
+  "pricedRoutes": 2016,
+  "prices": [
+    25.99,
+    14.99,
+    22.99
+  ],
+  "noLiveWrites": true,
+  "noEmails": true,
+  "syntax": true,
+  "schemaMatchesVisibleFaq": true
+}
