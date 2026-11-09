@@ -1,0 +1,86 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is Matrix Massage & Bodywork located in Union Grove?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Our studio is at 24804 75th St in Salem, Wisconsin. We welcome people visiting from Union Grove who are looking for personalized massage in the surrounding area."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How far is Matrix from Union Grove?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matrix Massage & Bodywork is approximately 11.5 miles from Union Grove at 24804 75th St, Salem, WI 53168. Allow approximately 15\u201320 minutes via US-45 south and WI-50 west. Travel time varies with your starting point and traffic; check current directions before leaving."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer Japanese head spa near Union Grove?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Our Japanese head spa services are available at our Salem studio, welcoming guests from Union Grove, Yorkville, Dover and Paris. Explore our Japanese head spa services for treatment details, then use the booking menu to view current appointments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between Swedish and deep tissue massage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Swedish massage generally uses flowing strokes and lighter-to-moderate pressure, while deep tissue and therapeutic work can focus more specifically on tight or overworked areas. Your preferred pressure and goals matter more than choosing the \u201cstrongest\u201d option."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does deep tissue massage have to hurt to be effective?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Discomfort is not a requirement for a useful massage. Tell your therapist about your comfort level, and ask for adjustments when the pressure or technique does not feel right."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I ask for extra attention to my neck, shoulders, or back?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Let your therapist know where you would like the session focused and how you prefer the pressure to feel. The plan can be adjusted within the service and time you booked."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is manual lymphatic drainage the same as deep tissue massage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Manual lymphatic drainage generally uses a much lighter, rhythmic approach. It is not intended to be performed like a firm muscle-focused massage. If your interest is related to unexplained swelling, surgery, or a medical condition, seek appropriate healthcare guidance before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer massage during pregnancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prenatal-focused massage is among the options shown on our massage service page. Please review current availability and share your stage of pregnancy, relevant symptoms, and any medical guidance when booking so the provider can determine whether an appointment is appropriate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long should I book for my massage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choose based on how much time you want for focused work or a more complete session. Current appointment durations and prices appear in the booking menu, where you can compare the available options before selecting one."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book a massage if I'm coming from Union Grove?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Use our online booking menu to view available massage appointments at the Salem studio. You can also text Matrix at (262) 939-9325 with a booking question."
+      }
+    }
+  ]
+}
