@@ -1,0 +1,71 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "Massage Near Union Grove, WI",
+    "revision": "revision-2-2026-11-09",
+    "tagName": "matrix-union-grove-page",
+    "elementId": "matrixUnionGrove",
+    "rootClass": "matrix-union-grove",
+    "pageUrl": "https://www.matrixmassage.net/massage-near-union-grove-wi",
+    "seoTitle": "Massage Near Union Grove, WI | Matrix Massage & Bodywork",
+    "seoDescription": "Looking for massage near Union Grove, WI? Visit Matrix Massage & Bodywork in Salem for personalized therapeutic, deep tissue, Swedish and lymphatic massage.",
+    "seoSource": "baseline/seo-before.json",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 8
+  },
+  "seo": {
+    "title": "Massage Near Union Grove, WI | Matrix Massage & Bodywork",
+    "description": "Looking for massage near Union Grove, WI? Visit Matrix Massage & Bodywork in Salem for personalized therapeutic, deep tissue, Swedish and lymphatic massage.",
+    "canonical": "https://www.matrixmassage.net/massage-near-union-grove-wi",
+    "source": "baseline/seo-before.json"
+  },
+  "h1": "Massage Near Union Grove, WI",
+  "faqCount": 8,
+  "links": [
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "#massage-options",
+    "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+    "https://www.matrixmassage.net/swedish-massage-salem-wi",
+    "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://maps.google.com/maps?cid=13922054554836148682",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+      "alt": "Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@3410ffbe4854f403f588526a1c113f0610d757f8/pages/massage/regional-review-2026-11-06/assets/existing-therapeutic.webp",
+      "alt": "Hands-on massage treatment at Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg",
+      "alt": ""
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@3410ffbe4854f403f588526a1c113f0610d757f8/pages/massage/regional-review-2026-11-06/assets/matrix-treatment-room.webp",
+      "alt": "A treatment room at the Matrix studio in Salem, Wisconsin"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg",
+      "alt": ""
+    }
+  ],
+  "files": {
+    "body.html": "e336e058f572be1ac871e84f355485ba10a9936fd6aa85a542b2d81b30322ed4",
+    "style.css": "12683a3bd0da05fdd5877a1399fb9e29321a39747c4f1cafdfcc404462356653",
+    "renderer.js": "5ff50efac3ace309f65e211713d33cfe255840ab161fa9e4d882b957fab12450",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "34ede453d6e3e1c584540be44c2f54c5d2d6501df8f317373486b26e9a1f4663",
+    "preview.html": "45563775b12170eff63919e066df3de1df1445ea84476a9227d9f632ff0ccd81",
+    "faq-schema.json": "e1fd282e902701b9836716c093d9e6d76b3c770ba1c25c7a31c8d1337113aa35"
+  },
+  "rendererBytes": 20331
+}

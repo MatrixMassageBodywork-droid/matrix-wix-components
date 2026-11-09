@@ -1,0 +1,14 @@
+{
+  "serviceName": "Massage Near Union Grove, WI",
+  "revision": "revision-2-2026-11-09",
+  "tagName": "matrix-union-grove-page",
+  "elementId": "matrixUnionGrove",
+  "rootClass": "matrix-union-grove",
+  "pageUrl": "https://www.matrixmassage.net/massage-near-union-grove-wi",
+  "seoTitle": "Massage Near Union Grove, WI | Matrix Massage & Bodywork",
+  "seoDescription": "Looking for massage near Union Grove, WI? Visit Matrix Massage & Bodywork in Salem for personalized therapeutic, deep tissue, Swedish and lymphatic massage.",
+  "seoSource": "baseline/seo-before.json",
+  "bodyFile": "body.html",
+  "cssFile": "style.css",
+  "expectedFaqCount": 8
+}

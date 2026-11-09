@@ -1,0 +1,291 @@
+{
+  "itemSeoTags": {
+    "id": "STATIC_PAGE:lidzc",
+    "itemType": "STATIC_PAGE",
+    "itemId": "lidzc",
+    "tags": [
+      {
+        "type": "title",
+        "children": "Massage Near Union Grove, WI | Matrix Massage & Bodywork",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "meta",
+        "props": {
+          "name": "description",
+          "content": "Looking for massage near Union Grove, WI? Visit Matrix Massage & Bodywork in Salem for personalized therapeutic, deep tissue, Swedish and lymphatic massage."
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "script",
+        "props": {
+          "type": "application/ld+json"
+        },
+        "meta": {
+          "schemaType": "kHPT_TmR",
+          "displayName": "Massage Near Union Grove, Wisconsin Service Schema"
+        },
+        "children": "{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"@id\":\"https://www.matrixmassage.net/massage-near-union-grove-wi#service\",\"name\":\"Massage Near Union Grove, Wisconsin\",\"serviceType\":\"Customized massage therapy\",\"description\":\"Customized massage therapy for clients from Union Grove, provided at Matrix Massage & Bodywork in Salem, Wisconsin.\",\"url\":\"https://www.matrixmassage.net/massage-near-union-grove-wi\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.matrixmassage.net/massage-near-union-grove-wi\"},\"provider\":{\"@type\":\"HealthAndBeautyBusiness\",\"@id\":\"https://www.matrixmassage.net/#business\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\",\"telephone\":\"+1-262-939-9325\",\"priceRange\":\"$$\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"}},\"areaServed\":{\"@type\":\"City\",\"name\":\"Union Grove, Wisconsin\"}}",
+        "custom": false,
+        "disabled": false
+      }
+    ],
+    "focusKeywords": [],
+    "hasOverride": true,
+    "resolvedTags": [
+      {
+        "tag": {
+          "type": "title",
+          "children": "Massage Near Union Grove, WI | Matrix Massage & Bodywork",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "title",
+          "children": "MASSAGE NEAR UNION GROVE WI | Matrix Massage & Bodywork",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Looking for massage near Union Grove, WI? Visit Matrix Massage & Bodywork in Salem for personalized therapeutic, deep tissue, Swedish and lymphatic massage."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "link",
+          "props": {
+            "rel": "canonical",
+            "href": "https://www.matrixmassage.net/massage-near-union-grove-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:title",
+            "content": "Massage Near Union Grove, WI | Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "meta",
+          "props": {
+            "property": "og:title",
+            "content": "MASSAGE NEAR UNION GROVE WI | Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:description",
+            "content": "Looking for massage near Union Grove, WI? Visit Matrix Massage & Bodywork in Salem for personalized therapeutic, deep tissue, Swedish and lymphatic massage."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image:width",
+            "content": "2500"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image:height",
+            "content": "1330"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:url",
+            "content": "https://www.matrixmassage.net/massage-near-union-grove-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:site_name",
+            "content": "Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:type",
+            "content": "website"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "kHPT_TmR",
+            "displayName": "Massage Near Union Grove, Wisconsin Service Schema"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"@id\":\"https://www.matrixmassage.net/massage-near-union-grove-wi#service\",\"name\":\"Massage Near Union Grove, Wisconsin\",\"serviceType\":\"Customized massage therapy\",\"description\":\"Customized massage therapy for clients from Union Grove, provided at Matrix Massage & Bodywork in Salem, Wisconsin.\",\"url\":\"https://www.matrixmassage.net/massage-near-union-grove-wi\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.matrixmassage.net/massage-near-union-grove-wi\"},\"provider\":{\"@type\":\"HealthAndBeautyBusiness\",\"@id\":\"https://www.matrixmassage.net/#business\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\",\"telephone\":\"+1-262-939-9325\",\"priceRange\":\"$$\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"}},\"areaServed\":{\"@type\":\"City\",\"name\":\"Union Grove, Wisconsin\"}}",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "google-site-verification",
+            "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_SITE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:card",
+            "content": "summary_large_image"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:title",
+            "content": "Massage Near Union Grove, WI | Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:title",
+            "content": "MASSAGE NEAR UNION GROVE WI | Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:description",
+            "content": "Looking for massage near Union Grove, WI? Visit Matrix Massage & Bodywork in Salem for personalized therapeutic, deep tissue, Swedish and lymphatic massage."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      }
+    ],
+    "hostPageId": "lidzc",
+    "publishStatus": "PUBLISH_STATUS_UNSPECIFIED",
+    "origin": "ORIGIN_UNSPECIFIED"
+  }
+}

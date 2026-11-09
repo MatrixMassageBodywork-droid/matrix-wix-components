@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://www.matrixmassage.net/massage-near-union-grove-wi#service",
+  "name": "Massage Near Union Grove, Wisconsin",
+  "serviceType": "Customized massage therapy",
+  "description": "Customized massage therapy for clients from Union Grove, provided at Matrix Massage & Bodywork in Salem, Wisconsin.",
+  "url": "https://www.matrixmassage.net/massage-near-union-grove-wi",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.matrixmassage.net/massage-near-union-grove-wi"
+  },
+  "provider": {
+    "@type": [
+      "LocalBusiness",
+      "HealthAndBeautyBusiness"
+    ],
+    "@id": "https://www.matrixmassage.net/#business",
+    "name": "Matrix Massage & Bodywork",
+    "url": "https://www.matrixmassage.net",
+    "telephone": "+1-262-939-9325",
+    "priceRange": "$$",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "24804 75th St",
+      "addressLocality": "Salem",
+      "addressRegion": "WI",
+      "postalCode": "53168",
+      "addressCountry": "US"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 42.5685566,
+      "longitude": -88.109454
+    },
+    "hasMap": "https://maps.google.com/maps?cid=13922054554836148682"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Union Grove, Wisconsin"
+  }
+}
