@@ -1,0 +1,158 @@
+{
+  "canonical": "https://www.matrixmassage.net/red-light-therapy-glow-score",
+  "description": "Find your red light therapy option in Salem, WI: full body $25.99, face and head $14.99, or full body enhancement $22.99. Take the Matrix Glow Score quiz.",
+  "h1Count": 1,
+  "overflow": false,
+  "robots": null,
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Full body red light therapy is $25.99. Face and head red light therapy is $14.99 and can also be added during a massage. Full body red light during an existing session is a $22.99 enhancement, in addition to the main service price."
+          },
+          "name": "How much is red light therapy at Matrix?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Face and head red light is a $14.99 add-on during a massage. Full body red light can be included during a session for an additional $22.99. Select the matching enhancement when booking or text Matrix to arrange it."
+          },
+          "name": "Can I add red light therapy to my massage?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. It helps you explore your goals, compare services and understand relevant research. It does not diagnose a condition, calculate a light dose, prescribe medication or guarantee results. Answers that suggest a medical concern route to clinician review."
+          },
+          "name": "Does this quiz diagnose a condition or prescribe a treatment?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Start with one visit, then review comfort, tolerance and whether the experience fits your goals. Research protocols differ by device and condition; this quiz does not prescribe a treatment frequency. There is no required series."
+          },
+          "name": "How often should I book red light therapy?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Prices and the booking menu are available without completing the quiz. The personalized report uses the existing name, email, phone, consent and verification process."
+          },
+          "name": "Do I have to complete the quiz to book?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matrix is at 24804 75th St, Salem, WI 53168, serving Salem Lakes, Paddock Lake and nearby Kenosha County communities. Text 262-939-9325 with questions about a visit."
+          },
+          "name": "Where is Matrix Massage & Bodywork?"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "https://www.matrixmassage.net/red-light-therapy-glow-score#webpage",
+          "@type": "WebPage",
+          "about": {
+            "@id": "https://www.matrixmassage.net/red-light-therapy-salem-wi#service"
+          },
+          "description": "Explore red light therapy research and compare full body, face and head, and session enhancement options at Matrix in Salem, Wisconsin.",
+          "inLanguage": "en-US",
+          "isPartOf": {
+            "@id": "https://www.matrixmassage.net/#website"
+          },
+          "name": "Red Light Therapy Quiz & Prices in Salem, WI | Matrix",
+          "url": "https://www.matrixmassage.net/red-light-therapy-glow-score"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "item": "https://www.matrixmassage.net/",
+              "name": "Home",
+              "position": 1
+            },
+            {
+              "@type": "ListItem",
+              "item": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+              "name": "Wellness & Biotech",
+              "position": 2
+            },
+            {
+              "@type": "ListItem",
+              "item": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+              "name": "Red Light Therapy",
+              "position": 3
+            },
+            {
+              "@type": "ListItem",
+              "item": "https://www.matrixmassage.net/red-light-therapy-glow-score",
+              "name": "Red Light Therapy Quiz",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "@id": "https://www.matrixmassage.net/red-light-therapy-salem-wi#service",
+          "@type": "Service",
+          "name": "Red Light Therapy",
+          "offers": [
+            {
+              "@type": "Offer",
+              "description": "Standalone full body red light therapy visit.",
+              "name": "Full Body Red Light Therapy",
+              "price": "25.99",
+              "priceCurrency": "USD",
+              "url": "https://www.matrixmassage.net/book-appointments-salem-wi"
+            },
+            {
+              "@type": "Offer",
+              "description": "Face and head red light therapy, also available as an add-on during a massage. The main service is separate.",
+              "name": "Face & Head Red Light Therapy",
+              "price": "14.99",
+              "priceCurrency": "USD",
+              "url": "https://www.matrixmassage.net/book-appointments-salem-wi"
+            },
+            {
+              "@type": "Offer",
+              "description": "Full body red light during an existing session. The enhancement charge is additional to the main service price.",
+              "name": "Full Body Red Light Enhancement",
+              "price": "22.99",
+              "priceCurrency": "USD",
+              "url": "https://www.matrixmassage.net/book-appointments-salem-wi"
+            }
+          ],
+          "provider": {
+            "@type": "LocalBusiness",
+            "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "US",
+              "addressLocality": "Salem",
+              "addressRegion": "WI",
+              "postalCode": "53168",
+              "streetAddress": "24804 75th St"
+            },
+            "name": "Matrix Massage & Bodywork",
+            "telephone": "+1-262-939-9325",
+            "url": "https://www.matrixmassage.net/"
+          },
+          "serviceType": "Red light therapy"
+        }
+      ]
+    }
+  ],
+  "title": "Red Light Therapy Quiz & Prices in Salem, WI | Matrix"
+}
