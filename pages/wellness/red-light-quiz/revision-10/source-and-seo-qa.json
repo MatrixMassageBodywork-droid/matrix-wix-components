@@ -1,0 +1,9 @@
+{
+  "title": true,
+  "description": true,
+  "canonical": true,
+  "schema": true,
+  "indexable": true,
+  "single_native_h1": true,
+  "script_identity": true
+}

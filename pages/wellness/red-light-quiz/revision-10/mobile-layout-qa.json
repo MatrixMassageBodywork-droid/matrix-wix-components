@@ -1,0 +1,54 @@
+{
+  "layout": {
+    "frames": [
+      {
+        "rect": {
+          "bottom": 392,
+          "height": 330,
+          "left": 514,
+          "right": 834,
+          "top": 62,
+          "width": 320,
+          "x": 514,
+          "y": 62
+        },
+        "title": "Matrix Glow Score branding"
+      },
+      {
+        "rect": {
+          "bottom": 8755,
+          "height": 8070,
+          "left": 514,
+          "right": 834,
+          "top": 685,
+          "width": 320,
+          "x": 514,
+          "y": 685
+        },
+        "title": "Matrix Glow Guide interactive quiz"
+      }
+    ],
+    "h1s": [
+      {
+        "rect": {
+          "bottom": 479.1875,
+          "height": 67.1875,
+          "left": 534,
+          "right": 814,
+          "top": 412,
+          "width": 280,
+          "x": 534,
+          "y": 412
+        },
+        "text": "Red Light Therapy Quiz in Salem, WI"
+      }
+    ],
+    "scrollWidth": 1348,
+    "width": 1348
+  },
+  "priceSelection": "face $14.99 PASS",
+  "quizAdvance": "skin question 1 to skin-specific question 2 PASS",
+  "heroOverflow": "320x330 client matches scroll; PASS",
+  "tested": "Native Wix mobile preview",
+  "notTested": "Separate mobile device user agent; no repeat email submission"
+}
