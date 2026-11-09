@@ -23,4 +23,4 @@ Owner authorized required email, phone, marketing-email and SMS consent, and pre
 Preserve shared header/footer, About, testimonials, unrelated pages, customer records, other automations, and all Square gates. Do not duplicate pages, templates, contacts or saved leads on uncertainty. Read back before retry.
 
 ## Current test evidence
-15,552 answer combinations and 24 delivery/consent failure scenarios pass in isolated local tests. No real emails sent or customer leads written. See qa-results.json and delivery-qa-results.json. Native installation and actual delivery receipt to be recorded after execution.
+15,552 answer combinations and 24 delivery/consent failure scenarios pass in isolated local tests. No real emails sent or customer leads written. See qa-results.json and delivery-qa-results.json. Native installation and desktop/mobile contact gate verification are complete; see NATIVE-INSTALL-RECEIPT.md. Actual email delivery remains untested; mode=test remains installed.
