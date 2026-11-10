@@ -1,0 +1,102 @@
+{
+  "status": "PUBLISHED AND VERIFIED; remaining mobile performance limitation documented",
+  "site": "https://www.matrixmassage.net/",
+  "page": "HOME",
+  "wix_revision": 1085,
+  "published_local": "2026-11-09 21:20 America/Chicago",
+  "renderer_url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@14f2c29fb90895f5ed83a045c5c547414b5bcf3f/pages/home/performance-2026-11-09/renderer-complete.js",
+  "renderer_commit": "14f2c29fb90895f5ed83a045c5c547414b5bcf3f",
+  "renderer_bytes": 38379,
+  "renderer_sha256": "29456a91fb2b165178020e792fff13686bb78c08de9fdb078022c98f7b25c811",
+  "cdn_verification": "HTTP 200; SHA256 matches checked build exactly",
+  "assets_commits": [
+    "6707c3cadc068d9c4bd20d34fb83a23dfb1c288a",
+    "6887941cca74686958c6c7379fc7565288a57043"
+  ],
+  "custom_code": {
+    "name": "Matrix HOME — faster images and accessible footer",
+    "scope": "HOME only (ghmgt)",
+    "location": "Head",
+    "type": "Essential",
+    "enabled": true,
+    "file": "HOME_HEAD_CODE_COMPLETE.html",
+    "maintenance": "Keep early-loader URL and native HOME custom-element source URL synchronized."
+  },
+  "baseline": {
+    "url": "https://pagespeed.web.dev/analysis/https-www-matrixmassage-net/ggc16c8fxm?form_factor=mobile",
+    "mobile": {
+      "score": 57,
+      "lcp_s": 25.0,
+      "payload_kib": 5816,
+      "tbt_ms": 500,
+      "cls": 0.004
+    },
+    "desktop": {
+      "score": 64,
+      "lcp_s": 4.2,
+      "payload_kib": 6934,
+      "tbt_ms": 310,
+      "cls": 0.009
+    }
+  },
+  "final_lab": {
+    "url": "https://pagespeed.web.dev/analysis/https-www-matrixmassage-net/q5eaeeff4r?form_factor=mobile",
+    "captured_local": "2026-11-09 21:21 America/Chicago",
+    "mobile": {
+      "score": 70,
+      "fcp_s": 1.7,
+      "lcp_s": 6.0,
+      "tbt_ms": 290,
+      "cls": 0.004,
+      "speed_index_s": 3.4,
+      "payload_kib": 2809,
+      "image_savings_kib": 15
+    },
+    "desktop": {
+      "score": 88,
+      "fcp_s": 0.4,
+      "lcp_s": 1.1,
+      "tbt_ms": 260,
+      "cls": 0.009,
+      "speed_index_s": 0.8,
+      "payload_kib": 2828,
+      "image_savings_kib": 19
+    },
+    "accessibility": 100,
+    "seo": 100,
+    "best_practices": 96,
+    "agentic_browsing": "3/3"
+  },
+  "confirmation": "A second analysis URL v6ka5mlvnp returned identical metrics and the same 21:21 capture timestamp; treated as cached, not an independent sample.",
+  "earlier_intermediate_tests": "Before the last thumbnail correction, mobile LCP ranged 3.9–4.4 seconds and desktop 1.1 seconds. Those are not the final revision measurement.",
+  "verified": [
+    "Native Wix mobile preview at 320 px without horizontal overflow",
+    "Desktop preview at 1522 px without horizontal overflow",
+    "Public desktop at 1521 px without horizontal overflow",
+    "All 9 page images loaded",
+    "All 11 visible FAQ disclosures open",
+    "All 37 body links preserved",
+    "Square booking destination opened and service list rendered; no booking placed",
+    "Footer links measure 44 px tall",
+    "One visible H1; title, meta description, canonical and three existing JSON-LD blocks preserved",
+    "Same logo, artwork, color palette, copy and layout"
+  ],
+  "not_tested": [
+    "Physical phone hardware",
+    "Real-user Core Web Vitals (no CrUX data available)",
+    "Actual appointment purchase/checkout"
+  ],
+  "remaining": [
+    "Mobile LCP remains above the 2.5-second good threshold",
+    "Wix and third-party JavaScript, including the existing Google Maps footer, still contribute overhead",
+    "Automated SEO/accessibility scores do not establish complete accessibility, ranking or AI-search performance"
+  ],
+  "preserved": [
+    "Existing shared navigation and footer",
+    "Google Maps functionality",
+    "Analytics and Facebook integrations",
+    "Existing red-light service-page publication",
+    "Unknown existing Wix page logic and native rollback sections"
+  ],
+  "rollback": "Use the prior checkpoint only if needed: renderer-final.js at commit 56054a0a0dfcec30f2fd759a03148ef1f62b826b, WIX_PAGE_CODE_FINAL.js and matching HOME_HEAD_CODE_FINAL.html. Synchronize both renderer references. No history restoration was performed."
+}
