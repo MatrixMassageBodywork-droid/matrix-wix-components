@@ -1,0 +1,94 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What services does Matrix Massage & Bodywork offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matrix offers Japanese Head Spa, custom facials, red light therapy, infrared sauna, manual lymphatic drainage, Swedish, deep tissue and prenatal massage, cupping, waxing and dermaplaning in our Salem, WI studio."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a spa day with purpose?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is our clinical luxury approach: every visit feels indulgent and relaxing, and every service is chosen with intention for how you want to look and feel, from scalp and skin to recovery and stress relief."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer Japanese Head Spa near me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Our Japanese Head Spa rituals feature Matrix Precision Scalp Infusions\u2122 that we craft in house, plus complimentary Zen Lounge time. Rituals start at $95."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you have a new client facial offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. New guests can enjoy a 45-minute custom facial for $79, regularly $95."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I book an appointment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Book online anytime through our Square booking page or text (262) 939-9325. We are happy to help you choose the right service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is your cancellation policy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your appointment time is reserved just for you, so we ask for at least 24 hours' notice to cancel or reschedule. Cancellations made within 24 hours of your appointment, for any reason, and no-shows are charged the full price of the service plus an automatic 20% gratuity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a card on file to book?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. To secure your appointment, complete our intake form and credit card authorization form when you book. If you have a Matrix gift card on file instead, its remaining balance is applied toward any late-cancellation fee."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What areas do you serve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our Salem studio at 24804 75th St welcomes guests from Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Silver Lake, Kansasville, Union Grove, Burlington, Pleasant Prairie, Kenosha and Antioch, IL."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I book a massage during pregnancy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matrix offers prenatal massage. Explore the prenatal option on our massage services page, and let us know your stage of pregnancy and any concerns before booking so we can help you choose the right appointment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer facials for acne-prone skin and lash extensions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Our Custom Facial can be tailored for acne-prone or congested skin, as well as hydration, sensitivity and visible signs of aging. We also offer Classic, Hybrid and Volume lash extensions with full sets and maintenance fills. Explore the separate facial and lash pages for details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I buy a massage or spa gift card online?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Purchase a Matrix eGift Card through Square and choose a dollar amount, personal message and delivery by text or email. Visit our Gift Cards page for ideas. Buying a gift card does not reserve an appointment."
+      }
+    }
+  ]
+}

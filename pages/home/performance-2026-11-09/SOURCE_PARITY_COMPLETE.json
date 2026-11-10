@@ -1,0 +1,10 @@
+{
+  "copy_unchanged": true,
+  "links_unchanged": 37,
+  "layout_css_unchanged": true,
+  "change": "Only the existing wellness thumbnail now uses responsive WebP copies",
+  "therapy_asset_commit": "6887941cca74686958c6c7379fc7565288a57043",
+  "therapy_480_bytes": 18274,
+  "therapy_720_bytes": 29836,
+  "body_sha256": "abb3069b9579dee11365400bde9ed17f332108880435c26d097e0bd12d519c63"
+}
