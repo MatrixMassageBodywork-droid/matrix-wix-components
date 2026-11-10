@@ -1,0 +1,189 @@
+[
+  {
+    "source": "pages/massage/regional-review-2026-11-06/assets/existing-therapeutic.webp",
+    "source_sha256": "80f27a703b2b664dfc48bef99787bdbda14fa391891c3deb2cc7a53d30534423",
+    "source_bytes": 63094,
+    "file": "massage-480.webp",
+    "width": 480,
+    "height": 604,
+    "bytes": 13372,
+    "sha256": "48321fdcb824ad24f0b13642ac46f9239c8045fbfcb7797861f26fc305317e87",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  },
+  {
+    "source": "pages/massage/regional-review-2026-11-06/assets/existing-therapeutic.webp",
+    "source_sha256": "80f27a703b2b664dfc48bef99787bdbda14fa391891c3deb2cc7a53d30534423",
+    "source_bytes": 63094,
+    "file": "massage-720.webp",
+    "width": 720,
+    "height": 905,
+    "bytes": 21332,
+    "sha256": "c7a825eef986bed33d331e11d69cda10257b494bd1c5d1b45298fd28ebcc01e1",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  },
+  {
+    "source": "pages/massage/regional-review-2026-11-06/assets/existing-therapeutic.webp",
+    "source_sha256": "80f27a703b2b664dfc48bef99787bdbda14fa391891c3deb2cc7a53d30534423",
+    "source_bytes": 63094,
+    "file": "massage-960.webp",
+    "width": 960,
+    "height": 1207,
+    "bytes": 30946,
+    "sha256": "11511799ea1e8349a78588ec34980d7acb9a4a22e63f2b4d752770bcea990426",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  },
+  {
+    "source": "pages/spa-beauty/facials/assets/review-2/facial-treatment.webp",
+    "source_sha256": "9d11494c9d64509d457ef08f8ea86715344ac810ac25751efae86dc141489d3a",
+    "source_bytes": 77890,
+    "file": "facial-480.webp",
+    "width": 480,
+    "height": 677,
+    "bytes": 16132,
+    "sha256": "83b1a67cf4b2b30445cd92247e94a93818c40a6403aaf4eeb01d69f6200d7822",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  },
+  {
+    "source": "pages/spa-beauty/facials/assets/review-2/facial-treatment.webp",
+    "source_sha256": "9d11494c9d64509d457ef08f8ea86715344ac810ac25751efae86dc141489d3a",
+    "source_bytes": 77890,
+    "file": "facial-720.webp",
+    "width": 720,
+    "height": 1015,
+    "bytes": 28928,
+    "sha256": "9120637ed663623a4234d1078e07f42bc272967325a8c0ec79663a7e50a78117",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  },
+  {
+    "source": "pages/spa-beauty/facials/assets/review-2/facial-treatment.webp",
+    "source_sha256": "9d11494c9d64509d457ef08f8ea86715344ac810ac25751efae86dc141489d3a",
+    "source_bytes": 77890,
+    "file": "facial-960.webp",
+    "width": 960,
+    "height": 1353,
+    "bytes": 41700,
+    "sha256": "ff98e491f2bf69d9b9463f49a8f46909be72460767ea8b1d544a26a21cd3c031",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  },
+  {
+    "source": "pages/spa-beauty/head-spa/assets/review-2/matrix-waterfall.webp",
+    "source_sha256": "3d3ea560bbb7c9a6ee044aa9f0e37448e2c8e26efaf135cf659bdc739a417a55",
+    "source_bytes": 138562,
+    "file": "head-spa-480.webp",
+    "width": 480,
+    "height": 640,
+    "bytes": 29190,
+    "sha256": "a8bf8750df82804c23da4281446b4e3b047e7f05337dbc8c1656fd5b654624b3",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  },
+  {
+    "source": "pages/spa-beauty/head-spa/assets/review-2/matrix-waterfall.webp",
+    "source_sha256": "3d3ea560bbb7c9a6ee044aa9f0e37448e2c8e26efaf135cf659bdc739a417a55",
+    "source_bytes": 138562,
+    "file": "head-spa-720.webp",
+    "width": 720,
+    "height": 960,
+    "bytes": 49506,
+    "sha256": "1fd78ab9f1b97565f478df08fe2af6b30002b2c520d7c9e5ab04d03a334a061f",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  },
+  {
+    "source": "pages/spa-beauty/head-spa/assets/review-2/matrix-waterfall.webp",
+    "source_sha256": "3d3ea560bbb7c9a6ee044aa9f0e37448e2c8e26efaf135cf659bdc739a417a55",
+    "source_bytes": 138562,
+    "file": "head-spa-960.webp",
+    "width": 960,
+    "height": 1280,
+    "bytes": 72098,
+    "sha256": "8bc54256a639165993849099ef6ad0374ed78ef7220ac3961cefd45756a4389a",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  },
+  {
+    "source": "pages/spa-beauty/lash-extensions/assets/classic.webp",
+    "source_sha256": "f8027903050f8eb5a0fa34e48b80b0ef5702525e8d4d3aa255aaa9eba8edf15c",
+    "source_bytes": 90208,
+    "file": "lashes-480.webp",
+    "width": 480,
+    "height": 440,
+    "bytes": 18874,
+    "sha256": "4137d381757233e9fb8b23f8fd8635f2d4515856e28b47f48a3beea05dd75c18",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  },
+  {
+    "source": "pages/spa-beauty/lash-extensions/assets/classic.webp",
+    "source_sha256": "f8027903050f8eb5a0fa34e48b80b0ef5702525e8d4d3aa255aaa9eba8edf15c",
+    "source_bytes": 90208,
+    "file": "lashes-720.webp",
+    "width": 720,
+    "height": 661,
+    "bytes": 30808,
+    "sha256": "eead2fbe93c33884f1624deb8b6318d46695dae5531ad1882525d7ef8486024d",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  },
+  {
+    "source": "pages/spa-beauty/lash-extensions/assets/classic.webp",
+    "source_sha256": "f8027903050f8eb5a0fa34e48b80b0ef5702525e8d4d3aa255aaa9eba8edf15c",
+    "source_bytes": 90208,
+    "file": "lashes-960.webp",
+    "width": 960,
+    "height": 881,
+    "bytes": 42866,
+    "sha256": "bc97dd939031ef65ed503f9e06cf066c27007ad3dffb220e1bcb0699d119e15b",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  },
+  {
+    "source": "pages/spa-beauty/waxing/assets/review-2/wax-preparation.webp",
+    "source_sha256": "04c7df1084fd9faff0b651fbd8ef394ab7b78b6c62f3d7d103949e61375f3aa5",
+    "source_bytes": 115254,
+    "file": "waxing-480.webp",
+    "width": 480,
+    "height": 320,
+    "bytes": 15730,
+    "sha256": "1810736d134fcefd718635ac43b13c153f1ff17119f6c24975fbfbddc6319bde",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  },
+  {
+    "source": "pages/spa-beauty/waxing/assets/review-2/wax-preparation.webp",
+    "source_sha256": "04c7df1084fd9faff0b651fbd8ef394ab7b78b6c62f3d7d103949e61375f3aa5",
+    "source_bytes": 115254,
+    "file": "waxing-720.webp",
+    "width": 720,
+    "height": 480,
+    "bytes": 29322,
+    "sha256": "521d070edbc9e19b030b2fc8ae5522d05022df16136abd8d2af1c38259fdf4aa",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  },
+  {
+    "source": "pages/spa-beauty/waxing/assets/review-2/wax-preparation.webp",
+    "source_sha256": "04c7df1084fd9faff0b651fbd8ef394ab7b78b6c62f3d7d103949e61375f3aa5",
+    "source_bytes": 115254,
+    "file": "waxing-960.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 44250,
+    "sha256": "214f089fe22d0bb9dc8eb957cb0e495b5e4a837aef7e0f489ea05d1733154737",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  },
+  {
+    "source": "pages/massage/regional-review-2026-11-06/assets/matrix-treatment-room.webp",
+    "source_sha256": "7f42062a38f38398f058854f490c249a45cbd5677fbfe55d5b27fdfd707c5a20",
+    "source_bytes": 183714,
+    "file": "room-720.webp",
+    "width": 720,
+    "height": 960,
+    "bytes": 45910,
+    "sha256": "211210b1d66feb474fe5fcaff2959af09d3d4c6ef4a29c221e7b8afff066c4e2",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  },
+  {
+    "source": "pages/massage/regional-review-2026-11-06/assets/matrix-treatment-room.webp",
+    "source_sha256": "7f42062a38f38398f058854f490c249a45cbd5677fbfe55d5b27fdfd707c5a20",
+    "source_bytes": 183714,
+    "file": "room-1200.webp",
+    "width": 1200,
+    "height": 1600,
+    "bytes": 114068,
+    "sha256": "f748d1d14831d0904849b50410eea29743263e88500cc55501c781ed196156ff",
+    "change": "Resize and compress same approved image; no crop or content alteration"
+  }
+]
