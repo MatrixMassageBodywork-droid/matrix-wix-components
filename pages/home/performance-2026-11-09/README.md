@@ -1,20 +1,21 @@
-# Homepage performance — final published checkpoint
+# Homepage startup repair — live checkpoint, November 9, 2026
 
-Published and verified on November 9, 2026 at 9:20 p.m. Central. Wix revision **1085** supersedes 1082 and 1080 for HOME. This is an image/loading optimization with the existing branding, copy and layout retained.
+This supersedes the earlier 70-mobile / 88-desktop final report. Native Wix publication is still revision 1085; three HOME-only custom-code entries activate the newer startup delivery independently.
 
-## Installed source
+## Result
+Google PageSpeed repeat runs: 75–82 mobile / 83–95 desktop at 9:42 and 9:53 PM CST. Mobile LCP 3.8–4.0 seconds (previous 6.0, original 25.0). Desktop LCP 1.1 seconds in both runs. Accessibility 100 and SEO 100 on both. Mobile still falls short of the 2.5-second good LCP target; no field Core Web Vitals pass is claimed.
 
-- Renderer: [immutable checked renderer](https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@14f2c29fb90895f5ed83a045c5c547414b5bcf3f/pages/home/performance-2026-11-09/renderer-complete.js)
-- Current body/style/SEO/build files use the `-complete` suffix; page code is `WIX_PAGE_CODE_COMPLETE.js`.
-- Active custom code: `HOME_HEAD_CODE_COMPLETE.html`, named “Matrix HOME — faster images and accessible footer,” HOME only, Head, Essential, enabled.
-- Keep the custom-code early-loader URL and the native HOME element source URL synchronized in future edits. Both currently reference the same renderer commit.
-- Renderer SHA256: 29456a91fb2b165178020e792fff13686bb78c08de9fdb078022c98f7b25c811.
-- Existing photos were compressed to responsive WebP variants. No replacement artwork was introduced. The last wellness photo uses assets at commit 6887941cca74686958c6c7379fc7565288a57043; other service/room variants use 6707c3cadc068d9c4bd20d34fb83a23dfb1c288a.
+## Installed files
+- HOME_HEAD_STYLES.html → Matrix HOME — faster images and accessible footer
+- HOME_BODY_PART_1.html → Matrix HOME — instant content 1 of 2
+- HOME_BODY_PART_2.html → Matrix HOME — instant content 2 of 2
 
-## Verified results
+All three are HOME (ghmgt) only, Head, Essential, enabled, and read back exactly after save. Native renderer and page code are unchanged. Body/CSS parity hashes are in STARTUP_PARITY.json. Both part orders were tested.
 
-Final PageSpeed captured at 9:21 p.m.: mobile 70, LCP 6.0 s, 2809 KiB; desktop 88, LCP 1.1 s, 2828 KiB. Baseline: mobile 57 / 25.0 s / 5816 KiB; desktop 64 / 4.2 s / 6934 KiB. Accessibility and basic SEO both score 100. Mobile remains above the good LCP threshold; no real-user Core Web Vitals result is available. A repeat URL reused the same capture and is not counted as an independent sample.
+## Maintenance and rollback
+Update all three inline snippets together with the native renderer and seoMarkup on any future homepage content or styling change. To roll back, disable both instant-content entries and restore BASELINE_HEAD.html in the existing head entry. Do not restore an old Wix site revision.
 
-Native mobile/desktop previews and the public page were inspected. All 9 images loaded, 37 body links remained identical, all 11 FAQs opened, booking service selection worked, footer links are 44 px tall, and metadata/schema were preserved. No physical phone or actual booking transaction was tested.
+## Verification
+All 11 FAQs opened and closed; 37 component links unchanged; all 9 images load when visible. Booking opens the Square service menu without making a booking. Desktop has no horizontal overflow. The exact component at 390px has no overflow and 50px primary buttons. Native Wix mobile preview navigation and map checked. Live mobile and desktop PageSpeed tests captured. Shared map and other pages were not edited in this pass.
 
-See `PUBLICATION_RECEIPT_FINAL.json` and `Matrix-homepage-speed-verification.html` for evidence and limitations. The final private evidence package is saved in the canonical FACIAL WEB SEO PW Drive folder. Earlier files and status records are historical, not the current installation.
+See PUBLICATION_RECEIPT_STARTUP.json and Matrix-homepage-final-speed-report.html for evidence and remaining limitations.

@@ -1,0 +1,106 @@
+{
+  "status": "LIVE / VERIFIED / TESTED",
+  "url": "https://www.matrixmassage.net/",
+  "date_local": "2026-11-09 America/Chicago",
+  "native_wix_revision": 1085,
+  "delivery": "Three enabled HOME-only Head/Essential custom-code entries. Their live activation does not increment the native editor publication revision.",
+  "source_commit": "87e2c383292f5e926bd3a45053248696a7b9f366",
+  "source_branch": "improve/homepage-performance-2026-11-09",
+  "source_folder": "pages/home/performance-2026-11-09/",
+  "entries": [
+    {
+      "name": "Matrix HOME — faster images and accessible footer",
+      "file": "HOME_HEAD_STYLES.html",
+      "characters": 14599
+    },
+    {
+      "name": "Matrix HOME — instant content 1 of 2",
+      "file": "HOME_BODY_PART_1.html",
+      "characters": 12671
+    },
+    {
+      "name": "Matrix HOME — instant content 2 of 2",
+      "file": "HOME_BODY_PART_2.html",
+      "characters": 12656
+    }
+  ],
+  "exact_saved_readback": true,
+  "changes": "The existing homepage body and CSS arrive inline, eliminating the extra renderer request from the critical rendering path. Native renderer remains for preview/fallback. Image and footer access improvements from revision 1085 are retained.",
+  "preserved": [
+    "Visible copy and layout",
+    "37 custom-element links",
+    "All 9 images and branding",
+    "11 FAQs",
+    "Canonical, description, title and 3 parent-page JSON-LD blocks",
+    "Analytics and Facebook settings",
+    "Shared header/footer and native map",
+    "Red-light redesign"
+  ],
+  "baseline_original": {
+    "mobile_score": 57,
+    "desktop_score": 64,
+    "mobile_lcp_s": 25.0,
+    "desktop_lcp_s": 4.2,
+    "report": "https://pagespeed.web.dev/analysis/https-www-matrixmassage-net/ggc16c8fxm?form_factor=mobile"
+  },
+  "baseline_previous_revision": {
+    "mobile_score": 70,
+    "desktop_score": 88,
+    "mobile_lcp_s": 6.0,
+    "desktop_lcp_s": 1.1,
+    "report": "https://pagespeed.web.dev/analysis/https-www-matrixmassage-net/q5eaeeff4r?form_factor=mobile"
+  },
+  "startup_test": {
+    "captured_local": "2026-11-09 21:42 CST",
+    "mobile_score": 82,
+    "desktop_score": 95,
+    "mobile_lcp_s": 3.8,
+    "desktop_lcp_s": 1.1,
+    "mobile_fcp_s": 1.7,
+    "desktop_fcp_s": 0.4,
+    "mobile_tbt_ms": 270,
+    "desktop_tbt_ms": 140,
+    "mobile_cls": 0.004,
+    "desktop_cls": 0.027,
+    "accessibility": 100,
+    "seo": 100,
+    "report": "https://pagespeed.web.dev/analysis/https-www-matrixmassage-net/u3uy2d7yfw?form_factor=mobile"
+  },
+  "qa": {
+    "live_desktop_no_horizontal_overflow": true,
+    "mobile_component_width_px": 390,
+    "mobile_component_scroll_width_px": 390,
+    "mobile_cta_height_px": 50,
+    "all_9_images_loaded_when_visible": true,
+    "faq_expand_and_close": 11,
+    "links_unchanged": 37,
+    "footer_link_min_height_px": 44,
+    "mobile_wix_preview_header_menu_and_map": true,
+    "square_booking_navigation": "Passed — service menu opened; no appointment submitted"
+  },
+  "limitations": [
+    "Google lab tests, not field Core Web Vitals or physical-phone measurements. No CrUX field data available.",
+    "Mobile LCP 3.8 s remains above the 2.5 s good target. Performance scores vary between runs.",
+    "Native Wix and eager shared Google Maps still contribute script work. No unsupported interception or redesign of the shared map was introduced.",
+    "Mobile visual validation combines the unchanged native Wix mobile preview with the exact inline component at 390 px; live PageSpeed tests use emulated mobile."
+  ],
+  "maintenance": "Update all three inline snippets together whenever the homepage body/style changes; keep native renderer and seoMarkup in parity. Neither a future renderer URL change nor a Wix page-code edit alone updates these inline copies.",
+  "rollback": "Disable both instant-content entries and restore BASELINE_HEAD.html in Matrix HOME — faster images and accessible footer. Leave native revision 1085 intact. Recheck live rendering.",
+  "supersedes": "The 70/88 final result and async-head-loader deployment description in followup/delivery are historical. This startup receipt is the newer live checkpoint.",
+  "repeat_test": {
+    "captured_local": "2026-11-09 21:53 CST",
+    "mobile_score": 75,
+    "desktop_score": 83,
+    "mobile_lcp_s": 4,
+    "desktop_lcp_s": 1.1,
+    "mobile_fcp_s": 1.7,
+    "desktop_fcp_s": 0.4,
+    "mobile_tbt_ms": 430,
+    "desktop_tbt_ms": 340,
+    "mobile_cls": 0,
+    "desktop_cls": 0.027,
+    "accessibility": 100,
+    "seo": 100,
+    "report": "https://pagespeed.web.dev/analysis/https-www-matrixmassage-net/juchhk1uek?form_factor=mobile"
+  }
+}
