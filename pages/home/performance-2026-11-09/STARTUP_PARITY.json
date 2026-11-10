@@ -1,0 +1,11 @@
+{
+  "body_sha256": "abb3069b9579dee11365400bde9ed17f332108880435c26d097e0bd12d519c63",
+  "css_sha256": "43270e0f6eadfa692993194292fab5ff8ea7cddf0832e255c91bcb702c31ab7d",
+  "body_and_css_unchanged": true,
+  "preload_and_footer_css_unchanged": true,
+  "native_renderer_unchanged": true,
+  "new_startup": "Inline body and scoped CSS; no eval, no third-party calls; native renderer retained for editor and fallback",
+  "snippets": 3,
+  "scope": "HOME only; Head; Essential",
+  "copy_and_links_unchanged": true
+}
