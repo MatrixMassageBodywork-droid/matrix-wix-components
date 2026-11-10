@@ -1,0 +1,111 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "Matrix Homepage",
+    "revision": "home-performance-final-2026-11-09",
+    "tagName": "matrix-home-page",
+    "elementId": "matrixHomePage",
+    "rootClass": "matrix-home",
+    "pageUrl": "https://www.matrixmassage.net/",
+    "seoTitle": "Japanese Head Spa, Facials & Massage in Salem, WI | Matrix",
+    "seoDescription": "Clinical luxury spa in Salem, WI: Japanese Head Spa with in-house scalp infusions, custom facials, red light, infrared sauna, lymphatic drainage and massage.",
+    "seoSource": "Current homepage code captured from Wix 2026-11-09; public audit metadata and published source unchanged.",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 11
+  },
+  "seo": {
+    "title": "Japanese Head Spa, Facials & Massage in Salem, WI | Matrix",
+    "description": "Clinical luxury spa in Salem, WI: Japanese Head Spa with in-house scalp infusions, custom facials, red light, infrared sauna, lymphatic drainage and massage.",
+    "canonical": "https://www.matrixmassage.net/",
+    "source": "Current homepage code captured from Wix 2026-11-09; public audit metadata and published source unchanged."
+  },
+  "h1": "Japanese Head Spa, Facials & Massage in Salem, WI",
+  "faqCount": 11,
+  "links": [
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "#hm-services",
+    "#hm-specials",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/D6WBEWYNPLZ5ET3YB4APHMVT",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/IUTRINR4YWTL7ULZ3QVEK4QG",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/JBJI7MD5EU2QM3E4MQXE5TSK",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/AHZUYXVN3SZNP3PGGFKXDNZZ",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/PZR2CBQCWBF3RUKLT5S4JUTI",
+    "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+    "https://www.matrixmassage.net/swedish-massage-salem-wi",
+    "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "https://www.matrixmassage.net/offers/new-client-facial-deal-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/GJ7PY2ONLPOVK4JIYCIWJGG4",
+    "https://www.matrixmassage.net/about-5",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "https://app.squareup.com/gift/MLJ7B3VJVPBSS/order",
+    "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+    "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-near-bristol-wi",
+    "https://www.matrixmassage.net/massage-near-union-grove-wi",
+    "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi",
+    "https://www.matrixmassage.net/facials-near-antioch-il",
+    "sms:+12629399325",
+    "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St,+Salem,+WI+53168",
+    "https://www.matrixmassage.net/about-5",
+    "sms:+12629399325",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "#hm-services"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg/v1/fit/w_1920,h_1920,q_60/brand-water.webp",
+      "alt": ""
+    },
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg/v1/fit/w_660,h_660/matrix-logo.webp",
+      "alt": "Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@6707c3cadc068d9c4bd20d34fb83a23dfb1c288a/pages/home/performance-2026-11-09/massage-720.webp",
+      "alt": "Massage therapy at Matrix in Salem"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@6707c3cadc068d9c4bd20d34fb83a23dfb1c288a/pages/home/performance-2026-11-09/facial-720.webp",
+      "alt": "A facial treatment with steam at Matrix"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@6707c3cadc068d9c4bd20d34fb83a23dfb1c288a/pages/home/performance-2026-11-09/head-spa-720.webp",
+      "alt": "Japanese Head Spa waterfall rinse at Matrix in Salem"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@6707c3cadc068d9c4bd20d34fb83a23dfb1c288a/pages/home/performance-2026-11-09/lashes-720.webp",
+      "alt": "Classic lash extension photographs from the Matrix portfolio"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@6707c3cadc068d9c4bd20d34fb83a23dfb1c288a/pages/home/performance-2026-11-09/waxing-720.webp",
+      "alt": "Illustrative wax preparation with a wooden applicator"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_6b5f961d7de649cd8cc8f5cb7a772413~mv2.png/v1/fill/w_720,h_540,al_c,q_85/therapy.png",
+      "alt": "Illustrative red light therapy session beneath a light panel"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@6707c3cadc068d9c4bd20d34fb83a23dfb1c288a/pages/home/performance-2026-11-09/room-1200.webp",
+      "alt": "Inside a Matrix treatment room in Salem, Wisconsin"
+    }
+  ],
+  "files": {
+    "body.html": "740d67b7cae49c2605ff379ea48bfc6359b177a059efa389f7f911b1b55d8a86",
+    "style.css": "43270e0f6eadfa692993194292fab5ff8ea7cddf0832e255c91bcb702c31ab7d",
+    "renderer.js": "b701fb27922f652cff51c60bbe2c22f96e93e8020fa4a809ac7f83f97f4e86db",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "02a13d7a1f12415c64bf8edd90f489cac83a3dba95cf8f04b2ad75027ef30e59",
+    "preview.html": "704f65a901be458be696b53779bfab57f9c30495e6ff23bcab7894b3d97f58ff",
+    "faq-schema.json": "c2e498f8e04c0c317d5108976dacd2616c3dd0b33032b039d8b53a3b36e7cfe3"
+  },
+  "rendererBytes": 37756
+}
