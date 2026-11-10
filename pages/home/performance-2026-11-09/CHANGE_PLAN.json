@@ -1,0 +1,42 @@
+{
+  "plan_id": "HOME-PERFORMANCE-2026-11-09",
+  "revision": 1,
+  "scope": "Existing HOME ghmgt, component matrixHomePage / matrix-home-page. Source preparation and page-local image-loading improvements. Publication only after concurrent work is safely resolved.",
+  "changes": [
+    {
+      "id": "HP01",
+      "url": "https://www.matrixmassage.net/",
+      "before": "Original 2,750,473-byte JPEG used as CSS water background",
+      "after": "Same approved image via verified 1280px/1920px WebP fit transformations, plus a high-priority decorative hero image under the unchanged overlay",
+      "baseline_sha256": "9c5d4b0a0fc2c0da2589185135a71b8559e8a69649b100ecbea50a2e97b82ffe"
+    },
+    {
+      "id": "HP02",
+      "url": "https://www.matrixmassage.net/",
+      "before": "Original 2048px JPEG logo downloaded at all viewport sizes",
+      "after": "Same approved artwork via verified responsive WebP logo variants; unchanged crop, 2:1 panel, dimensions and black border",
+      "baseline_sha256": "5d5fcea327362dceafa3e12641ff7d096215d8ac5ae90db682ce38ca8985c9b5"
+    },
+    {
+      "id": "HP03",
+      "url": "https://www.matrixmassage.net/",
+      "before": "Existing body SEO markup uses original logo URL and CSS-only water",
+      "after": "Full matching body markup with unchanged text and links; existing navigation handlers and collapsed rollback sections preserved",
+      "baseline_sha256": "421c65b06feb5f1a8abc8d014fd02dc41e1a39b5d94dd93a233bd0f693ffbc75"
+    }
+  ],
+  "protected": [
+    "All existing wording, service cards, photos, prices, offers, reviews, booking links, URLs, metadata, schema, brand colors, typography, logo artwork, shared header/footer, unrelated pages, analytics"
+  ],
+  "required_checks": [
+    "Source/text/link parity",
+    "Standalone component desktop and phone widths",
+    "Current native Wix mobile preview",
+    "All FAQ expansion and flow",
+    "New source and code readback",
+    "Current unrelated drafts/publication status",
+    "Permanent public revision/SEO/booking handoff",
+    "Repeat same PageSpeed test conditions"
+  ],
+  "mobile_scope": "Improve asset delivery on phones; verify the actual Wix mobile branch rather than treating narrow desktop layout as a smartphone defect. Shared footer touch-target warning is outside this page-local candidate."
+}

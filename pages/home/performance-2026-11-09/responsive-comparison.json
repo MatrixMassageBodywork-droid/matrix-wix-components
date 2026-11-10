@@ -1,0 +1,917 @@
+[
+  {
+    "w": 320,
+    "before": {
+      "boxes": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 696.6000366210938,
+          "key": "hm-hero hm-water",
+          "size": "16px",
+          "w": 304.8000183105469,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 132.40000915527344,
+          "key": "hm-logo",
+          "size": "16px",
+          "w": 264.8000183105469,
+          "x": 20,
+          "y": 28
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "MatrixHomeSerif, Georgia, \"Times New Roman\", serif",
+          "h": 106.20000457763672,
+          "key": "H1",
+          "size": "30px",
+          "w": 264.8000183105469,
+          "x": 20,
+          "y": 228.1999969482422
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 3487.949951171875,
+          "key": "hm-grid",
+          "size": "16px",
+          "w": 264.8000183105469,
+          "x": 20,
+          "y": 1142.6500244140625
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 785.6749877929688,
+          "key": "hm-offer",
+          "size": "16px",
+          "w": 264.8000183105469,
+          "x": 20,
+          "y": 5303.4501953125
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 1071.4000244140625,
+          "key": "hm-experience",
+          "size": "16px",
+          "w": 304.8000183105469,
+          "x": 0,
+          "y": 6145.125
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 1176.1500244140625,
+          "key": "hm-section hm-faq",
+          "size": "16px",
+          "w": 304.8000183105469,
+          "x": 0,
+          "y": 9519.0498046875
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 497.625,
+          "key": "hm-close hm-water",
+          "size": "16px",
+          "w": 304.8000183105469,
+          "x": 0,
+          "y": 10695.2001953125
+        }
+      ],
+      "client": 305,
+      "scroll": 305,
+      "viewport": 320
+    },
+    "after": {
+      "boxes": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 696.6000366210938,
+          "key": "hm-hero hm-water",
+          "size": "16px",
+          "w": 304.8000183105469,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 132.40000915527344,
+          "key": "hm-logo",
+          "size": "16px",
+          "w": 264.8000183105469,
+          "x": 20,
+          "y": 28
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "MatrixHomeSerif, Georgia, \"Times New Roman\", serif",
+          "h": 106.20000457763672,
+          "key": "H1",
+          "size": "30px",
+          "w": 264.8000183105469,
+          "x": 20,
+          "y": 228.1999969482422
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 3487.949951171875,
+          "key": "hm-grid",
+          "size": "16px",
+          "w": 264.8000183105469,
+          "x": 20,
+          "y": 1142.6500244140625
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 785.6749877929688,
+          "key": "hm-offer",
+          "size": "16px",
+          "w": 264.8000183105469,
+          "x": 20,
+          "y": 5303.4501953125
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 1071.4000244140625,
+          "key": "hm-experience",
+          "size": "16px",
+          "w": 304.8000183105469,
+          "x": 0,
+          "y": 6145.125
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 1176.1500244140625,
+          "key": "hm-section hm-faq",
+          "size": "16px",
+          "w": 304.8000183105469,
+          "x": 0,
+          "y": 9519.0498046875
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 497.625,
+          "key": "hm-close hm-water",
+          "size": "16px",
+          "w": 304.8000183105469,
+          "x": 0,
+          "y": 10695.2001953125
+        }
+      ],
+      "client": 305,
+      "faqs": 11,
+      "h1s": 1,
+      "logo": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg/v1/fit/w_480,h_480/matrix-logo.webp",
+      "minButtonHeight": 50,
+      "scroll": 305,
+      "viewport": 320,
+      "water": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg/v1/fit/w_1280,h_1280/brand-water.webp"
+    },
+    "equalGeometryAndStyles": true
+  },
+  {
+    "w": 390,
+    "before": {
+      "boxes": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 638.9000244140625,
+          "key": "hm-hero hm-water",
+          "size": "16px",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 167.60000610351562,
+          "key": "hm-logo",
+          "size": "16px",
+          "w": 335.20001220703125,
+          "x": 20,
+          "y": 28
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "MatrixHomeSerif, Georgia, \"Times New Roman\", serif",
+          "h": 70.80000305175781,
+          "key": "H1",
+          "size": "30px",
+          "w": 335.20001220703125,
+          "x": 20,
+          "y": 249
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 3474.10009765625,
+          "key": "hm-grid",
+          "size": "16px",
+          "w": 335.20001220703125,
+          "x": 20,
+          "y": 1061.4500732421875
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 611.7374877929688,
+          "key": "hm-offer",
+          "size": "16px",
+          "w": 335.20001220703125,
+          "x": 20,
+          "y": 5175
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 1021.6500244140624,
+          "key": "hm-experience",
+          "size": "16px",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 5842.73779296875
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 1113.1500244140625,
+          "key": "hm-section hm-faq",
+          "size": "16px",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 8940.525390625
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 453.3500061035156,
+          "key": "hm-close hm-water",
+          "size": "16px",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 10053.6748046875
+        }
+      ],
+      "client": 375,
+      "scroll": 375,
+      "viewport": 390
+    },
+    "after": {
+      "boxes": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 638.9000244140625,
+          "key": "hm-hero hm-water",
+          "size": "16px",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 167.60000610351562,
+          "key": "hm-logo",
+          "size": "16px",
+          "w": 335.20001220703125,
+          "x": 20,
+          "y": 28
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "MatrixHomeSerif, Georgia, \"Times New Roman\", serif",
+          "h": 70.80000305175781,
+          "key": "H1",
+          "size": "30px",
+          "w": 335.20001220703125,
+          "x": 20,
+          "y": 249
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 3474.10009765625,
+          "key": "hm-grid",
+          "size": "16px",
+          "w": 335.20001220703125,
+          "x": 20,
+          "y": 1061.4500732421875
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 611.7374877929688,
+          "key": "hm-offer",
+          "size": "16px",
+          "w": 335.20001220703125,
+          "x": 20,
+          "y": 5175
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 1021.6500244140624,
+          "key": "hm-experience",
+          "size": "16px",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 5842.73779296875
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 1113.1500244140625,
+          "key": "hm-section hm-faq",
+          "size": "16px",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 8940.525390625
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 453.3500061035156,
+          "key": "hm-close hm-water",
+          "size": "16px",
+          "w": 375.2000122070313,
+          "x": 0,
+          "y": 10053.6748046875
+        }
+      ],
+      "client": 375,
+      "faqs": 11,
+      "h1s": 1,
+      "logo": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg/v1/fit/w_480,h_480/matrix-logo.webp",
+      "minButtonHeight": 50,
+      "scroll": 375,
+      "viewport": 390,
+      "water": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg/v1/fit/w_1280,h_1280/brand-water.webp"
+    },
+    "equalGeometryAndStyles": true
+  },
+  {
+    "w": 1280,
+    "before": {
+      "boxes": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 784.7250366210938,
+          "key": "hm-hero hm-water",
+          "size": "16px",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 330,
+          "key": "hm-logo",
+          "size": "16px",
+          "w": 660,
+          "x": 302.3999938964844,
+          "y": 38
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "MatrixHomeSerif, Georgia, \"Times New Roman\", serif",
+          "h": 105.7249984741211,
+          "key": "H1",
+          "size": "44.8px",
+          "w": 800,
+          "x": 232.40000915527344,
+          "y": 428
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 1161.375,
+          "key": "hm-grid",
+          "size": "16px",
+          "w": 1144.800048828125,
+          "x": 60,
+          "y": 1123.2125244140625
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 571.5125122070312,
+          "key": "hm-offer",
+          "size": "16px",
+          "w": 586,
+          "x": 618.7999877929688,
+          "y": 2594.6875
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 656.2750244140625,
+          "key": "hm-experience",
+          "size": "16px",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 3246.199951171875
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 841.4000244140625,
+          "key": "hm-section hm-faq",
+          "size": "16px",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 5205.1875
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 448.9750061035156,
+          "key": "hm-close hm-water",
+          "size": "16px",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 6046.58740234375
+        }
+      ],
+      "client": 1265,
+      "scroll": 1265,
+      "viewport": 1280
+    },
+    "after": {
+      "boxes": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 784.7250366210938,
+          "key": "hm-hero hm-water",
+          "size": "16px",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 330,
+          "key": "hm-logo",
+          "size": "16px",
+          "w": 660,
+          "x": 302.3999938964844,
+          "y": 38
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "MatrixHomeSerif, Georgia, \"Times New Roman\", serif",
+          "h": 105.7249984741211,
+          "key": "H1",
+          "size": "44.8px",
+          "w": 800,
+          "x": 232.40000915527344,
+          "y": 428
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 1161.375,
+          "key": "hm-grid",
+          "size": "16px",
+          "w": 1144.800048828125,
+          "x": 60,
+          "y": 1123.2125244140625
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 571.5125122070312,
+          "key": "hm-offer",
+          "size": "16px",
+          "w": 586,
+          "x": 618.7999877929688,
+          "y": 2594.6875
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 656.2750244140625,
+          "key": "hm-experience",
+          "size": "16px",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 3246.199951171875
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 841.4000244140625,
+          "key": "hm-section hm-faq",
+          "size": "16px",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 5205.1875
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 448.9750061035156,
+          "key": "hm-close hm-water",
+          "size": "16px",
+          "w": 1264.800048828125,
+          "x": 0,
+          "y": 6046.58740234375
+        }
+      ],
+      "client": 1265,
+      "faqs": 11,
+      "h1s": 1,
+      "logo": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg/v1/fit/w_660,h_660/matrix-logo.webp",
+      "minButtonHeight": 50,
+      "scroll": 1265,
+      "viewport": 1280,
+      "water": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg/v1/fit/w_1920,h_1920/brand-water.webp"
+    },
+    "equalGeometryAndStyles": true
+  },
+  {
+    "w": 1440,
+    "before": {
+      "boxes": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 785.2000122070312,
+          "key": "hm-hero hm-water",
+          "size": "16px",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 330,
+          "key": "hm-logo",
+          "size": "16px",
+          "w": 660,
+          "x": 382.3999938964844,
+          "y": 38
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "MatrixHomeSerif, Georgia, \"Times New Roman\", serif",
+          "h": 106.20000457763672,
+          "key": "H1",
+          "size": "45px",
+          "w": 800,
+          "x": 312.3999938964844,
+          "y": 428
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 1161.4000244140625,
+          "key": "hm-grid",
+          "size": "16px",
+          "w": 1200,
+          "x": 112.4000015258789,
+          "y": 1129.9500732421875
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 571.5125122070312,
+          "key": "hm-offer",
+          "size": "16px",
+          "w": 616.6749877929688,
+          "x": 695.7250366210938,
+          "y": 2601.449951171875
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 668.7999877929688,
+          "key": "hm-experience",
+          "size": "16px",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3252.962646484375
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 841.4000244140625,
+          "key": "hm-section hm-faq",
+          "size": "16px",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 5224.47509765625
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 461.5,
+          "key": "hm-close hm-water",
+          "size": "16px",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 6065.875
+        }
+      ],
+      "client": 1425,
+      "scroll": 1425,
+      "viewport": 1440
+    },
+    "after": {
+      "boxes": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 785.2000122070312,
+          "key": "hm-hero hm-water",
+          "size": "16px",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 330,
+          "key": "hm-logo",
+          "size": "16px",
+          "w": 660,
+          "x": 382.3999938964844,
+          "y": 38
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "MatrixHomeSerif, Georgia, \"Times New Roman\", serif",
+          "h": 106.20000457763672,
+          "key": "H1",
+          "size": "45px",
+          "w": 800,
+          "x": 312.3999938964844,
+          "y": 428
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 1161.4000244140625,
+          "key": "hm-grid",
+          "size": "16px",
+          "w": 1200,
+          "x": 112.4000015258789,
+          "y": 1129.9500732421875
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 571.5125122070312,
+          "key": "hm-offer",
+          "size": "16px",
+          "w": 616.6749877929688,
+          "x": 695.7250366210938,
+          "y": 2601.449951171875
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 668.7999877929688,
+          "key": "hm-experience",
+          "size": "16px",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 3252.962646484375
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 841.4000244140625,
+          "key": "hm-section hm-faq",
+          "size": "16px",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 5224.47509765625
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 461.5,
+          "key": "hm-close hm-water",
+          "size": "16px",
+          "w": 1424.800048828125,
+          "x": 0,
+          "y": 6065.875
+        }
+      ],
+      "client": 1425,
+      "faqs": 11,
+      "h1s": 1,
+      "logo": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg/v1/fit/w_660,h_660/matrix-logo.webp",
+      "minButtonHeight": 50,
+      "scroll": 1425,
+      "viewport": 1440,
+      "water": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg/v1/fit/w_1920,h_1920/brand-water.webp"
+    },
+    "equalGeometryAndStyles": true
+  },
+  {
+    "w": 1920,
+    "before": {
+      "boxes": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 785.2000122070312,
+          "key": "hm-hero hm-water",
+          "size": "16px",
+          "w": 1904.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 330,
+          "key": "hm-logo",
+          "size": "16px",
+          "w": 660,
+          "x": 622.4000244140625,
+          "y": 38
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "MatrixHomeSerif, Georgia, \"Times New Roman\", serif",
+          "h": 106.20000457763672,
+          "key": "H1",
+          "size": "45px",
+          "w": 800,
+          "x": 552.4000244140625,
+          "y": 428
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 1161.4000244140625,
+          "key": "hm-grid",
+          "size": "16px",
+          "w": 1200,
+          "x": 352.3999938964844,
+          "y": 1129.9500732421875
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 571.5125122070312,
+          "key": "hm-offer",
+          "size": "16px",
+          "w": 616.6749877929688,
+          "x": 935.7250366210938,
+          "y": 2601.449951171875
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 668.7999877929688,
+          "key": "hm-experience",
+          "size": "16px",
+          "w": 1904.800048828125,
+          "x": 0,
+          "y": 3252.962646484375
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 841.4000244140625,
+          "key": "hm-section hm-faq",
+          "size": "16px",
+          "w": 1904.800048828125,
+          "x": 0,
+          "y": 5224.47509765625
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 461.5,
+          "key": "hm-close hm-water",
+          "size": "16px",
+          "w": 1904.800048828125,
+          "x": 0,
+          "y": 6065.875
+        }
+      ],
+      "client": 1905,
+      "scroll": 1905,
+      "viewport": 1920
+    },
+    "after": {
+      "boxes": [
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 785.2000122070312,
+          "key": "hm-hero hm-water",
+          "size": "16px",
+          "w": 1904.800048828125,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 330,
+          "key": "hm-logo",
+          "size": "16px",
+          "w": 660,
+          "x": 622.4000244140625,
+          "y": 38
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "MatrixHomeSerif, Georgia, \"Times New Roman\", serif",
+          "h": 106.20000457763672,
+          "key": "H1",
+          "size": "45px",
+          "w": 800,
+          "x": 552.4000244140625,
+          "y": 428
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 1161.4000244140625,
+          "key": "hm-grid",
+          "size": "16px",
+          "w": 1200,
+          "x": 352.3999938964844,
+          "y": 1129.9500732421875
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 571.5125122070312,
+          "key": "hm-offer",
+          "size": "16px",
+          "w": 616.6749877929688,
+          "x": 935.7250366210938,
+          "y": 2601.449951171875
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 668.7999877929688,
+          "key": "hm-experience",
+          "size": "16px",
+          "w": 1904.800048828125,
+          "x": 0,
+          "y": 3252.962646484375
+        },
+        {
+          "color": "rgb(18, 61, 64)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 841.4000244140625,
+          "key": "hm-section hm-faq",
+          "size": "16px",
+          "w": 1904.800048828125,
+          "x": 0,
+          "y": 5224.47509765625
+        },
+        {
+          "color": "rgb(255, 255, 255)",
+          "font": "Arial, Helvetica, sans-serif",
+          "h": 461.5,
+          "key": "hm-close hm-water",
+          "size": "16px",
+          "w": 1904.800048828125,
+          "x": 0,
+          "y": 6065.875
+        }
+      ],
+      "client": 1905,
+      "faqs": 11,
+      "h1s": 1,
+      "logo": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg/v1/fit/w_660,h_660/matrix-logo.webp",
+      "minButtonHeight": 50,
+      "scroll": 1905,
+      "viewport": 1920,
+      "water": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg/v1/fit/w_1920,h_1920/brand-water.webp"
+    },
+    "equalGeometryAndStyles": true
+  }
+]

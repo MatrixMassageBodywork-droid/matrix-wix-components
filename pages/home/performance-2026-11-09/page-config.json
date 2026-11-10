@@ -1,0 +1,14 @@
+{
+  "serviceName": "Matrix Homepage",
+  "revision": "home-performance-2026-11-09",
+  "tagName": "matrix-home-page",
+  "elementId": "matrixHomePage",
+  "rootClass": "matrix-home",
+  "pageUrl": "https://www.matrixmassage.net/",
+  "seoTitle": "Japanese Head Spa, Facials & Massage in Salem, WI | Matrix",
+  "seoDescription": "Clinical luxury spa in Salem, WI: Japanese Head Spa with in-house scalp infusions, custom facials, red light, infrared sauna, lymphatic drainage and massage.",
+  "seoSource": "Current homepage code captured from Wix 2026-11-09; public audit metadata and published source unchanged.",
+  "bodyFile": "body.html",
+  "cssFile": "style.css",
+  "expectedFaqCount": 11
+}

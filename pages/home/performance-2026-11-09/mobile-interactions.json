@@ -1,0 +1,56 @@
+{
+  "clientWidth": 375,
+  "faqCloseGap": -0.000244140625,
+  "faqCount": 11,
+  "images": [
+    {
+      "alt": "",
+      "loaded": true,
+      "url": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg/v1/fit/w_1280,h_1280/brand-water.webp"
+    },
+    {
+      "alt": "Matrix Massage & Bodywork",
+      "loaded": true,
+      "url": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg/v1/fit/w_480,h_480/matrix-logo.webp"
+    },
+    {
+      "alt": "Massage therapy at Matrix in Salem",
+      "loaded": true,
+      "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@afd0cbdfd74bbe8f6328089127af35417d688494/pages/massage/regional-review-2026-11-06/assets/existing-therapeutic.webp"
+    },
+    {
+      "alt": "A facial treatment with steam at Matrix",
+      "loaded": true,
+      "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@afd0cbdfd74bbe8f6328089127af35417d688494/pages/spa-beauty/facials/assets/review-2/facial-treatment.webp"
+    },
+    {
+      "alt": "Japanese Head Spa waterfall rinse at Matrix in Salem",
+      "loaded": true,
+      "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@afd0cbdfd74bbe8f6328089127af35417d688494/pages/spa-beauty/head-spa/assets/review-2/matrix-waterfall.webp"
+    },
+    {
+      "alt": "Classic lash extension photographs from the Matrix portfolio",
+      "loaded": true,
+      "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@afd0cbdfd74bbe8f6328089127af35417d688494/pages/spa-beauty/lash-extensions/assets/classic.webp"
+    },
+    {
+      "alt": "Illustrative wax preparation with a wooden applicator",
+      "loaded": true,
+      "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@afd0cbdfd74bbe8f6328089127af35417d688494/pages/spa-beauty/waxing/assets/review-2/wax-preparation.webp"
+    },
+    {
+      "alt": "Illustrative red light therapy session beneath a light panel",
+      "loaded": true,
+      "url": "https://static.wixstatic.com/media/e4cc43_6b5f961d7de649cd8cc8f5cb7a772413~mv2.png/v1/fill/w_720,h_540,al_c,q_85/therapy.png"
+    },
+    {
+      "alt": "Inside a Matrix treatment room in Salem, Wisconsin",
+      "loaded": true,
+      "url": ""
+    }
+  ],
+  "openFaqCount": 11,
+  "scrollWidth": 375,
+  "width": 390,
+  "note": "Final treatment-room image confirmed loaded in subsequent DOM read after lazy loading completed."
+}

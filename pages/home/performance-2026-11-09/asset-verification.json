@@ -1,0 +1,79 @@
+[
+  {
+    "file": "water-original.jpeg",
+    "url": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg",
+    "status": 200,
+    "bytes": 2750473,
+    "contentType": [
+      "image/jpeg"
+    ],
+    "sha256": "56040fa930a62db61f322263aaf65f1fca296536b9b951128293e7743ecf1d24",
+    "retrievedUTC": "2026-11-09T23:25:00.1715950Z"
+  },
+  {
+    "file": "water-1280.webp",
+    "url": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg/v1/fit/w_1280,h_1280/brand-water.webp",
+    "status": 200,
+    "bytes": 198338,
+    "contentType": [
+      "image/webp"
+    ],
+    "sha256": "44206bbffa1775a4edf873b4124dc445b92750ab861358d074d2df7230b400ea",
+    "retrievedUTC": "2026-11-09T23:25:04.3398614Z"
+  },
+  {
+    "file": "water-1920.webp",
+    "url": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg/v1/fit/w_1920,h_1920/brand-water.webp",
+    "status": 200,
+    "bytes": 373600,
+    "contentType": [
+      "image/webp"
+    ],
+    "sha256": "8a36084a45c3c07491d599ea95988e9ef9f97d5fb9e3caf9e5278adf8500bb65",
+    "retrievedUTC": "2026-11-09T23:25:05.6323414Z"
+  },
+  {
+    "file": "logo-original.jpg",
+    "url": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+    "status": 200,
+    "bytes": 181940,
+    "contentType": [
+      "image/jpeg"
+    ],
+    "sha256": "7ffb947caea7309fb8e4c42b24049b75b5f421e338711568a0085b4c39417708",
+    "retrievedUTC": "2026-11-09T23:25:05.7911006Z"
+  },
+  {
+    "file": "logo-480.webp",
+    "url": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg/v1/fit/w_480,h_480/matrix-logo.webp",
+    "status": 200,
+    "bytes": 12118,
+    "contentType": [
+      "image/webp"
+    ],
+    "sha256": "ed30de4d3fd4e585a939b5df005438f4c3178df05ea6589df212021ade8771bb",
+    "retrievedUTC": "2026-11-09T23:25:06.3179807Z"
+  },
+  {
+    "file": "logo-660.webp",
+    "url": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg/v1/fit/w_660,h_660/matrix-logo.webp",
+    "status": 200,
+    "bytes": 18656,
+    "contentType": [
+      "image/webp"
+    ],
+    "sha256": "72c182d27f54e2b409c0ed161f95f322d3e54ec0e68b7af14e74fbfcc00214d9",
+    "retrievedUTC": "2026-11-09T23:25:06.7837841Z"
+  },
+  {
+    "file": "logo-1320.webp",
+    "url": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg/v1/fit/w_1320,h_1320/matrix-logo.webp",
+    "status": 200,
+    "bytes": 43912,
+    "contentType": [
+      "image/webp"
+    ],
+    "sha256": "f8bb7298922e9b4677df4267337ef3308155fd303a34ce713c61beebe70e5817",
+    "retrievedUTC": "2026-11-09T23:25:07.3671287Z"
+  }
+]
