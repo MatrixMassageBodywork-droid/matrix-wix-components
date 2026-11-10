@@ -1,0 +1,90 @@
+{
+  "status": "PUBLISHED_AND_VERIFIED",
+  "publishedAt": "2026-11-09 20:26 America/Chicago",
+  "wixRevision": 1080,
+  "scope": [
+    "HOME ghmgt performance update",
+    "Owner-approved combined publication of red-light redesign"
+  ],
+  "sourceCommit": "34b8cf4921d8261f37f1ea1de54b7afa290d0e15",
+  "sourceUrl": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@34b8cf4921d8261f37f1ea1de54b7afa290d0e15/pages/home/performance-2026-11-09/renderer.js",
+  "sourceSha256": "9bc7b4c111e258233d177279274d3487a22efbf6a30f57db815e6b64e7e7b642",
+  "sourceBytes": 33662,
+  "savedCodeReadbackMatched": true,
+  "savedSourceReadbackMatched": true,
+  "metadataPreserved": [
+    "title",
+    "description",
+    "canonical",
+    "structured data"
+  ],
+  "robots": "absent before and after; no noindex introduced",
+  "visibleH1": 1,
+  "sourceLinksUnchanged": 37,
+  "nativeMobile": {
+    "width": 320,
+    "scrollWidth": 320,
+    "minBookingButtonHeight": 50,
+    "openFaqs": 11,
+    "expandsWithoutClipping": true
+  },
+  "standaloneLayoutWidths": [
+    320,
+    390,
+    1280,
+    1440,
+    1920
+  ],
+  "bookingDestinationVerified": true,
+  "baselineReport": "https://pagespeed.web.dev/analysis/https-www-matrixmassage-net/ggc16c8fxm?form_factor=mobile",
+  "afterReport": "https://pagespeed.web.dev/analysis/https-www-matrixmassage-net/8bycmzvl8r?form_factor=mobile",
+  "mobile": {
+    "before": {
+      "performance": 57,
+      "lcpSeconds": 25,
+      "tbtMs": 500,
+      "cls": 0.004,
+      "payloadKiB": 5816
+    },
+    "after": {
+      "performance": 68,
+      "lcpSeconds": 9.6,
+      "tbtMs": 210,
+      "cls": 0.004,
+      "payloadKiB": 3176
+    }
+  },
+  "desktop": {
+    "before": {
+      "performance": 64,
+      "lcpSeconds": 4.2,
+      "tbtMs": 310,
+      "cls": 0.009,
+      "payloadKiB": 6934
+    },
+    "after": {
+      "performance": 76,
+      "lcpSeconds": 2.8,
+      "tbtMs": 210,
+      "cls": 0.007,
+      "payloadKiB": 4547
+    }
+  },
+  "limits": [
+    "Single before/after laboratory samples; no field data",
+    "Native Wix mobile and emulated mobile tested; no physical device test",
+    "Remaining LCP image discovery delay",
+    "Shared footer small touch targets unchanged",
+    "Additional image and script savings remain"
+  ],
+  "redLight": {
+    "sourceCommit": "eea333575431cb18e4e51f1cee679e873e8f31a6",
+    "publicVerified": true,
+    "pricesVerified": [
+      "25.99",
+      "14.99",
+      "22.99"
+    ],
+    "quizHref": "https://www.matrixmassage.net/red-light-therapy-glow-score"
+  }
+}

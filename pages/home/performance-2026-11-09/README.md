@@ -1,23 +1,11 @@
-# Homepage performance update — 9 November 2026
+# Homepage performance update — published 9 November 2026
 
-Status: source prepared and standalone desktop/mobile checks passed. Native Wix installation and public PageSpeed verification pending a safe handoff from concurrent red-light-page work.
+Published and verified at 8:26 p.m. Central, Wix revision 1080. Owner approval covered both this homepage update and the separately prepared red-light redesign.
 
-The same approved water image and logo are delivered as responsive WebP images. The decorative hero water image is eager/high priority. Existing colors, fonts, black logo border, layout, copy, prices, links and image subjects are preserved. No native SEO patch, shared header/footer edit, additional app or paid service.
+The same approved water and logo artwork is delivered through responsive WebP image URLs. Branding, layout, copy, all 37 link attributes, existing page handlers and collapsed backup sections are preserved. Native Wix mobile (320 px) has no horizontal overflow; all 11 FAQs expand and booking buttons are at least 50 px tall. Five standalone widths were compared against the original.
 
-## Verified evidence
+Live PageSpeed: mobile 57 → 68, LCP 25.0 → 9.6 seconds, payload 5,816 → 3,176 KiB; desktop 64 → 76, LCP 4.2 → 2.8 seconds. These are single laboratory samples, not real-user Core Web Vitals. Mobile loading remains slow; earlier hero discovery, remaining images/scripts and shared-footer touch targets need further work.
 
-- Original water: 2,750,473 bytes. Phone variant: 198,338 bytes; desktop variant: 373,600 bytes.
-- Original logo: 181,940 bytes. Variants: 12,118 / 18,656 / 43,912 bytes.
-- Verified HTTP 200 image delivery and image content types are recorded in asset-verification.json.
-- Identical source text and link attributes; page handlers and rollback sections preserved.
-- Before/after geometry and typography match at 320, 390, 1280, 1440 and 1920 pixels. No component horizontal overflow.
-- Eleven FAQs expand on phone and desktop; following section remains adjacent. All images verified loaded.
-- Baseline PageSpeed mobile: performance 57, LCP 25.0s, FCP 1.7s, TBT 500ms, CLS 0.004. Desktop: 64, LCP 4.2s. These are BEFORE values, not improvement claims.
+The live renderer stays pinned to source commit `34b8cf4921d8261f37f1ea1de54b7afa290d0e15` at this directory’s `renderer.js`. Receipt-only changes do not require a new source pin or publication. `WIX_PAGE_CODE.js` contains the verified installed code; before/candidate copies remain for history. See `RELEASE_RECEIPT.json` and `Matrix-homepage-performance-PUBLISHED-2026-11-09.zip` for the report, screenshots and test evidence.
 
-## Install
-
-HOME ghmgt; existing custom element matrixHomePage, tag matrix-home-page. Pin renderer.js to its verified immutable source commit. Read fresh current page code and compare to WIX_PAGE_CODE_BEFORE.js before applying WIX_PAGE_CODE_CANDIDATE.js. Preserve native dimensions/stretch unless a new measured issue requires adjustment. Do not publish unrelated unapproved drafts.
-
-## Remaining mobile finding
-
-PageSpeed flagged small shared-footer links (Gift Cards and Partner with Us). Those are not altered by this page-local update. Native mobile verification is required before concluding whether any page-local clipping exists.
+[Live homepage](https://www.matrixmassage.net/) · [After PageSpeed report](https://pagespeed.web.dev/analysis/https-www-matrixmassage-net/8bycmzvl8r?form_factor=mobile) · [Canonical project documentation](https://drive.google.com/drive/folders/1jthRMAHOoockNm8hAVBK6mz4iaHbhNK8)
