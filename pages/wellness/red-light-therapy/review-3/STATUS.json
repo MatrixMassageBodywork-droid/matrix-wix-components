@@ -1,10 +1,21 @@
 {
   "saved": true,
   "previewTested": true,
-  "published": false,
+  "published": true,
   "pageId": "bteto",
   "sourceCommit": "eea333575431cb18e4e51f1cee679e873e8f31a6",
   "homepageTouched": false,
   "quizTouched": false,
-  "liveWixWritesFinished": true
+  "liveWixWritesFinished": true,
+  "wixRevision": 1080,
+  "publishedAt": "2026-11-09T20:26:00-06:00",
+  "publicationVerificationSource": "Owner-authorized publishing thread coordination update; not independently rerun in this documentation turn",
+  "publicPricesConfirmed": [
+    25.99,
+    14.99,
+    22.99
+  ],
+  "publicQuizLinksReported": 4,
+  "homepageUnsavedEditsReported": false,
+  "publicationReceipt": "../PUBLISHED-RECEIPT-1080.md"
 }
