@@ -405,7 +405,7 @@ function renderResults(r) {
  const para=t=>String(t||'').split('\n\n').map(x=>`<p>${escapeHtml(x)}</p>`).join('');
  display('results');$('resultTitle').textContent=r.title;$('resultIntro').textContent=r.introduction;
  $('offer').innerHTML=`<p class="eyebrow">Chosen for your goal</p><h2>${escapeHtml(r.planHeading)}</h2>${para(r.planBody)}${r.schedule?`<div class="notice"><strong>${escapeHtml(r.schedule.cadence)}</strong></div>`:''}`;
- $('matchedResearch').innerHTML=r.researchNotes.map(n=>`<article class="study"><span class="tag">Positive research to explore</span><h3>${escapeHtml(n.title)}</h3><p>${escapeHtml(n.summary)}</p><p><a href="${escapeHtml(n.url)}" target="_blank" rel="noopener">View the study</a></p><details><summary>How this research relates to Matrix</summary><p>${escapeHtml(n.detail)}</p></details></article>`).join('');;
+ $('matchedResearch').innerHTML=r.researchNotes.map(n=>`<article class="study"><span class="tag">Positive research to explore</span><h3>${escapeHtml(n.title)}</h3><p>${escapeHtml(n.summary)}</p><p><a href="${escapeHtml(n.url)}" target="_blank" rel="noopener">View the study</a></p><details><summary>How this research relates to Matrix</summary><p>${escapeHtml(n.detail)}</p></details></article>`).join('');
  $('deviceNote').textContent=r.deviceNote;
  $('nutritionCard').hidden=!r.nutritionIncluded;
  $('nutritionResults').innerHTML=r.nutritionIncluded?para(r.nutritionSummary)+r.nutritionNotes.map(n=>`<article class="nutrition"><h3>${escapeHtml(n.name)}</h3><p>${escapeHtml(n.why)}</p>${n.caution?`<p class="fine">${escapeHtml(n.caution)}</p>`:''}<p><a href="${escapeHtml(n.source)}" target="_blank" rel="noopener">${escapeHtml(n.sourceLabel)}</a></p></article>`).join('')+`<div class="notice"><p>${escapeHtml(r.fullscriptText)}</p><a class="btn" href="${escapeHtml(r.fullscriptUrl)}" target="_blank" rel="noopener">Explore Matrix Fullscript</a></div><p class="fine">${escapeHtml(r.nutritionNotice)}</p>`:'';
@@ -464,7 +464,7 @@ window.GlowGuide={getAnswers:()=>({...answers}),acceptSavedReport:renderResults,
   };
   const setBusy = value => {
     button.disabled = value;
-    button.textContent = value ? 'Preparing your report…' : 'Get my personalized report';
+    button.textContent = value ? 'Preparing your email copy…' : 'Email my free Glow Guide';
     form.querySelectorAll('input').forEach(input => { input.disabled = value || terminal; });
     document.getElementById('restart').disabled = value;
     document.getElementById('leadRestart').disabled = value;
@@ -492,12 +492,12 @@ window.GlowGuide={getAnswers:()=>({...answers}),acceptSavedReport:renderResults,
     clearTimeout(timeout);
     const r = message.result || {};
     terminal = r.status === 'saved';
-    if (r.status === 'test') status.textContent = 'Draft test complete. No lead was saved or emailed, so no report has been released. Live access opens only after a confirmed saved inquiry.';
+    if (r.status === 'test') status.textContent = 'This preview did not send an email. Your on-page results remain available.';
     else if (r.status === 'saved') {
       const accepted = r.clientStatus === 'ACCEPTED';
       status.textContent = accepted
-        ? 'Your personalized report has been submitted for email delivery. Check your inbox, promotions, or spam folder. You can also read your guide below.'
-        : 'Your request was saved, but the report email was not confirmed. Please contact Matrix for help. Do not submit a new request.';
+        ? 'Wix accepted your email request, but receipt in your inbox is not confirmed. Your report stays available here; check inbox, promotions and spam.'
+        : 'Your report is still available here. Email acceptance was not confirmed; contact Matrix with your reference instead of submitting twice.';
       status.textContent += ' Reference: ' + r.reference;
       if(r.report){
         const receipt=status.textContent;
@@ -521,7 +521,7 @@ window.GlowGuide={getAnswers:()=>({...answers}),acceptSavedReport:renderResults,
     }
     setBusy(false);
     button.disabled = terminal;
-    if (terminal) button.textContent = 'Request saved';
+    if (terminal) button.textContent = 'Email copy requested';
     form.querySelectorAll('input').forEach(input => { input.disabled = terminal; });
   });
   // Restart must also unlock fields previously locked after a saved request.
