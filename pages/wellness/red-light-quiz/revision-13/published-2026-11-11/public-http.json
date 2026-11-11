@@ -1,0 +1,273 @@
+{
+  "checkedAt": "2026-11-11T20:09:34.179598+00:00",
+  "pages": [
+    {
+      "url": "https://www.matrixmassage.net/red-light-therapy-glow-score",
+      "httpStatus": 200,
+      "title": "Free Red Light Therapy Quiz in Salem, WI | Matrix",
+      "canonical": "https://www.matrixmassage.net/red-light-therapy-glow-score",
+      "description": "Discover personalized red light benefits with the free Matrix Glow Test in Salem, WI. Get instant results, keep your guide, and book only if you choose.",
+      "robots": null,
+      "ogTitle": "Free Red Light Therapy Quiz in Salem, WI | Matrix",
+      "twitterTitle": "Free Red Light Therapy Quiz in Salem, WI | Matrix",
+      "schemaTypes": [
+        "Answer",
+        "BreadcrumbList",
+        "FAQPage",
+        "ListItem",
+        "LocalBusiness",
+        "Offer",
+        "PostalAddress",
+        "Question",
+        "Service",
+        "WebPage"
+      ],
+      "schemaErrors": [],
+      "faqCount": 6,
+      "faqs": [
+        {
+          "@type": "Question",
+          "name": "How much is red light therapy at Matrix?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Full body red light therapy is $25.99. Face and head red light therapy is $14.99 and can also be added during a massage. Full body red light during an existing session is a $22.99 enhancement, in addition to the main service price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I add red light therapy to my massage?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Face and head red light is a $14.99 add-on during a massage. Full body red light can be included during a session for an additional $22.99. Select the matching enhancement when booking or text Matrix to arrange it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does this quiz diagnose a condition or prescribe a treatment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. It helps you explore your goals, compare services and understand relevant research. It does not diagnose a condition, calculate a light dose, prescribe medication or guarantee results. Answers that suggest a medical concern route to clinician review."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to choose a routine?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Choose \u201cJust exploring the benefits\u201d for a guide without service or schedule questions. If you want planning ideas, you can request those in the quiz. Research protocols differ by device and condition; this quiz does not prescribe a treatment frequency. There is no required series."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I have to complete the quiz to book?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Prices and the booking menu are available without completing the quiz. Your free report appears on this page immediately, without contact details or verification. Only an optional emailed copy uses the separate contact, consent and security-check process."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is Matrix Massage & Bodywork?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matrix is at 24804 75th St, Salem, WI 53168, serving Salem Lakes, Paddock Lake and nearby Kenosha County communities. Text 262-939-9325 with questions about a visit."
+          }
+        }
+      ],
+      "offers": [
+        {
+          "price": "25.99",
+          "currency": "USD"
+        },
+        {
+          "price": "14.99",
+          "currency": "USD"
+        },
+        {
+          "price": "22.99",
+          "currency": "USD"
+        }
+      ],
+      "relatedLinks": [
+        "https://www.matrixmassage.net/book-appointments-salem-wi",
+        "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+        "https://www.matrixmassage.net/wellness-biotech-services-salem-wi"
+      ],
+      "siteRevisions": [
+        "1103"
+      ]
+    },
+    {
+      "url": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+      "httpStatus": 200,
+      "title": "Red Light Therapy in Salem, WI | Recovery & Skin Wellness",
+      "canonical": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+      "description": "Full-body red and near-infrared light therapy in Salem, WI for recovery, relaxation and skin wellness. Book at Matrix Massage & Bodywork.",
+      "robots": null,
+      "ogTitle": "Red Light Therapy in Salem, WI | Recovery & Skin Wellness",
+      "twitterTitle": "Red Light Therapy in Salem, WI | Recovery & Skin Wellness",
+      "schemaTypes": [
+        "Answer",
+        "BreadcrumbList",
+        "FAQPage",
+        "HealthAndBeautyBusiness",
+        "ListItem",
+        "Offer",
+        "PostalAddress",
+        "Question",
+        "Service"
+      ],
+      "schemaErrors": [],
+      "faqCount": 9,
+      "faqs": [
+        {
+          "@type": "Question",
+          "name": "What is red light therapy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Red light therapy, also called photobiomodulation, uses red and near-infrared wavelengths of light. It is studied for skin rejuvenation, targeted recovery, and comfort. At Matrix, it is offered as a non-invasive wellness service tailored to your chosen coverage and goals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What equipment does Matrix use?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matrix uses PlatinumLED BioMax 900 red and near-infrared panels in a private, comfortable wellness setting. Positioning, settings, and exposure time are chosen for the treatment area and your individual needs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How much is red light therapy at Matrix?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Full Body Red Light Therapy is $25.99 per standalone visit. Face & Head Red Light Therapy is $14.99 and can also be added during a massage. Full Body Red Light Enhancement during an existing session is +$22.99, in addition to the main service price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How often should I come in?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For suitable skin and wellness goals, a Matrix starting plan may be 2\u20133 visits per week for four weeks, followed by a progress review. Your goal, availability, and response shape the plan. Research schedules vary by condition and device; the quiz links the relevant studies in your personalized report."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does a session feel like?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You rest in a comfortable position while the panels provide light and may produce gentle warmth. The visit is designed to fit into your day without a recovery period. Your intake and setup help us personalize the experience."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I add red light therapy to my massage?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Face and head red light can be added during a massage for $14.99. Full-body red light during an existing session is a +$22.99 enhancement. The main appointment is priced separately. Choose your service in the booking menu or text Matrix for help pairing appointments."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I receive my personalized Glow Guide?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Take the free Red Light Therapy Quiz to see your personalized guide instantly on screen. No booking, payment, contact details or verification are needed to view your results. You can print or save your guide. An optional email copy uses the separate contact form, email and text marketing permissions, and security check."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is Matrix located?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matrix Massage & Bodywork and Matrix Wellness & Biotech are at 24804 75th St, Salem, WI 53168. Our Salem studio welcomes guests from Paddock Lake, Bristol, Trevor, Twin Lakes, Pleasant Prairie, Kenosha, Union Grove, and nearby Antioch, Illinois. Book online or text 262-939-9325."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What should I review before booking?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Review the appointment details, intake requirements, and current cancellation policy on our booking page. Share light sensitivity, relevant medications, and recent skin procedures before your red light session so we can guide the setup. Open the full booking menu and appointment information."
+          }
+        }
+      ],
+      "offers": [
+        {
+          "price": "25.99",
+          "currency": "USD"
+        },
+        {
+          "price": "14.99",
+          "currency": "USD"
+        },
+        {
+          "price": "22.99",
+          "currency": "USD"
+        }
+      ],
+      "relatedLinks": [
+        "https://www.matrixmassage.net/book-appointments-salem-wi",
+        "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+        "https://www.matrixmassage.net/wellness-biotech-services-salem-wi"
+      ],
+      "siteRevisions": [
+        "1103"
+      ]
+    },
+    {
+      "url": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "httpStatus": 200,
+      "title": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery",
+      "canonical": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "description": "Explore wellness services in Salem, WI including infrared sauna, red light therapy, recovery enhancements and hands-off wellness at Matrix.",
+      "robots": null,
+      "ogTitle": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery",
+      "twitterTitle": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery",
+      "schemaTypes": [
+        "BreadcrumbList",
+        "HealthAndBeautyBusiness",
+        "ListItem",
+        "Offer",
+        "OfferCatalog",
+        "PostalAddress",
+        "Service"
+      ],
+      "schemaErrors": [],
+      "faqCount": 0,
+      "faqs": [],
+      "offers": [
+        {
+          "price": null,
+          "currency": null
+        },
+        {
+          "price": null,
+          "currency": null
+        },
+        {
+          "price": null,
+          "currency": null
+        },
+        {
+          "price": null,
+          "currency": null
+        },
+        {
+          "price": null,
+          "currency": null
+        }
+      ],
+      "relatedLinks": [
+        "https://www.matrixmassage.net/book-appointments-salem-wi",
+        "https://www.matrixmassage.net/post/relief-in-harmony-how-massage-and-red-light-therapy-support-nerve-pain-healing",
+        "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+        "https://www.matrixmassage.net/wellness-biotech-services-salem-wi"
+      ],
+      "siteRevisions": [
+        "1103"
+      ]
+    }
+  ]
+}
