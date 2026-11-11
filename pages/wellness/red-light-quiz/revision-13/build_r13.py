@@ -131,7 +131,7 @@ page=page.replace("    if (message.type === 'ready')", """    if (message.type =
     if (message.type === 'ready')""")
 page=page.replace("      captcha.reset();\n      return;", "      captcha.reset();\n      captcha.collapse();\n      status.collapse();\n      return;")
 page=page.replace("    status.text = 'Complete one security verification", "    await status.expand();\n    status.text = 'Complete one security verification")
-page=page.replace("else { captcha.show(); captcha.scrollTo(); }", "else { await captcha.expand(); await captcha.show(); await wixWindowFrontend.scrollTo(0, wixWindowFrontend.formFactor === 'Mobile' ? 1709 : 1819, { scrollAnimation: false }); }")
+page=page.replace("else { captcha.show(); captcha.scrollTo(); }", "else { await captcha.expand(); await captcha.show(); await wixWindowFrontend.scrollTo(0, wixWindowFrontend.formFactor === 'Mobile' ? 1709 : 1569, { scrollAnimation: false }); }")
 page=page.replace("      captcha.reset();\n    }", "      captcha.reset();\n      captcha.collapse();\n    }")
 (ROOT/'page-code.js').write_text(page)
 (ROOT/'client-email-template.html').write_text((OLD/'client-email-template.html').read_text())

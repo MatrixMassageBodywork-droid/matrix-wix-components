@@ -39,7 +39,7 @@ $w.onReady(() => {
     await status.expand();
     status.text = 'Complete one security verification next to the optional email form. Your report is already available.';
     if (captcha.token) await process();
-    else { await captcha.expand(); await captcha.show(); await wixWindowFrontend.scrollTo(0, wixWindowFrontend.formFactor === 'Mobile' ? 1709 : 1819, { scrollAnimation: false }); }
+    else { await captcha.expand(); await captcha.show(); await wixWindowFrontend.scrollTo(0, wixWindowFrontend.formFactor === 'Mobile' ? 1709 : 1569, { scrollAnimation: false }); }
   });
 
   async function process() {
