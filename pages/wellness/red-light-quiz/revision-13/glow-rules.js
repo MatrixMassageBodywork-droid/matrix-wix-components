@@ -150,7 +150,7 @@ function nutritionFor(a){
  return notes;
 }
 function researchForReport(a){
- if(a.goal==='skin')return [{title:'Why a four-week skin starting plan?',summary:'In a randomized trial of 95 women, a 660 nm red-light mask used two or three times weekly for four weeks improved some measured wrinkle lengths and appearance satisfaction.',detail:'The study offers an encouraging starting point for a consistent facial-care routine using a focused 660 nm mask. Matrix confirms exposure and settings for its own equipment; results vary by person.',url:'https://pubmed.ncbi.nlm.nih.gov/40167796/'}];
+ if(a.goal==='skin')return [{title:'Red light and a fresher-looking glow',summary:'In a randomized trial of 95 women, a 660 nm red-light mask used two or three times weekly for four weeks improved some measured wrinkle lengths and appearance satisfaction.',detail:'The study offers an encouraging starting point for a consistent facial-care routine using a focused 660 nm mask. Matrix confirms exposure and settings for its own equipment; results vary by person.',url:'https://pubmed.ncbi.nlm.nih.gov/40167796/'}];
  if(a.goal==='hair')return [{title:'Hair progress has a longer timeline',summary:'A randomized sham-controlled trial in men and women with pattern hair loss used a laser comb three times weekly for 26 weeks and found increased terminal hair density.',detail:'This is why four weeks is a starting checkpoint, not a hair-regrowth deadline. The trial used a scalp device; confirm that your assessed concern and scalp coverage fit the proposed service.',url:'https://pubmed.ncbi.nlm.nih.gov/24474647/'}];
  if(a.goal==='joint')return a.focus==='knee'?[{title:'A repeated-visit knee study',summary:'A small randomized placebo-controlled trial in 31 people with knee osteoarthritis used individualized 850 nm treatment twice weekly for five weeks and found reduced pain, including at follow-up.',detail:'This makes repeat visits worth discussing for an assessed knee concern. It was a small study of targeted treatment, not proof of the same outcome from a Matrix panel or a four-week course.',url:RESEARCH.knee.url}]:[RESEARCH.joint];
  return researchFor(a);
@@ -174,15 +174,15 @@ export function makePlan(a){
   let cadence='2–3 visits per week for 4 weeks to start';
   let scheduleText='Based on your chosen pathway, we recommend '+cadence+'. ';
   if(['muscle','tissue','inflam','wellness'].includes(a.goal))scheduleText='For your Matrix wellness starting routine, we recommend '+cadence+'. This is a practical self-care schedule with a four-week review, rather than a condition-specific treatment dose. ';
-  if(a.commitment==='try'){perWeek=null;cadence='One introductory visit, then choose your rhythm';scheduleText='You chose to begin with one visit. Start there, then consider a routine of 2–3 visits per week for four weeks if you would like to build consistency. ';}
+  if(a.commitment==='try'){perWeek=null;cadence='One introductory visit, then choose your rhythm';scheduleText='You are exploring one introductory visit. If you decide to try it, start there and consider a routine of 2–3 visits per week for four weeks if you would like to build consistency. ';}
   else if(a.availability==='one'){cadence='Once weekly to fit your calendar; review after 4 weeks';scheduleText='Our usual Matrix starting rhythm is 2–3 visits per week for four weeks. You selected once-weekly availability, so begin with one visit each week and review at week four; this lighter schedule differs from the repeated-visit studies below. ';}
   else if(a.availability==='two')scheduleText+='Since twice weekly fits your calendar, plan two visits each week—eight visits across the first month. ';
   else if(a.availability==='three')scheduleText+='Your three-times-weekly availability allows up to twelve visits over the first month; we will confirm the pace at your first visit. ';
   else scheduleText+='Start with two visits weekly and discuss a third if it fits your response and calendar. ';
   if(a.commitment==='maintain')scheduleText+='Bring your current routine so we can decide whether a new starting block or a lighter maintenance rhythm makes more sense. ';
   if(a.goal==='hair')scheduleText+='For assessed pattern thinning, this first month establishes the habit; the linked hair trial followed treatment for 26 weeks. ';
-  p.planHeading=a.commitment==='try'?'Your first visit & the path forward':'Your four-week starting plan';
-  p.planBody=scheduleText+profile.why;
+  p.planHeading=a.commitment==='try'?'Exploring your first red-light experience':'A possible four-week rhythm';
+  p.planBody='These are optional planning ideas for you to consider; no appointment has been booked. '+scheduleText+profile.why;
   p.schedule={perWeek,weeks:a.commitment==='try'?null:4,visits:perWeek?perWeek*4:1,cadence,checkpoint:'At week four, compare your starting notes and decide on the next block together.',kind:'Matrix starting schedule; provider confirms suitability and device setup'};
   p.offer={name:service.name,unitPrice:service.cents/100,price:service.cents/100,visits:1,type:service.detail,cadence,note:'Per-visit pricing. Enhancements are added to the main appointment.'};
   p.maintenance=a.goal==='hair'?'At week four, review scalp coverage and consistency. Compare longer-term density photos with your hair-loss clinician; visible hair changes take months.':'At week four, compare your starting notes and photos, celebrate what has changed, and choose the next phase with Matrix—another focused block or a more spaced-out routine.';
