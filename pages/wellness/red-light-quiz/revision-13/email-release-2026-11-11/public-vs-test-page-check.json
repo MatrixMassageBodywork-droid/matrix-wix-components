@@ -1,0 +1,74 @@
+{
+  "/": {
+    "sameMainText": true,
+    "sameLinks": true,
+    "liveTitle": "Japanese Head Spa, Facials & Massage in Salem, WI | Matrix",
+    "testTitle": "Japanese Head Spa, Facials & Massage in Salem, WI | Matrix",
+    "liveChars": 3460,
+    "testChars": 3460
+  },
+  "/book-appointments-salem-wi": {
+    "sameMainText": true,
+    "sameLinks": true,
+    "liveTitle": "Book Massage & Spa Appointments in Salem WI | Matrix Massage",
+    "testTitle": "Book Massage & Spa Appointments in Salem WI | Matrix Massage",
+    "liveChars": 500,
+    "testChars": 500
+  },
+  "/massage-therapy-services-salem-wi": {
+    "sameMainText": true,
+    "sameLinks": true,
+    "liveTitle": "Massage Therapy Salem WI | Deep Tissue, Swedish & More",
+    "testTitle": "Massage Therapy Salem WI | Deep Tissue, Swedish & More",
+    "liveChars": 238,
+    "testChars": 238
+  },
+  "/spa-and-beauty-services-salem-wi": {
+    "sameMainText": true,
+    "sameLinks": true,
+    "liveTitle": "Spa Services in Salem, WI | Facials, Head Spa & Wellness",
+    "testTitle": "Spa Services in Salem, WI | Facials, Head Spa & Wellness",
+    "liveChars": 222,
+    "testChars": 222
+  },
+  "/about-5": {
+    "sameMainText": true,
+    "sameLinks": true,
+    "liveTitle": "ABOUT | Matrix Massage & Bodywork",
+    "testTitle": "ABOUT | Matrix Massage & Bodywork",
+    "liveChars": 3710,
+    "testChars": 3710
+  },
+  "/massage-spa-gift-cards-salem-wi": {
+    "sameMainText": true,
+    "sameLinks": true,
+    "liveTitle": "Massage & Spa Gift Cards in Salem, WI | Matrix",
+    "testTitle": "Massage & Spa Gift Cards in Salem, WI | Matrix",
+    "liveChars": 0,
+    "testChars": 0
+  },
+  "/wellness-biotech-services-salem-wi": {
+    "sameMainText": true,
+    "sameLinks": true,
+    "liveTitle": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery",
+    "testTitle": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery",
+    "liveChars": 3256,
+    "testChars": 3256
+  },
+  "/red-light-therapy-salem-wi": {
+    "sameMainText": true,
+    "sameLinks": true,
+    "liveTitle": "Red Light Therapy in Salem, WI | Recovery & Skin Wellness",
+    "testTitle": "Red Light Therapy in Salem, WI | Recovery & Skin Wellness",
+    "liveChars": 238,
+    "testChars": 238
+  },
+  "/red-light-therapy-glow-score": {
+    "sameMainText": false,
+    "sameLinks": false,
+    "liveTitle": "Red Light Therapy Quiz & Prices in Salem, WI | Matrix",
+    "testTitle": "Free Red Light Therapy Quiz in Salem, WI | Matrix",
+    "liveChars": 1004,
+    "testChars": 797
+  }
+}
