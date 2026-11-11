@@ -1,0 +1,11 @@
+{
+  "syntax": "PASS",
+  "matchingBrowserServerRules": true,
+  "uniqueHtmlIds": 49,
+  "cases": 2304,
+  "oldPlanningCases": 1728,
+  "newExplorationCases": 576,
+  "safetyRouteCases": 1968,
+  "submissionOriginsUnchanged": true,
+  "requiredSeparateConsentPreserved": true
+}
