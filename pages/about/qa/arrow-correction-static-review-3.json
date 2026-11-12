@@ -1,0 +1,56 @@
+{
+  "status": "STATIC CHECKED; NATIVE RENDERER REPLACEMENT AND VISUAL READBACK PENDING",
+  "revision": "about-review-3-2026-11-12",
+  "replaces": "about-review-2-2026-11-12",
+  "arrowSpansReplaced": 10,
+  "sizes": {
+    "serviceCards": "25px inherited font size, .85em box, 2px stroke",
+    "textLinksAndButton": "inherited text size, .85em box, 1.5px stroke"
+  },
+  "fontGlyphDependency": false,
+  "bodyChangeOnlyExactDecorativeArrowReplacement": true,
+  "cssChangeOnlyFourScopedArrowRules": true,
+  "faqFileByteIdenticalToReview2": true,
+  "faqTextExactMatch": true,
+  "h1Count": 1,
+  "nodeSyntaxPassed": [
+    "renderer.js",
+    "WIX_PAGE_CODE_MERGED_CANDIDATE.js",
+    "WIX_SEO_SNIPPET_CANDIDATE.js",
+    "EXECUTE_NATIVE_SEO_DRAFT_CANDIDATE.js"
+  ],
+  "files": {
+    "review-3/body.html": {
+      "bytes": 13123,
+      "sha256": "e195738430d214d323f65190725e58dff4121656c934bb461613bf227cd6724f"
+    },
+    "review-3/style.css": {
+      "bytes": 13098,
+      "sha256": "4a6d599767c9df5f6837ec5d1d69e6ec0641574efcb96db0e29b35526eda92cb"
+    },
+    "review-3/renderer.js": {
+      "bytes": 27445,
+      "sha256": "83b74e29fb4ce88d946109fdb86edfad148d6df7c31ca3f3955ce80a1b325e20"
+    },
+    "review-3/faq-schema.json": {
+      "bytes": 2929,
+      "sha256": "abfd5afe3ceda52a284b3cdcbae511a4b7360b03a2ab6431cc56b754038fe1b3"
+    },
+    "review-3/WIX_SEO_SNIPPET_CANDIDATE.js": {
+      "bytes": 13746,
+      "sha256": "4fe29ea47fd4a9de8b97b43e07778d62758cb6d46db657c8822901184f956e2b"
+    },
+    "WIX_PAGE_CODE_MERGED_CANDIDATE.js": {
+      "bytes": 14042,
+      "sha256": "68493dfb6b4f2bf28c121027f3facefbce689002b80f8632780d5182205170d3"
+    },
+    "seo/native-seo-patch-candidate.json": {
+      "bytes": 14370,
+      "sha256": "0433db76b25f157268e1ff573be9fc5c650bcec7fac89048e864d643f2645ada"
+    },
+    "seo/EXECUTE_NATIVE_SEO_DRAFT_CANDIDATE.js": {
+      "bytes": 20736,
+      "sha256": "430827221a13c5b6b4fe36e5b6156068a904b79695d80c1781e4f0970eaed5fd"
+    }
+  }
+}

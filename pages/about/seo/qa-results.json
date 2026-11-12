@@ -1,0 +1,22 @@
+{
+  "status": "LOCAL STATIC QA PASSED; NOT WIX INSTALLED OR LIVE TESTED",
+  "review": "review-3",
+  "faqTextExactMatch": true,
+  "faqCount": 7,
+  "faqNativeIdPreserved": "Bp05JGMH",
+  "jsonLdGraphNodeTypes": [
+    "AboutPage",
+    "Person",
+    "HealthAndBeautyBusiness",
+    "BreadcrumbList"
+  ],
+  "jsonLdReferencesResolved": true,
+  "nativeTagCount": 4,
+  "publish": false,
+  "noUnverifiedPricingHoursRatingsCredentials": true,
+  "canonicalRobotsSocialImageOverridesAdded": false,
+  "nativeScriptIdInvented": false,
+  "facebookDestinationPubliclyVerified": false,
+  "titleCharacters": 43,
+  "descriptionCharacters": 148
+}

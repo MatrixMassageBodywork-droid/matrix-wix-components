@@ -1,0 +1,73 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "About Matrix Massage & Bodywork",
+    "revision": "about-review-3-2026-11-12",
+    "tagName": "matrix-about-page",
+    "elementId": "matrixAboutPage",
+    "rootClass": "matrix-about-page",
+    "pageUrl": "https://www.matrixmassage.net/about-5",
+    "seoTitle": "About Matrix Massage & Bodywork | Salem, WI",
+    "seoDescription": "Meet DaNelle, licensed massage therapist and owner of Matrix Massage & Bodywork in Salem, WI. Discover our story, care philosophy, and spa services.",
+    "seoSource": "Proposed scoped About rebuild. Current native baseline is retained separately in baseline/wix-about-native-seo-before.json. Metadata is not installed or published.",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 7
+  },
+  "seo": {
+    "title": "About Matrix Massage & Bodywork | Salem, WI",
+    "description": "Meet DaNelle, licensed massage therapist and owner of Matrix Massage & Bodywork in Salem, WI. Discover our story, care philosophy, and spa services.",
+    "canonical": "https://www.matrixmassage.net/about-5",
+    "source": "Proposed scoped About rebuild. Current native baseline is retained separately in baseline/wix-about-native-seo-before.json. Metadata is not installed or published."
+  },
+  "h1": "About Matrix Massage & Bodywork",
+  "faqCount": 7,
+  "links": [
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "#ma-meet",
+    "#ma-meet",
+    "#ma-approach",
+    "#ma-visit",
+    "#ma-faq",
+    "https://www.matrixmassage.net/",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "sms:+12629399325",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+    "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+    "https://www.matrixmassage.net/book-appointments-salem-wi",
+    "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+    "sms:+12629399325",
+    "https://www.facebook.com/411300892070855",
+    "https://www.instagram.com/matrixmassagewi/",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "sms:+12629399325"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+      "alt": "Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_3cc3a5eeb061404aac3c6714d22cdb8f~mv2.jpg",
+      "alt": "DaNelle Borglin, owner and licensed massage therapist at Matrix Massage & Bodywork in Salem, Wisconsin"
+    }
+  ],
+  "files": {
+    "body.html": "e195738430d214d323f65190725e58dff4121656c934bb461613bf227cd6724f",
+    "style.css": "4a6d599767c9df5f6837ec5d1d69e6ec0641574efcb96db0e29b35526eda92cb",
+    "renderer.js": "83b74e29fb4ce88d946109fdb86edfad148d6df7c31ca3f3955ce80a1b325e20",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "4fe29ea47fd4a9de8b97b43e07778d62758cb6d46db657c8822901184f956e2b",
+    "preview.html": "5439bf7239a33579908dbc0e8343dc94042475c579abcd3c4d081249ecfdd006",
+    "faq-schema.json": "abfd5afe3ceda52a284b3cdcbae511a4b7360b03a2ab6431cc56b754038fe1b3"
+  },
+  "rendererBytes": 27445
+}

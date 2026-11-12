@@ -1,0 +1,47 @@
+{
+  "status": "LOCAL MOCK EXECUTION QA PASSED; NO NETWORK OR WIX CALLS",
+  "cases": [
+    {
+      "name": "missing native evidence",
+      "status": "STOP_NO_NATIVE_INSTALLATION_EVIDENCE",
+      "getCalls": 0,
+      "patchCalls": 0,
+      "published": false
+    },
+    {
+      "name": "wrong body hash",
+      "status": "STOP_INSTALLATION_EVIDENCE_MISMATCH",
+      "getCalls": 0,
+      "patchCalls": 0,
+      "published": false
+    },
+    {
+      "name": "concurrent tag change",
+      "status": "STOP_BASELINE_OR_PAGE_CHANGED",
+      "getCalls": 1,
+      "patchCalls": 0,
+      "published": false
+    },
+    {
+      "name": "inherited image changed",
+      "status": "STOP_INHERITED_SEO_CHANGED",
+      "getCalls": 1,
+      "patchCalls": 0,
+      "published": false
+    },
+    {
+      "name": "accepted draft",
+      "status": "DRAFT_SAVED_ACCEPTED_PAYLOAD_VERIFIED",
+      "getCalls": 1,
+      "patchCalls": 1,
+      "published": false
+    },
+    {
+      "name": "write error no retry",
+      "status": "STOP_SEO_WRITE_ERROR_NO_RETRY",
+      "getCalls": 1,
+      "patchCalls": 1,
+      "published": false
+    }
+  ]
+}

@@ -1,17 +1,11 @@
-# About Matrix — 2026-11-12 rebuild
+# Matrix About rebuild — review 3
 
-Status: BUILT / STATIC CHECKED / NOT YET VISUALLY VERIFIED / NOT INSTALLED / NOT PUBLISHED.
+Current source: `review-3`, revision `about-review-3-2026-11-12`. Existing Wix About page `yzabl`, route `/about-5`.
 
-Permanent Wix About page: yzabl, https://www.matrixmassage.net/about-5 .
+Status at this source checkpoint: review 3 BUILT and STATIC CHECKED. Review 2 installed and SAVED in Wix draft, native desktop/mobile verified; review 3 removes a font-dependent decorative arrow and is being installed. Native SEO candidate is prepared; application and final evidence are recorded in the following receipt checkpoint. NOT PUBLISHED.
 
-User requested full About rebuild, existing portrait, current main-page style, updated biography retaining origin story, complete SEO and current booking/social links. Publication approval has not been given for this new revision.
+Preserves the original DaNelle portrait and approved main-page Matrix logo. Uses current Square booking, owner-confirmed Facebook Page411300892070855, and Instagram@matrixmassagewi. Replaces only the two old About-local sections; shared header/footer remain protected.
 
-Current review source: review-2. Preserve exact owner portrait and approved Matrix logo. Sidebar social bar on the old page still points to Wix default social profiles; both old page-local sections are enumerated in baseline/native-section-map.json and will be replaced.
+Native section `comp-mwdp095j` (`matrixAboutSection`); custom element `comp-mwdp0wlp` (`matrixAboutPage`); tag `matrix-about-page`; full-width stretch with zero margins. Full visible body is mirrored in the page's seoMarkup.
 
-Current canonical source base is main commit 34318faae01ef3416959b8f854fa9a88ee91f10b. Newer homepage and Glow Quiz releases exist on separate branches and are outside this About scope.
-
-Current native page code was read through the existing Wix Editor and consists only of default template comments. Candidate code adds complete body seoMarkup without changing the template.
-
-Original owner portrait is archived in assets/danelle-original.jpg. Shared approved logo/water are existing Matrix Wix assets; their provenance, hashes and current display URLs are in asset-map.json.
-
-Only this pages/about path is changed. No site deployment workflow exists in the repository root; Wix uses immutable CDN pins. Saving this review branch does not change the live page.
+Review3 renderer SHA-256: `83b74e29fb4ce88d946109fdb86edfad148d6df7c31ca3f3955ce80a1b325e20`. Sources and rollback baseline are retained. Publication requires separate owner approval.

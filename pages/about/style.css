@@ -39,6 +39,10 @@ matrix-about-page{display:block;width:100%;height:auto;min-height:0!important}
 .matrix-about-page .ma-bio .ma-intro{font-family:Georgia,'Times New Roman',serif;font-size:23px;line-height:1.4;color:var(--ma-ink);margin-top:19px}
 .matrix-about-page .ma-bio>p:not(.ma-eyebrow):not(.ma-intro){font-size:15px;color:var(--ma-muted);margin-top:18px}
 .matrix-about-page .ma-text-link{display:inline-block;font-size:13px;margin-top:23px;min-height:44px;padding:9px 0}
+.matrix-about-page .ma-arrow{--ma-arrow-stroke:1.5px;display:inline-block;position:relative;flex:none;width:.85em;height:.85em;vertical-align:-.05em}
+.matrix-about-page .ma-arrow::before{content:'';position:absolute;right:0;top:0;width:.6em;height:.6em;border-top:var(--ma-arrow-stroke) solid currentColor;border-right:var(--ma-arrow-stroke) solid currentColor}
+.matrix-about-page .ma-arrow::after{content:'';position:absolute;right:0;top:0;width:1.08em;height:var(--ma-arrow-stroke);background:currentColor;transform:rotate(-45deg);transform-origin:right center}
+.matrix-about-page .ma-service>.ma-arrow{--ma-arrow-stroke:2px}
 .matrix-about-page .ma-story{background:#eaf0e8;padding:60px 0}
 .matrix-about-page .ma-story-grid{display:grid;grid-template-columns:.85fr 1.15fr;gap:76px}
 .matrix-about-page .ma-story h2{font-size:40px}
