@@ -1,0 +1,68 @@
+{
+  "desktopFaq": {
+    "clientWidth": 1348,
+    "closingTop": 5169.34375,
+    "faqBottom": 5169.34375,
+    "height": 5617.0625,
+    "open": 7,
+    "scrollWidth": 1348,
+    "total": 7
+  },
+  "mobile": {
+    "bodyText": 4629,
+    "faqs": 7,
+    "h1Font": "31px",
+    "height": 7199.765625,
+    "logo": {
+      "bottom": 167,
+      "height": 138,
+      "left": 22,
+      "right": 298,
+      "top": 29,
+      "width": 276,
+      "x": 22,
+      "y": 29
+    },
+    "portrait": {
+      "bottom": 1047.453125,
+      "height": 339.78125,
+      "left": 23,
+      "right": 297,
+      "top": 707.671875,
+      "width": 274,
+      "x": 23,
+      "y": 707.671875
+    },
+    "scrollWidth": 320,
+    "width": 320
+  },
+  "mobileFaq": {
+    "closingTop": 8023.578125,
+    "faqBottom": 8023.578125,
+    "height": 8481.0625,
+    "images": [
+      {
+        "loaded": true,
+        "source": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg"
+      },
+      {
+        "loaded": false,
+        "source": "https://static.wixstatic.com/media/e4cc43_3cc3a5eeb061404aac3c6714d22cdb8f~mv2.jpg"
+      }
+    ],
+    "open": 7,
+    "scrollWidth": 320,
+    "total": 7,
+    "width": 320
+  },
+  "boundary": {
+    "background": "rgba(0, 0, 0, 0)",
+    "componentBottomGap": 20,
+    "componentHeight": 8481,
+    "componentTopGap": 0,
+    "footerGap": 0,
+    "oldSectionsRemaining": 0,
+    "sectionHeight": 8501
+  },
+  "codeExact": true
+}

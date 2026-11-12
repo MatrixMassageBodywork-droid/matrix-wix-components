@@ -1,0 +1,131 @@
+{
+  "repository": "MatrixMassageBodywork-droid/matrix-wix-components",
+  "branch": "review/about-2026-11-12",
+  "base_commit": "bf6fc01d51baf3ec797af57f17716860df7754e7",
+  "status": "BINARY_BLOB_CONTENT_HASHES_VERIFIED",
+  "items": [
+    {
+      "path": "qa/evidence-images/proof-320-service-detail.jpg",
+      "repository_path": "pages/about/qa/evidence-images/proof-320-service-detail.jpg",
+      "bytes": 48988,
+      "sha256": "c69f1fa2572a5e4c5afda749ca821868795f141b03cdc113bd0ce936b55f5d3b",
+      "git_blob_sha": "3b515e88228793c2468ace000427b29d58609275",
+      "created_sha": "3b515e88228793c2468ace000427b29d58609275",
+      "upload_verified": true,
+      "verification": "returned Git SHA equals locally computed git blob hash"
+    },
+    {
+      "path": "qa/evidence-images/about-introduction-preview.jpg",
+      "repository_path": "pages/about/qa/evidence-images/about-introduction-preview.jpg",
+      "bytes": 107987,
+      "sha256": "1fdc2660081e4383d4c17e13432ab4e337bca71fe2b79f974c8fd9cd0f4b2154",
+      "git_blob_sha": "ac6b553c1fb941ba8d59c2e67e6b00e406c85468",
+      "created_sha": "ac6b553c1fb941ba8d59c2e67e6b00e406c85468",
+      "upload_verified": true,
+      "verification": "returned Git SHA equals locally computed git blob hash"
+    },
+    {
+      "path": "qa/evidence-images/about-live-faqs-open.jpg",
+      "repository_path": "pages/about/qa/evidence-images/about-live-faqs-open.jpg",
+      "bytes": 87902,
+      "sha256": "0a2d0f120c244ced19375a57a84086cb8216f8a6b34e68cbf2779937a00c2e9a",
+      "git_blob_sha": "ed4f2ffd7586ca7ea2ec8d568e7d92b3277b5a16",
+      "created_sha": "ed4f2ffd7586ca7ea2ec8d568e7d92b3277b5a16",
+      "upload_verified": true,
+      "verification": "returned Git SHA equals locally computed git blob hash"
+    },
+    {
+      "path": "qa/evidence-images/about-live-portrait.jpg",
+      "repository_path": "pages/about/qa/evidence-images/about-live-portrait.jpg",
+      "bytes": 119802,
+      "sha256": "458c6b40b382dd7d30ff62b30ce9c1e2671e1bd314a212d66660edea556be2aa",
+      "git_blob_sha": "86eb6653e1418a2ab5662e83142323ea70151d1c",
+      "created_sha": "86eb6653e1418a2ab5662e83142323ea70151d1c",
+      "upload_verified": true,
+      "verification": "returned Git SHA equals locally computed git blob hash"
+    },
+    {
+      "path": "qa/evidence-images/about-live-square-booking.jpg",
+      "repository_path": "pages/about/qa/evidence-images/about-live-square-booking.jpg",
+      "bytes": 91762,
+      "sha256": "18590f6a6be8d361af9e70e9e14ee25cbe78866889563558591e68ac90dab7ac",
+      "git_blob_sha": "43728a1da7caaae888ce1f699e8ebdee77746d63",
+      "created_sha": "43728a1da7caaae888ce1f699e8ebdee77746d63",
+      "upload_verified": true,
+      "verification": "returned Git SHA equals locally computed git blob hash"
+    },
+    {
+      "path": "qa/evidence-images/about-published-history.jpg",
+      "repository_path": "pages/about/qa/evidence-images/about-published-history.jpg",
+      "bytes": 144969,
+      "sha256": "a6df6f1066f4f5015ac9341bbb473403cd4f86b55e23bbc53a6ef146f4bfeebc",
+      "git_blob_sha": "b256ddc98de10af2545675b0a44ce5aa528518fb",
+      "created_sha": "b256ddc98de10af2545675b0a44ce5aa528518fb",
+      "upload_verified": true,
+      "verification": "returned Git SHA equals locally computed git blob hash"
+    },
+    {
+      "path": "qa/evidence-images/native-about-desktop-final.jpg",
+      "repository_path": "pages/about/qa/evidence-images/native-about-desktop-final.jpg",
+      "bytes": 101246,
+      "sha256": "7d85886db9d9767d5f77653f6da87eda314f8739fc3ad245735d9d96061348cf",
+      "git_blob_sha": "7b1573059e8218643126c992338d2cc77196f697",
+      "created_sha": "7b1573059e8218643126c992338d2cc77196f697",
+      "upload_verified": true,
+      "verification": "returned Git SHA equals locally computed git blob hash"
+    },
+    {
+      "path": "qa/evidence-images/native-about-mobile-final.jpg",
+      "repository_path": "pages/about/qa/evidence-images/native-about-mobile-final.jpg",
+      "bytes": 56238,
+      "sha256": "e9fc972c14cd060c08f1e9f94e095da850612796c242a2e43174a41c11e17a6e",
+      "git_blob_sha": "04a0a6688bb91bbf93958d354b3d37f5b5df5160",
+      "created_sha": "04a0a6688bb91bbf93958d354b3d37f5b5df5160",
+      "upload_verified": true,
+      "verification": "returned Git SHA equals locally computed git blob hash"
+    },
+    {
+      "path": "qa/evidence-images/proof-1280-hero.jpg",
+      "repository_path": "pages/about/qa/evidence-images/proof-1280-hero.jpg",
+      "bytes": 83097,
+      "sha256": "082bac26709678283b1672c983bff5e1db150f3c9f660c5e4bcf957c1a457217",
+      "git_blob_sha": "f3d059db8b271f956da9af932bf5d43634e557ef",
+      "created_sha": "f3d059db8b271f956da9af932bf5d43634e557ef",
+      "upload_verified": true,
+      "verification": "returned Git SHA equals locally computed git blob hash"
+    },
+    {
+      "path": "qa/evidence-images/proof-1440-hero-viewport.jpg",
+      "repository_path": "pages/about/qa/evidence-images/proof-1440-hero-viewport.jpg",
+      "bytes": 84405,
+      "sha256": "7722c929e6105e1ddd2dfd108f95d25e84fdfb924ee0bedd6ed3901e2c5c3a97",
+      "git_blob_sha": "7d3ea365b1f075cac2e961e3f649282092247fa2",
+      "created_sha": "7d3ea365b1f075cac2e961e3f649282092247fa2",
+      "upload_verified": true,
+      "verification": "returned Git SHA equals locally computed git blob hash"
+    },
+    {
+      "path": "qa/evidence-images/proof-1920-hero-viewport.jpg",
+      "repository_path": "pages/about/qa/evidence-images/proof-1920-hero-viewport.jpg",
+      "bytes": 80850,
+      "sha256": "b78423701d7c8dd700610647d6d2272e4dd6326b83e68a45ad41cd76464eaf81",
+      "git_blob_sha": "609f03822d03d2812722d8277e17385d24dd2a32",
+      "created_sha": "609f03822d03d2812722d8277e17385d24dd2a32",
+      "upload_verified": true,
+      "verification": "returned Git SHA equals locally computed git blob hash"
+    },
+    {
+      "path": "qa/evidence-images/proof-390-service-detail.jpg",
+      "repository_path": "pages/about/qa/evidence-images/proof-390-service-detail.jpg",
+      "bytes": 52305,
+      "sha256": "274f8e155e4583533f8028a75bebba89ec562dfc1819ede65ce6b4bd576eb90b",
+      "git_blob_sha": "ed6ee42584f7a705e0be77a858e07ce73ee06d44",
+      "created_sha": "ed6ee42584f7a705e0be77a858e07ce73ee06d44",
+      "upload_verified": true,
+      "verification": "returned Git SHA equals locally computed git blob hash"
+    }
+  ],
+  "capturedPhase": "Precommit evidence-asset preparation; final branch/tree verification is recorded separately.",
+  "verificationMethod": "Each created GitHub blob SHA exactly matches SHA-1 of the local git blob header plus original file bytes.",
+  "directBinaryReadback": "The current connector rejects or UTF-8-decodes binary downloads; final remote tree SHA verification is used with the exact local Git blob hashes."
+}

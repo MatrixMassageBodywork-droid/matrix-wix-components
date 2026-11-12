@@ -1,0 +1,56 @@
+[
+  {
+    "arrows": 10,
+    "faq": 7,
+    "h1": 1,
+    "height": 6804.609375,
+    "logo": {
+      "bottom": 202,
+      "height": 173,
+      "left": 22,
+      "right": 368,
+      "top": 29,
+      "width": 346,
+      "x": 22,
+      "y": 29
+    },
+    "overflow": [],
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "arrows": 10,
+    "faq": 7,
+    "h1": 1,
+    "height": 7199.765625,
+    "scrollWidth": 320,
+    "width": 320
+  },
+  {
+    "arrows": 10,
+    "faq": 7,
+    "h1": 1,
+    "height": 4915.0625,
+    "logoWidth": 660,
+    "scrollWidth": 1280,
+    "width": 1280
+  },
+  {
+    "arrows": 10,
+    "faq": 7,
+    "h1": 1,
+    "height": 4941.34375,
+    "logoWidth": 660,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "arrows": 10,
+    "faq": 7,
+    "h1": 1,
+    "height": 4941.34375,
+    "logoWidth": 660,
+    "scrollWidth": 1920,
+    "width": 1920
+  }
+]

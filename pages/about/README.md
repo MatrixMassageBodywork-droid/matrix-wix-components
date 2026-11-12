@@ -1,11 +1,23 @@
-# Matrix About rebuild — review 3
+# Matrix About — published review 3
 
-Current source: `review-3`, revision `about-review-3-2026-11-12`. Existing Wix About page `yzabl`, route `/about-5`.
+**2026-11-12: PUBLISHED / VERIFIED / TESTED within the publication receipt’s scope.**
 
-Status at this source checkpoint: review 3 BUILT and STATIC CHECKED. Review 2 installed and SAVED in Wix draft, native desktop/mobile verified; review 3 removes a font-dependent decorative arrow and is being installed. Native SEO candidate is prepared; application and final evidence are recorded in the following receipt checkpoint. NOT PUBLISHED.
+Live page: https://www.matrixmassage.net/about-5
 
-Preserves the original DaNelle portrait and approved main-page Matrix logo. Uses current Square booking, owner-confirmed Facebook Page411300892070855, and Instagram@matrixmassagewi. Replaces only the two old About-local sections; shared header/footer remain protected.
+Current authority: [Publication receipt](docs/PUBLICATION_RECEIPT.md). The earlier [saved-draft receipt](docs/FINAL_RECEIPT.md) is historical.
 
-Native section `comp-mwdp095j` (`matrixAboutSection`); custom element `comp-mwdp0wlp` (`matrixAboutPage`); tag `matrix-about-page`; full-width stretch with zero margins. Full visible body is mirrored in the page's seoMarkup.
+## Current release
 
-Review3 renderer SHA-256: `83b74e29fb4ce88d946109fdb86edfad148d6df7c31ca3f3955ce80a1b325e20`. Sources and rollback baseline are retained. Publication requires separate owner approval.
+- Native Wix page `yzabl`; published body revision **1109**.
+- Design revision `about-review-3-2026-11-12`.
+- Immutable runtime commit `bf6fc01d51baf3ec797af57f17716860df7754e7`.
+- Renderer: https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@bf6fc01d51baf3ec797af57f17716860df7754e7/pages/about/review-3/renderer.js
+- Native section `comp-mwdp095j` / `matrixAboutSection`; custom element `comp-mwdp0wlp` / `matrixAboutPage`; tag `matrix-about-page`.
+
+One site publication released the approved saved body at 09:57 CST. One targeted About SEO publication released the already-approved four tags at 10:01 CST. Public body, original portrait, Square booking navigation, all seven FAQ interactions, metadata, schema and crawler-response HTML passed verification. Native mobile preview passed before publication; public mobile-UA testing was not performed.
+
+The page keeps the original portrait, approved main-page design, updated biography and supporting origin story, current Square booking, owner-confirmed Facebook Page `411300892070855`, and Instagram `matrixmassagewi`. Shared header/footer/navigation and unrelated systems were preserved.
+
+See `qa/EVIDENCE_README.md` for current evidence and clearly labeled historical diagnostics. `qa/public-seo-verification.json` records all final SEO checks passing. Original source, assets and rollback baseline remain in this folder. Final evidence commits do not change the runtime pin or require another publication.
+
+Canonical project documentation folder: `1jthRMAHOoockNm8hAVBK6mz4iaHbhNK8`.

@@ -1,0 +1,62 @@
+[
+  {
+    "userAgentLabel": "ordinary",
+    "userAgent": "Mozilla/5.0 (compatible; MatrixAboutQA/1.0)",
+    "capturedAt": "2026-11-12T16:01:15.947974+00:00",
+    "url": "https://www.matrixmassage.net/about-5?matrixSsrCheck=20261112T1601Z",
+    "httpStatus": 200,
+    "siteRevisionValues": [
+      "2"
+    ],
+    "htmlH1": [],
+    "actualHtmlRootCount": 0,
+    "seoMarkupSnippets": [
+      {
+        "scriptId": "wix-warmup-data",
+        "scriptType": "application/json",
+        "valueType": "str",
+        "sha256": "e195738430d214d323f65190725e58dff4121656c934bb461613bf227cd6724f",
+        "bytes": 13123,
+        "decodedH1": [
+          "About MatrixMassage & Bodywork"
+        ],
+        "decodedRootCount": 1,
+        "bodyContainsExpectedOwnerCopy": true,
+        "extractedFile": "qa/public-seoMarkup-0.html"
+      }
+    ],
+    "htmlSha256": "43b30e32e25b43e48d4a3c36fe040f0581a44ee3ab64d0419155dba8fabb38c0",
+    "age": "0"
+  },
+  {
+    "userAgentLabel": "Googlebot user-agent simulation",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+    "capturedAt": "2026-11-12T16:01:16.624585+00:00",
+    "url": "https://www.matrixmassage.net/about-5?matrixSsrCheck=20261112T1601Z",
+    "httpStatus": 200,
+    "siteRevisionValues": [
+      "2"
+    ],
+    "htmlH1": [
+      "About MatrixMassage & Bodywork"
+    ],
+    "actualHtmlRootCount": 1,
+    "seoMarkupSnippets": [
+      {
+        "scriptId": "wix-warmup-data",
+        "scriptType": "application/json",
+        "valueType": "str",
+        "sha256": "e195738430d214d323f65190725e58dff4121656c934bb461613bf227cd6724f",
+        "bytes": 13123,
+        "decodedH1": [
+          "About MatrixMassage & Bodywork"
+        ],
+        "decodedRootCount": 1,
+        "bodyContainsExpectedOwnerCopy": true,
+        "extractedFile": "qa/public-seoMarkup-1.html"
+      }
+    ],
+    "htmlSha256": "73862d67edccbf4a6ba7046e3e47761504399957cfa058367f06a18262e5edde",
+    "age": null
+  }
+]

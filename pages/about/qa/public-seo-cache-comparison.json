@@ -1,0 +1,218 @@
+[
+  {
+    "url": "https://www.matrixmassage.net/about-5",
+    "status": 200,
+    "finalUrl": "https://www.matrixmassage.net/about-5",
+    "capturedAt": "2026-11-12T15:58:56.944955+00:00",
+    "title": "ABOUT | Matrix Massage & Bodywork",
+    "meta": [
+      {
+        "property": "og:title",
+        "content": "ABOUT | Matrix Massage & Bodywork"
+      },
+      {
+        "name": "twitter:title",
+        "content": "ABOUT | Matrix Massage & Bodywork"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Who owns Matrix Massage in Salem, WI?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Matrix Massage is independently owned by a licensed massage therapist dedicated to personalized, science-based care. The business is rooted in local wellness and client-centered service."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Matrix Massage locally owned?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, Matrix Massage is a woman-owned, locally operated wellness clinic based in Salem, Wisconsin, offering customized massage and holistic therapy services to the community."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What makes Matrix Massage different?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Matrix Massage combines therapeutic bodywork with science-backed wellness technologies like red light therapy, lymphatic drainage, and magnesium protocols in a calming, results-driven environment."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do the therapists have advanced training?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, therapists at Matrix Massage have advanced training in multiple modalities including manual lymphatic drainage, muscle scraping, cupping, and red light therapy applications."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Where is Matrix Massage located?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Matrix Massage is located at 24804 75th St, Salem, WI 53168. The clinic is easily accessible from surrounding areas including Kenosha and Pleasant Prairie."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you serve clients from Pleasant Prairie, Kenosha, and Antioch?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, we regularly welcome clients from Pleasant Prairie, Kenosha, and Antioch, IL seeking therapeutic massage and integrative wellness services."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I book a massage with Matrix Massage in Salem, WI?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You can book online by visiting www.massagebook.com/me/danelle-borglin or text 262-939-9325 to request an appointment. We offer flexible scheduling for new and returning clients."
+            }
+          }
+        ]
+      }
+    ],
+    "htmlBytes": 831683,
+    "htmlSha256": "5e0d280853a09739fd2fefe741b403df6cc8a15e1c824528886bd2c1c397309f",
+    "headers": {
+      "date": "Thu, 12 Nov 2026 15:58:56 GMT",
+      "age": "66",
+      "cache-control": "private,max-age=0,must-revalidate",
+      "etag": "W/\"1df95cb91a3dc6a38a5d9fe96a0410cd\"",
+      "x-wix-request-id": "1794499136.74013101251496"
+    },
+    "siteRevisionMatches": [
+      "nd\":\"wix\",\"host\":\"VIEWER\",\"bsi\":\"\",\"consentPolicy\":{},\"consentPolicyHeader\":{},\"siteRevision\":\"1109\",\"renderingFlow\":\"NONE\",\"language\":\"en\",\"locale\":\"en-us\"},\"interactionSampleRatio\":0.01,\"accessTokensUrl\":\"https",
+      "17-4680-959b-a24ebe7370f6\",\"externalBaseUrl\":\"https:\\/\\/www.matrixmassage.net\",\"siteRevision\":1109,\"siteType\":\"UGC\",\"dc\":\"virginia-usercode\",\"isResponsive\":false,\"editorName\":\"Unknown\",\"sessionId\":\"0dbad701-6026-",
+      "dgetStructureBuilderVersion=1.251.0&siteId=a276c9bf-bc17-4680-959b-a24ebe7370f6&siteRevision=1109&staticHTMLComponentUrl=https%3A%2F%2Fwww-matrixmassage-net.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=des",
+      "dgetStructureBuilderVersion=1.251.0&siteId=a276c9bf-bc17-4680-959b-a24ebe7370f6&siteRevision=1109&staticHTMLComponentUrl=https%3A%2F%2Fwww-matrixmassage-net.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=des",
+      "dgetStructureBuilderVersion=1.251.0&siteId=a276c9bf-bc17-4680-959b-a24ebe7370f6&siteRevision=1109&staticHTMLComponentUrl=https%3A%2F%2Fwww-matrixmassage-net.filesusr.com%2F&viewMode=desktop\" id=\"platform_masterPa",
+      "dgetStructureBuilderVersion=1.251.0&siteId=a276c9bf-bc17-4680-959b-a24ebe7370f6&siteRevision=1109&staticHTMLComponentUrl=https%3A%2F%2Fwww-matrixmassage-net.filesusr.com%2F&viewMode=desktop\" id=\"platform_yzabl\" a",
+      "siteview\",\"gridAppId\":\"d480e720-c0d6-47ce-b90f-7743add606f4\",\"viewMode\":\"site\",\"siteRevision\":1109},\"environmentWixCodeSdk\":{},\"environment\":{\"editorType\":\"\",\"domain\":\"matrixmassage.net\",\"previewMode\":false,\"isBu",
+      "ess\\/site-sdk-server\\/v1\\/style\",\"siteDisplayName\":\"Matrix Massage & Bodywork\",\"siteRevision\":1109,\"regionalSettings\":\"en-us\",\"language\":\"en\",\"currency\":\"USD\",\"mainPageId\":\"ghmgt\",\"pageIdToPrefix\":{\"i3hqi\":\"offer",
+      "010-d1f3-4080-a98e-3d82976a671d&metaSiteId=2b9fa616-1dde-46d3-a1a3-d715ebc1d57d&siteRevision=1335\",\"apiPlatformizedBaseUrl\":\"https:\\/\\/www.wix.com\\/_api\\/communities-blog-api-web\",\"mediaVideoHost\":\"video.wixstati",
+      "8f2-9695-4f3f-b258-5282eeff4580&metaSiteId=8b2114a9-339e-4562-bdc4-01621e2f84cb&siteRevision=440}\",\"serviceListStaticsBaseUrl\":\"https:\\/\\/static.parastorage.com\\/services\\/bookings-widget\\/1.5494.0\\/\",\"staticEdit",
+      "4ac-99e9-4626-b905-ff10071df796&metaSiteId=4a8777cf-00e8-44ee-95cd-d6abc09dc8e4&siteRevision=1358\",\"blocks_devSiteUrl\":\"https:\\/\\/mnmteam.editorx.io\\/vxgooi3j6xm5ykyver02\",\"blocks_widgetManifestsUrl\":\"\\/manifests",
+      "312-1151-4ed0-8a9f-f062a56f6b7d&metaSiteId=b746a535-5011-4a95-87e4-c230005eae45&siteRevision=132\",\"blocks_devSiteUrl\":\"https:\\/\\/jurijm.editorx.io\\/site-heyaey4jx1ucay8\",\"blocks_widgetManifestsUrl\":\"\\/manifests\\/"
+    ],
+    "bodyRootPresent": true,
+    "newRendererCommitPresent": false,
+    "newOwnerCopyPresent": true,
+    "seoMarkupOccurrences": 1
+  },
+  {
+    "url": "https://www.matrixmassage.net/about-5?matrixVerify=20261112T1559Z",
+    "status": 200,
+    "finalUrl": "https://www.matrixmassage.net/about-5?matrixVerify=20261112T1559Z",
+    "capturedAt": "2026-11-12T15:58:58.245040+00:00",
+    "title": "ABOUT | Matrix Massage & Bodywork",
+    "meta": [
+      {
+        "property": "og:title",
+        "content": "ABOUT | Matrix Massage & Bodywork"
+      },
+      {
+        "name": "twitter:title",
+        "content": "ABOUT | Matrix Massage & Bodywork"
+      }
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Who owns Matrix Massage in Salem, WI?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Matrix Massage is independently owned by a licensed massage therapist dedicated to personalized, science-based care. The business is rooted in local wellness and client-centered service."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is Matrix Massage locally owned?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, Matrix Massage is a woman-owned, locally operated wellness clinic based in Salem, Wisconsin, offering customized massage and holistic therapy services to the community."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What makes Matrix Massage different?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Matrix Massage combines therapeutic bodywork with science-backed wellness technologies like red light therapy, lymphatic drainage, and magnesium protocols in a calming, results-driven environment."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do the therapists have advanced training?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, therapists at Matrix Massage have advanced training in multiple modalities including manual lymphatic drainage, muscle scraping, cupping, and red light therapy applications."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Where is Matrix Massage located?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Matrix Massage is located at 24804 75th St, Salem, WI 53168. The clinic is easily accessible from surrounding areas including Kenosha and Pleasant Prairie."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Do you serve clients from Pleasant Prairie, Kenosha, and Antioch?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, we regularly welcome clients from Pleasant Prairie, Kenosha, and Antioch, IL seeking therapeutic massage and integrative wellness services."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I book a massage with Matrix Massage in Salem, WI?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You can book online by visiting www.massagebook.com/me/danelle-borglin or text 262-939-9325 to request an appointment. We offer flexible scheduling for new and returning clients."
+            }
+          }
+        ]
+      }
+    ],
+    "htmlBytes": 831820,
+    "htmlSha256": "0f3b847fe9e637e5f6ad5ecbdf233f7ba69465a223baa5b539a2f7b91607588d",
+    "headers": {
+      "date": "Thu, 12 Nov 2026 15:58:57 GMT",
+      "age": "0",
+      "cache-control": "private,max-age=0,must-revalidate",
+      "etag": "W/\"1e0f3062481738f169305beeab4e4f82\"",
+      "x-wix-request-id": "1794499136.73626176111502"
+    },
+    "siteRevisionMatches": [
+      "nd\":\"wix\",\"host\":\"VIEWER\",\"bsi\":\"\",\"consentPolicy\":{},\"consentPolicyHeader\":{},\"siteRevision\":\"1109\",\"renderingFlow\":\"NONE\",\"language\":\"en\",\"locale\":\"en-us\"},\"interactionSampleRatio\":0.01,\"accessTokensUrl\":\"https",
+      "17-4680-959b-a24ebe7370f6\",\"externalBaseUrl\":\"https:\\/\\/www.matrixmassage.net\",\"siteRevision\":1109,\"siteType\":\"UGC\",\"dc\":\"virginia-usercode\",\"isResponsive\":false,\"editorName\":\"Unknown\",\"sessionId\":\"87b52c15-18da-",
+      "dgetStructureBuilderVersion=1.251.0&siteId=a276c9bf-bc17-4680-959b-a24ebe7370f6&siteRevision=1109&staticHTMLComponentUrl=https%3A%2F%2Fwww-matrixmassage-net.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=des",
+      "dgetStructureBuilderVersion=1.251.0&siteId=a276c9bf-bc17-4680-959b-a24ebe7370f6&siteRevision=1109&staticHTMLComponentUrl=https%3A%2F%2Fwww-matrixmassage-net.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=des",
+      "dgetStructureBuilderVersion=1.251.0&siteId=a276c9bf-bc17-4680-959b-a24ebe7370f6&siteRevision=1109&staticHTMLComponentUrl=https%3A%2F%2Fwww-matrixmassage-net.filesusr.com%2F&viewMode=desktop\" id=\"platform_masterPa",
+      "dgetStructureBuilderVersion=1.251.0&siteId=a276c9bf-bc17-4680-959b-a24ebe7370f6&siteRevision=1109&staticHTMLComponentUrl=https%3A%2F%2Fwww-matrixmassage-net.filesusr.com%2F&viewMode=desktop\" id=\"platform_yzabl\" a",
+      "siteview\",\"gridAppId\":\"d480e720-c0d6-47ce-b90f-7743add606f4\",\"viewMode\":\"site\",\"siteRevision\":1109},\"environmentWixCodeSdk\":{},\"environment\":{\"editorType\":\"\",\"domain\":\"matrixmassage.net\",\"previewMode\":false,\"isBu",
+      "ess\\/site-sdk-server\\/v1\\/style\",\"siteDisplayName\":\"Matrix Massage & Bodywork\",\"siteRevision\":1109,\"regionalSettings\":\"en-us\",\"language\":\"en\",\"currency\":\"USD\",\"mainPageId\":\"ghmgt\",\"pageIdToPrefix\":{\"i3hqi\":\"offer",
+      "010-d1f3-4080-a98e-3d82976a671d&metaSiteId=2b9fa616-1dde-46d3-a1a3-d715ebc1d57d&siteRevision=1335\",\"apiPlatformizedBaseUrl\":\"https:\\/\\/www.wix.com\\/_api\\/communities-blog-api-web\",\"mediaVideoHost\":\"video.wixstati",
+      "8f2-9695-4f3f-b258-5282eeff4580&metaSiteId=8b2114a9-339e-4562-bdc4-01621e2f84cb&siteRevision=440}\",\"serviceListStaticsBaseUrl\":\"https:\\/\\/static.parastorage.com\\/services\\/bookings-widget\\/1.5494.0\\/\",\"staticEdit",
+      "4ac-99e9-4626-b905-ff10071df796&metaSiteId=4a8777cf-00e8-44ee-95cd-d6abc09dc8e4&siteRevision=1358\",\"blocks_devSiteUrl\":\"https:\\/\\/mnmteam.editorx.io\\/vxgooi3j6xm5ykyver02\",\"blocks_widgetManifestsUrl\":\"\\/manifests",
+      "312-1151-4ed0-8a9f-f062a56f6b7d&metaSiteId=b746a535-5011-4a95-87e4-c230005eae45&siteRevision=132\",\"blocks_devSiteUrl\":\"https:\\/\\/jurijm.editorx.io\\/site-heyaey4jx1ucay8\",\"blocks_widgetManifestsUrl\":\"\\/manifests\\/"
+    ],
+    "bodyRootPresent": true,
+    "newRendererCommitPresent": false,
+    "newOwnerCopyPresent": true,
+    "seoMarkupOccurrences": 1
+  }
+]

@@ -1,0 +1,243 @@
+{
+  "canonical": "https://www.matrixmassage.net/about-5",
+  "capturedAt": "2026-11-12T16:02:41.193Z",
+  "clientWidth": 1348,
+  "description": "Meet DaNelle, licensed massage therapist and owner of Matrix Massage & Bodywork in Salem, WI. Discover our story, care philosophy, and spa services.",
+  "faqCount": 7,
+  "h1Count": 1,
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "https://www.matrixmassage.net/about-5#webpage",
+          "@type": "AboutPage",
+          "about": [
+            {
+              "@id": "https://www.matrixmassage.net/#business"
+            },
+            {
+              "@id": "https://www.matrixmassage.net/about-5#danelle-borglin"
+            }
+          ],
+          "breadcrumb": {
+            "@id": "https://www.matrixmassage.net/about-5#breadcrumb"
+          },
+          "description": "Meet DaNelle, licensed massage therapist and owner of Matrix Massage & Bodywork in Salem, WI. Discover our story, care philosophy, and spa services.",
+          "inLanguage": "en-US",
+          "mainEntity": {
+            "@id": "https://www.matrixmassage.net/#business"
+          },
+          "name": "About Matrix Massage & Bodywork | Salem, WI",
+          "primaryImageOfPage": {
+            "@type": "ImageObject",
+            "caption": "DaNelle Borglin, owner and licensed massage therapist at Matrix Massage & Bodywork in Salem, Wisconsin",
+            "url": "https://static.wixstatic.com/media/e4cc43_3cc3a5eeb061404aac3c6714d22cdb8f~mv2.jpg"
+          },
+          "url": "https://www.matrixmassage.net/about-5"
+        },
+        {
+          "@id": "https://www.matrixmassage.net/about-5#danelle-borglin",
+          "@type": "Person",
+          "description": "DaNelle Borglin is a Wisconsin licensed massage therapist and the owner of Matrix Massage & Bodywork in Salem, Wisconsin.",
+          "familyName": "Borglin",
+          "givenName": "DaNelle",
+          "image": "https://static.wixstatic.com/media/e4cc43_3cc3a5eeb061404aac3c6714d22cdb8f~mv2.jpg",
+          "jobTitle": "Owner and Licensed Massage Therapist",
+          "name": "DaNelle Borglin",
+          "subjectOf": {
+            "@id": "https://www.matrixmassage.net/about-5#webpage"
+          },
+          "url": "https://www.matrixmassage.net/about-5#ma-meet",
+          "worksFor": {
+            "@id": "https://www.matrixmassage.net/#business"
+          }
+        },
+        {
+          "@id": "https://www.matrixmassage.net/#business",
+          "@type": "HealthAndBeautyBusiness",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "US",
+            "addressLocality": "Salem",
+            "addressRegion": "WI",
+            "postalCode": "53168",
+            "streetAddress": "24804 75th St"
+          },
+          "areaServed": [
+            "Salem, Wisconsin",
+            "Salem Lakes, Wisconsin",
+            "Paddock Lake, Wisconsin",
+            "Bristol, Wisconsin",
+            "Pleasant Prairie, Wisconsin",
+            "Twin Lakes, Wisconsin",
+            "Trevor, Wisconsin",
+            "Kenosha, Wisconsin",
+            "Burlington, Wisconsin",
+            "Union Grove, Wisconsin",
+            "Genoa City, Wisconsin",
+            "Antioch, Illinois"
+          ],
+          "description": "Independently owned massage, spa, beauty, and wellness studio in Salem, Wisconsin.",
+          "hasMap": "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+          "logo": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+          "name": "Matrix Massage & Bodywork",
+          "sameAs": [
+            "https://www.facebook.com/411300892070855",
+            "https://www.instagram.com/matrixmassagewi/"
+          ],
+          "subjectOf": {
+            "@id": "https://www.matrixmassage.net/about-5#webpage"
+          },
+          "telephone": "+12629399325",
+          "url": "https://www.matrixmassage.net/"
+        },
+        {
+          "@id": "https://www.matrixmassage.net/about-5#breadcrumb",
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "item": "https://www.matrixmassage.net/",
+              "name": "Home",
+              "position": 1
+            },
+            {
+              "@type": "ListItem",
+              "item": "https://www.matrixmassage.net/about-5",
+              "name": "About Matrix",
+              "position": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matrix Massage & Bodywork is independently owned by DaNelle Borglin, a Wisconsin licensed massage therapist. The studio is located in Salem, Wisconsin."
+          },
+          "name": "Who owns Matrix Massage & Bodywork?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "After more than 15 years in the corporate world, including a decade running her own headhunting firm, DaNelle began pursuing a different path during the pandemic. Her experience with stress, tension, and burnout led her toward fitness, wellness, and therapeutic bodywork. That experience continues to inform her personal approach to care."
+          },
+          "name": "What brought DaNelle into massage therapy?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matrix offers therapeutic massage and bodywork, custom facials, Japanese Head Spa, lash extensions, face and body waxing, red light therapy, and infrared sauna. Explore the service pages for details and the current booking menu for available appointments."
+          },
+          "name": "What services does the studio offer today?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Your visit begins with a conversation about your goals, preferences, and relevant health or skin considerations for the service you chose. Ask questions and let your provider know what feels comfortable. If you are unsure which service to book, text 262-939-9325 for help choosing a starting point."
+          },
+          "name": "What should I expect at my first visit?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matrix Massage & Bodywork is at 24804 75th St, Salem, WI 53168. The studio welcomes guests from Salem Lakes, Paddock Lake, Bristol, Pleasant Prairie, Twin Lakes, Trevor, Kenosha, Burlington, Union Grove, Genoa City, and Antioch, Illinois. All appointments are provided at this one Salem location."
+          },
+          "name": "Where is Matrix, and which communities does it serve?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Use the online booking menu to choose a service and view current availability, or text 262-939-9325. Online scheduling is handled through Square Appointments."
+          },
+          "name": "How do I book an appointment?"
+        },
+        {
+          "@type": "Question",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Find the studio on Facebook as Matrix Massage & Bodywork – Wisconsin and on Instagram as @matrixmassagewi."
+          },
+          "name": "Where can I follow Matrix online?"
+        }
+      ]
+    }
+  ],
+  "portrait": [
+    {
+      "complete": true,
+      "naturalHeight": 785,
+      "naturalWidth": 633,
+      "src": "https://static.wixstatic.com/media/e4cc43_3cc3a5eeb061404aac3c6714d22cdb8f~mv2.jpg"
+    }
+  ],
+  "robots": null,
+  "scrollWidth": 1348,
+  "social": [
+    {
+      "content": "About Matrix Massage & Bodywork | Salem, WI",
+      "name": "og:title"
+    },
+    {
+      "content": "Meet DaNelle, licensed massage therapist and owner of Matrix Massage & Bodywork in Salem, WI. Discover our story, care philosophy, and spa services.",
+      "name": "og:description"
+    },
+    {
+      "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg",
+      "name": "og:image"
+    },
+    {
+      "content": "2500",
+      "name": "og:image:width"
+    },
+    {
+      "content": "1330",
+      "name": "og:image:height"
+    },
+    {
+      "content": "https://www.matrixmassage.net/about-5",
+      "name": "og:url"
+    },
+    {
+      "content": "Matrix Massage & Bodywork",
+      "name": "og:site_name"
+    },
+    {
+      "content": "website",
+      "name": "og:type"
+    },
+    {
+      "content": "summary_large_image",
+      "name": "twitter:card"
+    },
+    {
+      "content": "About Matrix Massage & Bodywork | Salem, WI",
+      "name": "twitter:title"
+    },
+    {
+      "content": "Meet DaNelle, licensed massage therapist and owner of Matrix Massage & Bodywork in Salem, WI. Discover our story, care philosophy, and spa services.",
+      "name": "twitter:description"
+    },
+    {
+      "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg",
+      "name": "twitter:image"
+    }
+  ],
+  "source": [
+    "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@bf6fc01d51baf3ec797af57f17716860df7754e7/pages/about/review-3/renderer.js"
+  ],
+  "title": "About Matrix Massage & Bodywork | Salem, WI",
+  "url": "https://www.matrixmassage.net/about-5#ma-meet"
+}

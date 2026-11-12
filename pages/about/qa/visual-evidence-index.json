@@ -1,0 +1,74 @@
+[
+  {
+    "path": "qa/evidence-images/native-about-desktop-final.jpg",
+    "description": "Final review-3 native desktop; service links and drawn arrows; original shared header.",
+    "bytes": 101246,
+    "sha256": "7d85886db9d9767d5f77653f6da87eda314f8739fc3ad245735d9d96061348cf"
+  },
+  {
+    "path": "qa/evidence-images/native-about-mobile-final.jpg",
+    "description": "Final review-3 native Wix 320px mobile preview; hero.",
+    "bytes": 56238,
+    "sha256": "e9fc972c14cd060c08f1e9f94e095da850612796c242a2e43174a41c11e17a6e"
+  },
+  {
+    "path": "qa/evidence-images/about-introduction-preview.jpg",
+    "description": "Final review-3 standalone design proof; unchanged original portrait and biography.",
+    "bytes": 107987,
+    "sha256": "1fdc2660081e4383d4c17e13432ab4e337bca71fe2b79f974c8fd9cd0f4b2154"
+  },
+  {
+    "path": "qa/evidence-images/proof-320-service-detail.jpg",
+    "description": "320px proof; service detail, not full page.",
+    "bytes": 48988,
+    "sha256": "c69f1fa2572a5e4c5afda749ca821868795f141b03cdc113bd0ce936b55f5d3b"
+  },
+  {
+    "path": "qa/evidence-images/proof-390-service-detail.jpg",
+    "description": "390px proof; care/service detail, not top of page.",
+    "bytes": 52305,
+    "sha256": "274f8e155e4583533f8028a75bebba89ec562dfc1819ede65ce6b4bd576eb90b"
+  },
+  {
+    "path": "qa/evidence-images/proof-1280-hero.jpg",
+    "description": "1280px proof; full hero width.",
+    "bytes": 83097,
+    "sha256": "082bac26709678283b1672c983bff5e1db150f3c9f660c5e4bcf957c1a457217"
+  },
+  {
+    "path": "qa/evidence-images/proof-1440-hero-viewport.jpg",
+    "description": "1440px internal viewport; screenshot limited to available browser viewport.",
+    "bytes": 84405,
+    "sha256": "7722c929e6105e1ddd2dfd108f95d25e84fdfb924ee0bedd6ed3901e2c5c3a97"
+  },
+  {
+    "path": "qa/evidence-images/proof-1920-hero-viewport.jpg",
+    "description": "1920px internal viewport; screenshot limited to available browser viewport.",
+    "bytes": 80850,
+    "sha256": "b78423701d7c8dd700610647d6d2272e4dd6326b83e68a45ad41cd76464eaf81"
+  },
+  {
+    "path": "qa/evidence-images/about-live-portrait.jpg",
+    "description": "Permanent public About page after revision 1109: unchanged original portrait and owner introduction; desktop screenshot.",
+    "bytes": 119802,
+    "sha256": "458c6b40b382dd7d30ff62b30ce9c1e2671e1bd314a212d66660edea556be2aa"
+  },
+  {
+    "path": "qa/evidence-images/about-live-faqs-open.jpg",
+    "description": "Permanent public About page with all seven FAQ controls expanded; desktop body and section-flow evidence.",
+    "bytes": 87902,
+    "sha256": "0a2d0f120c244ced19375a57a84086cb8216f8a6b34e68cbf2779937a00c2e9a"
+  },
+  {
+    "path": "qa/evidence-images/about-live-square-booking.jpg",
+    "description": "Current Square booking menu reached from the public About booking CTA; no appointment was submitted.",
+    "bytes": 91762,
+    "sha256": "18590f6a6be8d361af9e70e9e14ee25cbe78866889563558591e68ac90dab7ac"
+  },
+  {
+    "path": "qa/evidence-images/about-published-history.jpg",
+    "description": "Wix Site History showing the published native site revision 1109; confirms publication state.",
+    "bytes": 144969,
+    "sha256": "a6df6f1066f4f5015ac9341bbb473403cd4f86b55e23bbc53a6ef146f4bfeebc"
+  }
+]

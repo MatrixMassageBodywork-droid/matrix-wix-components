@@ -1,0 +1,43 @@
+{
+  "status": "READY_TO_PUBLISH",
+  "ownerApproval": "Perfect. Please publish.",
+  "siteId": "cdec8df6-d518-4859-9f1e-f06bf5346d41",
+  "pageId": "yzabl",
+  "runtimeSourceCommit": "bf6fc01d51baf3ec797af57f17716860df7754e7",
+  "lastPublishedRevisionBefore": 1103,
+  "savedRevisionToPublish": 1109,
+  "historyObserved": [
+    {
+      "timeChicago": "2026-11-12 09:41",
+      "status": "Saved by site owner"
+    },
+    {
+      "timeChicago": "2026-11-12 09:38",
+      "status": "Saved by site owner"
+    },
+    {
+      "timeChicago": "2026-11-12 09:27",
+      "status": "Saved by site owner"
+    },
+    {
+      "timeChicago": "2026-11-12 09:24",
+      "status": "Saved by site owner"
+    },
+    {
+      "timeChicago": "2026-11-12 09:21",
+      "status": "Saved by site owner"
+    },
+    {
+      "timeChicago": "2026-11-12 09:09",
+      "status": "Saved by site owner"
+    },
+    {
+      "timeChicago": "2026-11-11 14:08",
+      "status": "Published by site owner"
+    }
+  ],
+  "scopeAssessment": "Six saved versions after the last published version correspond to this session About-only installation/save checkpoints. No additional later or unexplained saved version was observed. Shared header/footer and HOME entries were not edited in this task.",
+  "nativeReview3Evidence": "native-review-3-readback.json",
+  "nativeSeoEvidence": "native-seo-draft-verification.json",
+  "releaseMethod": "Supported Wix Publish Site API; exactly one request; inspect persisted state before any retry."
+}

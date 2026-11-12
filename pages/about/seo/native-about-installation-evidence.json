@@ -1,0 +1,22 @@
+{
+  "siteId": "cdec8df6-d518-4859-9f1e-f06bf5346d41",
+  "pageId": "yzabl",
+  "revision": "about-review-3-2026-11-12",
+  "nativeElementId": "matrixAboutPage",
+  "nativeTagName": "matrix-about-page",
+  "bodySha256": "e195738430d214d323f65190725e58dff4121656c934bb461613bf227cd6724f",
+  "cssSha256": "4a6d599767c9df5f6837ec5d1d69e6ec0641574efcb96db0e29b35526eda92cb",
+  "rendererSha256": "83b74e29fb4ce88d946109fdb86edfad148d6df7c31ca3f3955ce80a1b325e20",
+  "seoSnippetSha256": "4fe29ea47fd4a9de8b97b43e07778d62758cb6d46db657c8822901184f956e2b",
+  "faqSha256": "abfd5afe3ceda52a284b3cdcbae511a4b7360b03a2ab6431cc56b754038fe1b3",
+  "status": "SAVED NATIVE WIX DRAFT; BODY, CODE, FAQ AND SOURCE READBACK VERIFIED; NOT PUBLISHED",
+  "verifiedAt": "2026-11-12T15:42:04.442064+00:00",
+  "evidenceReceipt": "pages/about/qa/native-review-3-readback.json",
+  "sourceCommit": "bf6fc01d51baf3ec797af57f17716860df7754e7",
+  "immutableSourceUrl": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@bf6fc01d51baf3ec797af57f17716860df7754e7/pages/about/review-3/renderer.js",
+  "nativeDraftSaved": true,
+  "nativeBodyReadbackVerified": true,
+  "nativeSeoMarkupReadbackVerified": true,
+  "nativeFaqReadbackVerified": true,
+  "nativeSourceTagReadbackVerified": true
+}

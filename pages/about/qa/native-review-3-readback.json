@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-11-12T15:42:04.442064+00:00",
+  "revision": "about-review-3-2026-11-12",
+  "nativeBodyNormalizedTokenExact": true,
+  "nativeFaqExact": true,
+  "nativePageCodeByteExact": true,
+  "codeSha256": "68493dfb6b4f2bf28c121027f3facefbce689002b80f8632780d5182205170d3",
+  "nativeTag": "MATRIX-ABOUT-PAGE",
+  "rendererSource": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@bf6fc01d51baf3ec797af57f17716860df7754e7/pages/about/review-3/renderer.js",
+  "oneH1": true,
+  "arrowCount": 10,
+  "oldArrowGlyphs": false,
+  "draftSaved": true,
+  "published": false
+}

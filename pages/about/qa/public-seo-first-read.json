@@ -1,0 +1,160 @@
+{
+  "capturedAt": "2026-11-12T15:57:53.662827+00:00",
+  "status": "PUBLIC SEO CHECKS REQUIRE REVIEW",
+  "target": "https://www.matrixmassage.net/about-5",
+  "expectedRevision": "about-review-3-2026-11-12",
+  "expectedSourceCommit": "bf6fc01d51baf3ec797af57f17716860df7754e7",
+  "httpStatus": 200,
+  "finalUrl": "https://www.matrixmassage.net/about-5",
+  "htmlBytes": 831683,
+  "htmlSha256": "5e0d280853a09739fd2fefe741b403df6cc8a15e1c824528886bd2c1c397309f",
+  "checks": {
+    "http200": true,
+    "permanentUrlPreserved": true,
+    "titleMatches": false,
+    "descriptionMatches": false,
+    "canonicalMatches": true,
+    "noIndexingBlockInHeadOrHeaders": true,
+    "ogTitleMatches": false,
+    "ogDescriptionMatches": false,
+    "twitterTitleMatches": false,
+    "twitterDescriptionMatches": false,
+    "socialImagePreserved": true,
+    "jsonLdParses": true,
+    "singleFaqPage": true,
+    "faqSchemaExact": false,
+    "aboutGraphExact": false,
+    "oneH1": false,
+    "h1Matches": false,
+    "serverRenderedBodyFound": false,
+    "serverRenderedBodyTextExact": false,
+    "serverRenderedFaqExact": false,
+    "noOldBookingOrInstagramInBody": true,
+    "rendererSourceCommitPresent": false,
+    "robotsAllowsSearchCrawlers": true
+  },
+  "failures": [
+    "titleMatches",
+    "descriptionMatches",
+    "ogTitleMatches",
+    "ogDescriptionMatches",
+    "twitterTitleMatches",
+    "twitterDescriptionMatches",
+    "faqSchemaExact",
+    "aboutGraphExact",
+    "oneH1",
+    "h1Matches",
+    "serverRenderedBodyFound",
+    "serverRenderedBodyTextExact",
+    "serverRenderedFaqExact",
+    "rendererSourceCommitPresent"
+  ],
+  "unverified": [],
+  "title": "ABOUT | Matrix Massage & Bodywork",
+  "description": [],
+  "canonical": [
+    "https://www.matrixmassage.net/about-5"
+  ],
+  "robotsMeta": [],
+  "xRobotsTag": "",
+  "robotsTxt": {
+    "status": 200,
+    "url": "https://www.matrixmassage.net/robots.txt",
+    "sha256": "dfabe256b4a49f13d949ffa1009dc3fcb71b4ab68e503188a00fdb3be98c874f",
+    "aboutAllowed": {
+      "Googlebot": true,
+      "Bingbot": true,
+      "OAI-SearchBot": true,
+      "ChatGPT-User": true
+    }
+  },
+  "social": {
+    "og:title": [
+      "ABOUT | Matrix Massage & Bodywork"
+    ],
+    "og:description": [],
+    "og:image": [
+      "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+    ],
+    "twitter:title": [
+      "ABOUT | Matrix Massage & Bodywork"
+    ],
+    "twitter:description": [],
+    "twitter:image": [
+      "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+    ]
+  },
+  "schema": [
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Who owns Matrix Massage in Salem, WI?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matrix Massage is independently owned by a licensed massage therapist dedicated to personalized, science-based care. The business is rooted in local wellness and client-centered service."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Matrix Massage locally owned?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Matrix Massage is a woman-owned, locally operated wellness clinic based in Salem, Wisconsin, offering customized massage and holistic therapy services to the community."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What makes Matrix Massage different?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matrix Massage combines therapeutic bodywork with science-backed wellness technologies like red light therapy, lymphatic drainage, and magnesium protocols in a calming, results-driven environment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do the therapists have advanced training?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, therapists at Matrix Massage have advanced training in multiple modalities including manual lymphatic drainage, muscle scraping, cupping, and red light therapy applications."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where is Matrix Massage located?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Matrix Massage is located at 24804 75th St, Salem, WI 53168. The clinic is easily accessible from surrounding areas including Kenosha and Pleasant Prairie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you serve clients from Pleasant Prairie, Kenosha, and Antioch?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we regularly welcome clients from Pleasant Prairie, Kenosha, and Antioch, IL seeking therapeutic massage and integrative wellness services."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I book a massage with Matrix Massage in Salem, WI?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can book online by visiting www.massagebook.com/me/danelle-borglin or text 262-939-9325 to request an appointment. We offer flexible scheduling for new and returning clients."
+          }
+        }
+      ]
+    }
+  ],
+  "schemaParseErrors": [],
+  "visibleH1": [],
+  "visibleFaq": [],
+  "serverRenderedRootCount": 0,
+  "bodyTextSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "expectedBodyTextSha256": "9b4d473b1be3ddad41fb00a5cda2ae207e4077f4532a5ee871e43a9bb6d4b714",
+  "bodyLinks": [],
+  "bodyImages": [],
+  "scope": "Read-only public HTTP HTML and robots.txt check. No Wix writes or publication. This verifies crawl directives as served, not actual Google indexing or rankings. Native/browser layout QA is separate."
+}

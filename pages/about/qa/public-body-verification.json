@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "bodyTokensExact": true,
+  "actualTokenCount": 446,
+  "expectedTokenCount": 446,
+  "h1Count": 1,
+  "faqCount": 7,
+  "closedFaqCount": 7,
+  "arrows": 10,
+  "noHorizontalOverflow": true,
+  "sourceCommitPresent": true,
+  "sha256ObservedHtml": "471c5e29108baa6be9e89424d64dd96b2916238afa3e977cca881de7392c3f9b"
+}

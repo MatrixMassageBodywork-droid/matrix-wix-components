@@ -1,0 +1,95 @@
+{
+  "capturedAt": "2026-11-12T15:43:23.614Z",
+  "status": "DRAFT_SAVED_ACCEPTED_PAYLOAD_VERIFIED",
+  "pageId": "yzabl",
+  "pageUrl": "https://www.matrixmassage.net/about-5",
+  "revision": "about-review-3-2026-11-12",
+  "mutationCount": 1,
+  "writeMethod": "PATCH",
+  "fieldMask": "tags",
+  "publishRequested": false,
+  "published": false,
+  "acceptedPayloadMatches": true,
+  "protectedResolvedTagsUnchanged": true,
+  "nativeTagCount": 4,
+  "schema": [
+    {
+      "meta": {
+        "schemaType": "Bp05JGMH",
+        "displayName": "FAQ Schema Markup"
+      },
+      "type": "FAQPage",
+      "graphTypes": null,
+      "faqCount": 7,
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "meta": null,
+      "type": null,
+      "graphTypes": [
+        "AboutPage",
+        "Person",
+        "HealthAndBeautyBusiness",
+        "BreadcrumbList"
+      ],
+      "faqCount": null,
+      "custom": false,
+      "disabled": false
+    }
+  ],
+  "title": [
+    {
+      "value": "About Matrix Massage & Bodywork | Salem, WI",
+      "source": "TAG_SOURCE_HOST_PAGE"
+    }
+  ],
+  "description": [
+    {
+      "value": "Meet DaNelle, licensed massage therapist and owner of Matrix Massage & Bodywork in Salem, WI. Discover our story, care philosophy, and spa services.",
+      "source": "TAG_SOURCE_HOST_PAGE"
+    }
+  ],
+  "socialCheck": {
+    "og:title": {
+      "expected": "About Matrix Massage & Bodywork | Salem, WI",
+      "actual": "About Matrix Massage & Bodywork | Salem, WI",
+      "matches": true
+    },
+    "og:description": {
+      "expected": "Meet DaNelle, licensed massage therapist and owner of Matrix Massage & Bodywork in Salem, WI. Discover our story, care philosophy, and spa services.",
+      "actual": "Meet DaNelle, licensed massage therapist and owner of Matrix Massage & Bodywork in Salem, WI. Discover our story, care philosophy, and spa services.",
+      "matches": true
+    },
+    "twitter:title": {
+      "expected": "About Matrix Massage & Bodywork | Salem, WI",
+      "actual": "About Matrix Massage & Bodywork | Salem, WI",
+      "matches": true
+    },
+    "twitter:description": {
+      "expected": "Meet DaNelle, licensed massage therapist and owner of Matrix Massage & Bodywork in Salem, WI. Discover our story, care philosophy, and spa services.",
+      "actual": "Meet DaNelle, licensed massage therapist and owner of Matrix Massage & Bodywork in Salem, WI. Discover our story, care philosophy, and spa services.",
+      "matches": true
+    }
+  },
+  "socialImage": [
+    {
+      "value": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg",
+      "source": "TAG_SOURCE_DEFAULT_PATTERN"
+    }
+  ],
+  "twitterImage": [
+    {
+      "value": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg",
+      "source": "TAG_SOURCE_DEFAULT_PATTERN"
+    }
+  ],
+  "canonical": [
+    {
+      "value": "https://www.matrixmassage.net/about-5",
+      "source": "TAG_SOURCE_DEFAULT_PATTERN"
+    }
+  ],
+  "robots": [],
+  "verificationBasis": "Accepted Set response; no second Get, no retry, no publication."
+}
