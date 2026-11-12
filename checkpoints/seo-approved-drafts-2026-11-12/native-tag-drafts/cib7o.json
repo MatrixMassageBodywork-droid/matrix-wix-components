@@ -1,0 +1,212 @@
+{
+  "changeId": "A07",
+  "pageId": "cib7o",
+  "api": "PATCH https://www.wixapis.com/promote/seo/v1/item-seo-tags/STATIC_PAGE/cib7o",
+  "beforeTags": [
+    {
+      "type": "meta",
+      "props": {
+        "name": "description",
+        "content": "Book a deep tissue massage in Salem WI with Matrix Massage. Relieve tension, improve mobility, and recover naturally with expert care and added wellness perks.\n"
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "meta",
+      "props": {
+        "property": "og:image",
+        "content": "e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png"
+      },
+      "meta": {
+        "width": 1050,
+        "height": 600
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "title",
+      "children": "Deep Tissue Massage Salem WI | Matrix Massage & Bodywork",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "6jjGrWJ6",
+        "displayName": "FAQ Deep Tissue Schema"
+      },
+      "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Does deep tissue massage have to hurt?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. More pressure is not always better. Your comfort matters, and you can request less or more pressure within the appropriate treatment approach.\"}},{\"@type\":\"Question\",\"name\":\"Is deep tissue the same as Swedish massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Swedish massage usually emphasizes longer, flowing movements and relaxation, while deep tissue uses slower, more focused work. Techniques can overlap depending on your goals. Explore Swedish massage.\"}},{\"@type\":\"Question\",\"name\":\"Can I focus on my upper back and shoulders?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Let your therapist know where you would like the time spent. The plan can be adjusted within the appointment you booked.\"}},{\"@type\":\"Question\",\"name\":\"What if I have an injury or medical condition?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Tell your provider about it before your session. Some situations require a modified approach or advice from your healthcare professional before massage. Massage should not delay medical care for a new or unexplained problem.\"}},{\"@type\":\"Question\",\"name\":\"How should I prepare for my session?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Complete your intake information and arrive ready to discuss your goals, health history and preferred areas of focus. Wear comfortable clothes and let us know about any changes since your last visit.\"}},{\"@type\":\"Question\",\"name\":\"How much is deep tissue massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Current prices, appointment lengths and availability are displayed in our booking menu. Review the service details and any selected enhancements before reserving your appointment.\"}},{\"@type\":\"Question\",\"name\":\"How do I book at Matrix?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Choose an available massage appointment in our online booking menu, or text 262-939-9325 for help. Your visit takes place at 24804 75th St, Salem, WI 53168.\"}}]}",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "3LTKCBia",
+        "displayName": "Geo FAQ Schema"
+      },
+      "children": "{   \"@type\": \"Question\",   \"name\": \"Do you offer massage therapy in Salem, WI?\",   \"acceptedAnswer\": {     \"@type\": \"Answer\",     \"text\": \"Yes, Matrix Massage is located at 24804 75th St, Salem, WI. We specialize in massage therapy, red light therapy, lymphatic drainage, and wellness add-ons for clients throughout the Salem area.\"   } }",
+      "custom": false,
+      "disabled": true
+    }
+  ],
+  "afterTags": [
+    {
+      "type": "meta",
+      "props": {
+        "name": "description",
+        "content": "Book a deep tissue massage in Salem WI with Matrix Massage. Relieve tension, improve mobility, and recover naturally with expert care and added wellness perks.\n"
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "meta",
+      "props": {
+        "property": "og:image",
+        "content": "e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png"
+      },
+      "meta": {
+        "width": 1050,
+        "height": 600
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "title",
+      "children": "Deep Tissue Massage Salem WI | Matrix Massage & Bodywork",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "6jjGrWJ6",
+        "displayName": "FAQ Deep Tissue Schema"
+      },
+      "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Does deep tissue massage have to hurt?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. More pressure is not always better. Your comfort matters, and you can request less or more pressure within the appropriate treatment approach.\"}},{\"@type\":\"Question\",\"name\":\"Is deep tissue the same as Swedish massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Swedish massage usually emphasizes longer, flowing movements and relaxation, while deep tissue uses slower, more focused work. Techniques can overlap depending on your goals. Explore Swedish massage.\"}},{\"@type\":\"Question\",\"name\":\"Can I focus on my upper back and shoulders?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Let your therapist know where you would like the time spent. The plan can be adjusted within the appointment you booked.\"}},{\"@type\":\"Question\",\"name\":\"What if I have an injury or medical condition?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Tell your provider about it before your session. Some situations require a modified approach or advice from your healthcare professional before massage. Massage should not delay medical care for a new or unexplained problem.\"}},{\"@type\":\"Question\",\"name\":\"How should I prepare for my session?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Complete your intake information and arrive ready to discuss your goals, health history and preferred areas of focus. Wear comfortable clothes and let us know about any changes since your last visit.\"}},{\"@type\":\"Question\",\"name\":\"How much is deep tissue massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Current prices, appointment lengths and availability are displayed in our booking menu. Review the service details and any selected enhancements before reserving your appointment.\"}},{\"@type\":\"Question\",\"name\":\"How do I book at Matrix?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Choose an available massage appointment in our online booking menu, or text 262-939-9325 for help. Your visit takes place at 24804 75th St, Salem, WI 53168.\"}}]}",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "3LTKCBia",
+        "displayName": "Geo FAQ Schema"
+      },
+      "children": "{   \"@type\": \"Question\",   \"name\": \"Do you offer massage therapy in Salem, WI?\",   \"acceptedAnswer\": {     \"@type\": \"Answer\",     \"text\": \"Yes, Matrix Massage is located at 24804 75th St, Salem, WI. We specialize in massage therapy, red light therapy, lymphatic drainage, and wellness add-ons for clients throughout the Salem area.\"   } }",
+      "custom": false,
+      "disabled": true
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "displayName": "Matrix Service and Breadcrumbs"
+      },
+      "children": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"HealthAndBeautyBusiness\",\"@id\":\"https://www.matrixmassage.net/#business\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/\",\"telephone\":\"+1-262-939-9325\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"},\"hasMap\":\"https://maps.google.com/maps?cid=13922054554836148682\"},{\"@type\":\"Service\",\"@id\":\"https://www.matrixmassage.net/deep-tissue-massage-salem-wi#service\",\"name\":\"Deep Tissue Massage in Salem, WI\",\"serviceType\":\"Deep Tissue Massage\",\"url\":\"https://www.matrixmassage.net/deep-tissue-massage-salem-wi\",\"provider\":{\"@id\":\"https://www.matrixmassage.net/#business\"},\"areaServed\":{\"@type\":\"City\",\"name\":\"Salem, Wisconsin\"}},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/deep-tissue-massage-salem-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Massage Therapy Services\",\"item\":\"https://www.matrixmassage.net/massage-therapy-services-salem-wi\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Deep Tissue Massage in Salem, WI\",\"item\":\"https://www.matrixmassage.net/deep-tissue-massage-salem-wi\"}]}]}",
+      "custom": false,
+      "disabled": false
+    }
+  ],
+  "draftRequest": {
+    "itemSeoTags": {
+      "tags": [
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Book a deep tissue massage in Salem WI with Matrix Massage. Relieve tension, improve mobility, and recover naturally with expert care and added wellness perks.\n"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:image",
+            "content": "e4cc43_3ccbd7609f504c0da3cc6e4f22f6ea49~mv2.png"
+          },
+          "meta": {
+            "width": 1050,
+            "height": 600
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "title",
+          "children": "Deep Tissue Massage Salem WI | Matrix Massage & Bodywork",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "6jjGrWJ6",
+            "displayName": "FAQ Deep Tissue Schema"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Does deep tissue massage have to hurt?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. More pressure is not always better. Your comfort matters, and you can request less or more pressure within the appropriate treatment approach.\"}},{\"@type\":\"Question\",\"name\":\"Is deep tissue the same as Swedish massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Swedish massage usually emphasizes longer, flowing movements and relaxation, while deep tissue uses slower, more focused work. Techniques can overlap depending on your goals. Explore Swedish massage.\"}},{\"@type\":\"Question\",\"name\":\"Can I focus on my upper back and shoulders?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Let your therapist know where you would like the time spent. The plan can be adjusted within the appointment you booked.\"}},{\"@type\":\"Question\",\"name\":\"What if I have an injury or medical condition?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Tell your provider about it before your session. Some situations require a modified approach or advice from your healthcare professional before massage. Massage should not delay medical care for a new or unexplained problem.\"}},{\"@type\":\"Question\",\"name\":\"How should I prepare for my session?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Complete your intake information and arrive ready to discuss your goals, health history and preferred areas of focus. Wear comfortable clothes and let us know about any changes since your last visit.\"}},{\"@type\":\"Question\",\"name\":\"How much is deep tissue massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Current prices, appointment lengths and availability are displayed in our booking menu. Review the service details and any selected enhancements before reserving your appointment.\"}},{\"@type\":\"Question\",\"name\":\"How do I book at Matrix?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Choose an available massage appointment in our online booking menu, or text 262-939-9325 for help. Your visit takes place at 24804 75th St, Salem, WI 53168.\"}}]}",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "3LTKCBia",
+            "displayName": "Geo FAQ Schema"
+          },
+          "children": "{   \"@type\": \"Question\",   \"name\": \"Do you offer massage therapy in Salem, WI?\",   \"acceptedAnswer\": {     \"@type\": \"Answer\",     \"text\": \"Yes, Matrix Massage is located at 24804 75th St, Salem, WI. We specialize in massage therapy, red light therapy, lymphatic drainage, and wellness add-ons for clients throughout the Salem area.\"   } }",
+          "custom": false,
+          "disabled": true
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "displayName": "Matrix Service and Breadcrumbs"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"HealthAndBeautyBusiness\",\"@id\":\"https://www.matrixmassage.net/#business\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/\",\"telephone\":\"+1-262-939-9325\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"},\"hasMap\":\"https://maps.google.com/maps?cid=13922054554836148682\"},{\"@type\":\"Service\",\"@id\":\"https://www.matrixmassage.net/deep-tissue-massage-salem-wi#service\",\"name\":\"Deep Tissue Massage in Salem, WI\",\"serviceType\":\"Deep Tissue Massage\",\"url\":\"https://www.matrixmassage.net/deep-tissue-massage-salem-wi\",\"provider\":{\"@id\":\"https://www.matrixmassage.net/#business\"},\"areaServed\":{\"@type\":\"City\",\"name\":\"Salem, Wisconsin\"}},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/deep-tissue-massage-salem-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Massage Therapy Services\",\"item\":\"https://www.matrixmassage.net/massage-therapy-services-salem-wi\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Deep Tissue Massage in Salem, WI\",\"item\":\"https://www.matrixmassage.net/deep-tissue-massage-salem-wi\"}]}]}",
+          "custom": false,
+          "disabled": false
+        }
+      ]
+    },
+    "fieldMask": "tags",
+    "publish": false
+  },
+  "baselineSha256": "d3b0549b3769e856d8d90e96a243deb48ff46dce32b62b9bfb94fc33fa157ef5",
+  "candidateSha256": "d9ca94c2b1cdf22a5d0e6d9f592375d58d67b9ca824399f1d782310de93d225a",
+  "canonicalization": "UTF-8 JSON sorted keys, compact separators, ensure_ascii=False; tags only. Refresh entire current item, compare baseline and preserve every unrelated tag."
+}

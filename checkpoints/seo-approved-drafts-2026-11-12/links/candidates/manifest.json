@@ -1,0 +1,39 @@
+{
+  "status": "DRAFT CANDIDATES ONLY; NOT INSTALLED OR PUBLISHED",
+  "changes": [
+    {
+      "id": "A03",
+      "key": "spa",
+      "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+      "element": "matrixSpaMain",
+      "beforeBodySha256": "c549046dbc0399b287f61cc0dccf93422003b55428960b739b5e36d32fc63850",
+      "afterBodySha256": "b3cfa0c6c004824b678afea0b17f7580f3e890a534edf450f0bacc50175f06b9",
+      "beforeRendererSha256": "b75f32a2f5a2d50bd16a75a693f302801d7f5221dabac83ce4d912bc3e4a0f71",
+      "afterRendererSha256": "da84ba93575fc55db52507166759f3d4ea21bbc8dae485620a968f46db6db0f7",
+      "scope": "Append one contextual paragraph;2 ordinary incoming links"
+    },
+    {
+      "id": "A04",
+      "key": "bristol",
+      "url": "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+      "element": "matrixBristolSpa",
+      "beforeBodySha256": "87fde14ae8bcb9cff73cc2aecd81dcd541c39bf0e9d328b161bedbb4f53e0574",
+      "afterBodySha256": "336be7e7ad754da6958400f6b49ce33f0cc0d3e9050c486d664b30d269eb793e",
+      "beforeRendererSha256": "b0c95d359abc606878743a588d974d30b6abdfc0dddf87f3a78b131e71b97a4e",
+      "afterRendererSha256": "5f01ba67b3351e286fc6b78516e91618894b2fc3a818efae43d02c3179aa0e02",
+      "scope": "Replace exactly2 href values; preserve anchor text, other links, FAQs, styling and booking URLs"
+    },
+    {
+      "id": "A04",
+      "key": "twin",
+      "url": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+      "element": "matrixTwinLakesSpa",
+      "beforeBodySha256": "867982889d9f1648e9db4a39e80b13a22923eb21a1642785075780f02ef930f3",
+      "afterBodySha256": "d1ae7025146c1f95fa2229d1c75640f9f1686f9a9cec48b287f7c28be25f6542",
+      "beforeRendererSha256": "ce5fd00e46aa3eafc8340be1ea7b311c130eeaf8ef385780089dc2c6260948bf",
+      "afterRendererSha256": "17783bacdc148dafff05ea51f4e59fb7fd6fcfa2490593f75e223d9a5d36c09f",
+      "scope": "Replace exactly2 href values; preserve anchor text, other links, FAQs, styling and booking URLs"
+    }
+  ],
+  "paragraph": "<p class=\"sb-small\">Planning a visit from nearby? See our <a class=\"sb-link\" href=\"https://www.matrixmassage.net/spa-services-near-bristol-wi\" target=\"_top\">spa services near Bristol</a> or <a class=\"sb-link\" href=\"https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi\" target=\"_top\">spa services near Twin Lakes and Genoa City</a> for service ideas and directions to our Salem studio.</p>"
+}

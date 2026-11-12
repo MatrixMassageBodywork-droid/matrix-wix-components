@@ -1,0 +1,19 @@
+--- baseline/style.css
++++ A02-A05/style.css
+@@ -58,3 +58,16 @@
+  .enhancements-body {padding:55px 0 58px;} .enhancement-grid {grid-template-columns:1fr;gap:22px;} .enhancement-image {height:225px;} .enhancement-card p {font-size:14px;padding:24px;} .enhancement-cta .button {width:100%;}
+ }
+ @media (prefers-reduced-motion:reduce) { *,*::before,*::after {animation:none!important;transition:none!important;scroll-behavior:auto!important;} }
++
++/* A05: static FAQ content only; existing styles remain unchanged. */
++.massage-faq { max-width:920px; margin:56px auto 0; padding:32px; background:#fdfcf9; border:1px solid #d4e2dc; border-top:3px solid #278c89; }
++.massage-faq h2 { margin:0 0 8px; color:var(--ink); font-size:34px; line-height:1.15; letter-spacing:-.02em; text-wrap:balance; }
++.massage-faq .massage-faq-item { padding:22px 0; border-bottom:1px solid #d6e2de; }
++.massage-faq .massage-faq-item:last-child { padding-bottom:0; border-bottom:0; }
++.massage-faq h3 { margin:0; color:var(--ink); font:600 17px/1.45 Arial,Helvetica,sans-serif; }
++.massage-faq p { max-width:75ch; margin:10px 0 0; color:#395457; font-size:14px; line-height:1.8; }
++@container (max-width:560px) {
++ .massage-faq { margin-top:38px; padding:24px 20px; }
++ .massage-faq h2 { font-size:30px; }
++ .massage-faq .massage-faq-item { padding:20px 0; }
++}

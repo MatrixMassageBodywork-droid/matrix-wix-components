@@ -1,0 +1,75 @@
+{
+  "status": "SAVED DRAFT / READBACK VERIFIED / RENDERING NOT TESTED / NOT PUBLISHED",
+  "publicationRequested": false,
+  "indexingRequested": false,
+  "endpoint": "BulkSetItemSeoTags; publish:false; ordered save and readback",
+  "outcomes": [
+    {
+      "changeId": "A01",
+      "pageId": "ganam",
+      "status": "SAVED_VERIFIED",
+      "publish": false,
+      "baselineSha256": "351eb5d08011e5e15132b4954613dd0ecde7fef380b4d8999dcb0110c0411e11",
+      "candidateSha256": "56680734cceed14625fa270202f311f2de6b59573071b3d0f7900405dcd9882c",
+      "focusKeywordsUnchanged": true,
+      "savedTagCount": 6,
+      "verifiedAt": "2026-11-12T16:45:48.968Z"
+    },
+    {
+      "changeId": "A08",
+      "pageId": "jsb0e",
+      "status": "SAVED_VERIFIED",
+      "publish": false,
+      "baselineSha256": "45c23e7c39e17fa8edb6a01069475ac539b83d8e003d27b5cdb67e8fdeb03f98",
+      "candidateSha256": "da13be9cc2616f1c2ca8c824509ff4d620e96fe1d689d02585bfb5dc059af997",
+      "focusKeywordsUnchanged": true,
+      "savedTagCount": 4,
+      "verifiedAt": "2026-11-12T16:45:51.673Z"
+    },
+    {
+      "changeId": "A07",
+      "pageId": "cib7o",
+      "status": "SAVED_VERIFIED",
+      "publish": false,
+      "baselineSha256": "d3b0549b3769e856d8d90e96a243deb48ff46dce32b62b9bfb94fc33fa157ef5",
+      "candidateSha256": "d9ca94c2b1cdf22a5d0e6d9f592375d58d67b9ca824399f1d782310de93d225a",
+      "focusKeywordsUnchanged": true,
+      "savedTagCount": 6,
+      "verifiedAt": "2026-11-12T16:45:53.249Z"
+    },
+    {
+      "changeId": "A07",
+      "pageId": "l014i",
+      "status": "SAVED_VERIFIED",
+      "publish": false,
+      "baselineSha256": "76169f0ec76a0bffa75ae4a39e9820f00f75c20064ded0ef9986a456d251d724",
+      "candidateSha256": "dc0c6092b8cec931ee9669f286fe1ca0acabfcdd0fe47849b4713507581ce399",
+      "focusKeywordsUnchanged": true,
+      "savedTagCount": 5,
+      "verifiedAt": "2026-11-12T16:45:55.841Z"
+    },
+    {
+      "changeId": "A07",
+      "pageId": "lb1iq",
+      "status": "SAVED_VERIFIED",
+      "publish": false,
+      "baselineSha256": "8774054eca91063ee7d58b13a4b717b72eb2181014f8b4a5beec45d9f26552c1",
+      "candidateSha256": "eb757e85c3ca7862eed8201a0b653495bb4443c84f1dbfcc405b1457dee39968",
+      "focusKeywordsUnchanged": true,
+      "savedTagCount": 5,
+      "verifiedAt": "2026-11-12T16:45:58.837Z"
+    },
+    {
+      "changeId": "A07",
+      "pageId": "cnpma",
+      "status": "SAVED_VERIFIED",
+      "publish": false,
+      "baselineSha256": "90994630b82fc58f4c8ef7378a033d98b087aa0814c30145b1cf4406cfd87ab8",
+      "candidateSha256": "c448bc1de54e967f65dbba81441e11e48276e6e44289ac03661adf06191a5547",
+      "focusKeywordsUnchanged": true,
+      "savedTagCount": 4,
+      "verifiedAt": "2026-11-12T16:46:03.041Z"
+    }
+  ],
+  "verification": "All six before and after tag arrays matched their recorded baseline/candidate hashes. Focus keywords unchanged. Draft rendering not yet tested."
+}

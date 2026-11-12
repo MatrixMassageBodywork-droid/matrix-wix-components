@@ -1,0 +1,146 @@
+{
+  "changeId": "A08",
+  "pageId": "jsb0e",
+  "api": "PATCH https://www.wixapis.com/promote/seo/v1/item-seo-tags/STATIC_PAGE/jsb0e",
+  "beforeTags": [
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "Bp05JGMH",
+        "displayName": "FAQ Schema Markup"
+      },
+      "children": "{     \"@context\": \"https://schema.org\",     \"@type\": \"FAQPage\",     \"mainEntity\": [{             \"@type\": \"Question\",             \"name\": \"Who owns Matrix Massage in Salem, WI?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Matrix Massage is independently owned by a licensed massage therapist dedicated to personalized, science-based care. The business is rooted in local wellness and client-centered service.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"Is Matrix Massage locally owned?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Yes, Matrix Massage is a woman-owned, locally operated wellness clinic based in Salem, Wisconsin, offering customized massage and holistic therapy services to the community.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"What makes Matrix Massage different?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Matrix Massage combines therapeutic bodywork with science-backed wellness technologies like red light therapy, lymphatic drainage, and magnesium protocols in a calming, results-driven environment.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"Do the therapists have advanced training?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Yes, therapists at Matrix Massage have advanced training in multiple modalities including manual lymphatic drainage, muscle scraping, cupping, and red light therapy applications.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"Where is Matrix Massage located?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Matrix Massage is located at 24804 75th St, Salem, WI 53168. The clinic is easily accessible from surrounding areas including Kenosha and Pleasant Prairie.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"Do you serve clients from Pleasant Prairie, Kenosha, and Antioch?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Yes, we regularly welcome clients from Pleasant Prairie, Kenosha, and Antioch, IL seeking therapeutic massage and integrative wellness services.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"How do I book a massage with Matrix Massage in Salem, WI?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"You can book online by visiting https://www.matrixmassage.net/book-appointments-salem-wi or text 262-939-9325 to request an appointment. We offer flexible scheduling for new and returning clients.\"             }         }     ] }",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "meta",
+      "props": {
+        "name": "description",
+        "content": "Now hiring a Licensed Massage Therapist at Matrix Massage & Bodywork in Salem, WI (15 min from Kenosha). Commission-based pay, established client base, marketing done for you, flexible scheduling. No room rental fees. Apply today!"
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "title",
+      "children": "Massage Therapist Jobs in Salem, WI | Now Hiring LMT Near Kenosha | Matrix Massage",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "P4vMK3ba",
+        "displayName": "Job Posting"
+      },
+      "children": "{   \"@context\": \"https://schema.org/\",   \"@type\": \"JobPosting\",   \"title\": \"Licensed Massage Therapist\",   \"description\": \"Matrix Massage and Bodywork in Salem, WI is actively hiring a Licensed Massage Therapist. Build your schedule quickly with consistent marketing support and a steady client flow. What We Provide: Established client base with steady bookings, marketing and advertising handled for you, fully equipped modern treatment rooms, professional systems and workflows, supportive team environment, opportunities for continued growth into specialty services, flexible scheduling options. Ideal Candidates: Licensed Massage Therapist in Wisconsin, skilled in Swedish and Deep Tissue massage, reliable punctual and professional, strong communication skills, open to learning new techniques. Position Details: Part-time to start with growth potential into a full schedule, commission-based pay structure, performance-based opportunities.\",   \"identifier\": {     \"@type\": \"PropertyValue\",     \"name\": \"Matrix Massage and Bodywork\",     \"value\": \"LMT-SALEM-2026\"   },   \"datePosted\": \"2026-05-01\",   \"validThrough\": \"2026-12-31T23:59\",   \"employmentType\": \"PART_TIME\",   \"hiringOrganization\": {     \"@type\": \"Organization\",     \"name\": \"Matrix Massage and Bodywork\",     \"sameAs\": \"https://www.matrixmassage.net\",     \"logo\": \"https://www.matrixmassage.net/favicon.ico\"   },   \"jobLocation\": {     \"@type\": \"Place\",     \"address\": {       \"@type\": \"PostalAddress\",       \"streetAddress\": \"24804 75th St\",       \"addressLocality\": \"Salem\",       \"addressRegion\": \"WI\",       \"postalCode\": \"53168\",       \"addressCountry\": \"US\"     }   },   \"applicantLocationRequirements\": {     \"@type\": \"Country\",     \"name\": \"US\"   },   \"baseSalary\": {     \"@type\": \"MonetaryAmount\",     \"currency\": \"USD\",     \"value\": {       \"@type\": \"QuantitativeValue\",       \"minValue\": 25,       \"maxValue\": 50,       \"unitText\": \"HOUR\"     }   },   \"industry\": \"Health and Wellness\",   \"occupationalCategory\": \"31-9011.00\",   \"qualifications\": \"Wisconsin Licensed Massage Therapist (LMT )\",   \"skills\": \"Swedish Massage, Deep Tissue Massage, Client Communication, Professional Wellness Care\",   \"directApply\": true }",
+      "custom": false,
+      "disabled": false
+    }
+  ],
+  "afterTags": [
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "Bp05JGMH",
+        "displayName": "FAQ Schema Markup"
+      },
+      "children": "{     \"@context\": \"https://schema.org\",     \"@type\": \"FAQPage\",     \"mainEntity\": [{             \"@type\": \"Question\",             \"name\": \"Who owns Matrix Massage in Salem, WI?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Matrix Massage is independently owned by a licensed massage therapist dedicated to personalized, science-based care. The business is rooted in local wellness and client-centered service.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"Is Matrix Massage locally owned?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Yes, Matrix Massage is a woman-owned, locally operated wellness clinic based in Salem, Wisconsin, offering customized massage and holistic therapy services to the community.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"What makes Matrix Massage different?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Matrix Massage combines therapeutic bodywork with science-backed wellness technologies like red light therapy, lymphatic drainage, and magnesium protocols in a calming, results-driven environment.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"Do the therapists have advanced training?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Yes, therapists at Matrix Massage have advanced training in multiple modalities including manual lymphatic drainage, muscle scraping, cupping, and red light therapy applications.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"Where is Matrix Massage located?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Matrix Massage is located at 24804 75th St, Salem, WI 53168. The clinic is easily accessible from surrounding areas including Kenosha and Pleasant Prairie.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"Do you serve clients from Pleasant Prairie, Kenosha, and Antioch?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Yes, we regularly welcome clients from Pleasant Prairie, Kenosha, and Antioch, IL seeking therapeutic massage and integrative wellness services.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"How do I book a massage with Matrix Massage in Salem, WI?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"You can book online by visiting https://www.matrixmassage.net/book-appointments-salem-wi or text 262-939-9325 to request an appointment. We offer flexible scheduling for new and returning clients.\"             }         }     ] }",
+      "custom": false,
+      "disabled": true
+    },
+    {
+      "type": "meta",
+      "props": {
+        "name": "description",
+        "content": "Now hiring a Licensed Massage Therapist at Matrix Massage & Bodywork in Salem, WI (15 min from Kenosha). Commission-based pay, established client base, marketing done for you, flexible scheduling. No room rental fees. Apply today!"
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "title",
+      "children": "Massage Therapist Jobs in Salem, WI | Now Hiring LMT Near Kenosha | Matrix Massage",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "P4vMK3ba",
+        "displayName": "Job Posting"
+      },
+      "children": "{   \"@context\": \"https://schema.org/\",   \"@type\": \"JobPosting\",   \"title\": \"Licensed Massage Therapist\",   \"description\": \"Matrix Massage and Bodywork in Salem, WI is actively hiring a Licensed Massage Therapist. Build your schedule quickly with consistent marketing support and a steady client flow. What We Provide: Established client base with steady bookings, marketing and advertising handled for you, fully equipped modern treatment rooms, professional systems and workflows, supportive team environment, opportunities for continued growth into specialty services, flexible scheduling options. Ideal Candidates: Licensed Massage Therapist in Wisconsin, skilled in Swedish and Deep Tissue massage, reliable punctual and professional, strong communication skills, open to learning new techniques. Position Details: Part-time to start with growth potential into a full schedule, commission-based pay structure, performance-based opportunities.\",   \"identifier\": {     \"@type\": \"PropertyValue\",     \"name\": \"Matrix Massage and Bodywork\",     \"value\": \"LMT-SALEM-2026\"   },   \"datePosted\": \"2026-05-01\",   \"validThrough\": \"2026-12-31T23:59\",   \"employmentType\": \"PART_TIME\",   \"hiringOrganization\": {     \"@type\": \"Organization\",     \"name\": \"Matrix Massage and Bodywork\",     \"sameAs\": \"https://www.matrixmassage.net\",     \"logo\": \"https://www.matrixmassage.net/favicon.ico\"   },   \"jobLocation\": {     \"@type\": \"Place\",     \"address\": {       \"@type\": \"PostalAddress\",       \"streetAddress\": \"24804 75th St\",       \"addressLocality\": \"Salem\",       \"addressRegion\": \"WI\",       \"postalCode\": \"53168\",       \"addressCountry\": \"US\"     }   },   \"applicantLocationRequirements\": {     \"@type\": \"Country\",     \"name\": \"US\"   },   \"baseSalary\": {     \"@type\": \"MonetaryAmount\",     \"currency\": \"USD\",     \"value\": {       \"@type\": \"QuantitativeValue\",       \"minValue\": 25,       \"maxValue\": 50,       \"unitText\": \"HOUR\"     }   },   \"industry\": \"Health and Wellness\",   \"occupationalCategory\": \"31-9011.00\",   \"qualifications\": \"Wisconsin Licensed Massage Therapist (LMT )\",   \"skills\": \"Swedish Massage, Deep Tissue Massage, Client Communication, Professional Wellness Care\",   \"directApply\": true }",
+      "custom": false,
+      "disabled": false
+    }
+  ],
+  "draftRequest": {
+    "itemSeoTags": {
+      "tags": [
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "Bp05JGMH",
+            "displayName": "FAQ Schema Markup"
+          },
+          "children": "{     \"@context\": \"https://schema.org\",     \"@type\": \"FAQPage\",     \"mainEntity\": [{             \"@type\": \"Question\",             \"name\": \"Who owns Matrix Massage in Salem, WI?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Matrix Massage is independently owned by a licensed massage therapist dedicated to personalized, science-based care. The business is rooted in local wellness and client-centered service.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"Is Matrix Massage locally owned?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Yes, Matrix Massage is a woman-owned, locally operated wellness clinic based in Salem, Wisconsin, offering customized massage and holistic therapy services to the community.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"What makes Matrix Massage different?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Matrix Massage combines therapeutic bodywork with science-backed wellness technologies like red light therapy, lymphatic drainage, and magnesium protocols in a calming, results-driven environment.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"Do the therapists have advanced training?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Yes, therapists at Matrix Massage have advanced training in multiple modalities including manual lymphatic drainage, muscle scraping, cupping, and red light therapy applications.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"Where is Matrix Massage located?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Matrix Massage is located at 24804 75th St, Salem, WI 53168. The clinic is easily accessible from surrounding areas including Kenosha and Pleasant Prairie.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"Do you serve clients from Pleasant Prairie, Kenosha, and Antioch?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"Yes, we regularly welcome clients from Pleasant Prairie, Kenosha, and Antioch, IL seeking therapeutic massage and integrative wellness services.\"             }         },         {             \"@type\": \"Question\",             \"name\": \"How do I book a massage with Matrix Massage in Salem, WI?\",             \"acceptedAnswer\": {                 \"@type\": \"Answer\",                 \"text\": \"You can book online by visiting https://www.matrixmassage.net/book-appointments-salem-wi or text 262-939-9325 to request an appointment. We offer flexible scheduling for new and returning clients.\"             }         }     ] }",
+          "custom": false,
+          "disabled": true
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Now hiring a Licensed Massage Therapist at Matrix Massage & Bodywork in Salem, WI (15 min from Kenosha). Commission-based pay, established client base, marketing done for you, flexible scheduling. No room rental fees. Apply today!"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "title",
+          "children": "Massage Therapist Jobs in Salem, WI | Now Hiring LMT Near Kenosha | Matrix Massage",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "P4vMK3ba",
+            "displayName": "Job Posting"
+          },
+          "children": "{   \"@context\": \"https://schema.org/\",   \"@type\": \"JobPosting\",   \"title\": \"Licensed Massage Therapist\",   \"description\": \"Matrix Massage and Bodywork in Salem, WI is actively hiring a Licensed Massage Therapist. Build your schedule quickly with consistent marketing support and a steady client flow. What We Provide: Established client base with steady bookings, marketing and advertising handled for you, fully equipped modern treatment rooms, professional systems and workflows, supportive team environment, opportunities for continued growth into specialty services, flexible scheduling options. Ideal Candidates: Licensed Massage Therapist in Wisconsin, skilled in Swedish and Deep Tissue massage, reliable punctual and professional, strong communication skills, open to learning new techniques. Position Details: Part-time to start with growth potential into a full schedule, commission-based pay structure, performance-based opportunities.\",   \"identifier\": {     \"@type\": \"PropertyValue\",     \"name\": \"Matrix Massage and Bodywork\",     \"value\": \"LMT-SALEM-2026\"   },   \"datePosted\": \"2026-05-01\",   \"validThrough\": \"2026-12-31T23:59\",   \"employmentType\": \"PART_TIME\",   \"hiringOrganization\": {     \"@type\": \"Organization\",     \"name\": \"Matrix Massage and Bodywork\",     \"sameAs\": \"https://www.matrixmassage.net\",     \"logo\": \"https://www.matrixmassage.net/favicon.ico\"   },   \"jobLocation\": {     \"@type\": \"Place\",     \"address\": {       \"@type\": \"PostalAddress\",       \"streetAddress\": \"24804 75th St\",       \"addressLocality\": \"Salem\",       \"addressRegion\": \"WI\",       \"postalCode\": \"53168\",       \"addressCountry\": \"US\"     }   },   \"applicantLocationRequirements\": {     \"@type\": \"Country\",     \"name\": \"US\"   },   \"baseSalary\": {     \"@type\": \"MonetaryAmount\",     \"currency\": \"USD\",     \"value\": {       \"@type\": \"QuantitativeValue\",       \"minValue\": 25,       \"maxValue\": 50,       \"unitText\": \"HOUR\"     }   },   \"industry\": \"Health and Wellness\",   \"occupationalCategory\": \"31-9011.00\",   \"qualifications\": \"Wisconsin Licensed Massage Therapist (LMT )\",   \"skills\": \"Swedish Massage, Deep Tissue Massage, Client Communication, Professional Wellness Care\",   \"directApply\": true }",
+          "custom": false,
+          "disabled": false
+        }
+      ]
+    },
+    "fieldMask": "tags",
+    "publish": false
+  },
+  "baselineSha256": "45c23e7c39e17fa8edb6a01069475ac539b83d8e003d27b5cdb67e8fdeb03f98",
+  "candidateSha256": "da13be9cc2616f1c2ca8c824509ff4d620e96fe1d689d02585bfb5dc059af997",
+  "canonicalization": "UTF-8 JSON sorted keys, compact separators, ensure_ascii=False; tags only. Refresh entire current item, compare baseline and preserve every unrelated tag."
+}

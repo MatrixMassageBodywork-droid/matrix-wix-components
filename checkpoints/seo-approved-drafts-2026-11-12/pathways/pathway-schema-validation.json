@@ -1,0 +1,101 @@
+{
+  "status": "LOCAL TESTED; NOT SAVED TO WIX; NOT PUBLISHED; LIVE QA NOT TESTED",
+  "testedAt": "2026-11-12T15:11:47.397Z",
+  "runtime": "v24.22.1",
+  "beforeSha256": "c4880b577bfc5f18c502ba0ae5c76a2745ffec0d121424e0ea3689cc4ab1a960",
+  "afterSha256": "9eacf2e187ec350425e0614f204a1047f93e3a76c4d1b21b02184ea62d2055b8",
+  "sharedMarkupSha256": "6c5bf23fcb0f039484da9bdaef7db8334ddb511bc96ce74950ac6a30b8d49f7a",
+  "candidateJsonSha256": "c5d672e77a6335e41b75e0ce42eec8dbaa08e9086693677b77a9e0b488e05301",
+  "sixPageResults": [
+    {
+      "url": "https://www.matrixmassage.net/facial-goals/hydrate-restore",
+      "status": "PASS",
+      "baselineVariants": 3,
+      "graphObjectsAdded": 1,
+      "graphTypes": [
+        "WebPage",
+        "Service",
+        "BreadcrumbList"
+      ],
+      "payloadSourceSha256": "fc0b6df2c3e3c1fd99656f3ca364c2d2ad643a10899611a5d340e8dd1dbf8e1a"
+    },
+    {
+      "url": "https://www.matrixmassage.net/facial-goals/brighten-smooth",
+      "status": "PASS",
+      "baselineVariants": 3,
+      "graphObjectsAdded": 1,
+      "graphTypes": [
+        "WebPage",
+        "Service",
+        "BreadcrumbList"
+      ],
+      "payloadSourceSha256": "dd0815a24a3b95b3ba210995ffa479333ee71264def298f3f64dd9bd1952e6fc"
+    },
+    {
+      "url": "https://www.matrixmassage.net/facial-goals/clear-balance",
+      "status": "PASS",
+      "baselineVariants": 3,
+      "graphObjectsAdded": 1,
+      "graphTypes": [
+        "WebPage",
+        "Service",
+        "BreadcrumbList"
+      ],
+      "payloadSourceSha256": "136d8c571f1a7bad58ad6a899c0ffeb51f8884793e333e5c3fa7af78013cb9ed"
+    },
+    {
+      "url": "https://www.matrixmassage.net/facial-goals/calm-support",
+      "status": "PASS",
+      "baselineVariants": 3,
+      "graphObjectsAdded": 1,
+      "graphTypes": [
+        "WebPage",
+        "Service",
+        "BreadcrumbList"
+      ],
+      "payloadSourceSha256": "f4b358f402566c718f92ebae1eac6810f2a63c6940922077b3ad1fe16c3e24fa"
+    },
+    {
+      "url": "https://www.matrixmassage.net/facial-goals/age-defying-firm",
+      "status": "PASS",
+      "baselineVariants": 3,
+      "graphObjectsAdded": 1,
+      "graphTypes": [
+        "WebPage",
+        "Service",
+        "BreadcrumbList"
+      ],
+      "payloadSourceSha256": "bff9b226fec0c0cf7a11777f4ec690ebb05ed8c9e7e458d63d05435dbd6f787e"
+    },
+    {
+      "url": "https://www.matrixmassage.net/facial-goals/maintain-glow",
+      "status": "PASS",
+      "baselineVariants": 3,
+      "graphObjectsAdded": 1,
+      "graphTypes": [
+        "WebPage",
+        "Service",
+        "BreadcrumbList"
+      ],
+      "payloadSourceSha256": "85e46950635b8359333293b13eec4da8517eddfead12f90e1ed6dae0747b4e29"
+    }
+  ],
+  "checks": {
+    "sixActualServedPayloadsMatchReviewedGraphs": "PASS",
+    "emptyAndPlaceholderAndUnrelatedSchemaPreservation": "PASS",
+    "getterOutsideAndSetterWithinOnReady": "PASS",
+    "existingPayloadAndMarkupAndMetaAndCanonicalAndReadQueriesUnchanged": "PASS",
+    "conflictingExistingSchemaNotOverwrittenOrDuplicated": "PASS",
+    "invalidExistingSchemaNotOverwritten": "PASS",
+    "missingCurrentDescriptionAddsNoSchema": "PASS",
+    "unapprovedSlugAddsNoSchema": "PASS",
+    "wrongCanonicalAddsNoSchema": "PASS",
+    "noFAQPriceOrStaleCMSCopyAdded": "PASS"
+  },
+  "limitations": [
+    "Local VM uses stubs for Wix runtime. It does not verify actual Wix persistence or rendering.",
+    "Real native page code and shared module baselines require read-back before applying.",
+    "Capture existing Wix structuredData and identify any concurrent setter before save or publish.",
+    "Two empty served JSON-LD blocks are observed; runtime getter contents were not accessed."
+  ]
+}

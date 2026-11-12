@@ -1,0 +1,29 @@
+[
+  {
+    "key": "spa",
+    "repositoryPath": "pages/spa-beauty/lash-extensions/parent-link-patch/renderer.js",
+    "ref": "34318faae01ef3416959b8f854fa9a88ee91f10b",
+    "remoteGitBlob": "5ffe7fdd8717df171804d43e63bb8b6aff551fab",
+    "remoteSha256": "9188f84d54d6b130ad28c9fd3b75bdafd00b1fdee1ee3efc985f83b5c5883de8",
+    "capturedSha256": "b75f32a2f5a2d50bd16a75a693f302801d7f5221dabac83ce4d912bc3e4a0f71",
+    "captureDifference": "Exactly one additional trailing newline; candidate bytes preserved, exact native preflight/rebase still required."
+  },
+  {
+    "key": "bristol",
+    "repositoryPath": "pages/regional/bristol/review-2/renderer.js",
+    "ref": "34318faae01ef3416959b8f854fa9a88ee91f10b",
+    "remoteGitBlob": "692e34d80629762ef2cd92036b160ad885219ff9",
+    "remoteSha256": "f60a82a53a68fe8d76fe21b430dc712ed6e4b78b29b0801473a656302aa39718",
+    "capturedSha256": "b0c95d359abc606878743a588d974d30b6abdfc0dddf87f3a78b131e71b97a4e",
+    "captureDifference": "Exactly one additional trailing newline; candidate bytes preserved, exact native preflight/rebase still required."
+  },
+  {
+    "key": "twin",
+    "repositoryPath": "pages/regional/twin-lakes-genoa-city/review-2/renderer.js",
+    "ref": "34318faae01ef3416959b8f854fa9a88ee91f10b",
+    "remoteGitBlob": "71e2af820ba1bfaefe2cbe1619997f0409aa3797",
+    "remoteSha256": "d4dfd76e5512602b66d908bd340422603e074e46d9cb5cb6c96ec791fc0a9ce3",
+    "capturedSha256": "ce5fd00e46aa3eafc8340be1ea7b311c130eeaf8ef385780089dc2c6260948bf",
+    "captureDifference": "Exactly one additional trailing newline; candidate bytes preserved, exact native preflight/rebase still required."
+  }
+]

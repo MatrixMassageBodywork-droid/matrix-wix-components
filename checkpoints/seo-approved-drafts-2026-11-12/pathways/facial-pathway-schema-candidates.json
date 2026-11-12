@@ -1,0 +1,458 @@
+[
+  {
+    "url": "https://www.matrixmassage.net/facial-goals/hydrate-restore",
+    "before": "Two empty JSON-LD blocks ({}) and no substantive structured-data entities in normal and bot-diagnostic responses; native checkpoint intentionally omits outdated CMS structuredDataJson.",
+    "classification": "recommended improvement",
+    "baselinePublicBotSha256": "fc0b6df2c3e3c1fd99656f3ca364c2d2ad643a10899611a5d340e8dd1dbf8e1a",
+    "after": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://www.matrixmassage.net/facial-goals/hydrate-restore#webpage",
+          "url": "https://www.matrixmassage.net/facial-goals/hydrate-restore",
+          "name": "Hydrating Facials in Salem, WI",
+          "description": "Explore facial care for dry, tight-feeling skin at Matrix in Salem, WI, near Paddock Lake. Compare options, know what to expect, and plan your visit.",
+          "isPartOf": {
+            "@type": "WebSite",
+            "name": "Matrix Massage & Bodywork",
+            "url": "https://www.matrixmassage.net/"
+          },
+          "about": {
+            "@id": "https://www.matrixmassage.net/facial-goals/hydrate-restore#service"
+          },
+          "breadcrumb": {
+            "@id": "https://www.matrixmassage.net/facial-goals/hydrate-restore#breadcrumb"
+          }
+        },
+        {
+          "@type": "Service",
+          "@id": "https://www.matrixmassage.net/facial-goals/hydrate-restore#service",
+          "url": "https://www.matrixmassage.net/facial-goals/hydrate-restore",
+          "name": "Hydrating Facials in Salem, WI",
+          "serviceType": "Personalized cosmetic facial skincare",
+          "description": "Explore facial care for dry, tight-feeling skin at Matrix in Salem, WI, near Paddock Lake. Compare options, know what to expect, and plan your visit.",
+          "provider": {
+            "@type": "HealthAndBeautyBusiness",
+            "@id": "https://www.matrixmassage.net/#business",
+            "name": "Matrix Massage & Bodywork",
+            "url": "https://www.matrixmassage.net/",
+            "telephone": "+1-262-939-9325",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "24804 75th St",
+              "addressLocality": "Salem",
+              "addressRegion": "WI",
+              "postalCode": "53168",
+              "addressCountry": "US"
+            }
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.matrixmassage.net/facial-goals/hydrate-restore#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.matrixmassage.net/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Facials",
+              "item": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Hydrating Facials in Salem, WI",
+              "item": "https://www.matrixmassage.net/facial-goals/hydrate-restore"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.matrixmassage.net/facial-goals/brighten-smooth",
+    "before": "Two empty JSON-LD blocks ({}) and no substantive structured-data entities in normal and bot-diagnostic responses; native checkpoint intentionally omits outdated CMS structuredDataJson.",
+    "classification": "recommended improvement",
+    "baselinePublicBotSha256": "dd0815a24a3b95b3ba210995ffa479333ee71264def298f3f64dd9bd1952e6fc",
+    "after": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://www.matrixmassage.net/facial-goals/brighten-smooth#webpage",
+          "url": "https://www.matrixmassage.net/facial-goals/brighten-smooth",
+          "name": "Brightening Facials & Dermaplaning in Salem, WI",
+          "description": "Explore brightening facial and dermaplaning options at Matrix in Salem, WI. Find care for dull-looking skin and uneven surface texture near Paddock Lake.",
+          "isPartOf": {
+            "@type": "WebSite",
+            "name": "Matrix Massage & Bodywork",
+            "url": "https://www.matrixmassage.net/"
+          },
+          "about": {
+            "@id": "https://www.matrixmassage.net/facial-goals/brighten-smooth#service"
+          },
+          "breadcrumb": {
+            "@id": "https://www.matrixmassage.net/facial-goals/brighten-smooth#breadcrumb"
+          }
+        },
+        {
+          "@type": "Service",
+          "@id": "https://www.matrixmassage.net/facial-goals/brighten-smooth#service",
+          "url": "https://www.matrixmassage.net/facial-goals/brighten-smooth",
+          "name": "Brightening Facials & Dermaplaning in Salem, WI",
+          "serviceType": "Personalized cosmetic facial skincare",
+          "description": "Explore brightening facial and dermaplaning options at Matrix in Salem, WI. Find care for dull-looking skin and uneven surface texture near Paddock Lake.",
+          "provider": {
+            "@type": "HealthAndBeautyBusiness",
+            "@id": "https://www.matrixmassage.net/#business",
+            "name": "Matrix Massage & Bodywork",
+            "url": "https://www.matrixmassage.net/",
+            "telephone": "+1-262-939-9325",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "24804 75th St",
+              "addressLocality": "Salem",
+              "addressRegion": "WI",
+              "postalCode": "53168",
+              "addressCountry": "US"
+            }
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.matrixmassage.net/facial-goals/brighten-smooth#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.matrixmassage.net/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Facials",
+              "item": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Brightening Facials & Dermaplaning in Salem, WI",
+              "item": "https://www.matrixmassage.net/facial-goals/brighten-smooth"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.matrixmassage.net/facial-goals/clear-balance",
+    "before": "Two empty JSON-LD blocks ({}) and no substantive structured-data entities in normal and bot-diagnostic responses; native checkpoint intentionally omits outdated CMS structuredDataJson.",
+    "classification": "recommended improvement",
+    "baselinePublicBotSha256": "136d8c571f1a7bad58ad6a899c0ffeb51f8884793e333e5c3fa7af78013cb9ed",
+    "after": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://www.matrixmassage.net/facial-goals/clear-balance#webpage",
+          "url": "https://www.matrixmassage.net/facial-goals/clear-balance",
+          "name": "Facials for Congested Skin in Salem, WI",
+          "description": "Explore personalized facial care for congested or oily-looking skin at Matrix in Salem, WI, near Paddock Lake. Learn what to expect and how to book.",
+          "isPartOf": {
+            "@type": "WebSite",
+            "name": "Matrix Massage & Bodywork",
+            "url": "https://www.matrixmassage.net/"
+          },
+          "about": {
+            "@id": "https://www.matrixmassage.net/facial-goals/clear-balance#service"
+          },
+          "breadcrumb": {
+            "@id": "https://www.matrixmassage.net/facial-goals/clear-balance#breadcrumb"
+          }
+        },
+        {
+          "@type": "Service",
+          "@id": "https://www.matrixmassage.net/facial-goals/clear-balance#service",
+          "url": "https://www.matrixmassage.net/facial-goals/clear-balance",
+          "name": "Facials for Congested Skin in Salem, WI",
+          "serviceType": "Personalized cosmetic facial skincare",
+          "description": "Explore personalized facial care for congested or oily-looking skin at Matrix in Salem, WI, near Paddock Lake. Learn what to expect and how to book.",
+          "provider": {
+            "@type": "HealthAndBeautyBusiness",
+            "@id": "https://www.matrixmassage.net/#business",
+            "name": "Matrix Massage & Bodywork",
+            "url": "https://www.matrixmassage.net/",
+            "telephone": "+1-262-939-9325",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "24804 75th St",
+              "addressLocality": "Salem",
+              "addressRegion": "WI",
+              "postalCode": "53168",
+              "addressCountry": "US"
+            }
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.matrixmassage.net/facial-goals/clear-balance#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.matrixmassage.net/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Facials",
+              "item": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Facials for Congested Skin in Salem, WI",
+              "item": "https://www.matrixmassage.net/facial-goals/clear-balance"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.matrixmassage.net/facial-goals/calm-support",
+    "before": "Two empty JSON-LD blocks ({}) and no substantive structured-data entities in normal and bot-diagnostic responses; native checkpoint intentionally omits outdated CMS structuredDataJson.",
+    "classification": "recommended improvement",
+    "baselinePublicBotSha256": "f4b358f402566c718f92ebae1eac6810f2a63c6940922077b3ad1fe16c3e24fa",
+    "after": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://www.matrixmassage.net/facial-goals/calm-support#webpage",
+          "url": "https://www.matrixmassage.net/facial-goals/calm-support",
+          "name": "Gentle Facial Care for Sensitive Skin in Salem, WI",
+          "description": "Explore gentle, individualized facial care at Matrix in Salem, WI. Share your sensitivities, learn what to expect and choose a comfortable starting point.",
+          "isPartOf": {
+            "@type": "WebSite",
+            "name": "Matrix Massage & Bodywork",
+            "url": "https://www.matrixmassage.net/"
+          },
+          "about": {
+            "@id": "https://www.matrixmassage.net/facial-goals/calm-support#service"
+          },
+          "breadcrumb": {
+            "@id": "https://www.matrixmassage.net/facial-goals/calm-support#breadcrumb"
+          }
+        },
+        {
+          "@type": "Service",
+          "@id": "https://www.matrixmassage.net/facial-goals/calm-support#service",
+          "url": "https://www.matrixmassage.net/facial-goals/calm-support",
+          "name": "Gentle Facial Care for Sensitive Skin in Salem, WI",
+          "serviceType": "Personalized cosmetic facial skincare",
+          "description": "Explore gentle, individualized facial care at Matrix in Salem, WI. Share your sensitivities, learn what to expect and choose a comfortable starting point.",
+          "provider": {
+            "@type": "HealthAndBeautyBusiness",
+            "@id": "https://www.matrixmassage.net/#business",
+            "name": "Matrix Massage & Bodywork",
+            "url": "https://www.matrixmassage.net/",
+            "telephone": "+1-262-939-9325",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "24804 75th St",
+              "addressLocality": "Salem",
+              "addressRegion": "WI",
+              "postalCode": "53168",
+              "addressCountry": "US"
+            }
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.matrixmassage.net/facial-goals/calm-support#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.matrixmassage.net/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Facials",
+              "item": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gentle Facial Care for Sensitive Skin in Salem, WI",
+              "item": "https://www.matrixmassage.net/facial-goals/calm-support"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.matrixmassage.net/facial-goals/age-defying-firm",
+    "before": "Two empty JSON-LD blocks ({}) and no substantive structured-data entities in normal and bot-diagnostic responses; native checkpoint intentionally omits outdated CMS structuredDataJson.",
+    "classification": "recommended improvement",
+    "baselinePublicBotSha256": "bff9b226fec0c0cf7a11777f4ec690ebb05ed8c9e7e458d63d05435dbd6f787e",
+    "after": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://www.matrixmassage.net/facial-goals/age-defying-firm#webpage",
+          "url": "https://www.matrixmassage.net/facial-goals/age-defying-firm",
+          "name": "Facials for Mature Skin in Salem, WI",
+          "description": "Explore facial care for mature skin, fine lines and a refreshed-looking complexion at Matrix in Salem, WI, welcoming nearby Salem Lakes and Paddock Lake guests.",
+          "isPartOf": {
+            "@type": "WebSite",
+            "name": "Matrix Massage & Bodywork",
+            "url": "https://www.matrixmassage.net/"
+          },
+          "about": {
+            "@id": "https://www.matrixmassage.net/facial-goals/age-defying-firm#service"
+          },
+          "breadcrumb": {
+            "@id": "https://www.matrixmassage.net/facial-goals/age-defying-firm#breadcrumb"
+          }
+        },
+        {
+          "@type": "Service",
+          "@id": "https://www.matrixmassage.net/facial-goals/age-defying-firm#service",
+          "url": "https://www.matrixmassage.net/facial-goals/age-defying-firm",
+          "name": "Facials for Mature Skin in Salem, WI",
+          "serviceType": "Personalized cosmetic facial skincare",
+          "description": "Explore facial care for mature skin, fine lines and a refreshed-looking complexion at Matrix in Salem, WI, welcoming nearby Salem Lakes and Paddock Lake guests.",
+          "provider": {
+            "@type": "HealthAndBeautyBusiness",
+            "@id": "https://www.matrixmassage.net/#business",
+            "name": "Matrix Massage & Bodywork",
+            "url": "https://www.matrixmassage.net/",
+            "telephone": "+1-262-939-9325",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "24804 75th St",
+              "addressLocality": "Salem",
+              "addressRegion": "WI",
+              "postalCode": "53168",
+              "addressCountry": "US"
+            }
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.matrixmassage.net/facial-goals/age-defying-firm#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.matrixmassage.net/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Facials",
+              "item": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Facials for Mature Skin in Salem, WI",
+              "item": "https://www.matrixmassage.net/facial-goals/age-defying-firm"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://www.matrixmassage.net/facial-goals/maintain-glow",
+    "before": "Two empty JSON-LD blocks ({}) and no substantive structured-data entities in normal and bot-diagnostic responses; native checkpoint intentionally omits outdated CMS structuredDataJson.",
+    "classification": "recommended improvement",
+    "baselinePublicBotSha256": "85e46950635b8359333293b13eec4da8517eddfead12f90e1ed6dae0747b4e29",
+    "after": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://www.matrixmassage.net/facial-goals/maintain-glow#webpage",
+          "url": "https://www.matrixmassage.net/facial-goals/maintain-glow",
+          "name": "Facial Maintenance for a Fresh Glow in Salem, WI",
+          "description": "Keep facial care part of your routine at Matrix in Salem, WI. Explore personalized maintenance facials, practical aftercare and a refreshed-looking glow.",
+          "isPartOf": {
+            "@type": "WebSite",
+            "name": "Matrix Massage & Bodywork",
+            "url": "https://www.matrixmassage.net/"
+          },
+          "about": {
+            "@id": "https://www.matrixmassage.net/facial-goals/maintain-glow#service"
+          },
+          "breadcrumb": {
+            "@id": "https://www.matrixmassage.net/facial-goals/maintain-glow#breadcrumb"
+          }
+        },
+        {
+          "@type": "Service",
+          "@id": "https://www.matrixmassage.net/facial-goals/maintain-glow#service",
+          "url": "https://www.matrixmassage.net/facial-goals/maintain-glow",
+          "name": "Facial Maintenance for a Fresh Glow in Salem, WI",
+          "serviceType": "Personalized cosmetic facial skincare",
+          "description": "Keep facial care part of your routine at Matrix in Salem, WI. Explore personalized maintenance facials, practical aftercare and a refreshed-looking glow.",
+          "provider": {
+            "@type": "HealthAndBeautyBusiness",
+            "@id": "https://www.matrixmassage.net/#business",
+            "name": "Matrix Massage & Bodywork",
+            "url": "https://www.matrixmassage.net/",
+            "telephone": "+1-262-939-9325",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "24804 75th St",
+              "addressLocality": "Salem",
+              "addressRegion": "WI",
+              "postalCode": "53168",
+              "addressCountry": "US"
+            }
+          }
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://www.matrixmassage.net/facial-goals/maintain-glow#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://www.matrixmassage.net/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Facials",
+              "item": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Facial Maintenance for a Fresh Glow in Salem, WI",
+              "item": "https://www.matrixmassage.net/facial-goals/maintain-glow"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

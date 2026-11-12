@@ -1,0 +1,10 @@
+--- spa-and-beauty-services-salem-wi.before.html
++++ spa-and-beauty-services-salem-wi.after.html
+@@ -47,6 +47,7 @@
+ <details><summary>Do you offer lash fills as well as full sets?</summary><p>Yes. Classic, Hybrid, and Volume lash extensions each have full-set and one-, two-, and three-week fill appointments. Choose the matching style and timing in the current booking menu.</p></details>
+ <details><summary>Is hair drying included with Head Spa?</summary><p>Head Spa services leave hair wet. Luxury Blowout Styling is a separate add-on appointment with a cosmetologist, when available. Reserve it with your visit if you would like your hair professionally dried and styled.</p></details>
+ <details><summary>Where do I go, and how do I book?</summary><p>Visit Matrix Massage &amp; Bodywork at 24804 75th St, Salem, WI 53168. Book online through our current Square menu or text 262-939-9325. Our Salem studio welcomes guests from Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Kenosha, and nearby Antioch, Illinois.</p></details>
++<p class="sb-small">Planning a visit from nearby? See our <a class="sb-link" href="https://www.matrixmassage.net/spa-services-near-bristol-wi" target="_top">spa services near Bristol</a> or <a class="sb-link" href="https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi" target="_top">spa services near Twin Lakes and Genoa City</a> for service ideas and directions to our Salem studio.</p>
+ </div></div></section>
+ <section class="sb-close"><div class="sb-close-inner"><p class="sb-eyebrow">YOUR NEXT MOMENT OF CARE</p><h2>Make room for yourself.</h2><p>A refreshed scalp. Cared-for skin. A finish that feels like you.<br> Find your next visit at Matrix.</p><a class="sb-button sb-light" href="https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services" target="_top">BOOK SPA &amp; BEAUTY</a><p class="sb-small">24804 75th St · Salem, WI · 262-939-9325</p></div></section>
+ </div>

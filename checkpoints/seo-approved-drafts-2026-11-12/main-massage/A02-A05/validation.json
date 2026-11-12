@@ -1,0 +1,105 @@
+{
+  "result": "PASS: local static and source preservation checks",
+  "rendererSyntax": "PASS node --check",
+  "seoAssignmentSyntax": "PASS node --check",
+  "visibleTextMatchesFullSeoMarkup": true,
+  "orderedLinksMatchFullSeoMarkup": true,
+  "oneH1Unchanged": true,
+  "imageSourceAltAndLoadAttributesUnchanged": true,
+  "existingScriptWrapperAndTagUnchanged": true,
+  "unrelatedBodyBytesPreserved": true,
+  "existingCssBytesPreserved": true,
+  "uniqueIds": true,
+  "balancedMarkup": true,
+  "noBodyScriptHeadOrEventAttributes": true,
+  "noNewImagesLogoFontsAccordionOrHeightJavascript": true,
+  "faqCount": 5,
+  "onlyApprovedParagraphReplaced": true,
+  "addedLinkChecks": [
+    {
+      "href": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+      "anchor": "red light therapy page",
+      "check": "HTTP 200 from fresh read-only audit crawl",
+      "checked_at": "2026-11-12T15:00:49.109589+00:00",
+      "status": 200,
+      "final_url": "https://www.matrixmassage.net/red-light-therapy-salem-wi"
+    },
+    {
+      "href": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "anchor": "booking menu",
+      "check": "HTTP 200 from fresh read-only audit crawl",
+      "checked_at": "2026-11-12T15:00:48.399880+00:00",
+      "status": 200,
+      "final_url": "https://www.matrixmassage.net/book-appointments-salem-wi"
+    },
+    {
+      "href": "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+      "anchor": "deep tissue massage",
+      "check": "HTTP 200 from fresh read-only audit crawl",
+      "checked_at": "2026-11-12T15:00:43.276025+00:00",
+      "status": 200,
+      "final_url": "https://www.matrixmassage.net/deep-tissue-massage-salem-wi"
+    },
+    {
+      "href": "https://www.matrixmassage.net/swedish-massage-salem-wi",
+      "anchor": "Swedish massage",
+      "check": "HTTP 200 from fresh read-only audit crawl",
+      "checked_at": "2026-11-12T15:00:54.243435+00:00",
+      "status": 200,
+      "final_url": "https://www.matrixmassage.net/swedish-massage-salem-wi"
+    },
+    {
+      "href": "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+      "anchor": "manual lymphatic drainage",
+      "check": "HTTP 200 from fresh read-only audit crawl",
+      "checked_at": "2026-11-12T15:00:52.139333+00:00",
+      "status": 200,
+      "final_url": "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi"
+    },
+    {
+      "href": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "anchor": "current booking menu",
+      "check": "HTTP 200 from fresh read-only audit crawl",
+      "checked_at": "2026-11-12T15:00:48.399880+00:00",
+      "status": 200,
+      "final_url": "https://www.matrixmassage.net/book-appointments-salem-wi"
+    },
+    {
+      "href": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "anchor": "full booking menu",
+      "check": "HTTP 200 from fresh read-only audit crawl",
+      "checked_at": "2026-11-12T15:00:48.399880+00:00",
+      "status": 200,
+      "final_url": "https://www.matrixmassage.net/book-appointments-salem-wi"
+    },
+    {
+      "href": "https://maps.google.com/maps?cid=13922054554836148682",
+      "anchor": "directions link",
+      "check": "Exact verified public Matrix CID directions URL; external map destination not opened in this local build"
+    },
+    {
+      "href": "https://www.matrixmassage.net/massage-near-union-grove-wi",
+      "anchor": "massage near Union Grove",
+      "check": "HTTP 200 from fresh read-only audit crawl",
+      "checked_at": "2026-11-12T15:00:40.144391+00:00",
+      "status": 200,
+      "final_url": "https://www.matrixmassage.net/massage-near-union-grove-wi"
+    },
+    {
+      "href": "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi",
+      "anchor": "massage near Pleasant Prairie",
+      "check": "HTTP 200 from fresh read-only audit crawl",
+      "checked_at": "2026-11-12T15:00:35.315534+00:00",
+      "status": 200,
+      "final_url": "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi"
+    }
+  ],
+  "notTested": [
+    "Visual appearance",
+    "Browser keyboard interaction",
+    "Live Wix saved code readback",
+    "Native fixed mobile container dimensions/overflow",
+    "Publication",
+    "Actual Google index/crawl state"
+  ]
+}

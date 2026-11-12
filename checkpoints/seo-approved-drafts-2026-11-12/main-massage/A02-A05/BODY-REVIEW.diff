@@ -1,0 +1,43 @@
+--- baseline/body.html (display formatting)
++++ A02-A05/body.html (display formatting)
+@@ -116,7 +116,7 @@
+ <article class="enhancement-card">
+ <img class="enhancement-image" src="https://static.wixstatic.com/media/e4cc43_6b5f961d7de649cd8cc8f5cb7a772413~mv2.png/v1/fill/w_258,h_188,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/e4cc43_6b5f961d7de649cd8cc8f5cb7a772413~mv2.png" alt="Client receiving red and near-infrared light therapy with a PlatinumLED BioMax panel at Matrix Massage. Ideal for pain relief, skin rejuvenation, and deep tissue recovery." loading="lazy" decoding="async">
+ <p>
+-<strong>RED + NEAR-INFRARED LIGHT</strong> — Optional session using the PlatinumLED BioMax 900 panel for relaxation and general wellness. Current add-on options: 20 minutes $25 or 30 minutes $35. Check Square for availability.</p>
++<strong>RED + NEAR-INFRARED LIGHT</strong> — Optional session using the PlatinumLED BioMax 900 panel for relaxation and general wellness. Review current session and enhancement options on our <a href="https://www.matrixmassage.net/red-light-therapy-salem-wi">red light therapy page</a>, then check the <a href="https://www.matrixmassage.net/book-appointments-salem-wi">booking menu</a> for pricing and availability.</p>
+ </article>
+ <article class="enhancement-card">
+ <img class="enhancement-image" src="https://static.wixstatic.com/media/e4cc43_991fc47ba7d34dda8061b7ffc447105e~mv2.jpg/v1/fill/w_172,h_148,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Grounding.jpg" alt="Therapist preparing grounding mat on massage table with visible grounding cord for earthing therapy add-on." loading="lazy" decoding="async">
+@@ -139,6 +139,31 @@
+ <strong>GREEN LIGHT FOR FACE &amp; NECK</strong> — Optional, noninvasive light session available as a cosmetic wellness enhancement. Ask about availability and suitability.</p>
+ </article>
+ </div>
++<section class="massage-faq" aria-labelledby="massage-faq-heading">
++<h2 id="massage-faq-heading">Massage therapy: common questions</h2>
++<div class="massage-faq-list">
++<div class="massage-faq-item">
++<h3>What massage options does Matrix offer?</h3>
++<p>Our massage menu includes <a href="https://www.matrixmassage.net/deep-tissue-massage-salem-wi">deep tissue massage</a>, <a href="https://www.matrixmassage.net/swedish-massage-salem-wi">Swedish massage</a>, <a href="https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi">manual lymphatic drainage</a>, facial and head massage, and prenatal massage. Explore the service guides and <a href="https://www.matrixmassage.net/book-appointments-salem-wi">current booking menu</a> to choose an appointment.</p>
++</div>
++<div class="massage-faq-item">
++<h3>Can massage pressure be adjusted?</h3>
++<p>Your provider adjusts pressure and technique to your comfort, priorities and session length. Share your pressure preferences and areas of focus before and during your appointment.</p>
++</div>
++<div class="massage-faq-item">
++<h3>Where can I see current massage prices and appointment lengths?</h3>
++<p>Open our <a href="https://www.matrixmassage.net/book-appointments-salem-wi">full booking menu</a> to review current services, prices, appointment lengths and availability before choosing a time.</p>
++</div>
++<div class="massage-faq-item">
++<h3>Where is Matrix Massage &amp; Bodywork, and how do I get directions?</h3>
++<p>All appointments take place at 24804 75th St, Salem, WI 53168. Use our <a href="https://maps.google.com/maps?cid=13922054554836148682">directions link</a> to plan your visit to the Salem studio.</p>
++</div>
++<div class="massage-faq-item">
++<h3>Can I visit from Union Grove or Pleasant Prairie?</h3>
++<p>Yes. Matrix welcomes guests from Union Grove and Pleasant Prairie to our Salem studio. Our <a href="https://www.matrixmassage.net/massage-near-union-grove-wi">massage near Union Grove</a> and <a href="https://www.matrixmassage.net/massage-near-pleasant-prairie-wi">massage near Pleasant Prairie</a> guides can help you plan a visit.</p>
++</div>
++</div>
++</section>
+ <div class="enhancement-cta">
+ <a class="button" href="https://www.matrixmassage.net/book-appointments-salem-wi" target="_blank" rel="noreferrer noopener">Book Now</a>
+ </div>

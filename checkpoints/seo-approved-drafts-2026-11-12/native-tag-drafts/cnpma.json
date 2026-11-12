@@ -1,0 +1,131 @@
+{
+  "changeId": "A07",
+  "pageId": "cnpma",
+  "api": "PATCH https://www.wixapis.com/promote/seo/v1/item-seo-tags/STATIC_PAGE/cnpma",
+  "beforeTags": [
+    {
+      "type": "meta",
+      "props": {
+        "name": "description",
+        "content": "Looking for massage near Pleasant Prairie, WI? Visit Matrix Massage & Bodywork in Salem for personalized deep tissue, Swedish and lymphatic massage."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "title",
+      "children": "Massage Near Pleasant Prairie, WI | Matrix Massage & Bodywork",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "MZxs0U9B",
+        "displayName": "FAQ Schema"
+      },
+      "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Is Matrix Massage & Bodywork actually in Pleasant Prairie?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. Our studio is located in Salem, Wisconsin, and we welcome guests traveling from Pleasant Prairie and surrounding communities.\"}},{\"@type\":\"Question\",\"name\":\"How long is the drive from Pleasant Prairie?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It varies based on your starting address, time and road conditions. Open our directions link to view the current route to 24804 75th St in Salem.\"}},{\"@type\":\"Question\",\"name\":\"Can I book deep tissue or Swedish massage from Pleasant Prairie?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You can review available massage services online and choose the appropriate appointment at the Salem studio.\"}},{\"@type\":\"Question\",\"name\":\"Does Matrix offer lymphatic drainage massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Check the current massage menu for availability. If you're interested because of surgery or swelling, seek medical guidance before booking.\"}},{\"@type\":\"Question\",\"name\":\"How do I know what my appointment costs?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Use our current online booking menu to see service prices and durations before you select a time.\"}},{\"@type\":\"Question\",\"name\":\"Can I ask questions before booking?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Text Matrix Massage & Bodywork at (262) 939-9325 with your question and the service you're considering.\"}}]}",
+      "custom": false,
+      "disabled": false
+    }
+  ],
+  "afterTags": [
+    {
+      "type": "meta",
+      "props": {
+        "name": "description",
+        "content": "Looking for massage near Pleasant Prairie, WI? Visit Matrix Massage & Bodywork in Salem for personalized deep tissue, Swedish and lymphatic massage."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "title",
+      "children": "Massage Near Pleasant Prairie, WI | Matrix Massage & Bodywork",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "MZxs0U9B",
+        "displayName": "FAQ Schema"
+      },
+      "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Is Matrix Massage & Bodywork actually in Pleasant Prairie?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. Our studio is located in Salem, Wisconsin, and we welcome guests traveling from Pleasant Prairie and surrounding communities.\"}},{\"@type\":\"Question\",\"name\":\"How long is the drive from Pleasant Prairie?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It varies based on your starting address, time and road conditions. Open our directions link to view the current route to 24804 75th St in Salem.\"}},{\"@type\":\"Question\",\"name\":\"Can I book deep tissue or Swedish massage from Pleasant Prairie?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You can review available massage services online and choose the appropriate appointment at the Salem studio.\"}},{\"@type\":\"Question\",\"name\":\"Does Matrix offer lymphatic drainage massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Check the current massage menu for availability. If you're interested because of surgery or swelling, seek medical guidance before booking.\"}},{\"@type\":\"Question\",\"name\":\"How do I know what my appointment costs?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Use our current online booking menu to see service prices and durations before you select a time.\"}},{\"@type\":\"Question\",\"name\":\"Can I ask questions before booking?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Text Matrix Massage & Bodywork at (262) 939-9325 with your question and the service you're considering.\"}}]}",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "displayName": "Matrix Service and Breadcrumbs"
+      },
+      "children": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"HealthAndBeautyBusiness\",\"@id\":\"https://www.matrixmassage.net/#business\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/\",\"telephone\":\"+1-262-939-9325\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"},\"hasMap\":\"https://maps.google.com/maps?cid=13922054554836148682\"},{\"@type\":\"Service\",\"@id\":\"https://www.matrixmassage.net/massage-near-pleasant-prairie-wi#service\",\"name\":\"Massage Near Pleasant Prairie, WI\",\"serviceType\":\"Massage Therapy\",\"url\":\"https://www.matrixmassage.net/massage-near-pleasant-prairie-wi\",\"provider\":{\"@id\":\"https://www.matrixmassage.net/#business\"},\"areaServed\":{\"@type\":\"City\",\"name\":\"Pleasant Prairie, Wisconsin\"}},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/massage-near-pleasant-prairie-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Massage Therapy Services\",\"item\":\"https://www.matrixmassage.net/massage-therapy-services-salem-wi\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Massage Near Pleasant Prairie, WI\",\"item\":\"https://www.matrixmassage.net/massage-near-pleasant-prairie-wi\"}]}]}",
+      "custom": false,
+      "disabled": false
+    }
+  ],
+  "draftRequest": {
+    "itemSeoTags": {
+      "tags": [
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Looking for massage near Pleasant Prairie, WI? Visit Matrix Massage & Bodywork in Salem for personalized deep tissue, Swedish and lymphatic massage."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "title",
+          "children": "Massage Near Pleasant Prairie, WI | Matrix Massage & Bodywork",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "MZxs0U9B",
+            "displayName": "FAQ Schema"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"Is Matrix Massage & Bodywork actually in Pleasant Prairie?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. Our studio is located in Salem, Wisconsin, and we welcome guests traveling from Pleasant Prairie and surrounding communities.\"}},{\"@type\":\"Question\",\"name\":\"How long is the drive from Pleasant Prairie?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It varies based on your starting address, time and road conditions. Open our directions link to view the current route to 24804 75th St in Salem.\"}},{\"@type\":\"Question\",\"name\":\"Can I book deep tissue or Swedish massage from Pleasant Prairie?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"You can review available massage services online and choose the appropriate appointment at the Salem studio.\"}},{\"@type\":\"Question\",\"name\":\"Does Matrix offer lymphatic drainage massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Check the current massage menu for availability. If you're interested because of surgery or swelling, seek medical guidance before booking.\"}},{\"@type\":\"Question\",\"name\":\"How do I know what my appointment costs?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Use our current online booking menu to see service prices and durations before you select a time.\"}},{\"@type\":\"Question\",\"name\":\"Can I ask questions before booking?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Text Matrix Massage & Bodywork at (262) 939-9325 with your question and the service you're considering.\"}}]}",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "displayName": "Matrix Service and Breadcrumbs"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"HealthAndBeautyBusiness\",\"@id\":\"https://www.matrixmassage.net/#business\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/\",\"telephone\":\"+1-262-939-9325\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"},\"hasMap\":\"https://maps.google.com/maps?cid=13922054554836148682\"},{\"@type\":\"Service\",\"@id\":\"https://www.matrixmassage.net/massage-near-pleasant-prairie-wi#service\",\"name\":\"Massage Near Pleasant Prairie, WI\",\"serviceType\":\"Massage Therapy\",\"url\":\"https://www.matrixmassage.net/massage-near-pleasant-prairie-wi\",\"provider\":{\"@id\":\"https://www.matrixmassage.net/#business\"},\"areaServed\":{\"@type\":\"City\",\"name\":\"Pleasant Prairie, Wisconsin\"}},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/massage-near-pleasant-prairie-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Massage Therapy Services\",\"item\":\"https://www.matrixmassage.net/massage-therapy-services-salem-wi\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Massage Near Pleasant Prairie, WI\",\"item\":\"https://www.matrixmassage.net/massage-near-pleasant-prairie-wi\"}]}]}",
+          "custom": false,
+          "disabled": false
+        }
+      ]
+    },
+    "fieldMask": "tags",
+    "publish": false
+  },
+  "baselineSha256": "90994630b82fc58f4c8ef7378a033d98b087aa0814c30145b1cf4406cfd87ab8",
+  "candidateSha256": "c448bc1de54e967f65dbba81441e11e48276e6e44289ac03661adf06191a5547",
+  "canonicalization": "UTF-8 JSON sorted keys, compact separators, ensure_ascii=False; tags only. Refresh entire current item, compare baseline and preserve every unrelated tag."
+}
