@@ -1,0 +1,72 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "Infrared Sauna",
+    "revision": "sauna-review-2-2026-11-12",
+    "tagName": "matrix-sauna-page",
+    "elementId": "matrixServicePageV21",
+    "rootClass": "matrix-sauna",
+    "pageUrl": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+    "seoTitle": "Infrared Sauna in Salem, WI | Matrix Wellness & Recovery",
+    "seoDescription": "Book a private infrared sauna session in Salem, WI for warmth, relaxation and recovery-focused wellness at Matrix Massage & Bodywork.",
+    "seoSource": "Fresh native baseline: ../seo-baseline/infrared-sauna.json, captured 2026-11-12T21:30:42.970Z. Preserved title/description/canonical. This config does not publish or modify native head tags.",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 8
+  },
+  "seo": {
+    "title": "Infrared Sauna in Salem, WI | Matrix Wellness & Recovery",
+    "description": "Book a private infrared sauna session in Salem, WI for warmth, relaxation and recovery-focused wellness at Matrix Massage & Bodywork.",
+    "canonical": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+    "source": "Fresh native baseline: ../seo-baseline/infrared-sauna.json, captured 2026-11-12T21:30:42.970Z. Preserved title/description/canonical. This config does not publish or modify native head tags."
+  },
+  "h1": "Infrared Sauna in Salem, WI",
+  "faqCount": 8,
+  "links": [
+    "https://www.matrixmassage.net/",
+    "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "#ms-options",
+    "#ms-experience",
+    "#ms-options",
+    "#ms-visit",
+    "#ms-faq",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "sms:+12629399325",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.matrixmassage.net/about-5",
+    "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+    "#ms-options",
+    "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+    "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+    "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi",
+    "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+    "sms:+12629399325",
+    "https://www.matrixmassage.net/book-appointments-salem-wi",
+    "sms:+12629399325",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "sms:+12629399325"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+      "alt": "Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg/v1/fill/w_1200,h_1000,al_c,q_80,enc_auto/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg",
+      "alt": "Illustrative sauna interior with warm wood, soft lighting and folded towels"
+    }
+  ],
+  "files": {
+    "body.html": "a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e",
+    "style.css": "1174f57917a1d2768e9162445dc01382981f15d6991fc8f114236b27d299c930",
+    "renderer.js": "9c8186c457fecc789da59b898518abc20191216c59b7ed64581162ac839943ca",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "814110abc679d7653f06383f89c56f4437b531580e22e2c96ce017f506875be6",
+    "preview.html": "683e02310c1859fa2af13e0f5e10e3e406b1e8a39f2ecd604e914cb6ae2a3ac7",
+    "faq-schema.json": "496ac9662172c0e270e6ee83e53a4186234d4d62421314ab0821ff9fff44e0f4"
+  },
+  "rendererBytes": 26417
+}

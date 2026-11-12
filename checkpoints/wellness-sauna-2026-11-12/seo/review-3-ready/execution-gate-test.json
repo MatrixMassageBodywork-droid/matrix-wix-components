@@ -1,0 +1,7 @@
+{
+  "javascriptSyntax": "PASS",
+  "missingNativeReadbackGuard": "PASS",
+  "networkCalls": 0,
+  "published": false,
+  "resultStatus": "NOT_EXECUTED_NATIVE_BODY_EVIDENCE_REQUIRED"
+}

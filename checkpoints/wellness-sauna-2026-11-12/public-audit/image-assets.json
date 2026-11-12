@@ -1,0 +1,37 @@
+[
+  {
+    "key": "existing-sauna-stock",
+    "url": "https://static.wixstatic.com/media/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg",
+    "status": 200,
+    "bytes": 732573,
+    "path": "/workspace/scratch/6f987ab79794/matrix-wellness/public-audit/images/existing-sauna-stock.jpg"
+  },
+  {
+    "key": "existing-wellness-logo",
+    "url": "https://static.wixstatic.com/media/e4cc43_d1045fb36be64f18aa08c10b03f34f91~mv2.jpg",
+    "status": 200,
+    "bytes": 149807,
+    "path": "/workspace/scratch/6f987ab79794/matrix-wellness/public-audit/images/existing-wellness-logo.jpg"
+  },
+  {
+    "key": "red-light-panel",
+    "url": "https://static.wixstatic.com/media/e4cc43_6770ca078851428da084817f8912d7f8~mv2.jpg",
+    "status": 200,
+    "bytes": 100108,
+    "path": "/workspace/scratch/6f987ab79794/matrix-wellness/public-audit/images/red-light-panel.jpg"
+  },
+  {
+    "key": "red-light-product",
+    "url": "https://static.wixstatic.com/media/e4cc43_5d1097c9f904431698b47d8b89e02b36~mv2.png",
+    "status": 200,
+    "bytes": 152782,
+    "path": "/workspace/scratch/6f987ab79794/matrix-wellness/public-audit/images/red-light-product.png"
+  },
+  {
+    "key": "matrix-room",
+    "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@6707c3cadc068d9c4bd20d34fb83a23dfb1c288a/pages/home/performance-2026-11-09/room-1200.webp",
+    "status": 200,
+    "bytes": 114068,
+    "path": "/workspace/scratch/6f987ab79794/matrix-wellness/public-audit/images/matrix-room.webp"
+  }
+]

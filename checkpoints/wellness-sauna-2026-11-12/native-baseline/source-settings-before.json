@@ -1,0 +1,25 @@
+{
+  "sauna": {
+    "pageId": "nf4iw",
+    "componentId": "comp-muu96xx4",
+    "sectionId": "comp-muu92bbq",
+    "elementId": "matrixServicePageV21",
+    "tagName": "matrix-service-page-v21",
+    "sourceType": "Velo file",
+    "sourceFile": "matrix-service-page-v21.js",
+    "width": 980,
+    "height": 384,
+    "y": 192,
+    "sectionHeight": 500,
+    "source": "Native Element Attributes and property panel observed2026-11-12"
+  },
+  "wellness": {
+    "pageId": "hfzq0",
+    "blankSectionComponentId": "comp-mppziogk1",
+    "blankSectionVeloId": "section4",
+    "height": 40,
+    "y": 692,
+    "width": 980,
+    "source": "Native Layers selection and property panel observed2026-11-12"
+  }
+}

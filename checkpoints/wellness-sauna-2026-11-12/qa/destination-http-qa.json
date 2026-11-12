@@ -1,0 +1,205 @@
+{
+  "capturedAt": "2026-11-12T21:40:58.309803+00:00",
+  "results": [
+    {
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+      "finalUrl": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+      "status": 200,
+      "bytes": 222117,
+      "contentType": "text/html; charset=utf-8",
+      "sha256": null
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg/v1/fill/w_1000,h_750,al_c,q_80,enc_auto/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg",
+      "finalUrl": "https://static.wixstatic.com/media/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg/v1/fill/w_1000,h_750,al_c,q_80,enc_auto/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg",
+      "status": 200,
+      "bytes": 78414,
+      "contentType": "image/jpeg",
+      "sha256": "8731c85818e99706e6df3d4410b54f69a02b67e07a2b037ccca458449f2cbd31"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg/v1/fill/w_1200,h_1000,al_c,q_80,enc_auto/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg",
+      "finalUrl": "https://static.wixstatic.com/media/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg/v1/fill/w_1200,h_1000,al_c,q_80,enc_auto/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg",
+      "status": 200,
+      "bytes": 118884,
+      "contentType": "image/jpeg",
+      "sha256": "7727f11351514c9074246289d432d8d9e0e0519fb53bf5fb421aa142de42f3ed"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg/v1/fill/w_1600,h_900,al_c,q_80,enc_auto/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg",
+      "finalUrl": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg/v1/fill/w_1600,h_900,al_c,q_80,enc_auto/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg",
+      "status": 200,
+      "bytes": 172452,
+      "contentType": "image/jpeg",
+      "sha256": "5e466db994796abb36694f62a15316900dc9dbce6f1cc3b1595597f16603efba"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg/v1/fill/w_1600,h_900,al_c,q_80,enc_webp,quality_auto/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg",
+      "finalUrl": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg/v1/fill/w_1600,h_900,al_c,q_80,enc_webp,quality_auto/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg",
+      "status": 200,
+      "bytes": 172452,
+      "contentType": "image/jpeg",
+      "sha256": "5e466db994796abb36694f62a15316900dc9dbce6f1cc3b1595597f16603efba"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/e4cc43_6770ca078851428da084817f8912d7f8~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_80,enc_auto/e4cc43_6770ca078851428da084817f8912d7f8~mv2.jpg",
+      "finalUrl": "https://static.wixstatic.com/media/e4cc43_6770ca078851428da084817f8912d7f8~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_80,enc_auto/e4cc43_6770ca078851428da084817f8912d7f8~mv2.jpg",
+      "status": 200,
+      "bytes": 95479,
+      "contentType": "image/jpeg",
+      "sha256": "696ff85e67dad42aa62b54ad5a561dafa09ba5dd6790f35e052bcafc4ba0063a"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+      "finalUrl": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+      "status": 200,
+      "bytes": 181940,
+      "contentType": "image/jpeg",
+      "sha256": "7ffb947caea7309fb8e4c42b24049b75b5f421e338711568a0085b4c39417708"
+    },
+    {
+      "url": "https://us.fullscript.com/s/matrix_massage_wellness/shop",
+      "finalUrl": "https://us.fullscript.com/s/matrix_massage_wellness/shop",
+      "status": 200,
+      "bytes": 356102,
+      "contentType": "text/html; charset=utf-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+      "finalUrl": "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+      "status": 200,
+      "bytes": 226458,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.matrixmassage.net/",
+      "finalUrl": "https://www.matrixmassage.net/",
+      "status": 200,
+      "bytes": 970910,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.matrixmassage.net/about-5",
+      "finalUrl": "https://www.matrixmassage.net/about-5",
+      "status": 200,
+      "bytes": 835573,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "status": 200,
+      "bytes": 849009,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "status": 200,
+      "bytes": 851938,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+      "status": 200,
+      "bytes": 837751,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi",
+      "finalUrl": "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi",
+      "status": 200,
+      "bytes": 828423,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+      "status": 200,
+      "bytes": 835733,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+      "status": 200,
+      "bytes": 890447,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.matrixmassage.net/red-light-therapy-glow-score",
+      "finalUrl": "https://www.matrixmassage.net/red-light-therapy-glow-score",
+      "status": 200,
+      "bytes": 838925,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+      "status": 200,
+      "bytes": 898895,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+      "status": 200,
+      "bytes": 871104,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+      "finalUrl": "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+      "status": 200,
+      "bytes": 840361,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+      "finalUrl": "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+      "status": 200,
+      "bytes": 928495,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+      "finalUrl": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+      "status": 200,
+      "bytes": 840652,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.matrixmassage.net/supplements",
+      "finalUrl": "https://www.matrixmassage.net/supplements",
+      "status": 200,
+      "bytes": 955638,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    },
+    {
+      "url": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "status": 200,
+      "bytes": 963116,
+      "contentType": "text/html; charset=UTF-8",
+      "sha256": null
+    }
+  ]
+}

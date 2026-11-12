@@ -1,0 +1,935 @@
+[
+  {
+    "name": "Classic Lash Extensions | Full Set",
+    "description": "Classic lash extensions for a softly defined, polished look. A full set at Matrix Massage & Bodywork in Salem, Wisconsin.",
+    "price_cents": 17000,
+    "duration_minutes": 60.0,
+    "id": "AHZUYXVN3SZNP3PGGFKXDNZZ",
+    "variations": [
+      {
+        "name": "Regular",
+        "price_cents": 17000,
+        "duration_minutes": 60.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Classic Lash Extensions | 1-Week Fill",
+    "description": "A 1-week maintenance appointment for your classic lash extensions to refresh your lash line between full sets.",
+    "price_cents": 5500,
+    "duration_minutes": 45.0,
+    "id": "Y7YTEMSJSMYJQLC6TWX5JHDW",
+    "variations": [
+      {
+        "name": "Regular",
+        "price_cents": 5500,
+        "duration_minutes": 45.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Classic Lash Extensions | 2-Week Fill",
+    "description": "A 2-week maintenance appointment for your classic lash extensions to refresh your lash line between full sets.",
+    "price_cents": 6500,
+    "duration_minutes": 45.0,
+    "id": "GMBTB3SYBZZS2B6U4MA5GHVU",
+    "variations": [
+      {
+        "name": "Regular",
+        "price_cents": 6500,
+        "duration_minutes": 45.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Classic Lash Extensions | 3-Week Fill",
+    "description": "A 3-week maintenance appointment for your classic lash extensions to refresh your lash line between full sets.",
+    "price_cents": 7500,
+    "duration_minutes": 45.0,
+    "id": "ZMAXNNHQBBMZRQBFDXFRW2SJ",
+    "variations": [
+      {
+        "name": "Regular",
+        "price_cents": 7500,
+        "duration_minutes": 45.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Hybrid Lash Extensions | Full Set",
+    "description": "Hybrid lash extensions for a textured, fuller-looking lash line. A full set at Matrix Massage & Bodywork in Salem, Wisconsin.",
+    "price_cents": 20000,
+    "duration_minutes": 60.0,
+    "id": "KGPGPGY2THJJRWGXP22WJPTZ",
+    "variations": [
+      {
+        "name": "Regular",
+        "price_cents": 20000,
+        "duration_minutes": 60.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Hybrid Lash Extensions | 1-Week Fill",
+    "description": "A 1-week maintenance appointment for your hybrid lash extensions to refresh your lash line between full sets.",
+    "price_cents": 6500,
+    "duration_minutes": 45.0,
+    "id": "XJDZPUFYUOT3LIKMIDG2OYW2",
+    "variations": [
+      {
+        "name": "Regular",
+        "price_cents": 6500,
+        "duration_minutes": 45.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Hybrid Lash Extensions | 2-Week Fill",
+    "description": "A 2-week maintenance appointment for your hybrid lash extensions to refresh your lash line between full sets.",
+    "price_cents": 7500,
+    "duration_minutes": 45.0,
+    "id": "SLTZ7HZW5YDRM5LAL6AYYQ6D",
+    "variations": [
+      {
+        "name": "Regular",
+        "price_cents": 7500,
+        "duration_minutes": 45.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Hybrid Lash Extensions | 3-Week Fill",
+    "description": "A 3-week maintenance appointment for your hybrid lash extensions to refresh your lash line between full sets.",
+    "price_cents": 8500,
+    "duration_minutes": 45.0,
+    "id": "KXDLPSHD6A3TRMXPQPWCZUPD",
+    "variations": [
+      {
+        "name": "Regular",
+        "price_cents": 8500,
+        "duration_minutes": 45.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Volume Lash Extensions | Full Set",
+    "description": "Volume lash extensions for fuller definition and a more dramatic finish. A full set at Matrix Massage & Bodywork in Salem, Wisconsin.",
+    "price_cents": 22000,
+    "duration_minutes": 60.0,
+    "id": "JS7RTFPI4HOWHCZRGZ6NUXCN",
+    "variations": [
+      {
+        "name": "Regular",
+        "price_cents": 22000,
+        "duration_minutes": 60.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Volume Lash Extensions | 1-Week Fill",
+    "description": "A 1-week maintenance appointment for your volume lash extensions to refresh your lash line between full sets.",
+    "price_cents": 7500,
+    "duration_minutes": 45.0,
+    "id": "CGWFEXHSJ2DHRKZBLY6PCDXZ",
+    "variations": [
+      {
+        "name": "Regular",
+        "price_cents": 7500,
+        "duration_minutes": 45.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Volume Lash Extensions | 2-Week Fill",
+    "description": "A 2-week maintenance appointment for your volume lash extensions to refresh your lash line between full sets.",
+    "price_cents": 8500,
+    "duration_minutes": 45.0,
+    "id": "XEI2TFU7WOIVVGX4T42SEY5C",
+    "variations": [
+      {
+        "name": "Regular",
+        "price_cents": 8500,
+        "duration_minutes": 45.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Volume Lash Extensions | 3-Week Fill",
+    "description": "A 3-week maintenance appointment for your volume lash extensions to refresh your lash line between full sets.",
+    "price_cents": 9500,
+    "duration_minutes": 45.0,
+    "id": "BTGYEPIK3T7DIJ4JCD4GVGST",
+    "variations": [
+      {
+        "name": "Regular",
+        "price_cents": 9500,
+        "duration_minutes": 45.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Lymphatic Drainage Massage (Manual)",
+    "description": "Best for clients seeking a gentle, rhythmic massage focused on comfort, relaxation, and a less heavy or puffy feeling. The session is adapted to your needs rather than using deep-tissue pressure. Shorter appointments focus on selected areas; longer visits allow broader coverage. New or unexplained swelling, recent surgery, diagnosed lymphedema, or relevant heart, kidney, circulation, or infection concerns require review before booking. This wellness service is not a substitute for medical evaluation or specialist lymphedema care.",
+    "price_cents": 7500,
+    "duration_minutes": 30.0,
+    "id": "4UVQEGTGIYKL45UJO2LXYBBR",
+    "variations": [
+      {
+        "name": "30 Mins",
+        "price_cents": 7500,
+        "duration_minutes": 30.0,
+        "bookable": true
+      },
+      {
+        "name": "60 Mins",
+        "price_cents": 11500,
+        "duration_minutes": 60.0,
+        "bookable": true
+      },
+      {
+        "name": "90 Mins",
+        "price_cents": 17500,
+        "duration_minutes": 90.0,
+        "bookable": true
+      },
+      {
+        "name": "120 Mins",
+        "price_cents": 22500,
+        "duration_minutes": 120.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Facial Waxing Services",
+    "description": "Best for removing unwanted facial hair for a smooth, neat finish. Choose the facial area or combination you need, and your provider will prepare the skin and complete the service with appropriate finishing care. Please tell us about retinoid use, recent peels or resurfacing, irritation, and other skin treatments before waxing so suitability can be checked.",
+    "price_cents": 2000,
+    "duration_minutes": 20.0,
+    "id": "PZR2CBQCWBF3RUKLT5S4JUTI",
+    "variations": [
+      {
+        "name": "Regular",
+        "price_cents": 2000,
+        "duration_minutes": 20.0,
+        "bookable": true
+      },
+      {
+        "name": "Full Facial Wax (2+ parts)",
+        "price_cents": 4500,
+        "duration_minutes": 30.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Cupping + Red Light Therapy | Matrix Muscle Reset",
+    "description": "Best for focused attention to a tight or overworked area without a full-length massage. This appointment combines targeted dry cupping, gentle massage strokes, and a red light session. Your therapist selects an appropriate area and adjusts the cupping to your comfort. Cupping can leave temporary circular marks and is not suitable for everyone; suitability is reviewed before treatment.",
+    "price_cents": 6500,
+    "duration_minutes": 30.0,
+    "id": "ANYFI7OSDXILCEUHOT7DI4VS",
+    "variations": [
+      {
+        "name": "30 Minute Session",
+        "price_cents": 6500,
+        "duration_minutes": 30.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Matrix Scalp Cleanse & Refresh Head Spa",
+    "description": "Best for a fresh, clean-feeling scalp and regular maintenance when you prefer a shorter appointment. This focused Head Spa includes scalp analysis, a customized scalp infusion, gentle cleansing, steam towels, a waterfall rinse, relaxing scalp massage, and a warm-towel finish. Choose this streamlined experience for ongoing scalp care without the extended massage and enhancements of our longer services. Hair is left wet; professional drying or styling must be booked separately. This is cosmetic scalp care and relaxation, not medical treatment for scalp conditions or hair loss.",
+    "price_cents": 9500,
+    "duration_minutes": 45.0,
+    "id": "E3GF7465U2EEJBNBUWKE7O5B",
+    "variations": [
+      {
+        "name": "45 Minute Session",
+        "price_cents": 9500,
+        "duration_minutes": 45.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Matrix Back Renewal Treatment",
+    "description": "Best for a back that feels rough, dry, or congested and needs more than a quick wash. This customized treatment includes cleansing, exfoliation, extractions when appropriate, a mask, massage, and moisturizing care. Products are selected for your skin and comfort, with a focus on a cleaner, smoother, more hydrated feel. This is a skincare treatment for the back rather than a full-body massage.",
+    "price_cents": 8500,
+    "duration_minutes": 45.0,
+    "id": "OP6MUOQDI5QPD5E5L3SXLRPY",
+    "variations": [
+      {
+        "name": "45 Minute Session",
+        "price_cents": 8500,
+        "duration_minutes": 45.0,
+        "bookable": true
+      },
+      {
+        "name": "60 Minute Session",
+        "price_cents": 11000,
+        "duration_minutes": 60.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Therapeutic Cupping",
+    "description": "Add targeted dry cupping to an eligible massage when your therapist considers it appropriate. Gentle suction is used alongside massage to provide a different approach to selected tight or overworked areas. Cupping can leave temporary circular marks and may not suit fragile skin, easy bruising, or some medical conditions. Your therapist reviews suitability before use.",
+    "price_cents": 2000,
+    "duration_minutes": 5.0,
+    "id": "ALTWJZ3RB262JHYLIBHQLK7A",
+    "variations": [
+      {
+        "name": "Enhancement / Add-on",
+        "price_cents": 2000,
+        "duration_minutes": 5.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "New Client Facial DEAL | 45 Mins w/Lexy",
+    "description": "New to Matrix facials? Start here.\nEnjoy a 45-minute personalized facial with Lexy designed around your skin\u2019s current condition, sensitivities, comfort and goals. Your appointment begins with a brief consultation and may include professional cleansing, exfoliation, hydration, a customized mask and finishing skincare within the scheduled treatment time.\n\nINTRODUCTORY OFFER: $79\n(Regularly 45-minute Express Facial: $95)\n\nAvailable to guests who are new to Matrix facial services. Existing Matrix massage, Head Spa and wellness clients are welcome if they have not previously received a facial at Matrix.\n\nCONTINUATION OFFER Reserve your recommended 60-minute Custom Facial follow-up before leaving your first appointment and receive that visit for $85, regularly $100.\n\nOne introductory facial per guest. Follow-up offer must be reserved at checkout following the introductory facial and is subject to provider availability. Cannot be combined with other promotions.",
+    "price_cents": 7900,
+    "duration_minutes": 45.0,
+    "id": "GJ7PY2ONLPOVK4JIYCIWJGG4",
+    "variations": [
+      {
+        "name": "Regular",
+        "price_cents": 7900,
+        "duration_minutes": 45.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Blood Moon Glow Hydrating Facial",
+    "description": "A luxurious seasonal facial for dry, dull-looking skin seeking hydration, radiance, and a smoother-looking finish.\nBlood Moon Glow at Matrix Massage & Bodywork in Salem, Wisconsin begins with facial cleansing, followed by the Vampire PLLA jelly mask and finishing skincare. This focused facial experience is designed to leave skin feeling soft and refreshed, with a luminous, cared-for look.\nA little Halloween atmosphere. A beautifully polished glow.",
+    "price_cents": 8500,
+    "duration_minutes": 45.0,
+    "id": "GI7BP2M6LLYV65VG35L3PSIZ",
+    "variations": [
+      {
+        "name": "45 Minutes",
+        "price_cents": 8500,
+        "duration_minutes": 45.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Custom Therapeutic Massage",
+    "description": "Your therapist adjusts pressure and techniques to your goals and tolerance. Whether you\u2019re looking for a relaxing massage (Swedish) or deep tissue, our massages are therapeutic and customized to your needs. Effective work does not need to feel painful. Choose 30 minutes for one focused area, 60 minutes for a focused or broader session, and 90 or 120 minutes for more comprehensive work with extra time for your priorities. Tell us what feels tight or restricted, and we will tailor the session around you.",
+    "price_cents": 11000,
+    "duration_minutes": 60.0,
+    "id": "D6WBEWYNPLZ5ET3YB4APHMVT",
+    "variations": [
+      {
+        "name": "60 Mins",
+        "price_cents": 11000,
+        "duration_minutes": 60.0,
+        "bookable": true
+      },
+      {
+        "name": "30 Mins",
+        "price_cents": 6500,
+        "duration_minutes": 30.0,
+        "bookable": true
+      },
+      {
+        "name": "90 Mins",
+        "price_cents": 16000,
+        "duration_minutes": 90.0,
+        "bookable": true
+      },
+      {
+        "name": "120 Mins",
+        "price_cents": 21000,
+        "duration_minutes": 120.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Custom Facial",
+    "description": "Best for: Whatever your skin needs today \u2014 hydration, barrier repair, visible signs of aging, acne and congestion, sensitivity, uneven tone or texture, or simply maintaining healthy, radiant skin. The Matrix Custom Facial is completely outcome-focused and customized after your provider assesses your skin. Professional cleansing, exfoliation, masks, targeted serums, hydration, extractions when appropriate, and red light therapy when appropriate are selected specifically for your skin and goals. \n\nChoose 60 minutes for a focused customized treatment or 90 minutes for more comprehensive treatment time and layering. You do not need to figure out what type of facial to book \u2014 book the Custom Facial and we\u2019ll determine the rest.",
+    "price_cents": 11000,
+    "duration_minutes": 60.0,
+    "id": "IUTRINR4YWTL7ULZ3QVEK4QG",
+    "variations": [
+      {
+        "name": "60 Minutes",
+        "price_cents": 11000,
+        "duration_minutes": 60.0,
+        "bookable": true
+      },
+      {
+        "name": "90 Minutes",
+        "price_cents": 16000,
+        "duration_minutes": 90.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Body Waxing",
+    "description": "Best for removing unwanted body hair and enjoying a smooth finish without daily shaving. Select the body area you would like treated; your provider prepares the skin, removes the hair with professional wax, and applies appropriate finishing care. Tell us about sensitive or irritated skin, recent treatments, and products or medications that may affect skin fragility before your appointment. Follow the aftercare advice provided for the treated area.",
+    "price_cents": 0,
+    "duration_minutes": 30.0,
+    "id": "YY2UJGDPSWQQ5HHCOKYYRTBE",
+    "variations": [
+      {
+        "name": "Regular",
+        "price_cents": 0,
+        "duration_minutes": 30.0,
+        "bookable": true
+      },
+      {
+        "name": "Underarm Wax",
+        "price_cents": 2500,
+        "duration_minutes": 20.0,
+        "bookable": true
+      },
+      {
+        "name": "Partial Arm",
+        "price_cents": 4000,
+        "duration_minutes": 30.0,
+        "bookable": true
+      },
+      {
+        "name": "Full Arm",
+        "price_cents": 5500,
+        "duration_minutes": 35.0,
+        "bookable": true
+      },
+      {
+        "name": "Half Leg",
+        "price_cents": 6000,
+        "duration_minutes": 35.0,
+        "bookable": true
+      },
+      {
+        "name": "Chest",
+        "price_cents": 5000,
+        "duration_minutes": 30.0,
+        "bookable": true
+      },
+      {
+        "name": "Back",
+        "price_cents": 7000,
+        "duration_minutes": 45.0,
+        "bookable": true
+      },
+      {
+        "name": "Shoulders",
+        "price_cents": 3500,
+        "duration_minutes": 30.0,
+        "bookable": true
+      },
+      {
+        "name": "Stomach",
+        "price_cents": 4500,
+        "duration_minutes": 30.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Matrix Deep Relaxation Head Spa",
+    "description": "Best for deeper relaxation, more massage time, and a thoroughly refreshed scalp. Enjoy everything in the Matrix Signature Head Spa, with extended waterfall therapy, additional scalp cleansing and massage, facial massage, and hand and arm massage. Grounding, extended scalp red light when appropriate, and a warm finishing ritual are included. Choose this longer experience when your priority is unhurried scalp care and time to fully unwind. Hair is left wet; professional drying or styling must be booked separately. This is cosmetic scalp care and relaxation, not medical treatment for scalp conditions or hair loss.",
+    "price_cents": 19500,
+    "duration_minutes": 90.0,
+    "id": "5ARKZCV4NSRAFWNYZOTEKTOU",
+    "variations": [
+      {
+        "name": "90 Minute Session",
+        "price_cents": 19500,
+        "duration_minutes": 90.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Facial & Head Massage (add-on)",
+    "description": "Extend an eligible massage with dedicated time for the face, head, and scalp. Your therapist tailors the work to facial and scalp tension, comfort, and your preferred focus. Choose 30 or 45 additional minutes. This enhancement is massage-focused and does not include a full facial or wet Head Spa.",
+    "price_cents": 5500,
+    "duration_minutes": 30.0,
+    "id": "7FPRKM4OACLK45ZUHABJB6LS",
+    "variations": [
+      {
+        "name": "30 Minute Session",
+        "price_cents": 5500,
+        "duration_minutes": 30.0,
+        "bookable": true
+      },
+      {
+        "name": "45 Minute Session",
+        "price_cents": 7500,
+        "duration_minutes": 45.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "The Witching Hour | Halloween Jelly Foot Spa Ritual",
+    "description": "Best for: Tired feet, overworked hands, and anyone craving a soothing escape from a busy day.\nStep into The Witching Hour, a limited-edition Halloween foot spa ritual at Matrix Massage & Bodywork in Salem, Wisconsin. Sink your feet into a warm, midnight-black charcoal jelly soak as softly diffused aromatherapy and slow-moving crimson waves create an enchanting atmosphere. Gentle hand compression and a relaxing red light session make it easy to unwind and simply enjoy the moment.\nYour experience ends with comforting, temperature-checked hot towels for the feet. A little spooky. Entirely indulgent.",
+    "price_cents": 5500,
+    "duration_minutes": 30.0,
+    "id": "QCFQLPWFVNSBWO4O7RV5Q2JC",
+    "variations": [
+      {
+        "name": "30 Minutes",
+        "price_cents": 5500,
+        "duration_minutes": 30.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Prenatal Massage (Pregnancy Massage)",
+    "description": "Best for pregnancy-related muscle tension and a comfortable pause as your body changes. Massage is adapted to your stage of pregnancy, comfort, and areas of concern, with side-lying positioning or supportive bolsters as appropriate. Choose a shorter visit for focused attention or a longer appointment for more complete relaxation. Tell us about any pregnancy complications, new symptoms, or restrictions from your maternity care team before your appointment.",
+    "price_cents": 6500,
+    "duration_minutes": 30.0,
+    "id": "BN254HDC5Q22KUKF64BRBIMD",
+    "variations": [
+      {
+        "name": "30 Mins",
+        "price_cents": 6500,
+        "duration_minutes": 30.0,
+        "bookable": true
+      },
+      {
+        "name": "60 Mins",
+        "price_cents": 11000,
+        "duration_minutes": 60.0,
+        "bookable": true
+      },
+      {
+        "name": "90 Mins",
+        "price_cents": 16000,
+        "duration_minutes": 90.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Matrix Intensive Scalp Renewal Head Spa",
+    "description": "Best for clients who want our most comprehensive scalp-care experience with extended relaxation. Detailed scalp imaging and analysis guide your customized infusion, cleansing, exfoliation, steam, waterfall therapy, and intensive scalp massage. An advanced scalp serum, scalp red light when appropriate, a hydrating eye treatment, facial massage, and extended neck, shoulder, and arm massage complete the service. Grounding and a warm finishing ritual are included. Hair is left wet; professional drying or styling must be booked separately. This is cosmetic scalp care and relaxation, not medical treatment for scalp conditions or hair loss.",
+    "price_cents": 26500,
+    "duration_minutes": 120.0,
+    "id": "RM2XACH3ZAVQ65UTSENKJAGW",
+    "variations": [
+      {
+        "name": "120 Minute Session",
+        "price_cents": 26500,
+        "duration_minutes": 120.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Oil Scalp Massage (massage add-on)",
+    "description": "Enjoy scalp massage with conditioning oil during an eligible massage appointment for an added sense of relaxation and a softer, conditioned scalp and hair feel. The enhancement is incorporated into your booked massage time rather than extending the appointment. Oil may remain in the hair after your service.",
+    "price_cents": 1500,
+    "duration_minutes": 5.0,
+    "id": "NM5WLKBJGYWBWMXDOI5I5NOP",
+    "variations": [
+      {
+        "name": "Enhancement / Add-on",
+        "price_cents": 1500,
+        "duration_minutes": 5.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Circadia Dream Facial",
+    "description": "A restorative Circadia signature treatment for skin that looks tired, stressed, dehydrated, dull, or depleted.Inspired by the skin\u2019s natural overnight renewal rhythm, the Dream Facial combines pre- and postbiotic skin support, peptides, antioxidants, intensive hydration, cooling professional treatments, and targeted finishing products.The outcome is skin that appears calmer, plumper, more hydrated, refreshed, and radiant\u2014as if your skin finally received the rest it needed.Choose the Dream Facial when your priority is replenishment, barrier support, hydration, and a well-rested glow. The goal is skin that looks calmer, plumper, more hydrated, refreshed, and radiant \u2014 as if your skin finally got the rest it needed.",
+    "price_cents": 17500,
+    "duration_minutes": 90.0,
+    "id": "5TMAAL7UNW75SMC6XG7R53QA",
+    "variations": [
+      {
+        "name": "90 Minutes",
+        "price_cents": 17500,
+        "duration_minutes": 90.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Double Trouble | Halloween Jelly Foot Spa Ritual for Two",
+    "description": "Best for: Friends, couples, and anyone who would love a relaxing Halloween escape together.\nDouble the magic in Matrix Massage & Bodywork's cozy Halloween relaxation lounge in Salem, Wisconsin. One booking welcomes two guests to unwind side by side with their own warm, midnight-black charcoal jelly foot soaks beneath slowly drifting crimson waves. Softly diffused aromatherapy sets the mood while a red light session and soothing hand compression, enjoyed in turns, complete the experience.\nBoth guests finish with comforting, temperature-checked hot towels for their feet. A beautifully atmospheric way to slow down and spend time together.\nOne reservation includes two guests. $99 total for the pair.",
+    "price_cents": 9900,
+    "duration_minutes": 45.0,
+    "id": "7TCJLJFBL4ALRTXMF7GR3L56",
+    "variations": [
+      {
+        "name": "45 Minutes",
+        "price_cents": 9900,
+        "duration_minutes": 45.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Matrix Men's Scalp Refresh + Mini Facial",
+    "description": "Best for men who want a refreshed scalp, hydrated skin, and time to unwind. This combination includes customized Head Spa care, scalp cleansing and massage, a mini facial, and neck and shoulder relaxation. Your provider adapts the products and approach to your scalp, hair, and skin needs. Choose this shorter scalp-and-skin experience for regular care or an easy introduction to the Head Spa. Hair is left wet; professional drying or styling must be booked separately. This is cosmetic scalp care and relaxation, not medical treatment for scalp conditions or hair loss.",
+    "price_cents": 13500,
+    "duration_minutes": 60.0,
+    "id": "VJPRLALSE5VDWQRMF6LQLOHM",
+    "variations": [
+      {
+        "name": "60 Minute Session",
+        "price_cents": 13500,
+        "duration_minutes": 60.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Microcurrent Treatment (facial/headspa add-on)",
+    "description": "A provider-selected microcurrent facial enhancement for a refreshed, more defined-looking finish when appropriate for your skin and the device used. Screening and a compatible conductive product are required. Results vary; this is a cosmetic enhancement, not a permanent lift or a treatment for a medical condition.",
+    "price_cents": 2000,
+    "duration_minutes": 5.0,
+    "id": "M4F2PWHEVFKKI66PFOVQ2W2F",
+    "variations": [
+      {
+        "name": "Enhancement / Add-on",
+        "price_cents": 2000,
+        "duration_minutes": 5.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Circadia Luxe Lift Facial",
+    "description": "A focused Circadia specialty facial for visible signs of aging, loss of firmness, fine lines, dullness, and uneven-looking texture.\nThis treatment combines professional cleansing, Circadia\u2019s Raspberry Enzyme, the intensive Firming Peptide Mask, targeted hydration, and professional finishing products selected to support a firmer, smoother, brighter-looking complexion.\nAn excellent choice before photographs, celebrations, or important events\u2014or whenever your skin needs an advanced firming and brightening boost.",
+    "price_cents": 15000,
+    "duration_minutes": 75.0,
+    "id": "WBRKBJ3WLEKZEMRTZ52M26Q6",
+    "variations": [
+      {
+        "name": "75 Minutes",
+        "price_cents": 15000,
+        "duration_minutes": 75.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Matrix Men's Head Spa + Refreshing Custom Facial",
+    "description": "Best for men who want more complete scalp and facial care in one relaxing visit. This extended experience combines a luxury Head Spa with a custom facial, longer scalp massage, and neck and shoulder relaxation. Facial products and scalp care are selected around your needs, with a focus on clean-feeling skin, comfortable hydration, and a refreshed appearance. Choose this service when you want a full custom facial rather than the mini facial in the shorter option. Hair is left wet; professional drying or styling must be booked separately. This is cosmetic scalp care and relaxation, not medical treatment for scalp conditions or hair loss.",
+    "price_cents": 17500,
+    "duration_minutes": 90.0,
+    "id": "UGLNWFVWMYIZSHHC6MDZPCFA",
+    "variations": [
+      {
+        "name": "90 Minute Session",
+        "price_cents": 17500,
+        "duration_minutes": 90.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "High Frequency Treatment (add-on to facial or head spa)",
+    "description": "A brief, targeted high-frequency enhancement selected by your provider for an appropriate skincare appointment. A glass-electrode device is used according to its instructions after screening. This option is not appropriate for every skin concern and does not replace medical treatment for acne or infection.",
+    "price_cents": 2000,
+    "duration_minutes": 5.0,
+    "id": "2FH56UMPCP6ZQSCYJQ6WJGPR",
+    "variations": [
+      {
+        "name": "Enhancement / Add-on",
+        "price_cents": 2000,
+        "duration_minutes": 5.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Dermaplane Refresh",
+    "description": "A focused professional dermaplaning treatment for smoother texture, brighter-looking skin, and removal of fine vellus hair without booking a full facial.\nSkin is cleansed and professionally prepared before dermaplaning removes surface buildup and fine facial hair. The treatment is completed with targeted hydration, moisturizer, and sun protection selected for your skin.\nIdeal for maintenance between full facial appointments, before an event, or whenever you want fresh, polished-looking skin in about 30 minutes.",
+    "price_cents": 6500,
+    "duration_minutes": 30.0,
+    "id": "CGKJNHLBH7D6F7VGTHDLC6D2",
+    "variations": [
+      {
+        "name": "30 Minutes",
+        "price_cents": 6500,
+        "duration_minutes": 30.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "LifePro Rumble Vibration Platform (add-on)",
+    "description": "Add a supervised vibration-platform experience to an eligible wellness visit. Your provider reviews suitability and helps you use an appropriate supported position and setting. This is a separate activity, not something performed while you receive table-based massage or a facial.",
+    "price_cents": 1500,
+    "duration_minutes": 10.0,
+    "id": "SUULCBLIZYBHV5OWQ56TSM5P",
+    "variations": [
+      {
+        "name": "Enhancement / Add-on",
+        "price_cents": 1500,
+        "duration_minutes": 10.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Custom Dermaplane Facial",
+    "description": "Professional dermaplaning combined with outcome-focused skincare.This complete facial uses dermaplaning as the primary exfoliation method while allowing your provider to customize the remaining treatment around your skin\u2019s needs.After cleansing and skin assessment, dermaplaning removes surface buildup and fine vellus hair. Your provider then selects appropriate masks, targeted serums, hydration, professional finishing products, and red light therapy when appropriate.Ideal when your goals include smoother texture, improved radiance, refined-looking skin, and a fresh polished glow.",
+    "price_cents": 13500,
+    "duration_minutes": 60.0,
+    "id": "WV4GXSEU2NPPQ7DXYX3CSDUA",
+    "variations": [
+      {
+        "name": "60 Minutes",
+        "price_cents": 13500,
+        "duration_minutes": 60.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Matrix Head Spa + Hydrating Glow Facial",
+    "description": "Best for a refreshed scalp, hydrated skin, and a relaxing head-to-face experience in one appointment. A customized Head Spa is paired with a mini facial, facial massage, and hyaluronic hydration. Enjoy steam and waterfall scalp cleansing, scalp massage, neck and shoulder massage, an LED facial or scalp enhancement when appropriate, and a warm-towel finish. Choose this combination when you want both scalp care and a fresh, hydrated glow. Hair is left wet; professional drying or styling must be booked separately. This is cosmetic scalp care and relaxation, not medical treatment for scalp conditions or hair loss.",
+    "price_cents": 28500,
+    "duration_minutes": 120.0,
+    "id": "ANHVUNL2SFY2ETFWNCU5WNJS",
+    "variations": [
+      {
+        "name": "Regular",
+        "price_cents": 28500,
+        "duration_minutes": 120.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Matrix Signature Head Spa",
+    "description": "Best for first-time Head Spa guests and anyone wanting personalized scalp care with deep relaxation. Your experience includes scalp analysis, a customized scalp infusion, a double cleanse and scalp exfoliation, steam and waterfall therapy, extended scalp massage, and neck and shoulder massage. A hydrating eye treatment, scalp red light enhancement when appropriate, aromatherapy, and warm towels complete the experience. Your provider adapts the products and treatment to your scalp and comfort. Hair is left wet; professional drying or styling must be booked separately. This is cosmetic scalp care and relaxation, not medical treatment for scalp conditions or hair loss.",
+    "price_cents": 13500,
+    "duration_minutes": 60.0,
+    "id": "JBJI7MD5EU2QM3E4MQXE5TSK",
+    "variations": [
+      {
+        "name": "60 Minute Session",
+        "price_cents": 13500,
+        "duration_minutes": 60.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Hand Compression & Heat Therapy",
+    "description": "Enjoy gentle warmth and rhythmic air-pressure massage around the hands during an eligible treatment. This comfort-focused addition is intended for a relaxing break for frequently used hands. Your provider checks pressure, temperature, sensation, and suitability before use.",
+    "price_cents": 1500,
+    "duration_minutes": 5.0,
+    "id": "SIFSUVAN767S4TCVTRNXRDS7",
+    "variations": [
+      {
+        "name": "Enhancement / Add-on",
+        "price_cents": 1500,
+        "duration_minutes": 5.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Luxe Dermaplane Facial",
+    "description": "Our most comprehensive dermaplaning treatment combines professional dermaplaning with an extended outcome-focused facial.\nThe additional time allows your provider to build a more comprehensive treatment around concerns such as visible signs of aging, dullness, uneven-looking texture, dehydration, and overall skin quality.\nAfter dermaplaning, professional Circadia products, masks, targeted serums, advanced hydration, professional finishing products, and red light therapy when appropriate are selected according to your skin and goals.\nChoose this treatment when you want the polished finish of dermaplaning plus the time and customization of a complete 90-minute facial.",
+    "price_cents": 18500,
+    "duration_minutes": 90.0,
+    "id": "N5DNZHDNLTMTYU24DMAOQCYH",
+    "variations": [
+      {
+        "name": "90 Minutes",
+        "price_cents": 18500,
+        "duration_minutes": 90.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Facial & Head/Scalp Massage",
+    "description": "Best for: Facial puffiness, jaw and facial tension, scalp tension, relaxation, or anyone who wants focused face and scalp care without booking a full facial or Head Spa. Book it as a standalone service or add it to an eligible treatment for extra face and scalp-focused time. Approximately half of the session is devoted to the face and half to the head and scalp. We begin with an oil-cleansing facial massage, gently remove the oil, and finish the facial portion with Matrix Multi-Molecular Hyaluronic Acid for lightweight hydration. The scalp portion combines focused head and scalp massage with our refreshing peppermint + jojoba scalp infusion, which creates a light cooling, tingly sensation while conditioning the scalp. Customize your facial massage with a De-Puffing Focus using gentle, rhythmic techniques for a less puffy, refreshed appearance, or a Sculpt + Release Focus using more targeted pressure and contouring techniques, including focused work around the jaw and masseter area when appropriate, to help the face feel relaxed and look refreshed. This is a massage-focused service .\n\n \u2022 Matrix Pathway/s: Facial \u2014 Hydrate + Restore; Maintain + Glow \u2022 Head Spa \u2014 Maintain + Relax.",
+    "price_cents": 6500,
+    "duration_minutes": 30.0,
+    "id": "XWPHF2HC3LRMMRBBQ2DYM4LL",
+    "variations": [
+      {
+        "name": "30 Mins",
+        "price_cents": 6500,
+        "duration_minutes": 30.0,
+        "bookable": true
+      },
+      {
+        "name": "60 mins",
+        "price_cents": 11000,
+        "duration_minutes": 60.0,
+        "bookable": true
+      },
+      {
+        "name": "45 Mins",
+        "price_cents": 9000,
+        "duration_minutes": 45.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Matrix Neck Tension Release Boost",
+    "description": "Add the comfort of a gently warming, vibrating neck pillow during an eligible massage or facial. This is a relaxation-focused device enhancement, not extra hands-on massage or spinal manipulation. Your provider checks positioning, temperature, and your comfort before use.",
+    "price_cents": 1200,
+    "duration_minutes": 5.0,
+    "id": "PZQNMH7T4JIP7F42BCVUV26X",
+    "variations": [
+      {
+        "name": "Enhancement / Add-on",
+        "price_cents": 1200,
+        "duration_minutes": 5.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Deep Scalp Detox Upgrade",
+    "description": "Add 10 minutes of focused scalp cleansing for heavier product buildup, excess oil, or dry-shampoo residue. Extra exfoliation, steam, and waterfall rinsing are adapted to your scalp and tolerance. This enhancement is for removing surface buildup, not detoxifying your body.",
+    "price_cents": 2500,
+    "duration_minutes": 10.0,
+    "id": "2YLUXYVANUSV7G7CKFMGZHF2",
+    "variations": [
+      {
+        "name": "10 Minute Session",
+        "price_cents": 2500,
+        "duration_minutes": 10.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Facial Massage Ritual (add-on to facia or head spa)",
+    "description": "Add 20 minutes of focused facial massage for the jaw, temples, forehead, and cheeks. Pressure and techniques are customized for comfort, with extra time to relax facial tension and enjoy an unhurried finish. This is additional massage time, not a separate full facial.",
+    "price_cents": 4500,
+    "duration_minutes": 20.0,
+    "id": "SABPZ5TQRQZ3MVYIQJ2RI4XO",
+    "variations": [
+      {
+        "name": "20 Minute Session",
+        "price_cents": 4500,
+        "duration_minutes": 20.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Mini Facial Enhancement (headspa add-on)",
+    "description": "Add 30 minutes of facial care to an eligible Head Spa for a refreshed, hydrated glow. Includes cleansing, facial massage, hyaluronic hydration, moisturizer, and a facial LED enhancement when appropriate. Best when you want facial care alongside your scalp treatment and a mini facial is not already included.",
+    "price_cents": 6500,
+    "duration_minutes": 30.0,
+    "id": "6CZMYHIAPVU2ZOLJZ5PN5YXR",
+    "variations": [
+      {
+        "name": "30 Minute Session",
+        "price_cents": 6500,
+        "duration_minutes": 30.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Full Body Red Light Therapy (add-on)",
+    "description": "Extend your visit with a red and near-infrared light session in the wellness area before or after an eligible treatment. Choose a 20- or 30-minute appointment. Your provider confirms an appropriate light-exposure protocol and any screening needs. This separate wellness session is not the same as the small-area face or scalp LED included in some treatments.",
+    "price_cents": 2299,
+    "duration_minutes": 20.0,
+    "id": "S276Q6HDDTNWVV745WKVDKT6",
+    "variations": [
+      {
+        "name": "20 Minute Session",
+        "price_cents": 2299,
+        "duration_minutes": 20.0,
+        "bookable": true
+      },
+      {
+        "name": "30 Minute Session",
+        "price_cents": 3500,
+        "duration_minutes": 30.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Infrared Sauna (Add-On)",
+    "description": "Extend an eligible visit with a private infrared sauna appointment for quiet time and comfortable warmth. The sauna is booked separately from your hands-on treatment, with heat and use time adapted to your tolerance and the equipment instructions. Please tell us about heat sensitivity, relevant medical conditions, medication, or pregnancy before booking.",
+    "price_cents": 3500,
+    "duration_minutes": 30.0,
+    "id": "XZHCM4X3WESRK7MU5HT2VDQD",
+    "variations": [
+      {
+        "name": "30 Minute Session",
+        "price_cents": 3500,
+        "duration_minutes": 30.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Luxury Blowout Styling (head spa add-on)",
+    "description": "Leave your Head Spa with professionally dried and styled hair rather than a wet finish. This additional appointment provides blow-dry styling with a cosmetologist when available. Hair length, density, texture, and styling goals are reviewed to confirm that the reserved appointment time is suitable.",
+    "price_cents": 6500,
+    "duration_minutes": 45.0,
+    "id": "DQUCFAQCY4N6GMOIWVGRFF2C",
+    "variations": [
+      {
+        "name": "45 Minute Session",
+        "price_cents": 6500,
+        "duration_minutes": 45.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Advanced Scalp Infusion Upgrade",
+    "description": "Add a second, targeted scalp-infusion phase to an eligible Head Spa for additional application, steam, and focused scalp massage. This is an upgrade beyond the customized infusion already included in your Head Spa, with 10 additional minutes of care. Your provider selects the formula after reviewing your scalp and comfort.",
+    "price_cents": 2500,
+    "duration_minutes": 10.0,
+    "id": "UEKCIFFTRJGFPFXRVTDSXRC3",
+    "variations": [
+      {
+        "name": "10 Minute Session",
+        "price_cents": 2500,
+        "duration_minutes": 10.0,
+        "bookable": true
+      }
+    ]
+  },
+  {
+    "name": "Luxury Hair Mask Upgrade (head spa add-on)",
+    "description": "Add a nourishing hair mask to an eligible Head Spa for extra softness, conditioning, and shine. The mask is worked into the existing steam and rinse portion of your appointment and selected for your hair needs. Best for hair that feels dry or needs a softer, more conditioned finish.",
+    "price_cents": 2500,
+    "duration_minutes": 5.0,
+    "id": "XKYY7ZTVNL7JD3T4HVZYNMUY",
+    "variations": [
+      {
+        "name": "Enhancement / Add-on",
+        "price_cents": 2500,
+        "duration_minutes": 5.0,
+        "bookable": true
+      }
+    ]
+  }
+]

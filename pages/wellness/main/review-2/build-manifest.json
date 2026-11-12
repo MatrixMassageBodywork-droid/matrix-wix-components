@@ -1,0 +1,83 @@
+{
+  "status": "BUILT / STATIC CHECKED; NOT VISUALLY TESTED, INSTALLED OR PUBLISHED",
+  "config": {
+    "serviceName": "Matrix Wellness & Biotech",
+    "revision": "wellness-review-2-2026-11-12",
+    "tagName": "matrix-wellness-page",
+    "elementId": "matrixWellnessPage",
+    "rootClass": "matrix-wellness",
+    "pageUrl": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+    "seoTitle": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery",
+    "seoDescription": "Explore wellness services in Salem, WI including infrared sauna, red light therapy, recovery enhancements and hands-off wellness at Matrix.",
+    "seoSource": "../seo-baseline/wellness.json",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 7
+  },
+  "seo": {
+    "title": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery",
+    "description": "Explore wellness services in Salem, WI including infrared sauna, red light therapy, recovery enhancements and hands-off wellness at Matrix.",
+    "canonical": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+    "source": "../seo-baseline/wellness.json"
+  },
+  "h1": "Wellness & Biotech Services in Salem, WI",
+  "faqCount": 7,
+  "links": [
+    "https://www.matrixmassage.net/",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "#mw-options",
+    "#mw-options",
+    "#mw-choose",
+    "#mw-visit",
+    "#mw-faq",
+    "https://www.matrixmassage.net/",
+    "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+    "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+    "https://www.matrixmassage.net/red-light-therapy-glow-score",
+    "sms:+12629399325",
+    "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "https://www.matrixmassage.net/supplements",
+    "https://us.fullscript.com/s/matrix_massage_wellness/shop",
+    "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+    "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+    "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+    "https://www.matrixmassage.net/about-5",
+    "sms:+12629399325",
+    "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+    "https://www.matrixmassage.net/book-appointments-salem-wi",
+    "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+    "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+    "https://www.matrixmassage.net/red-light-therapy-glow-score",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "sms:+12629399325",
+    "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+      "alt": "Matrix Massage & Bodywork"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg/v1/fill/w_1000,h_750,al_c,q_80,enc_auto/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg",
+      "alt": "Warm wooden sauna interior, illustrative image"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_6770ca078851428da084817f8912d7f8~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_80,enc_auto/e4cc43_6770ca078851428da084817f8912d7f8~mv2.jpg",
+      "alt": "Illuminated LEDs on a red light therapy panel"
+    }
+  ],
+  "files": {
+    "body.html": "44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820",
+    "style.css": "c2c1fc4430f70c182bbdeec82c3948526c38db6737ad97d64383980a315de8f5",
+    "renderer.js": "d8ab1c6327ed0d69eb58f7c0fd4a7f1a1cca815268764751dca46869a56cbeb8",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "a73eca4dc06461aad95c008c52c7bc732da947697a2b8252cb18b2b97164559b",
+    "preview.html": "1a570168e25e7b8be8111965d88b756d218196717d07f7bf64609fbab3041b57",
+    "faq-schema.json": "6c8f1fe4b96970989511f9c82d62cb302ffb59051468a6ff6c29454232d59415"
+  },
+  "rendererBytes": 23001
+}

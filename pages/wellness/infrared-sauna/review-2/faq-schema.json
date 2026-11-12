@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much is infrared sauna at Matrix?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The current Infrared Sauna (Add-On) appointment is $35 for 30 minutes. It is booked separately from your hands-on treatment. Check the booking menu for current pricing and availability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I book a sauna session by itself?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The online option is listed as an add-on to an eligible visit. For a sauna-only appointment, text 262-939-9325 to ask about availability and confirm the booking details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is an infrared sauna?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An infrared sauna uses radiant heat to warm the body. Matrix offers the experience for general wellness, warmth and relaxation, with heat and use time adapted to individual tolerance and equipment instructions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I combine infrared sauna with massage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sauna can complement an eligible massage visit when scheduling and individual comfort allow. The sauna appointment is separate from hands-on treatment time. Contact Matrix to confirm the order and timing of your appointments."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is infrared sauna the same as red light therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "They are different services. Infrared sauna centers on heat and relaxation. Red light therapy uses red and near-infrared light. See our red light therapy page for its session options, or ask Matrix which experience fits your preferences."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I prepare for my sauna appointment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Arrive hydrated and allow time to cool down afterward. Follow the studio\u2019s instructions for clothing and sauna use; text us beforehand if you have questions. Leave the sauna and tell us if you feel dizzy, nauseated or unwell."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who should check with a healthcare professional first?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ask your healthcare professional before sauna use if you are pregnant, have heart or blood-pressure concerns, take medication that affects heat tolerance, or have another health condition that may make heat unsuitable. Tell Matrix about relevant considerations before booking."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is Matrix\u2019s infrared sauna located?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matrix Massage & Bodywork is at 24804 75th St, Salem, WI 53168. Our Salem studio welcomes guests from Salem Lakes, Paddock Lake, Bristol, Pleasant Prairie, Twin Lakes, Kenosha County and nearby Antioch, Illinois."
+      }
+    }
+  ]
+}

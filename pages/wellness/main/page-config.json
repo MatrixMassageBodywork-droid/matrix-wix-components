@@ -1,0 +1,14 @@
+{
+  "serviceName": "Matrix Wellness & Biotech",
+  "revision": "wellness-review-2-2026-11-12",
+  "tagName": "matrix-wellness-page",
+  "elementId": "matrixWellnessPage",
+  "rootClass": "matrix-wellness",
+  "pageUrl": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+  "seoTitle": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery",
+  "seoDescription": "Explore wellness services in Salem, WI including infrared sauna, red light therapy, recovery enhancements and hands-off wellness at Matrix.",
+  "seoSource": "../seo-baseline/wellness.json",
+  "bodyFile": "body.html",
+  "cssFile": "style.css",
+  "expectedFaqCount": 7
+}

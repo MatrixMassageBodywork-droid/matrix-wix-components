@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What wellness services does Matrix offer in Salem?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matrix offers infrared sauna, red light therapy and recovery enhancements alongside massage, facials and Japanese Head Spa at our Salem studio. You can also explore supplements through our wellness resources and Matrix Fullscript store. The booking menu shows current appointment options and availability."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between infrared sauna and red light therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Infrared sauna is a heated experience centered on warmth and relaxation. Red light therapy uses red and near-infrared light during a separate light session. They are different services. Compare our infrared sauna guide and red light therapy guide to decide where to start."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much does an infrared sauna appointment cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The current Matrix booking menu lists Infrared Sauna (Add-On) at $35 for a 30-minute appointment. The sauna appointment is separate from hands-on treatment. Text 262-939-9325 if you want to confirm standalone availability or coordinate it with another service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I combine wellness with massage, a facial or Head Spa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ask us to coordinate your preferred services and their order. Availability, service eligibility, your comfort and suitability all matter. Sauna and other separate appointments need their own scheduled time; an enhancement does not automatically include another full service."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to book a session to take the Glow Test?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The free Glow Test is an optional way to explore your interests and personalized red light information. Taking it does not require you to purchase or book a session."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I choose and book a wellness service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open the full booking menu to see current services, prices and times. If you are unsure, text 262-939-9325 with what you want from your visit. Tell us about heat sensitivity, pregnancy, relevant medical conditions or medications before choosing heat or light services so suitability can be discussed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is Matrix, and what areas do you serve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Matrix Massage & Bodywork is at 24804 75th St, Salem, WI 53168, near Paddock Lake and Salem Lakes. Our one Salem studio welcomes guests from Bristol, Trevor, Twin Lakes, Genoa City, Pleasant Prairie, Kenosha, Union Grove and Antioch, Illinois. Get directions to Matrix."
+      }
+    }
+  ]
+}

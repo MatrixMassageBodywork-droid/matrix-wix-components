@@ -1,0 +1,14 @@
+{
+  "serviceName": "Infrared Sauna",
+  "revision": "sauna-review-2-2026-11-12",
+  "tagName": "matrix-sauna-page",
+  "elementId": "matrixServicePageV21",
+  "rootClass": "matrix-sauna",
+  "pageUrl": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+  "seoTitle": "Infrared Sauna in Salem, WI | Matrix Wellness & Recovery",
+  "seoDescription": "Book a private infrared sauna session in Salem, WI for warmth, relaxation and recovery-focused wellness at Matrix Massage & Bodywork.",
+  "seoSource": "Fresh native baseline: ../seo-baseline/infrared-sauna.json, captured 2026-11-12T21:30:42.970Z. Preserved title/description/canonical. This config does not publish or modify native head tags.",
+  "bodyFile": "body.html",
+  "cssFile": "style.css",
+  "expectedFaqCount": 8
+}

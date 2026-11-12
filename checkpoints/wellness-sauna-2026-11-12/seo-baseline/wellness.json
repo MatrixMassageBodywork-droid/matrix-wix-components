@@ -1,0 +1,394 @@
+{
+  "capturedAt": "2026-11-12T21:30:42.970Z",
+  "page": {
+    "itemId": "hfzq0",
+    "canonicals": [
+      {
+        "url": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+        "source": "TAG_SOURCE_HOST_PAGE"
+      }
+    ],
+    "titles": [
+      {
+        "title": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery",
+        "source": "TAG_SOURCE_HOST_PAGE"
+      }
+    ]
+  },
+  "baseline": {
+    "id": "STATIC_PAGE:hfzq0",
+    "itemType": "STATIC_PAGE",
+    "itemId": "hfzq0",
+    "tags": [
+      {
+        "type": "title",
+        "children": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "meta",
+        "props": {
+          "name": "description",
+          "content": "Explore wellness services in Salem, WI including infrared sauna, red light therapy, recovery enhancements and hands-off wellness at Matrix."
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "script",
+        "props": {
+          "type": "application/ld+json"
+        },
+        "meta": {
+          "schemaType": "clav5h85",
+          "displayName": "Wellness Biotech GEO Schema"
+        },
+        "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"HealthAndBeautyBusiness\",   \"name\": \"Matrix Wellness & Biotech\",   \"url\": \"https://www.matrixmassage.net/wellness-biotech-services-salem-wi\",   \"image\": \"https://www.matrixmassage.net\",   \"telephone\": \"+1-262-939-9325\",   \"priceRange\": \"$$\",   \"address\": {     \"@type\": \"PostalAddress\",     \"streetAddress\": \"24804 75th St\",     \"addressLocality\": \"Salem\",     \"addressRegion\": \"WI\",     \"postalCode\": \"53168\",     \"addressCountry\": \"US\"   },   \"areaServed\": [     \"Salem WI\",     \"Paddock Lake WI\",     \"Kenosha WI\",     \"Pleasant Prairie WI\",     \"Bristol WI\",     \"Twin Lakes WI\",     \"Antioch IL\",     \"Union Grove WI\"   ],   \"description\": \"Matrix Wellness & Biotech offers red light therapy, infrared sauna, recovery services, supplements, wellness memberships, and advanced wellness experiences in Salem, WI.\" }",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "script",
+        "props": {
+          "type": "application/ld+json"
+        },
+        "meta": {
+          "schemaType": "4rWCmYq6",
+          "displayName": "Wellness Services Catalog Schema"
+        },
+        "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"OfferCatalog\",   \"name\": \"Wellness & Biotech Services\",   \"itemListElement\": [     {       \"@type\": \"Offer\",       \"itemOffered\": {         \"@type\": \"Service\",         \"name\": \"Red Light Therapy\",         \"description\": \"Advanced red and near-infrared light therapy sessions focused on wellness, relaxation, recovery, and rejuvenation.\"       }     },     {       \"@type\": \"Offer\",       \"itemOffered\": {         \"@type\": \"Service\",         \"name\": \"Infrared Sauna\",         \"description\": \"Infrared sauna sessions designed to support relaxation, warmth, and overall wellness.\"       }     },     {       \"@type\": \"Offer\",       \"itemOffered\": {         \"@type\": \"Service\",         \"name\": \"Recovery Services\",         \"description\": \"Recovery-focused wellness experiences designed to support relaxation and restoration.\"       }     },     {       \"@type\": \"Offer\",       \"itemOffered\": {         \"@type\": \"Service\",         \"name\": \"Supplements and Wellness Support\",         \"description\": \"Science-inspired wellness products and supplement support tailored to wellness goals.\"       }     },     {       \"@type\": \"Offer\",       \"itemOffered\": {         \"@type\": \"Service\",         \"name\": \"Wellness Labs and Testing\",         \"description\": \"Lifestyle-focused wellness testing and educational wellness support.\"       }     }   ] }",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "link",
+        "props": {
+          "rel": "canonical",
+          "href": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "script",
+        "props": {
+          "type": "application/ld+json"
+        },
+        "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Wellness Services in Salem, WI\",\"item\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi\"}]}",
+        "custom": false,
+        "disabled": false
+      }
+    ],
+    "focusKeywords": [
+      {
+        "term": "wellness Salem WI",
+        "isMain": true
+      },
+      {
+        "term": "wellness services Salem WI",
+        "isMain": false
+      },
+      {
+        "term": "infrared sauna Salem WI",
+        "isMain": false
+      },
+      {
+        "term": "recovery wellness Salem WI",
+        "isMain": false
+      }
+    ],
+    "hasOverride": true,
+    "resolvedTags": [
+      {
+        "tag": {
+          "type": "title",
+          "children": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "title",
+          "children": "WELLNESS & BIOTECH SERVICES | Matrix Massage & Bodywork",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Explore wellness services in Salem, WI including infrared sauna, red light therapy, recovery enhancements and hands-off wellness at Matrix."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "link",
+          "props": {
+            "rel": "canonical",
+            "href": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "link",
+          "props": {
+            "rel": "canonical",
+            "href": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:title",
+            "content": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "meta",
+          "props": {
+            "property": "og:title",
+            "content": "WELLNESS & BIOTECH SERVICES | Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:description",
+            "content": "Explore wellness services in Salem, WI including infrared sauna, red light therapy, recovery enhancements and hands-off wellness at Matrix."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image:width",
+            "content": "2500"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image:height",
+            "content": "1330"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:url",
+            "content": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:site_name",
+            "content": "Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:type",
+            "content": "website"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Wellness Services in Salem, WI\",\"item\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi\"}]}",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "clav5h85",
+            "displayName": "Wellness Biotech GEO Schema"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"HealthAndBeautyBusiness\",\"name\":\"Matrix Wellness & Biotech\",\"url\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi\",\"image\":\"https://www.matrixmassage.net\",\"telephone\":\"+1-262-939-9325\",\"priceRange\":\"$$\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"},\"areaServed\":[\"Salem WI\",\"Paddock Lake WI\",\"Kenosha WI\",\"Pleasant Prairie WI\",\"Bristol WI\",\"Twin Lakes WI\",\"Antioch IL\",\"Union Grove WI\"],\"description\":\"Matrix Wellness & Biotech offers red light therapy, infrared sauna, recovery services, supplements, wellness memberships, and advanced wellness experiences in Salem, WI.\"}",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "4rWCmYq6",
+            "displayName": "Wellness Services Catalog Schema"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"OfferCatalog\",\"name\":\"Wellness & Biotech Services\",\"itemListElement\":[{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Red Light Therapy\",\"description\":\"Advanced red and near-infrared light therapy sessions focused on wellness, relaxation, recovery, and rejuvenation.\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Infrared Sauna\",\"description\":\"Infrared sauna sessions designed to support relaxation, warmth, and overall wellness.\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Recovery Services\",\"description\":\"Recovery-focused wellness experiences designed to support relaxation and restoration.\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Supplements and Wellness Support\",\"description\":\"Science-inspired wellness products and supplement support tailored to wellness goals.\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Wellness Labs and Testing\",\"description\":\"Lifestyle-focused wellness testing and educational wellness support.\"}}]}",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "google-site-verification",
+            "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_SITE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:card",
+            "content": "summary_large_image"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:title",
+            "content": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:title",
+            "content": "WELLNESS & BIOTECH SERVICES | Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:description",
+            "content": "Explore wellness services in Salem, WI including infrared sauna, red light therapy, recovery enhancements and hands-off wellness at Matrix."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      }
+    ],
+    "hostPageId": "hfzq0",
+    "publishStatus": "PUBLISH_STATUS_UNSPECIFIED",
+    "origin": "ORIGIN_UNSPECIFIED"
+  }
+}

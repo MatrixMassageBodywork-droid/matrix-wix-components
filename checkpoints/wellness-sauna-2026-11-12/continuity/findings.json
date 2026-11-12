@@ -1,0 +1,160 @@
+{
+  "checkedAt": "2026-11-12",
+  "scope": "Read-only continuity/source discovery for Wellness hub and Infrared Sauna rebuild",
+  "siteId": "cdec8df6-d518-4859-9f1e-f06bf5346d41",
+  "editorDocumentId": "a276c9bf-bc17-4680-959b-a24ebe7370f6",
+  "projectFolder": "https://drive.google.com/drive/folders/1jthRMAHOoockNm8hAVBK6mz4iaHbhNK8",
+  "pages": [
+    {
+      "name": "WELLNESS & BIOTECH SERVICES",
+      "pageId": "hfzq0",
+      "url": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "pageIdSource": "pages/spa-beauty/lash-extensions/baseline/site-inventory.json (Nov6 inventory; needs current readback)",
+      "sourceFolderRecommendation": "pages/wellness/main",
+      "currentRepoSourceFound": false
+    },
+    {
+      "name": "Infrared Sauna",
+      "pageId": "nf4iw",
+      "url": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "pageIdSource": "Nov6 inventory plus Oct4 native receipts; needs current readback",
+      "sourceFolderRecommendation": "pages/wellness/infrared-sauna",
+      "currentRepoSourceFound": false
+    }
+  ],
+  "latestVerifiedCheckpoint": {
+    "branch": "improve/seo-approved-drafts-2026-11-12",
+    "commit": "888c033ed7029c9c96e9ac26b05af70f1c70c002",
+    "repoPath": "checkpoints/seo-release-2026-11-12/README.md",
+    "publishedVersion": 1121,
+    "publishedUTC": "2026-11-12T21:19:54.955Z",
+    "savedDraftVersion": 1122,
+    "draftNote": "1122 preserved after release. Do not use previous About1109 as current site-wide baseline. Fresh state required before any later publish.",
+    "scope": "A01–A08 SEO across16 pages; Wellness/Sauna not listed; Home and About preserved.",
+    "driveReport": "https://drive.google.com/file/d/1eN-mxDkVl8V7DnHo3ZQt8PAIyzoH2R7i/view",
+    "driveCheckpoint": "https://drive.google.com/file/d/1669N73cCX7Fv0rVtlI3kvpX_Wd-01pBV/view"
+  },
+  "repo": {
+    "repository": "MatrixMassageBodywork-droid/matrix-wix-components",
+    "defaultBranch": "main",
+    "head": "34318faae01ef3416959b8f854fa9a88ee91f10b",
+    "mainTreeComplete": true,
+    "mainTreeCount": 1156,
+    "wellnessSourceFolders": [
+      "pages/wellness/red-light-quiz"
+    ],
+    "githubWorkflowsFound": [],
+    "branches": [
+      {
+        "name": "improve/homepage-performance-2026-11-09",
+        "sha": "886d34391ca88307663774d11607772cd38d5f7a"
+      },
+      {
+        "name": "improve/red-light-flow-r13-2026-11-11",
+        "sha": "feeb5c33711c7035484b3d3bf544cd4b871cbd18"
+      },
+      {
+        "name": "improve/seo-approved-drafts-2026-11-12",
+        "sha": "888c033ed7029c9c96e9ac26b05af70f1c70c002"
+      },
+      {
+        "name": "main",
+        "sha": "34318faae01ef3416959b8f854fa9a88ee91f10b"
+      },
+      {
+        "name": "plugins/matrix-seo-ai-search-manager",
+        "sha": "23010b3ccdbf4df98833fcfc05dadc35664f043a"
+      },
+      {
+        "name": "review/about-2026-11-12",
+        "sha": "c20b1eade1191b24da8e6509edb2466b4ac7f71e"
+      },
+      {
+        "name": "review/bristol-headspa-2026-11-06",
+        "sha": "02850ca5677f75f095c279a10787cb102f8e48ca"
+      },
+      {
+        "name": "review/red-light-quiz-r12-2026-11-10",
+        "sha": "ca70ebddf655a04c032a130cbac5c8c90e35ff8e"
+      },
+      {
+        "name": "review/red-light-service-2026-11-09",
+        "sha": "35f688dcc064a116c7dcdcaf0f4cb5c56ab1fca2"
+      },
+      {
+        "name": "review/regional-pages-2026-11-06",
+        "sha": "e16775b713db804421fbe4108ec7fc7023d963ea"
+      }
+    ]
+  },
+  "priorSauna": {
+    "folder": "https://drive.google.com/drive/folders/19FfobtFhzIvdI7UaOny1s9A767jRJ129",
+    "parentClassification": "02 Prior Sauna Work within parent folder whose other technical documents are marked SUPERSEDED",
+    "date": "2026-10-04",
+    "status": "Partial draft with binding/page-code issues; not a current complete build or proof of publication",
+    "elementId": "matrixServicePageV21",
+    "tagObserved": "wix-default-custom-element",
+    "tagIntended": "matrix-service-page-v21",
+    "sourceFile": "public/custom-elements/matrix-service-page-v21.js",
+    "dataset": {
+      "id": "matrixServicePageDataset",
+      "collection": "MatrixServicePages",
+      "mode": "Read",
+      "filter": "serviceKey is sauna",
+      "noActiveFilter": true
+    },
+    "cmsRow": {
+      "id": "sauna-main",
+      "active": false,
+      "indexable": true,
+      "heroStyle": "PHOTO",
+      "heroBackgroundUrl": null,
+      "expectImageUrl": null,
+      "productsImageUrl": null,
+      "galleryJson": []
+    },
+    "pageCodeExpectedSHA256": "2a2580cb690f374cd3655a9c3e07f369658db84304b5ba704bb49ad191982166",
+    "rendererSHA256": "d86e69c9524fdd397613c8d217d8ec75a2e6116bace6fa2dfbdd7cbd423c6416",
+    "latestReceipt": "https://drive.google.com/file/d/1XelCPdmKKjF5zn1OCdESBzpN_OlXdYVk/view",
+    "latestReceiptSummary": "One exact page-code replacement verified only in editor buffer, not saved; stopped on native social metadata differing from old package. No further Save, Preview, Publish. Real sauna photograph absent.",
+    "historicalNativeSEO": {
+      "title": "Infrared Sauna in Salem, WI | Matrix Wellness & Recovery",
+      "description": "Book a private infrared sauna session in Salem, WI for warmth, relaxation and recovery-focused wellness at Matrix Massage & Bodywork.",
+      "canonical": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "indexable": true,
+      "schema": [
+        "Sauna Service",
+        "Sauna BreadcrumbList"
+      ],
+      "faqAbsent": true
+    },
+    "historicalPriceOnly": {
+      "saunaAddOn": "30-minute appointment $35",
+      "massageEnhancement": "30-minute sauna enhancement $25",
+      "source": "Oct4 CMS capture and Nov9 public archive",
+      "mustVerifyCurrentSquare": true
+    }
+  },
+  "priorWellness": {
+    "noDedicatedDraftFound": true,
+    "publicArchive": "https://drive.google.com/file/d/1ZyTSPZcU5QghnRsBqoljfnQKZpKFTY_c/view",
+    "archiveDate": "2026-11-09",
+    "sections": [
+      "Red Light Therapy",
+      "Infrared Sauna",
+      "Supplements & Wellness",
+      "Labs & Wellness Testing",
+      "genuine testimonial"
+    ],
+    "historicalPrices": [
+      "Red light starting at$25 (known older than current red-light pricing)",
+      "Sauna starting at$35"
+    ],
+    "note": "Public archive is reference only. Reverify live body and current offerings. Do not introduce unverified labs/membership prices or fake facilities."
+  },
+  "limitations": [
+    "Personal Context connector returned unavailable.",
+    "No browser used; page code, native assets, dataset and element state need current capture.",
+    "No live or repo mutations; local findings saved only."
+  ]
+}

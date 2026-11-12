@@ -1,0 +1,32 @@
+[
+  {
+    "key": "pages-sitemap",
+    "url": "https://www.matrixmassage.net/pages-sitemap.xml",
+    "status": 200,
+    "bytes": 3895
+  },
+  {
+    "key": "robots",
+    "url": "https://www.matrixmassage.net/robots.txt",
+    "status": 200,
+    "bytes": 495
+  },
+  {
+    "key": "red-light",
+    "url": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+    "status": 200,
+    "bytes": 898905
+  },
+  {
+    "key": "square-menu",
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "status": 200,
+    "bytes": 222117
+  },
+  {
+    "key": "head-spa",
+    "url": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "status": 200,
+    "bytes": 837688
+  }
+]

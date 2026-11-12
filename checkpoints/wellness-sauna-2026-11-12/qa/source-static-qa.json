@@ -1,0 +1,62 @@
+{
+  "capturedAt": "2026-11-12T21:42:14.369073+00:00",
+  "status": "PASS",
+  "pages": [
+    {
+      "page": "main",
+      "review": "review-2",
+      "bodySha256": "44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820",
+      "rendererSha256": "d8ab1c6327ed0d69eb58f7c0fd4a7f1a1cca815268764751dca46869a56cbeb8",
+      "rendererBytes": 23001,
+      "faqCount": 7,
+      "checks": {
+        "oneH1": true,
+        "uniqueIds": true,
+        "anchorsExist": true,
+        "informativeAlt": true,
+        "noBodyScriptsOrHandlers": true,
+        "faqCount": true,
+        "faqExactVisibleMatch": true,
+        "rendererBodyMatches": true,
+        "rendererCssMatches": true,
+        "rendererSyntax": true,
+        "rendererNoMetadataMutation": true,
+        "cssScope": true,
+        "proofNoindex": true,
+        "manifestHashesCurrent": true,
+        "noMassageBook": true,
+        "noPlaceholderCopy": true
+      },
+      "failed": [],
+      "faqDiff": null
+    },
+    {
+      "page": "infrared-sauna",
+      "review": "review-2",
+      "bodySha256": "a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e",
+      "rendererSha256": "9c8186c457fecc789da59b898518abc20191216c59b7ed64581162ac839943ca",
+      "rendererBytes": 26417,
+      "faqCount": 8,
+      "checks": {
+        "oneH1": true,
+        "uniqueIds": true,
+        "anchorsExist": true,
+        "informativeAlt": true,
+        "noBodyScriptsOrHandlers": true,
+        "faqCount": true,
+        "faqExactVisibleMatch": true,
+        "rendererBodyMatches": true,
+        "rendererCssMatches": true,
+        "rendererSyntax": true,
+        "rendererNoMetadataMutation": true,
+        "cssScope": true,
+        "proofNoindex": true,
+        "manifestHashesCurrent": true,
+        "noMassageBook": true,
+        "noPlaceholderCopy": true
+      },
+      "failed": [],
+      "faqDiff": null
+    }
+  ]
+}

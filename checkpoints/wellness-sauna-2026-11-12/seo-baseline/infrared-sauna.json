@@ -1,0 +1,356 @@
+{
+  "capturedAt": "2026-11-12T21:30:42.970Z",
+  "page": {
+    "itemId": "nf4iw",
+    "canonicals": [
+      {
+        "url": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      }
+    ],
+    "titles": [
+      {
+        "title": "Infrared Sauna in Salem, WI | Matrix Wellness & Recovery",
+        "source": "TAG_SOURCE_HOST_PAGE"
+      }
+    ]
+  },
+  "baseline": {
+    "id": "STATIC_PAGE:nf4iw",
+    "itemType": "STATIC_PAGE",
+    "itemId": "nf4iw",
+    "tags": [
+      {
+        "type": "title",
+        "children": "Infrared Sauna in Salem, WI | Matrix Wellness & Recovery",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "meta",
+        "props": {
+          "name": "description",
+          "content": "Book a private infrared sauna session in Salem, WI for warmth, relaxation and recovery-focused wellness at Matrix Massage & Bodywork."
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "script",
+        "props": {
+          "type": "application/ld+json"
+        },
+        "meta": {
+          "schemaType": "6e4jQmZM",
+          "displayName": "Sauna Service"
+        },
+        "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"Service\",   \"name\": \"Infrared Sauna in Salem, WI\",   \"url\": \"https://www.matrixmassage.net/infrared-sauna-salem-wi\",   \"serviceType\": \"Infrared sauna\",   \"provider\": {     \"@type\": \"HealthAndBeautyBusiness\",     \"name\": \"Matrix Massage & Bodywork\",     \"url\": \"https://www.matrixmassage.net/\",     \"telephone\": \"+1-262-939-9325\",     \"address\": {       \"@type\": \"PostalAddress\",       \"streetAddress\": \"24804 75th St\",       \"addressLocality\": \"Salem\",       \"addressRegion\": \"WI\",       \"postalCode\": \"53168\",       \"addressCountry\": \"US\"     }   },   \"areaServed\": [     \"Salem Lakes, Wisconsin\",     \"Paddock Lake, Wisconsin\",     \"Bristol, Wisconsin\",     \"Pleasant Prairie, Wisconsin\",     \"Twin Lakes, Wisconsin\",     \"Kenosha County, Wisconsin\",     \"Union Grove, Wisconsin\",     \"Antioch, Illinois\"   ],   \"description\": \"Private infrared sauna sessions offered for general wellness, warmth and relaxation at Matrix Massage & Bodywork in Salem, Wisconsin.\" }",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "script",
+        "props": {
+          "type": "application/ld+json"
+        },
+        "meta": {
+          "schemaType": "U6QYwSDN",
+          "displayName": "Sauna BreadcrumbList"
+        },
+        "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"BreadcrumbList\",   \"itemListElement\": [     {       \"@type\": \"ListItem\",       \"position\": 1,       \"name\": \"Home\",       \"item\": \"https://www.matrixmassage.net/\"     },     {       \"@type\": \"ListItem\",       \"position\": 2,       \"name\": \"Infrared Sauna in Salem, WI\",       \"item\": \"https://www.matrixmassage.net/infrared-sauna-salem-wi\"     }   ] }",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "meta",
+        "props": {
+          "property": "og:title",
+          "content": "Infrared Sauna in Salem, WI | Matrix"
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      },
+      {
+        "type": "meta",
+        "props": {
+          "property": "og:description",
+          "content": "Private infrared sauna sessions for relaxation and recovery-focused wellness at Matrix in Salem, Wisconsin."
+        },
+        "children": "",
+        "custom": false,
+        "disabled": false
+      }
+    ],
+    "focusKeywords": [],
+    "hasOverride": true,
+    "resolvedTags": [
+      {
+        "tag": {
+          "type": "title",
+          "children": "Infrared Sauna in Salem, WI | Matrix Wellness & Recovery",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "title",
+          "children": "Infrared Sauna | Matrix Massage & Bodywork",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Book a private infrared sauna session in Salem, WI for warmth, relaxation and recovery-focused wellness at Matrix Massage & Bodywork."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "link",
+          "props": {
+            "rel": "canonical",
+            "href": "https://www.matrixmassage.net/infrared-sauna-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:title",
+            "content": "Infrared Sauna in Salem, WI | Matrix"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "meta",
+          "props": {
+            "property": "og:title",
+            "content": "Infrared Sauna | Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:description",
+            "content": "Private infrared sauna sessions for relaxation and recovery-focused wellness at Matrix in Salem, Wisconsin."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image:width",
+            "content": "2500"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:image:height",
+            "content": "1330"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:url",
+            "content": "https://www.matrixmassage.net/infrared-sauna-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:site_name",
+            "content": "Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "property": "og:type",
+            "content": "website"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "6e4jQmZM",
+            "displayName": "Sauna Service"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"name\":\"Infrared Sauna in Salem, WI\",\"url\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi\",\"serviceType\":\"Infrared sauna\",\"provider\":{\"@type\":\"HealthAndBeautyBusiness\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/\",\"telephone\":\"+1-262-939-9325\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"}},\"areaServed\":[\"Salem Lakes, Wisconsin\",\"Paddock Lake, Wisconsin\",\"Bristol, Wisconsin\",\"Pleasant Prairie, Wisconsin\",\"Twin Lakes, Wisconsin\",\"Kenosha County, Wisconsin\",\"Union Grove, Wisconsin\",\"Antioch, Illinois\"],\"description\":\"Private infrared sauna sessions offered for general wellness, warmth and relaxation at Matrix Massage & Bodywork in Salem, Wisconsin.\"}",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "U6QYwSDN",
+            "displayName": "Sauna BreadcrumbList"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Infrared Sauna in Salem, WI\",\"item\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi\"}]}",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "google-site-verification",
+            "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_SITE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:card",
+            "content": "summary_large_image"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:title",
+            "content": "Infrared Sauna in Salem, WI | Matrix"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE",
+        "inheritedTag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:title",
+            "content": "Infrared Sauna | Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:description",
+            "content": "Private infrared sauna sessions for relaxation and recovery-focused wellness at Matrix in Salem, Wisconsin."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_HOST_PAGE"
+      },
+      {
+        "tag": {
+          "type": "meta",
+          "props": {
+            "name": "twitter:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        "source": "TAG_SOURCE_DEFAULT_PATTERN"
+      }
+    ],
+    "hostPageId": "nf4iw",
+    "publishStatus": "PUBLISH_STATUS_UNSPECIFIED",
+    "origin": "ORIGIN_UNSPECIFIED"
+  }
+}

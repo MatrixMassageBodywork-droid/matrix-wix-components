@@ -1,0 +1,38 @@
+{
+  "status": "SOURCE ASSETS / NOT PUBLICATION",
+  "assets": [
+    {
+      "name": "Sauna stock photograph",
+      "provenance": "Existing Wix media used on the public Wellness page, not a photo of Matrix facilities. Visually inspected 2026-11-12.",
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg",
+      "repositoryOriginal": "pages/wellness/infrared-sauna/assets/sauna-stock-original.jpg",
+      "sha256": "b2038332c2f6f35ad286653e7ea0a9626f9911fd96ed56d346e26233e6ac7af5",
+      "renderedUse": "Wellness card and Sauna hero, visible illustrative caption"
+    },
+    {
+      "name": "Red light panel photograph",
+      "provenance": "Existing image on the current published Matrix Red Light page; close-up of LED array. Visually inspected 2026-11-12.",
+      "sourceUrl": "https://static.wixstatic.com/media/e4cc43_6770ca078851428da084817f8912d7f8~mv2.jpg",
+      "repositoryOriginal": "pages/wellness/main/assets/red-light-panel-original.jpg",
+      "sha256": "9c9b6e66bdeabb9e8e5f672ed7fd73b9cb3b673ce101659dacbbe91cec7251b3",
+      "renderedUse": "Wellness red-light service card"
+    },
+    {
+      "name": "Approved Matrix logo",
+      "provenance": "Shared owner-approved main/subpage logo. Existing repository original retained.",
+      "sourceUrl": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+      "repositoryOriginal": "pages/massage/deep-tissue/assets/matrix-bodywork-approved.jpg",
+      "existingGitBlobSha": "c11494792ecce1e47a796b61f47c7319fb6a57d8",
+      "sha256": "7ffb947caea7309fb8e4c42b24049b75b5f421e338711568a0085b4c39417708"
+    },
+    {
+      "name": "Shared Matrix water texture",
+      "provenance": "Existing approved shared Wix water image. Existing archived repository rendition preserved; new code references verified optimized Wix rendition.",
+      "sourceUrl": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg",
+      "existingRepositoryRendition": "pages/spa-beauty/main/assets/water.jpeg",
+      "existingGitBlobSha": "a05b24519ac050ff619ad0654fc89ec176406c92",
+      "displaySha256": "5e466db994796abb36694f62a15316900dc9dbce6f1cc3b1595597f16603efba"
+    }
+  ],
+  "displayDerivativesEvidence": "checkpoints/wellness-sauna-2026-11-12/qa/destination-http-qa.json"
+}
