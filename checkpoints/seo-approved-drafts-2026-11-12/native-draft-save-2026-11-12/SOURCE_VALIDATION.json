@@ -1,0 +1,127 @@
+{
+  "status": "LOCAL COMPLETE SOURCE VALIDATION PASSED FOR FOUR GROUPS",
+  "checkedAt": "2026-11-12T17:08:48.612676+00:00",
+  "method": "Reused existing body parser and Main Massage source-preservation receipt; checked actual native merge literals and renderer candidates. No generator rerun, live mutation, browser action or GitHub write.",
+  "pages": [
+    {
+      "key": "massage",
+      "pageId": "anvbe",
+      "change": "A02+A05",
+      "status": "LOCAL SOURCE VALIDATION PASSED",
+      "nativeSavedReadback": "SAVED REOPENED READBACK EXACT MATCH",
+      "rendererSha256": "45dcc1c46179a557f6c4017837210ad92d38af09dab42d03fff1d8499551c506",
+      "nativeBeforeSha256": "473551deb21ebfb134dfae27e964dcf8ca20767b2d3b28aa459d7dc9f3d90a6e",
+      "nativeAfterSha256": "b3245a98b91fe673516300f997678215bc8f96e887711717abedca4850224533",
+      "seoMarkupSha256": "c037dbc1884577bad80b899087f0fd4d5ce8df418d8ddc01d6f97bd537eb5ec9",
+      "checks": {
+        "rendererSyntax": "PASS",
+        "nativeMergedCodeSyntax": "PASS",
+        "balancedRendererBodyAndSeoMarkup": true,
+        "visibleTextEqualsFullSeoMarkup": true,
+        "orderedLinkTextAndHrefEqualsFullSeoMarkup": true,
+        "oneMatchingH1": true,
+        "onlyNativeSeoMarkupLiteralChanged": true,
+        "allOtherNativeCodeBytesPreserved": true
+      },
+      "changeScope": {
+        "existingSourceScopeValidationReused": true,
+        "existingValidationSha256": "896d584d6404298bfd64bbbe406d835ce529d73f02e8e47dd1d57cbdb38fbba4",
+        "faqCount": 5,
+        "savedRendererEqualsSelectedCandidate": true,
+        "savedNativeCodeEqualsExactMerge": true
+      },
+      "layoutQa": "NOT TESTED BY THIS SOURCE VALIDATION",
+      "publication": "NOT PUBLISHED"
+    },
+    {
+      "key": "spa",
+      "pageId": "ualp6",
+      "change": "A03",
+      "status": "LOCAL SOURCE VALIDATION PASSED",
+      "nativeSavedReadback": "PENDING REOPENED READBACK",
+      "rendererSha256": "da84ba93575fc55db52507166759f3d4ea21bbc8dae485620a968f46db6db0f7",
+      "nativeBeforeSha256": "b71adb98751454b3648dc96a25016592030f1d9cf9b0ff7a03c3cfe7cfeae0c6",
+      "nativeAfterSha256": "1e1d104beee87fb4a19c08e05544281d7c7f8515f878f593f84e7b8627ce9f4b",
+      "seoMarkupSha256": "b3cfa0c6c004824b678afea0b17f7580f3e890a534edf450f0bacc50175f06b9",
+      "checks": {
+        "rendererSyntax": "PASS",
+        "nativeMergedCodeSyntax": "PASS",
+        "balancedRendererBodyAndSeoMarkup": true,
+        "visibleTextEqualsFullSeoMarkup": true,
+        "orderedLinkTextAndHrefEqualsFullSeoMarkup": true,
+        "oneMatchingH1": true,
+        "onlyNativeSeoMarkupLiteralChanged": true,
+        "allOtherNativeCodeBytesPreserved": true
+      },
+      "changeScope": {
+        "exactSingleParagraphAddition": true,
+        "newContextualLinks": 2,
+        "rendererWrapperCssAndOtherBodyBytesPreserved": true
+      },
+      "layoutQa": "NOT TESTED BY THIS SOURCE VALIDATION",
+      "publication": "NOT PUBLISHED"
+    },
+    {
+      "key": "bristol",
+      "pageId": "q3smg",
+      "change": "A04",
+      "status": "LOCAL SOURCE VALIDATION PASSED",
+      "nativeSavedReadback": "PENDING REOPENED READBACK",
+      "rendererSha256": "5f01ba67b3351e286fc6b78516e91618894b2fc3a818efae43d02c3179aa0e02",
+      "nativeBeforeSha256": "adba295f0195b923f14271cfddb7474907f141996bdbcddbeaf4e135fec13524",
+      "nativeAfterSha256": "07ef66970a50ed024c0404861df8005b36ec213dcf074e02970f26178444f558",
+      "seoMarkupSha256": "336be7e7ad754da6958400f6b49ce33f0cc0d3e9050c486d664b30d269eb793e",
+      "checks": {
+        "rendererSyntax": "PASS",
+        "nativeMergedCodeSyntax": "PASS",
+        "balancedRendererBodyAndSeoMarkup": true,
+        "visibleTextEqualsFullSeoMarkup": true,
+        "orderedLinkTextAndHrefEqualsFullSeoMarkup": true,
+        "oneMatchingH1": true,
+        "onlyNativeSeoMarkupLiteralChanged": true,
+        "allOtherNativeCodeBytesPreserved": true
+      },
+      "changeScope": {
+        "exactTwoHrefReplacementsOnly": true,
+        "from": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi#sb-lashes",
+        "to": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi",
+        "allAnchorTextAndOtherBodyBytesPreserved": true,
+        "rendererWrapperCssPreserved": true
+      },
+      "layoutQa": "NOT TESTED BY THIS SOURCE VALIDATION",
+      "publication": "NOT PUBLISHED"
+    },
+    {
+      "key": "twin",
+      "pageId": "dan8z",
+      "change": "A04",
+      "status": "LOCAL SOURCE VALIDATION PASSED",
+      "nativeSavedReadback": "PENDING REOPENED READBACK",
+      "rendererSha256": "17783bacdc148dafff05ea51f4e59fb7fd6fcfa2490593f75e223d9a5d36c09f",
+      "nativeBeforeSha256": "01ce0c25ac8ec57b69c9603cc7b962254abaa437d0d069936641d12dccb0dfc7",
+      "nativeAfterSha256": "c0c367599a28fd6e0492d0e6e9d2eb38ba616662825197555789d599fafdca96",
+      "seoMarkupSha256": "d1ae7025146c1f95fa2229d1c75640f9f1686f9a9cec48b287f7c28be25f6542",
+      "checks": {
+        "rendererSyntax": "PASS",
+        "nativeMergedCodeSyntax": "PASS",
+        "balancedRendererBodyAndSeoMarkup": true,
+        "visibleTextEqualsFullSeoMarkup": true,
+        "orderedLinkTextAndHrefEqualsFullSeoMarkup": true,
+        "oneMatchingH1": true,
+        "onlyNativeSeoMarkupLiteralChanged": true,
+        "allOtherNativeCodeBytesPreserved": true
+      },
+      "changeScope": {
+        "exactTwoHrefReplacementsOnly": true,
+        "from": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi#sb-lashes",
+        "to": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi",
+        "allAnchorTextAndOtherBodyBytesPreserved": true,
+        "rendererWrapperCssPreserved": true
+      },
+      "layoutQa": "NOT TESTED BY THIS SOURCE VALIDATION",
+      "publication": "NOT PUBLISHED"
+    }
+  ],
+  "publicArchiveBoundary": "Raw UI screenshots and editor binding capture remain internal. Publish only exact public page source and sanitized technical save/readback facts.",
+  "pending": "Consult DRAFT_SAVE_RECEIPT.json for current save/reload state. Rendered checks remain distinct from source validation."
+}

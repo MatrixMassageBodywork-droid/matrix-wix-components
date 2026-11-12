@@ -1,0 +1,10 @@
+{
+  "sourceCommit": "e0a12d1366a3f6a9e70eee179fa348da90a60874",
+  "path": "checkpoints/seo-approved-drafts-2026-11-12/links/candidates/bristol-renderer.js",
+  "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@e0a12d1366a3f6a9e70eee179fa348da90a60874/checkpoints/seo-approved-drafts-2026-11-12/links/candidates/bristol-renderer.js",
+  "bytes": 29577,
+  "sha256": "5f01ba67b3351e286fc6b78516e91618894b2fc3a818efae43d02c3179aa0e02",
+  "cdnVerification": "HTTP 200 and exact bytes verified in original checkpoint",
+  "nativeReopenedBindingReadback": "FINAL FULL RELOAD EXACT MATCH",
+  "postUpdateRenderedSourceObserved": true
+}

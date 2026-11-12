@@ -1,0 +1,28 @@
+{
+  "page_id": "anvbe",
+  "changes": [
+    "A02",
+    "A05"
+  ],
+  "save_dialog": "Your changes are saved",
+  "reopened_after_full_reload": true,
+  "source_binding": "Velo file massage-therapy-services-salem-wi.js / matrix-massage-services",
+  "files": [
+    {
+      "file": "massage-page-code",
+      "saved_reopened_sha256": "b3245a98b91fe673516300f997678215bc8f96e887711717abedca4850224533",
+      "expected_sha256": "b3245a98b91fe673516300f997678215bc8f96e887711717abedca4850224533",
+      "exact_match": true,
+      "bytes": 13260
+    },
+    {
+      "file": "massage-renderer",
+      "saved_reopened_sha256": "45dcc1c46179a557f6c4017837210ad92d38af09dab42d03fff1d8499551c506",
+      "expected_sha256": "45dcc1c46179a557f6c4017837210ad92d38af09dab42d03fff1d8499551c506",
+      "exact_match": true,
+      "bytes": 20834
+    }
+  ],
+  "published": false,
+  "layout_qa": "PENDING"
+}

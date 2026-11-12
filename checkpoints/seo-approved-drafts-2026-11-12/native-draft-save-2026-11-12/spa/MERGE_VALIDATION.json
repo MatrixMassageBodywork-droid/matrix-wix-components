@@ -1,0 +1,44 @@
+{
+  "status": "HISTORICAL PRE-SAVE MERGE VALIDATION; consult later readback receipt for saved status",
+  "key": "spa",
+  "change": "A03",
+  "pageId": "ualp6",
+  "element": "matrixSpaMain",
+  "scope": "Replace only the single verified full seoMarkup literal in actual captured native code.",
+  "before": {
+    "path": "WIX_PAGE_CODE.before.js",
+    "characters": 12933,
+    "bytes": 12933,
+    "sha256": "b71adb98751454b3648dc96a25016592030f1d9cf9b0ff7a03c3cfe7cfeae0c6",
+    "seoMarkupSha256": "c549046dbc0399b287f61cc0dccf93422003b55428960b739b5e36d32fc63850"
+  },
+  "after": {
+    "path": "WIX_PAGE_CODE.candidate.js",
+    "characters": 13237,
+    "bytes": 13274,
+    "sha256": "1e1d104beee87fb4a19c08e05544281d7c7f8515f878f593f84e7b8627ce9f4b",
+    "seoMarkupSha256": "b3cfa0c6c004824b678afea0b17f7580f3e890a534edf450f0bacc50175f06b9"
+  },
+  "validation": {
+    "nativeMarkupExactMatchToApprovedBaseline": true,
+    "approvedAssignmentCount": 1,
+    "nativeAssignmentCount": 1,
+    "nativeAssignmentLine": 6,
+    "beforeModuleSyntax": "PASS",
+    "afterModuleSyntax": "PASS",
+    "prefixBytesPreserved": true,
+    "suffixBytesPreserved": true,
+    "restoringOriginalLiteralRecoversEntireBeforeFile": true,
+    "candidateDecodedMarkupExactMatch": true,
+    "sharedAndAuditAfterBytesIdentical": true
+  },
+  "protectedPrefixSha256": "7a4f3cc790a3469c2f1e0bb809936fa3d6fac382ea0290e1cdc5120ddae96406",
+  "protectedSuffixSha256": "013f19f6c161466454763c2c8c5da7ba9a860b7804bf67234a1b8e0d2ca4964c",
+  "preservation": "All native imports, onReady handlers, aliases, metadata/schema logic, collapse/navigation/events and any other page code outside that literal remain exactly as captured.",
+  "preflightBeforeSave": "Actual saved code must still match before.sha256; after approval pair with exact prepared renderer and save/reopen/read back. Draft only; do not publish.",
+  "notTested": [
+    "Wix save/persistence",
+    "Native draft rendering and layout",
+    "Published URL/release"
+  ]
+}

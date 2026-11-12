@@ -1,0 +1,117 @@
+{
+  "status": "LIMITED NATIVE PREVIEW QA RECORDED; NOT PUBLISHED",
+  "checkedAt": "2026-11-12T17:34:59.632708+00:00",
+  "environment": "Existing Wix editor Preview only; no Test Site created",
+  "testedWidths": {
+    "desktop": 1348,
+    "mobile": 320
+  },
+  "notTestedWidths": [
+    1440,
+    390,
+    375
+  ],
+  "nativeHeightChanges": false,
+  "pages": {
+    "massage": {
+      "status": "RUNTIME UNVERIFIED",
+      "previewObservedAt": "2026-11-12T17:31:10.583Z",
+      "observedCustomElement": "matrix-massage-services",
+      "renderedChildCount": 0,
+      "shadowRootPresent": false,
+      "visibleBodyTextPresent": false,
+      "observedJsonLdCount": 0,
+      "conclusion": "Saved source readbacks match exactly, but the native Preview remained blank. No runtime/layout/schema pass is claimed.",
+      "productionInference": "No production behavior is inferred from this unpublished Preview."
+    },
+    "spa": {
+      "status": "PASS at checked desktop/mobile widths for intended contextual links and retained closing content",
+      "desktop": {
+        "width": 1348,
+        "scrollWidth": 1348,
+        "h1": "Spa & Beauty Services\nin Salem, WI",
+        "faqCount": 4
+      },
+      "mobile": {
+        "width": 320,
+        "scrollWidth": 320,
+        "expandedFaqCount": 1,
+        "faqCount": 4,
+        "finalBodyHeight": 7945
+      },
+      "newRegionalLinks": [
+        {
+          "href": "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+          "text": "spa services near Bristol"
+        },
+        {
+          "href": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+          "text": "spa services near Twin Lakes and Genoa City"
+        }
+      ],
+      "regionalLinkEvidence": "Same-revision mobile link capture and subsequent visual review",
+      "closingBookingLink": {
+        "href": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+        "text": "BOOK SPA & BEAUTY"
+      },
+      "closingBookingCtaAndAddressFullyVisible": "CONFIRMED in visual review; screenshot retained privately",
+      "faqInteraction": "Where do I go, and how do I book? expanded",
+      "nativeHeightChanges": false
+    },
+    "bristol": {
+      "status": "PASS at checked desktop/mobile widths for intended link change",
+      "desktop": {
+        "width": 1348,
+        "scrollWidth": 1348,
+        "h1": "The Premier Luxury Spa Experience Serving Bristol, WI",
+        "faqCount": 10,
+        "bodyHeight": 7341
+      },
+      "mobile": {
+        "width": 320,
+        "scrollWidth": 320,
+        "bodyHeight": 10544
+      },
+      "dedicatedLashLinksPerViewport": 2,
+      "oldSpaLashFragmentLinksPerViewport": 0,
+      "dedicatedLashUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi",
+      "lashSectionVisualReview": "CONFIRMED at desktop/mobile; screenshots retained privately",
+      "nativeHeightChanges": false
+    },
+    "twin": {
+      "status": "PASS at checked desktop/mobile widths for intended link change",
+      "desktop": {
+        "width": 1348,
+        "scrollWidth": 1348,
+        "h1": "The Premier Luxury Spa Experience Serving Twin Lakes & Genoa City, WI",
+        "faqCount": 10,
+        "bodyHeight": 7491
+      },
+      "mobile": {
+        "width": 320,
+        "scrollWidth": 320,
+        "bodyHeight": 10749
+      },
+      "dedicatedLashLinksPerViewport": 2,
+      "oldSpaLashFragmentLinksPerViewport": 0,
+      "dedicatedLashUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi",
+      "lashSectionVisualReview": "CONFIRMED at desktop/mobile; screenshots retained privately",
+      "nativeHeightChanges": false
+    },
+    "pathways": {
+      "status": "RUNTIME GROUP NOT VERIFIED",
+      "firstItemAttempted": "age-defying-firm",
+      "firstItemResult": "Blank native Preview; no JSON-LD observed",
+      "remainingFiveItems": "NOT RUN",
+      "remainingSlugs": [
+        "hydrate-restore",
+        "brighten-smooth",
+        "clear-balance",
+        "calm-support",
+        "maintain-glow"
+      ],
+      "savedCodeAndLocalSixGraphTests": "PASS; separately documented",
+      "conclusion": "Exact saved source and passing local tests do not establish native runtime rendering/schema emission. No publication attempted."
+    }
+  }
+}

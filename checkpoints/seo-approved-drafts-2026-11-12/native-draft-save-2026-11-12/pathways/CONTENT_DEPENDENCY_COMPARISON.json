@@ -1,0 +1,56 @@
+{
+  "status": "PASS",
+  "contentSha256": "34ca57a5ba698c9dc674c92da8b21f68707082676d8eeede484b9e107f5a4ed3",
+  "staticDataOnly": true,
+  "exactSixSlugs": true,
+  "rows": [
+    {
+      "slug": "hydrate-restore",
+      "h1": "Hydrating Facials in Salem, WI",
+      "seoDescription": "Explore facial care for dry, tight-feeling skin at Matrix in Salem, WI, near Paddock Lake. Compare options, know what to expect, and plan your visit.",
+      "schemaFieldsExact": true,
+      "nonOverriddenCopyFieldsCompared": 33,
+      "copyDeltas": []
+    },
+    {
+      "slug": "brighten-smooth",
+      "h1": "Brightening Facials & Dermaplaning in Salem, WI",
+      "seoDescription": "Explore brightening facial and dermaplaning options at Matrix in Salem, WI. Find care for dull-looking skin and uneven surface texture near Paddock Lake.",
+      "schemaFieldsExact": true,
+      "nonOverriddenCopyFieldsCompared": 33,
+      "copyDeltas": []
+    },
+    {
+      "slug": "clear-balance",
+      "h1": "Facials for Congested Skin in Salem, WI",
+      "seoDescription": "Explore personalized facial care for congested or oily-looking skin at Matrix in Salem, WI, near Paddock Lake. Learn what to expect and how to book.",
+      "schemaFieldsExact": true,
+      "nonOverriddenCopyFieldsCompared": 33,
+      "copyDeltas": []
+    },
+    {
+      "slug": "calm-support",
+      "h1": "Gentle Facial Care for Sensitive Skin in Salem, WI",
+      "seoDescription": "Explore gentle, individualized facial care at Matrix in Salem, WI. Share your sensitivities, learn what to expect and choose a comfortable starting point.",
+      "schemaFieldsExact": true,
+      "nonOverriddenCopyFieldsCompared": 33,
+      "copyDeltas": []
+    },
+    {
+      "slug": "age-defying-firm",
+      "h1": "Facials for Mature Skin in Salem, WI",
+      "seoDescription": "Explore facial care for mature skin, fine lines and a refreshed-looking complexion at Matrix in Salem, WI, welcoming nearby Salem Lakes and Paddock Lake guests.",
+      "schemaFieldsExact": true,
+      "nonOverriddenCopyFieldsCompared": 33,
+      "copyDeltas": []
+    },
+    {
+      "slug": "maintain-glow",
+      "h1": "Facial Maintenance for a Fresh Glow in Salem, WI",
+      "seoDescription": "Keep facial care part of your routine at Matrix in Salem, WI. Explore personalized maintenance facials, practical aftercare and a refreshed-looking glow.",
+      "schemaFieldsExact": true,
+      "nonOverriddenCopyFieldsCompared": 33,
+      "copyDeltas": []
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "status": "FOUR NATIVE PAGE-CODE READBACKS AND ALL RENDERER SOURCES VERIFIED AS SAVED DRAFTS; TARGETED SPA/REGIONAL PREVIEW CHECKS PASSED; MAIN MASSAGE RUNTIME UNVERIFIED; NOT PUBLISHED",
+  "verifiedAt": "2026-11-12T17:34:59.632708+00:00",
+  "method": "Exact byte comparison of full-editor-reload source captures against already validated candidates; external rendered-source observation is kept separate from reopened binding persistence.",
+  "pages": [
+    {
+      "key": "massage",
+      "pageId": "anvbe",
+      "change": "A02+A05",
+      "pageCode": {
+        "status": "SAVED; REOPENED AFTER FULL EDITOR RELOAD; EXACT MATCH",
+        "sha256": "b3245a98b91fe673516300f997678215bc8f96e887711717abedca4850224533",
+        "bytes": 13260,
+        "candidateSha256": "b3245a98b91fe673516300f997678215bc8f96e887711717abedca4850224533"
+      },
+      "layoutQa": "RUNTIME UNVERIFIED: BLANK NATIVE PREVIEW",
+      "published": false,
+      "renderer": {
+        "sourceMode": "Wix-hosted Velo file",
+        "filename": "massage-therapy-services-salem-wi.js",
+        "status": "SAVED; REOPENED AFTER FULL EDITOR RELOAD; EXACT MATCH",
+        "sha256": "45dcc1c46179a557f6c4017837210ad92d38af09dab42d03fff1d8499551c506",
+        "bytes": 20834
+      },
+      "previewSummary": {
+        "status": "RUNTIME UNVERIFIED",
+        "previewObservedAt": "2026-11-12T17:31:10.583Z",
+        "observedCustomElement": "matrix-massage-services",
+        "renderedChildCount": 0,
+        "shadowRootPresent": false,
+        "visibleBodyTextPresent": false,
+        "observedJsonLdCount": 0,
+        "conclusion": "Saved source readbacks match exactly, but the native Preview remained blank. No runtime/layout/schema pass is claimed.",
+        "productionInference": "No production behavior is inferred from this unpublished Preview."
+      }
+    },
+    {
+      "key": "spa",
+      "pageId": "ualp6",
+      "change": "A03",
+      "pageCode": {
+        "status": "SAVED; REOPENED AFTER FULL EDITOR RELOAD; EXACT MATCH",
+        "sha256": "1e1d104beee87fb4a19c08e05544281d7c7f8515f878f593f84e7b8627ce9f4b",
+        "bytes": 13274,
+        "candidateSha256": "1e1d104beee87fb4a19c08e05544281d7c7f8515f878f593f84e7b8627ce9f4b"
+      },
+      "layoutQa": "PASS FOR TARGETED CHANGE AT 1348/320; OTHER REQUIRED WIDTHS NOT TESTED",
+      "published": false,
+      "renderer": {
+        "sourceMode": "External immutable URL",
+        "expectedUrl": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@e0a12d1366a3f6a9e70eee179fa348da90a60874/checkpoints/seo-approved-drafts-2026-11-12/links/candidates/spa-renderer.js",
+        "status": "SAVED; FINAL FULL RELOAD RENDERED SOURCE EXACT MATCH",
+        "postUpdateSourceObserved": true,
+        "reopenedBindingVerified": true,
+        "postUpdateObservedUrls": [
+          "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@e0a12d1366a3f6a9e70eee179fa348da90a60874/checkpoints/seo-approved-drafts-2026-11-12/links/candidates/spa-renderer.js"
+        ],
+        "sourceObservationSha256": "2cc220b4a0f6bd156c65d637b361e8f6bf821d76d24f0508feb57354a23e941e",
+        "executionNote": "Focused URL entry, explicit Update button, then Save. Rendered iframe source matched candidate after correction; full reload verification remains pending.",
+        "reopenedObservedUrls": [
+          "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@e0a12d1366a3f6a9e70eee179fa348da90a60874/checkpoints/seo-approved-drafts-2026-11-12/links/candidates/spa-renderer.js"
+        ],
+        "finalReloadEvidenceSha256": "2cc220b4a0f6bd156c65d637b361e8f6bf821d76d24f0508feb57354a23e941e"
+      },
+      "previewSummary": {
+        "status": "PASS at checked desktop/mobile widths for intended contextual links and retained closing content",
+        "desktop": {
+          "width": 1348,
+          "scrollWidth": 1348,
+          "h1": "Spa & Beauty Services\nin Salem, WI",
+          "faqCount": 4
+        },
+        "mobile": {
+          "width": 320,
+          "scrollWidth": 320,
+          "expandedFaqCount": 1,
+          "faqCount": 4,
+          "finalBodyHeight": 7945
+        },
+        "newRegionalLinks": [
+          {
+            "href": "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+            "text": "spa services near Bristol"
+          },
+          {
+            "href": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+            "text": "spa services near Twin Lakes and Genoa City"
+          }
+        ],
+        "regionalLinkEvidence": "Same-revision mobile link capture and subsequent visual review",
+        "closingBookingLink": {
+          "href": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+          "text": "BOOK SPA & BEAUTY"
+        },
+        "closingBookingCtaAndAddressFullyVisible": "CONFIRMED in visual review; screenshot retained privately",
+        "faqInteraction": "Where do I go, and how do I book? expanded",
+        "nativeHeightChanges": false
+      }
+    },
+    {
+      "key": "bristol",
+      "pageId": "q3smg",
+      "change": "A04",
+      "pageCode": {
+        "status": "SAVED; REOPENED AFTER FULL EDITOR RELOAD; EXACT MATCH",
+        "sha256": "07ef66970a50ed024c0404861df8005b36ec213dcf074e02970f26178444f558",
+        "bytes": 18539,
+        "candidateSha256": "07ef66970a50ed024c0404861df8005b36ec213dcf074e02970f26178444f558"
+      },
+      "layoutQa": "PASS FOR TARGETED LINK CHANGE AT 1348/320; OTHER REQUIRED WIDTHS NOT TESTED",
+      "published": false,
+      "renderer": {
+        "sourceMode": "External immutable URL",
+        "expectedUrl": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@e0a12d1366a3f6a9e70eee179fa348da90a60874/checkpoints/seo-approved-drafts-2026-11-12/links/candidates/bristol-renderer.js",
+        "status": "SAVED; FINAL FULL RELOAD RENDERED SOURCE EXACT MATCH",
+        "postUpdateSourceObserved": true,
+        "reopenedBindingVerified": true,
+        "postUpdateObservedUrls": [
+          "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@e0a12d1366a3f6a9e70eee179fa348da90a60874/checkpoints/seo-approved-drafts-2026-11-12/links/candidates/bristol-renderer.js"
+        ],
+        "sourceObservationSha256": "261bd7b02a0d618971bb170aead442bfd7739561aed68bf6fafd2a3d8e57298c",
+        "executionNote": "Focused URL entry, explicit Update button, then Save. Rendered iframe source matched candidate after correction; full reload verification remains pending.",
+        "reopenedObservedUrls": [
+          "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@e0a12d1366a3f6a9e70eee179fa348da90a60874/checkpoints/seo-approved-drafts-2026-11-12/links/candidates/bristol-renderer.js"
+        ],
+        "finalReloadVerifiedAt": "2026-11-12T17:27:27.655Z",
+        "finalReloadEvidenceSha256": "f6341c5c9a5338b81bd0bc33344a13481bcb85993448ec89ead7fffd7c993d7c"
+      },
+      "previewSummary": {
+        "status": "PASS at checked desktop/mobile widths for intended link change",
+        "desktop": {
+          "width": 1348,
+          "scrollWidth": 1348,
+          "h1": "The Premier Luxury Spa Experience Serving Bristol, WI",
+          "faqCount": 10,
+          "bodyHeight": 7341
+        },
+        "mobile": {
+          "width": 320,
+          "scrollWidth": 320,
+          "bodyHeight": 10544
+        },
+        "dedicatedLashLinksPerViewport": 2,
+        "oldSpaLashFragmentLinksPerViewport": 0,
+        "dedicatedLashUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi",
+        "lashSectionVisualReview": "CONFIRMED at desktop/mobile; screenshots retained privately",
+        "nativeHeightChanges": false
+      }
+    },
+    {
+      "key": "twin",
+      "pageId": "dan8z",
+      "change": "A04",
+      "pageCode": {
+        "status": "SAVED; REOPENED AFTER FULL EDITOR RELOAD; EXACT MATCH",
+        "sha256": "c0c367599a28fd6e0492d0e6e9d2eb38ba616662825197555789d599fafdca96",
+        "bytes": 18625,
+        "candidateSha256": "c0c367599a28fd6e0492d0e6e9d2eb38ba616662825197555789d599fafdca96"
+      },
+      "layoutQa": "PASS FOR TARGETED LINK CHANGE AT 1348/320; OTHER REQUIRED WIDTHS NOT TESTED",
+      "published": false,
+      "renderer": {
+        "sourceMode": "External immutable URL",
+        "expectedUrl": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@e0a12d1366a3f6a9e70eee179fa348da90a60874/checkpoints/seo-approved-drafts-2026-11-12/links/candidates/twin-renderer.js",
+        "status": "SAVED; FINAL FULL RELOAD RENDERED SOURCE EXACT MATCH",
+        "postUpdateSourceObserved": true,
+        "reopenedBindingVerified": true,
+        "postUpdateObservedUrls": [
+          "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@e0a12d1366a3f6a9e70eee179fa348da90a60874/checkpoints/seo-approved-drafts-2026-11-12/links/candidates/twin-renderer.js"
+        ],
+        "sourceObservationSha256": "11c5f837d22a4119994a2f6bdfa0778bbc9d6f5a38711ed9ae1ef6346a07f76c",
+        "executionNote": "Focused URL entry, explicit Update button, then Save. Rendered iframe source matched candidate after correction; full reload verification remains pending.",
+        "reopenedObservedUrls": [
+          "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@e0a12d1366a3f6a9e70eee179fa348da90a60874/checkpoints/seo-approved-drafts-2026-11-12/links/candidates/twin-renderer.js"
+        ],
+        "finalReloadVerifiedAt": "2026-11-12T17:28:47.312Z",
+        "finalReloadEvidenceSha256": "9ec113e3ba3cc37fc9ef6c61d9265498e75f878f6f18383eb321c660abf0d7a2"
+      },
+      "previewSummary": {
+        "status": "PASS at checked desktop/mobile widths for intended link change",
+        "desktop": {
+          "width": 1348,
+          "scrollWidth": 1348,
+          "h1": "The Premier Luxury Spa Experience Serving Twin Lakes & Genoa City, WI",
+          "faqCount": 10,
+          "bodyHeight": 7491
+        },
+        "mobile": {
+          "width": 320,
+          "scrollWidth": 320,
+          "bodyHeight": 10749
+        },
+        "dedicatedLashLinksPerViewport": 2,
+        "oldSpaLashFragmentLinksPerViewport": 0,
+        "dedicatedLashUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi",
+        "lashSectionVisualReview": "CONFIRMED at desktop/mobile; screenshots retained privately",
+        "nativeHeightChanges": false
+      }
+    }
+  ],
+  "publication": false,
+  "githubSupplementalPush": "Recorded in this isolated source checkpoint; not a deployment or publication",
+  "correctionContext": "The initial external URL field edits did not persist because Wix required its explicit Update button before Save. The old rendered script pin exposed this. All three corrected external bindings now match the immutable source after a full editor reload."
+}

@@ -1,0 +1,44 @@
+{
+  "status": "HISTORICAL PRE-SAVE MERGE VALIDATION; consult later readback receipt for saved status",
+  "key": "twin",
+  "change": "A04",
+  "pageId": "dan8z",
+  "element": "matrixTwinLakesSpa",
+  "scope": "Replace only the single verified full seoMarkup literal in actual captured native code.",
+  "before": {
+    "path": "WIX_PAGE_CODE.before.js",
+    "characters": 18626,
+    "bytes": 18626,
+    "sha256": "01ce0c25ac8ec57b69c9603cc7b962254abaa437d0d069936641d12dccb0dfc7",
+    "seoMarkupSha256": "867982889d9f1648e9db4a39e80b13a22923eb21a1642785075780f02ef930f3"
+  },
+  "after": {
+    "path": "WIX_PAGE_CODE.candidate.js",
+    "characters": 18612,
+    "bytes": 18625,
+    "sha256": "c0c367599a28fd6e0492d0e6e9d2eb38ba616662825197555789d599fafdca96",
+    "seoMarkupSha256": "d1ae7025146c1f95fa2229d1c75640f9f1686f9a9cec48b287f7c28be25f6542"
+  },
+  "validation": {
+    "nativeMarkupExactMatchToApprovedBaseline": true,
+    "approvedAssignmentCount": 1,
+    "nativeAssignmentCount": 1,
+    "nativeAssignmentLine": 16,
+    "beforeModuleSyntax": "PASS",
+    "afterModuleSyntax": "PASS",
+    "prefixBytesPreserved": true,
+    "suffixBytesPreserved": true,
+    "restoringOriginalLiteralRecoversEntireBeforeFile": true,
+    "candidateDecodedMarkupExactMatch": true,
+    "sharedAndAuditAfterBytesIdentical": true
+  },
+  "protectedPrefixSha256": "252391cb2a126271415aeb4bf3282e3ec7aec2cca1981ff74b8a64eb44e4a717",
+  "protectedSuffixSha256": "51c41dc8b80f7f7ae8fad0843b18e31eab38bb90a06715d04b4de59c4edc0a55",
+  "preservation": "All native imports, onReady handlers, aliases, metadata/schema logic, collapse/navigation/events and any other page code outside that literal remain exactly as captured.",
+  "preflightBeforeSave": "Actual saved code must still match before.sha256; after approval pair with exact prepared renderer and save/reopen/read back. Draft only; do not publish.",
+  "notTested": [
+    "Wix save/persistence",
+    "Native draft rendering and layout",
+    "Published URL/release"
+  ]
+}

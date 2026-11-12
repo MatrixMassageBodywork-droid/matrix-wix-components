@@ -1,0 +1,10 @@
+{
+  "sourceCommit": "e0a12d1366a3f6a9e70eee179fa348da90a60874",
+  "path": "checkpoints/seo-approved-drafts-2026-11-12/links/candidates/twin-renderer.js",
+  "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@e0a12d1366a3f6a9e70eee179fa348da90a60874/checkpoints/seo-approved-drafts-2026-11-12/links/candidates/twin-renderer.js",
+  "bytes": 31832,
+  "sha256": "17783bacdc148dafff05ea51f4e59fb7fd6fcfa2490593f75e223d9a5d36c09f",
+  "cdnVerification": "HTTP 200 and exact bytes verified in original checkpoint",
+  "nativeReopenedBindingReadback": "FINAL FULL RELOAD EXACT MATCH",
+  "postUpdateRenderedSourceObserved": true
+}

@@ -1,6 +1,6 @@
 # A03 / A04 contextual link draft sources
 
-A03 adds one contextual paragraph on the Spa & Beauty hub linking to the existing Bristol and Twin Lakes/Genoa City regional pages. A04 replaces exactly two incorrect nested href values on each of those regional pages with the current root-level destination URLs. Existing anchor text, FAQs, styling, booking links and other content are preserved.
+A03 adds one contextual paragraph on the Spa & Beauty hub linking to the existing Bristol and Twin Lakes/Genoa City regional pages. A04 changes exactly two Lash links on each regional page from the Spa hub’s `#sb-lashes` anchor to the dedicated `/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi` page. Existing anchor text, FAQs, styling, booking links and other content are preserved.
 
 `candidates/manifest.json` records exact route, element and candidate hashes. `baselines/` preserves the captured source used to build the candidates. `repository-originals/` preserves fresh byte-exact repository renderers and `repository-source-readback.json` records the single trailing-newline difference in the three local captures. The Spa original is the later Lash parent-link patch, preserving the newer Lash Extensions button. Do not revert to the older Spa production-1 renderer.
 

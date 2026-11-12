@@ -1,0 +1,57 @@
+{
+  "status": "HISTORICAL PRE-SAVE MERGE VALIDATION; consult later readback receipt for saved status",
+  "scope": "Approved A02+A05 full seoMarkup value only; no surrounding native page-code changes",
+  "identity": {
+    "pageId": "anvbe",
+    "url": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "elementId": "matrixServicePageV21"
+  },
+  "freshNativeCapture": {
+    "path": "WIX_PAGE_CODE.before.js",
+    "characters": 10911,
+    "bytes": 10927,
+    "sha256": "473551deb21ebfb134dfae27e964dcf8ca20767b2d3b28aa459d7dc9f3d90a6e"
+  },
+  "preflight": {
+    "assignmentCount": 1,
+    "assignmentLine": 21,
+    "baselineSeoMarkupExactMatch": true,
+    "baselineSeoMarkupSha256": "ee9865b0e8d38d3102462886c92c26d40e8cb0b86d94ff66576dcff725b7afa3"
+  },
+  "candidate": {
+    "localPath": "WIX_PAGE_CODE.candidate.js",
+    "characters": 13244,
+    "bytes": 13260,
+    "sha256": "b3245a98b91fe673516300f997678215bc8f96e887711717abedca4850224533",
+    "seoMarkupSha256": "c037dbc1884577bad80b899087f0fd4d5ce8df418d8ddc01d6f97bd537eb5ec9"
+  },
+  "verification": {
+    "beforeModuleSyntax": "PASS",
+    "afterModuleSyntax": "PASS",
+    "singleAssignmentPreserved": true,
+    "candidateMarkupExactMatch": true,
+    "prefixBytesPreserved": true,
+    "suffixBytesPreserved": true,
+    "replacingNewLiteralWithOriginalRecoversEntireNativeFile": true,
+    "sharedCopyByteIdentical": true,
+    "protectedPrefixSha256": "715271a68ecdda3a74c57ddb3c5c50d31961005d8699ddb89aff2450bddd011c",
+    "protectedSuffixSha256": "d505f548f9267b52e8ed1cf7bc6d1524d3869ac1ed1a8608d2ad0c9968a2abd0",
+    "metadataServiceSchemaImportsReadyHandlersPreserved": true
+  },
+  "preserved": [
+    "Existing wixSeoFrontend import",
+    "First onReady handler and Promise.all/error handling",
+    "Runtime title Massage Therapy Salem WI | Deep Tissue, Swedish & More",
+    "Self canonical link",
+    "Entire runtime Service/DaySpa schema and areaServed",
+    "Second onReady handler name and existing component selector",
+    "Everything outside single seoMarkup string literal"
+  ],
+  "installationBoundary": "Use only if the fresh saved native code still matches captured sha256 473551deb21ebfb134dfae27e964dcf8ca20767b2d3b28aa459d7dc9f3d90a6e. Pair with the independently verified approved A02+A05 Wix-hosted renderer; save/reopen/read back, do not publish.",
+  "notTested": [
+    "Wix save/persistence",
+    "Rendered native draft layout",
+    "Fixed mobile host height",
+    "Public release"
+  ]
+}

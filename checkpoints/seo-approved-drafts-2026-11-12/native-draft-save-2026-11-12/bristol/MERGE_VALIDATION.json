@@ -1,0 +1,44 @@
+{
+  "status": "HISTORICAL PRE-SAVE MERGE VALIDATION; consult later readback receipt for saved status",
+  "key": "bristol",
+  "change": "A04",
+  "pageId": "q3smg",
+  "element": "matrixBristolSpa",
+  "scope": "Replace only the single verified full seoMarkup literal in actual captured native code.",
+  "before": {
+    "path": "WIX_PAGE_CODE.before.js",
+    "characters": 18534,
+    "bytes": 18534,
+    "sha256": "adba295f0195b923f14271cfddb7474907f141996bdbcddbeaf4e135fec13524",
+    "seoMarkupSha256": "87fde14ae8bcb9cff73cc2aecd81dcd541c39bf0e9d328b161bedbb4f53e0574"
+  },
+  "after": {
+    "path": "WIX_PAGE_CODE.candidate.js",
+    "characters": 18530,
+    "bytes": 18539,
+    "sha256": "07ef66970a50ed024c0404861df8005b36ec213dcf074e02970f26178444f558",
+    "seoMarkupSha256": "336be7e7ad754da6958400f6b49ce33f0cc0d3e9050c486d664b30d269eb793e"
+  },
+  "validation": {
+    "nativeMarkupExactMatchToApprovedBaseline": true,
+    "approvedAssignmentCount": 1,
+    "nativeAssignmentCount": 1,
+    "nativeAssignmentLine": 16,
+    "beforeModuleSyntax": "PASS",
+    "afterModuleSyntax": "PASS",
+    "prefixBytesPreserved": true,
+    "suffixBytesPreserved": true,
+    "restoringOriginalLiteralRecoversEntireBeforeFile": true,
+    "candidateDecodedMarkupExactMatch": true,
+    "sharedAndAuditAfterBytesIdentical": true
+  },
+  "protectedPrefixSha256": "fee8348fd870e056faf02f976236d50d21755dd0a49ebe831c274f3554b9737b",
+  "protectedSuffixSha256": "51c41dc8b80f7f7ae8fad0843b18e31eab38bb90a06715d04b4de59c4edc0a55",
+  "preservation": "All native imports, onReady handlers, aliases, metadata/schema logic, collapse/navigation/events and any other page code outside that literal remain exactly as captured.",
+  "preflightBeforeSave": "Actual saved code must still match before.sha256; after approval pair with exact prepared renderer and save/reopen/read back. Draft only; do not publish.",
+  "notTested": [
+    "Wix save/persistence",
+    "Native draft rendering and layout",
+    "Published URL/release"
+  ]
+}

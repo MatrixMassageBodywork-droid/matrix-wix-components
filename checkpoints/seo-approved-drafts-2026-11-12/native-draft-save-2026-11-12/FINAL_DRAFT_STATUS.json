@@ -1,0 +1,63 @@
+{
+  "status": "A01-A08 SAVED AS WIX DRAFTS AND SOURCE/TAG READBACK VERIFIED; NO PUBLICATION",
+  "recordedAt": "2026-11-12T17:34:59.632708+00:00",
+  "changes": [
+    {
+      "id": "A01",
+      "state": "SAVED TAG DRAFT / READBACK VERIFIED",
+      "runtime": "NOT PUBLISHED; saved Waxing coordinate correction only"
+    },
+    {
+      "id": "A02",
+      "state": "SAVED CODE DRAFT / READBACK VERIFIED",
+      "runtime": "UNVERIFIED: Main Massage native Preview blank"
+    },
+    {
+      "id": "A03",
+      "state": "SAVED CODE AND SOURCE-BINDING DRAFT / RELOAD VERIFIED",
+      "runtime": "Targeted Spa checks pass at 1348/320; other specified widths not tested"
+    },
+    {
+      "id": "A04",
+      "state": "TWO SAVED CODE AND SOURCE-BINDING DRAFTS / RELOAD VERIFIED",
+      "runtime": "Targeted Bristol/Twin link and visual checks pass at 1348/320; other specified widths not tested"
+    },
+    {
+      "id": "A05",
+      "state": "SAVED CODE DRAFT / READBACK VERIFIED",
+      "runtime": "UNVERIFIED: Main Massage native Preview blank"
+    },
+    {
+      "id": "A06",
+      "state": "SAVED NATIVE CODE DRAFT / RELOAD VERIFIED; LOCAL SIX-GRAPH TESTS PASS",
+      "runtime": "NOT VERIFIED: age-defying-firm Preview blank/no JSON-LD; five other items not run"
+    },
+    {
+      "id": "A07",
+      "state": "FOUR SAVED TAG DRAFTS / READBACK VERIFIED",
+      "runtime": "NOT PUBLISHED; runtime not established by native tag persistence"
+    },
+    {
+      "id": "A08",
+      "state": "SAVED TAG DRAFT / READBACK VERIFIED",
+      "runtime": "NOT PUBLISHED; obsolete About FAQ block disabled in saved draft only"
+    }
+  ],
+  "nativeTagReceipt": "../native-tag-drafts/DRAFT_SAVE_RECEIPT.json",
+  "nativeCodeReceipt": "DRAFT_SAVE_RECEIPT.json",
+  "pathwayReceipt": "pathways/SAVE_AND_DEPENDENCY_VALIDATION.json",
+  "previewReceipt": "PREVIEW_QA_SUMMARY.json",
+  "boundaries": {
+    "published": false,
+    "testSiteCreated": false,
+    "A09Performed": false,
+    "indexingSubmissionPerformed": false,
+    "nativeHeightChanged": false
+  },
+  "notTestedWidths": [
+    1440,
+    390,
+    375
+  ],
+  "privateEvidence": "Raw screenshots/editor captures/preview payloads are retained in the private project evidence package and excluded from this GitHub checkpoint."
+}

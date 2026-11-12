@@ -1,0 +1,72 @@
+{
+  "change": "A06",
+  "pageId": "cib8y",
+  "element": "matrixPathwayPage",
+  "dataset": "matrixPathwayDataset",
+  "beforeSha256": "c4880b577bfc5f18c502ba0ae5c76a2745ffec0d121424e0ea3689cc4ab1a960",
+  "afterSha256": "9eacf2e187ec350425e0614f204a1047f93e3a76c4d1b21b02184ea62d2055b8",
+  "syntaxBefore": "PASS",
+  "syntaxAfter": "PASS",
+  "gateTruePreserved": true,
+  "exactApprovedCandidate": true,
+  "freshNativeMatchesApprovedBaseline": true,
+  "dependencies": {
+    "masterPage": {
+      "sha256": "57f1e43c4374ecb2e3148bcdb9f36ffbf9b3c4b7de09522b1d07de940d16125a",
+      "characters": 2987,
+      "bytes": 2992
+    },
+    "content": {
+      "sha256": "34ca57a5ba698c9dc674c92da8b21f68707082676d8eeede484b9e107f5a4ed3",
+      "characters": 49503,
+      "bytes": 49505
+    },
+    "markup": {
+      "sha256": "6c5bf23fcb0f039484da9bdaef7db8334ddb511bc96ce74950ac6a30b8d49f7a",
+      "characters": 11613,
+      "bytes": 11617
+    },
+    "renderer": {
+      "sha256": "b57a94c482e69f90fe3934632d4482286aa80ea20fed9a82c254239a775b6bd6",
+      "characters": 23661,
+      "bytes": 23667
+    }
+  },
+  "masterPageArchivedGitBlob": "248c4457d46fa90e2253f30307a9ad38b41119c6",
+  "masterPageExactArchivedMatch": true,
+  "newlineExceptionsUsed": false,
+  "status": "SAVED DRAFT; REOPENED SOURCE EXACT MATCH; LOCAL VALIDATION PASSED; RUNTIME GROUP NOT VERIFIED; NOT PUBLISHED",
+  "dependencyReview": {
+    "masterPage": "No competing SEO/schema writer; preserve unchanged.",
+    "content": "Static data; all six headings/descriptions and 33 non-overridden copy fields per route match reviewed values.",
+    "markupAndRenderer": "Exact published source baseline; no schema setter.",
+    "nativePattern": "No conflicting custom WebPage, Service or Breadcrumb schema found in pre-save pattern review."
+  },
+  "savedReadback": {
+    "sha256": "9eacf2e187ec350425e0614f204a1047f93e3a76c4d1b21b02184ea62d2055b8",
+    "bytes": 10948,
+    "byteIdenticalToCandidate": true
+  },
+  "binding": {
+    "sourceMode": "Wix-hosted Velo file",
+    "filename": "matrix-pathway-page.js",
+    "tag": "matrix-pathway-page",
+    "elementId": "matrixPathwayPage",
+    "changed": false
+  },
+  "runtimeStatus": {
+    "status": "RUNTIME GROUP NOT VERIFIED",
+    "firstItemAttempted": "age-defying-firm",
+    "firstItemResult": "Blank native Preview; no JSON-LD observed",
+    "remainingFiveItems": "NOT RUN",
+    "remainingSlugs": [
+      "hydrate-restore",
+      "brighten-smooth",
+      "clear-balance",
+      "calm-support",
+      "maintain-glow"
+    ],
+    "savedCodeAndLocalSixGraphTests": "PASS; separately documented",
+    "conclusion": "Exact saved source and passing local tests do not establish native runtime rendering/schema emission. No publication attempted."
+  }
+}
