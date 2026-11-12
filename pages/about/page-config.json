@@ -1,0 +1,14 @@
+{
+  "serviceName": "About Matrix Massage & Bodywork",
+  "revision": "about-review-2-2026-11-12",
+  "tagName": "matrix-about-page",
+  "elementId": "matrixAboutPage",
+  "rootClass": "matrix-about-page",
+  "pageUrl": "https://www.matrixmassage.net/about-5",
+  "seoTitle": "About Matrix Massage & Bodywork | Salem, WI",
+  "seoDescription": "Meet DaNelle, licensed massage therapist and owner of Matrix Massage & Bodywork in Salem, WI. Discover our story, care philosophy, and spa services.",
+  "seoSource": "Proposed scoped About rebuild. Current native baseline is retained separately in baseline/wix-about-native-seo-before.json. Metadata is not installed or published.",
+  "bodyFile": "body.html",
+  "cssFile": "style.css",
+  "expectedFaqCount": 7
+}

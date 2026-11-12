@@ -1,0 +1,46 @@
+[
+  {
+    "file": "danelle-original.jpg",
+    "bytes": 246571,
+    "size": [
+      633,
+      785
+    ],
+    "type": "JPEG",
+    "url": "https://static.wixstatic.com/media/e4cc43_3cc3a5eeb061404aac3c6714d22cdb8f~mv2.jpg",
+    "sha256": "bb6a778a61f29d9e3d2717768d6bba057d274f05271b97ac518b7d70117e78bb",
+    "provenance": "Existing Matrix Wix media; original unchanged; exact artwork retained"
+  },
+  {
+    "file": "matrix-approved-logo.jpg",
+    "bytes": 181940,
+    "size": [
+      2048,
+      1529
+    ],
+    "type": "JPEG",
+    "url": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+    "sha256": "7ffb947caea7309fb8e4c42b24049b75b5f421e338711568a0085b4c39417708",
+    "provenance": "Existing Matrix Wix media; original unchanged; exact artwork retained"
+  },
+  {
+    "file": "matrix-water.jpeg",
+    "bytes": 2750473,
+    "size": [
+      3462,
+      3468
+    ],
+    "type": "JPEG",
+    "url": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg",
+    "sha256": "56040fa930a62db61f322263aaf65f1fca296536b9b951128293e7743ecf1d24",
+    "provenance": "Existing Matrix Wix media; original unchanged; exact artwork retained"
+  },
+  {
+    "file": "water-display.webp",
+    "mimeType": "image/jpeg",
+    "url": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg/v1/fill/w_1600,h_900,al_c,q_80,enc_webp,quality_auto/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg",
+    "bytes": 172452,
+    "sha256": "5e466db994796abb36694f62a15316900dc9dbce6f1cc3b1595597f16603efba",
+    "provenance": "Wix-served display derivative of approved water image; HTTP 200 and image/jpeg verified; 1600 by 900 request. Original saved alongside."
+  }
+]

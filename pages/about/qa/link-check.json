@@ -1,0 +1,114 @@
+[
+  {
+    "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "status": 200,
+    "finalUrl": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "bytes": 222117,
+    "sha256": "6db1abed5c1f09e3974b50ed330094c6c8a36e0a98bd41f6ce4bc3f9a1ecfc6f",
+    "body": ""
+  },
+  {
+    "url": "https://www.facebook.com/411300892070855",
+    "status": 200,
+    "finalUrl": "https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2F411300892070855",
+    "bytes": 367342,
+    "sha256": "08777514b6ef2df99f13f91bce2ac6862d9c3abfc0a5c5bd13cc3f53656877a2",
+    "body": ""
+  },
+  {
+    "url": "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+    "status": 200,
+    "finalUrl": "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+    "bytes": 226514,
+    "sha256": "aece5cc9d7ce92b266f155b8c93d3b88700f8e5fea49b0d98d7eb33215638da5",
+    "body": ""
+  },
+  {
+    "url": "https://www.instagram.com/matrixmassagewi/",
+    "status": 200,
+    "finalUrl": "https://www.instagram.com/matrixmassagewi/",
+    "bytes": 706184,
+    "sha256": "8a1cdf3cec861fe703745db0f6be6897433cbb010ca16d40c95ab092e6f3cf13",
+    "body": ""
+  },
+  {
+    "url": "https://www.matrixmassage.net/",
+    "status": 200,
+    "finalUrl": "https://www.matrixmassage.net/",
+    "bytes": 970449,
+    "sha256": "c1c3925a6bc478e276df435c62031e14e19b750fb709cf7e4b3a872aecd2b2be",
+    "body": ""
+  },
+  {
+    "url": "https://www.matrixmassage.net/book-appointments-salem-wi",
+    "status": 200,
+    "finalUrl": "https://www.matrixmassage.net/book-appointments-salem-wi",
+    "bytes": 848632,
+    "sha256": "0a9e5ca4ac83db7541de68dfafb83e92552bb4f91cd3f583d09d8e8b3def8883",
+    "body": ""
+  },
+  {
+    "url": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "status": 200,
+    "finalUrl": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+    "bytes": 837231,
+    "sha256": "0e9dbc5878243a86a2abbc0b8a9564cb5d2f4d186e7a629e842d060f8f1889e4",
+    "body": ""
+  },
+  {
+    "url": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "status": 200,
+    "finalUrl": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "bytes": 887710,
+    "sha256": "b252d563fec928fb395b4643f45afccbf052fde349ec771301d75843a4a223e0",
+    "body": ""
+  },
+  {
+    "url": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+    "status": 200,
+    "finalUrl": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+    "bytes": 898478,
+    "sha256": "62a5d09d850d79a5ead722ea160ca26efdaa99aa1bbdfe1c0a5c05519cc9f002",
+    "body": ""
+  },
+  {
+    "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "status": 200,
+    "finalUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+    "bytes": 894412,
+    "sha256": "ffb2b99abb6bc831bf22d3c0dea93d3bbcb4881db3477f5d28d783f43cc972f4",
+    "body": ""
+  },
+  {
+    "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi",
+    "status": 200,
+    "finalUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi",
+    "bytes": 842756,
+    "sha256": "70ef9ae51ccdef3e445f6d6c8f3b16b657958ab69076b52b68f3eaa5756e54c1",
+    "body": ""
+  },
+  {
+    "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "status": 200,
+    "finalUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+    "bytes": 870721,
+    "sha256": "ca1ac208b96013f36110f49f90722e7690abc60abac74c1abde0fb4faac442e0",
+    "body": ""
+  },
+  {
+    "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+    "status": 200,
+    "finalUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+    "bytes": 891805,
+    "sha256": "e0f61bd2154601a6ff534e931421757ed731eb456c696b86d51025e4db1141fd",
+    "body": ""
+  },
+  {
+    "url": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+    "status": 200,
+    "finalUrl": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+    "bytes": 962844,
+    "sha256": "1438bf0144028ae39c734a8a1c45f7fca6d60e04234b9337eeecf979afc16326",
+    "body": ""
+  }
+]

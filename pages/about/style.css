@@ -1,0 +1,89 @@
+matrix-about-page{display:block;width:100%;height:auto;min-height:0!important}
+.matrix-about-page{--ma-cream:#f7f1e8;--ma-paper:#fdfcf9;--ma-ink:#123d40;--ma-teal:#087776;--ma-muted:#4b6260;--ma-line:#ccd6cd;background:var(--ma-cream);color:var(--ma-ink);font:16px/1.75 Arial,Helvetica,sans-serif;width:100%;container-type:inline-size;text-align:left}
+.matrix-about-page *,.matrix-about-page *::before,.matrix-about-page *::after{box-sizing:border-box}
+.matrix-about-page h1,.matrix-about-page h2,.matrix-about-page h3,.matrix-about-page p,.matrix-about-page figure{margin:0}
+.matrix-about-page h1,.matrix-about-page h2,.matrix-about-page h3{font-family:Georgia,'Times New Roman',serif;font-weight:400;line-height:1.12;letter-spacing:-.035em;text-wrap:balance}
+.matrix-about-page h1{font-size:clamp(34px,3.3vw,46px);max-width:610px;margin:auto;line-height:1.15}
+.matrix-about-page h2{font-size:clamp(36px,3.6vw,50px)}
+.matrix-about-page h3{font-size:27px}
+.matrix-about-page a{color:inherit;text-underline-offset:4px;text-decoration-thickness:1px}
+.matrix-about-page a:hover{color:var(--ma-teal)}
+.matrix-about-page a:focus-visible,.matrix-about-page summary:focus-visible{outline:3px solid #008b87;outline-offset:5px}
+.matrix-about-page .ma-water a:focus-visible{outline-color:#85ddd3}
+.matrix-about-page [id]{scroll-margin-top:28px}
+.matrix-about-page .ma-inner{max-width:1280px;width:100%;padding:0 64px;margin:0 auto}
+.matrix-about-page .ma-section{padding:78px 0}
+.matrix-about-page .ma-eyebrow{font-size:10px;letter-spacing:2.1px;font-weight:600;line-height:1.6;margin-bottom:19px}
+.matrix-about-page .ma-water{color:#fff;background-color:#102e30;background-image:linear-gradient(110deg,rgba(3,37,40,.87),rgba(5,64,65,.65),rgba(4,31,35,.83)),url('https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg/v1/fill/w_1600,h_900,al_c,q_80,enc_webp,quality_auto/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg');background-size:cover;background-position:center}
+.matrix-about-page .ma-hero-inner{max-width:1040px;margin:0 auto;text-align:center;padding:42px 32px 50px}
+.matrix-about-page .ma-logo{display:block;width:660px;max-width:100%;height:auto;aspect-ratio:2/1;object-fit:cover;object-position:center;border:6px solid #000;background:#fff;margin:0 auto 27px}
+.matrix-about-page .ma-hero .ma-eyebrow{color:#e8f1ed;margin-bottom:13px}
+.matrix-about-page .ma-lead{font-size:17px;color:#edf3ef;line-height:1.7;margin:20px auto 26px;max-width:580px}
+.matrix-about-page .ma-actions{display:flex;justify-content:center;flex-wrap:wrap;gap:13px}
+.matrix-about-page .ma-button{display:inline-flex;justify-content:center;align-items:center;gap:9px;min-height:51px;border:1px solid var(--ma-ink);padding:15px 23px;background:var(--ma-ink);color:#fff;font-size:11px;line-height:1.65;letter-spacing:1.2px;text-decoration:none;font-weight:400;transition:background .15s,color .15s,border-color .15s}
+.matrix-about-page .ma-button:hover{background:var(--ma-teal);border-color:var(--ma-teal);color:white}
+.matrix-about-page .ma-light{background:var(--ma-cream);border-color:var(--ma-cream);color:var(--ma-ink)}
+.matrix-about-page .ma-outline{background:transparent;border-color:#c0d3ce;color:#fff}
+.matrix-about-page .ma-jump{display:flex;justify-content:center;flex-wrap:wrap;background:#e9e8dd;border-bottom:1px solid #d2d9ce}
+.matrix-about-page .ma-jump a{min-height:52px;padding:16px 29px;font-size:12px;letter-spacing:.2px;text-decoration:none}
+.matrix-about-page .ma-jump a:hover{background:#dce5dc}
+.matrix-about-page .ma-meet{padding-top:29px;padding-bottom:82px}
+.matrix-about-page .ma-breadcrumb{display:flex;gap:12px;align-items:center;font-size:11px;color:var(--ma-muted);margin-bottom:37px}
+.matrix-about-page .ma-breadcrumb a{padding:5px 0}
+.matrix-about-page .ma-meet-grid{display:grid;grid-template-columns:minmax(0,.84fr) minmax(0,1.16fr);gap:76px;align-items:center}
+.matrix-about-page .ma-portrait{max-width:430px;width:100%}
+.matrix-about-page .ma-portrait img{display:block;width:100%;height:auto;aspect-ratio:633/785;object-fit:contain}
+.matrix-about-page .ma-portrait figcaption{font-size:11px;line-height:1.7;padding-top:13px;color:var(--ma-muted)}
+.matrix-about-page .ma-bio .ma-eyebrow{margin-bottom:14px}
+.matrix-about-page .ma-bio h2{font-size:clamp(40px,4.3vw,60px)}
+.matrix-about-page .ma-bio .ma-intro{font-family:Georgia,'Times New Roman',serif;font-size:23px;line-height:1.4;color:var(--ma-ink);margin-top:19px}
+.matrix-about-page .ma-bio>p:not(.ma-eyebrow):not(.ma-intro){font-size:15px;color:var(--ma-muted);margin-top:18px}
+.matrix-about-page .ma-text-link{display:inline-block;font-size:13px;margin-top:23px;min-height:44px;padding:9px 0}
+.matrix-about-page .ma-story{background:#eaf0e8;padding:60px 0}
+.matrix-about-page .ma-story-grid{display:grid;grid-template-columns:.85fr 1.15fr;gap:76px}
+.matrix-about-page .ma-story h2{font-size:40px}
+.matrix-about-page .ma-prose p{font-size:15px;color:#415b55}
+.matrix-about-page .ma-prose p+p{margin-top:17px}
+.matrix-about-page .ma-approach{background:var(--ma-paper)}
+.matrix-about-page .ma-section-heading{display:grid;grid-template-columns:1.2fr .8fr;gap:65px;align-items:end;margin-bottom:39px}
+.matrix-about-page .ma-section-heading>p{font-size:15px;color:var(--ma-muted);max-width:400px}
+.matrix-about-page .ma-principles{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:36px}
+.matrix-about-page .ma-principles article{padding-top:20px;border-top:1px solid #9eafa5}
+.matrix-about-page .ma-number{display:block;font:italic 25px/1 Georgia,serif;color:#54756a;margin-bottom:23px}
+.matrix-about-page .ma-principles h3{margin-bottom:16px}
+.matrix-about-page .ma-principles p{font-size:14px;color:var(--ma-muted)}
+.matrix-about-page .ma-services{background:var(--ma-cream)}
+.matrix-about-page .ma-service-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 48px;border-top:1px solid var(--ma-line)}
+.matrix-about-page .ma-service{display:flex;justify-content:space-between;gap:25px;align-items:center;padding:25px 0;border-bottom:1px solid var(--ma-line);text-decoration:none;min-height:137px}
+.matrix-about-page .ma-service h3{font-size:25px;line-height:1.22}
+.matrix-about-page .ma-service p{color:var(--ma-muted);font-size:13px;line-height:1.75;margin-top:10px;max-width:365px}
+.matrix-about-page .ma-service>span{font-size:25px;flex-shrink:0}
+.matrix-about-page .ma-service:hover h3{text-decoration:underline;text-underline-offset:5px}
+.matrix-about-page .ma-service-note{font-size:12px;line-height:1.8;color:var(--ma-muted);margin-top:25px;max-width:850px}
+.matrix-about-page .ma-visit{background:#eaf0e8}
+.matrix-about-page .ma-visit-grid{display:grid;grid-template-columns:1.15fr .85fr;gap:85px;align-items:center}
+.matrix-about-page .ma-visit-grid>div>p:not(.ma-eyebrow){font-size:15px;color:#415b55;margin-top:22px}
+.matrix-about-page .ma-visit-card{padding:33px 34px;background:var(--ma-paper);border:1px solid #c4d0c2}
+.matrix-about-page .ma-visit-card h3{font-size:26px;line-height:1.3;letter-spacing:-.025em}
+.matrix-about-page address{font-style:normal;font-size:16px;line-height:1.75;margin:16px 0 21px}
+.matrix-about-page .ma-contact{display:block;width:fit-content;min-height:44px;padding:12px 0 5px;font-size:14px;margin-top:6px}
+.matrix-about-page .ma-social{margin-top:22px;padding-top:23px;border-top:1px solid var(--ma-line)}
+.matrix-about-page .ma-social p{font-size:10px;font-weight:600;letter-spacing:1.2px;text-transform:uppercase;margin-bottom:8px}
+.matrix-about-page .ma-social a{display:block;font-size:12px;line-height:1.7;padding:9px 0;min-height:44px;overflow-wrap:anywhere}
+.matrix-about-page .ma-faq{background:var(--ma-paper)}
+.matrix-about-page .ma-faq-grid{display:grid;grid-template-columns:.75fr 1.25fr;gap:78px}
+.matrix-about-page .ma-faq-grid>div>p:not(.ma-eyebrow){font-size:14px;color:var(--ma-muted);margin-top:23px;max-width:290px}
+.matrix-about-page details{border-top:1px solid #bacabe}
+.matrix-about-page details:last-child{border-bottom:1px solid #bacabe}
+.matrix-about-page summary{position:relative;cursor:pointer;list-style:none;font-size:14px;line-height:1.65;min-height:66px;padding:21px 33px 21px 0}
+.matrix-about-page summary::-webkit-details-marker{display:none}
+.matrix-about-page summary::after{content:'+';position:absolute;right:3px;top:17px;font-size:23px;font-weight:400}
+.matrix-about-page details[open] summary::after{content:'−'}
+.matrix-about-page details p{font-size:14px;line-height:1.85;color:var(--ma-muted);padding:0 30px 24px 0}
+.matrix-about-page .ma-close{text-align:center;padding:73px 24px 70px;background-position:center 70%}
+.matrix-about-page .ma-close-inner{max-width:750px;margin:auto}
+.matrix-about-page .ma-close h2{font-size:51px}
+.matrix-about-page .ma-close p:not(.ma-eyebrow){font-size:15px;color:#e4efe7;margin:24px auto 28px;max-width:630px}
+@container(max-width:950px){.matrix-about-page .ma-inner{padding:0 34px}.matrix-about-page .ma-meet-grid,.matrix-about-page .ma-story-grid{gap:40px}.matrix-about-page .ma-section-heading{gap:40px}.matrix-about-page .ma-visit-grid{gap:35px}.matrix-about-page .ma-visit-card{padding:26px}.matrix-about-page .ma-faq-grid{gap:40px}.matrix-about-page .ma-principles{gap:26px}.matrix-about-page .ma-bio>p:not(.ma-eyebrow):not(.ma-intro){font-size:14px}}
+@container(max-width:650px){.matrix-about-page .ma-inner{padding:0 23px}.matrix-about-page h1{font-size:31px}.matrix-about-page h2{font-size:36px}.matrix-about-page h3{font-size:26px}.matrix-about-page .ma-hero-inner{padding:29px 22px 37px}.matrix-about-page .ma-logo{width:100%;border-width:4px;margin-bottom:25px}.matrix-about-page .ma-eyebrow{font-size:9px;letter-spacing:1.6px;margin-bottom:16px}.matrix-about-page .ma-lead{font-size:15px;margin:20px auto 25px}.matrix-about-page .ma-actions{display:grid;grid-template-columns:1fr;gap:11px}.matrix-about-page .ma-button{width:100%;font-size:10px;padding:14px 18px}.matrix-about-page .ma-jump{display:grid;grid-template-columns:1fr 1fr;text-align:center}.matrix-about-page .ma-jump a{font-size:11px;padding:14px 7px;min-height:47px}.matrix-about-page .ma-section{padding:49px 0}.matrix-about-page .ma-meet{padding-top:21px}.matrix-about-page .ma-breadcrumb{margin-bottom:27px;font-size:10px}.matrix-about-page .ma-meet-grid,.matrix-about-page .ma-story-grid,.matrix-about-page .ma-section-heading,.matrix-about-page .ma-visit-grid,.matrix-about-page .ma-faq-grid{grid-template-columns:1fr;gap:32px}.matrix-about-page .ma-portrait{max-width:430px;margin:0 auto}.matrix-about-page .ma-portrait figcaption{font-size:10px;padding-top:11px}.matrix-about-page .ma-bio h2{font-size:43px}.matrix-about-page .ma-bio .ma-intro{font-size:22px;margin-top:17px}.matrix-about-page .ma-bio>p:not(.ma-eyebrow):not(.ma-intro){font-size:15px;margin-top:18px}.matrix-about-page .ma-text-link{margin-top:15px;font-size:13px}.matrix-about-page .ma-story{padding:45px 0}.matrix-about-page .ma-story-grid{gap:25px}.matrix-about-page .ma-story h2{font-size:35px}.matrix-about-page .ma-prose p{font-size:14px}.matrix-about-page .ma-section-heading{gap:23px;margin-bottom:29px}.matrix-about-page .ma-section-heading>p{font-size:14px}.matrix-about-page .ma-principles{grid-template-columns:1fr;gap:29px}.matrix-about-page .ma-number{margin-bottom:17px;font-size:23px}.matrix-about-page .ma-principles h3{margin-bottom:11px}.matrix-about-page .ma-service-list{grid-template-columns:1fr}.matrix-about-page .ma-service{padding:21px 0;min-height:122px;gap:17px}.matrix-about-page .ma-service h3{font-size:24px}.matrix-about-page .ma-service p{font-size:13px;margin-top:9px}.matrix-about-page .ma-service-note{font-size:12px;margin-top:24px}.matrix-about-page .ma-visit-grid>div>p:not(.ma-eyebrow){font-size:14px;margin-top:20px}.matrix-about-page .ma-visit-card{padding:25px 22px}.matrix-about-page .ma-visit-card h3{font-size:25px}.matrix-about-page .ma-faq-grid{gap:28px}.matrix-about-page .ma-faq-grid>div>p:not(.ma-eyebrow){margin-top:18px;max-width:340px}.matrix-about-page summary{font-size:14px;min-height:65px;padding:20px 29px 20px 0}.matrix-about-page details p{padding-right:9px;font-size:14px}.matrix-about-page .ma-close{padding:51px 23px 48px}.matrix-about-page .ma-close h2{font-size:40px}.matrix-about-page .ma-close p:not(.ma-eyebrow){font-size:14px}.matrix-about-page .ma-close p br{display:none}}
+@media(prefers-reduced-motion:reduce){.matrix-about-page *{transition:none!important;scroll-behavior:auto!important}}

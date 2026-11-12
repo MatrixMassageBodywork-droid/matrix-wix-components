@@ -1,0 +1,23 @@
+{
+  "pageId": "yzabl",
+  "publicRevision": 1103,
+  "editorConfirmed": true,
+  "oldPageLocalSections": [
+    {
+      "id": "comp-mc9xyjtn",
+      "contents": "portrait, Hello H1, old intro, local Social Bar pointing to Wix default social profiles"
+    },
+    {
+      "id": "comp-mc9xyju5",
+      "contents": "My Story and old service/body copy including MassageBook and old Instagram"
+    }
+  ],
+  "retained": [
+    "SITE_HEADER",
+    "SITE_FOOTER",
+    "all unrelated page content, custom code, CMS, analytics, integrations"
+  ],
+  "nativeReviewsOnAbout": false,
+  "pageCode": "Default Velo template only, captured by UI select-all and clipboard readback",
+  "source": "Current cloud Wix Editor About page DOM 2026-11-12"
+}
