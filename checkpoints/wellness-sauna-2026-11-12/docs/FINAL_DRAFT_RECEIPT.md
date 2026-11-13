@@ -1,11 +1,15 @@
+> **Historical saved-draft receipt.** The owner subsequently authorized both pages and publication was verified at Wix revision1131 on12 November2026. Current status is in [the publication receipt](../publication-2026-11-12/PUBLICATION_RECEIPT.md). The original draft facts below are retained without being presented as current publication status.
+
 # Wellness and Infrared Sauna — saved draft receipt
 
-**Page status: SAVED / VERIFIED / TESTED. SEO: SAVED / READBACK VERIFIED. NOT PUBLISHED. Final evidence checkpoint and Drive receipt recording are pending.**
+**SAVED / VERIFIED / TESTED. SEO: SAVED / READBACK VERIFIED. NOT PUBLISHED. Implementation, draft SEO and QA are complete. Publication of this revision requires owner approval.**
 
 Project: FACIAL WEB SEO PW · Matrix Massage & Bodywork  
 Prepared 12 November 2026, America/Chicago (13 November UTC).  
 Final draft SEO verified at 7:34 PM Central on 12 November 2026.  
 Canonical project folder: https://drive.google.com/drive/folders/1jthRMAHOoockNm8hAVBK6mz4iaHbhNK8
+
+Document control: this is the final canonical project receipt, filename `MATRIX_WELLNESS_SAUNA_SAVED_DRAFT_RECEIPT_2026-11-12.md`. It supersedes the pre-upload staging receipt contained in the evidence commit below. The verified source pin and evidence commit are separate: runtime files continue using the original source pin. The Drive file identity, parent folder and exact content readback are recorded in the companion delivery verification receipt.
 
 This receipt covers the existing Wellness and Infrared Sauna pages. The owner authorized continuing the redesign and saving the drafts. No publication of this revision is claimed or authorized by this receipt. The earlier About publication approval applies to About only.
 
@@ -18,8 +22,8 @@ This receipt covers the existing Wellness and Infrared Sauna pages. The owner au
 | Native desktop and mobile QA | TESTED / VERIFIED | 1348px desktop and 320px mobile; headings, FAQs, images, width and section joins measured |
 | Rendered standalone proof widths | TESTED / VERIFIED | 320/390/1280/1440/1920px; one H1, seven/eight FAQs, loaded images, no measured horizontal overflow |
 | SEO and AI-search structured data | SAVED / READBACK VERIFIED | `seo/review-4-native-bound/FINAL_DRAFT_SEO_VERIFICATION.json`; both pages saved once with `publish:false`, then verified by read-only GET |
-| Final GitHub evidence checkpoint | PENDING | Commit and remote readback to be inserted; runtime source pin must remain unchanged |
-| Canonical Drive receipt | PENDING | Upload only after final verified status and evidence checkpoint |
+| Final GitHub evidence checkpoint | SAVED / REMOTE VERIFIED | `2792bd47ca208e232cf45fa1c8f2bc6c111e31e8`; 52 checkpoint files: 43 text files read back byte-exact and 9 screenshots hash-verified; branch head matches |
+| Canonical project receipt | FINAL | This document in the existing project folder; delivery readback recorded separately |
 | Publication | NOT PUBLISHED | Production rendering and indexing of this revision have not been tested |
 
 ## Pages and review links
@@ -114,13 +118,16 @@ Neither proof testing nor native Preview is a published-site mobile-user-agent t
 
 Before a future authorized publication, confirm the saved site's revision and any unrelated draft changes that would be included. After publication, verify both production URLs, rendered body/`seoMarkup`, native metadata, responsive layout, FAQ behavior, current links and image loading. Record publication and public readback as a separate receipt.
 
-## Final durable checkpoint — pending
+## Final durable checkpoint
 
 - Source branch: `review/wellness-sauna-2026-11-12`.
 - Runtime source: https://github.com/MatrixMassageBodywork-droid/matrix-wix-components/commit/eaac30097ff251d67dbb1507a9449feb5618e409.
-- Final evidence commit/readback: PENDING.
+- Final evidence commit: https://github.com/MatrixMassageBodywork-droid/matrix-wix-components/commit/2792bd47ca208e232cf45fa1c8f2bc6c111e31e8.
+- Evidence directory: https://github.com/MatrixMassageBodywork-droid/matrix-wix-components/tree/2792bd47ca208e232cf45fa1c8f2bc6c111e31e8/checkpoints/wellness-sauna-2026-11-12.
+- Superseded staging receipt: https://github.com/MatrixMassageBodywork-droid/matrix-wix-components/blob/2792bd47ca208e232cf45fa1c8f2bc6c111e31e8/checkpoints/wellness-sauna-2026-11-12/docs/FINAL_DRAFT_RECEIPT.md.
+- Remote verification: 52 checkpoint files saved; 43 text files read back byte-exact; 9 screenshots verified by blob hash; branch head matches. All `pages/` source files remain unchanged, as does the main branch. The runtime source pin remains `eaac30097ff251d67dbb1507a9449feb5618e409`.
 - No latest native revision number is claimed. The earlier live1121/saved1122 baseline is historical and is not presented as the new draft revision.
-- Canonical Drive receipt URL and readback: PENDING.
-- Page and SEO status: **SAVED / VERIFIED / NOT PUBLISHED**. Evidence checkpoint recording remains pending.
+- Canonical Drive location: the existing project folder linked above. This receipt's exact URL and readback verification are supplied in the companion delivery verification record; no additional GitHub commit is needed solely to embed the receipt's own URL or commit hash.
+- Final page and SEO status: **SAVED / VERIFIED / NOT PUBLISHED**. No remaining implementation, draft SEO or QA work. The next consequential step is publication after owner approval, followed by production verification.
 
 Primary evidence: `qa/native/installation-evidence.json`; both `*-code-final-saved-readback.js`; both `*-mounted-settings.json`; page-specific desktop/mobile QA JSON; `wellness-mobile-images-final.json`; native screenshots; both `qa/proof/*-proof-measurements.json` and their copy receipt; `qa/source-static-qa.json`; `qa/source-github-verification.json`; `qa/source-cdn-verification.json`; `qa/destination-http-qa.json`; `qa/proof-host-http-check.json`; `qa/HEIGHT_REVIEW.md`; the final SEO write/readback/verification files listed above. This later verified checkpoint supersedes stale pending language in earlier README/evidence snapshots without deleting that history.

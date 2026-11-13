@@ -1,3 +1,5 @@
+> **Subsequent public release verified:** both approved page revisions and this saved SEO are live at Wix revision1131. See [public SEO verification](../publication-2026-11-12/seo/PUBLIC_VERIFICATION.md) and [the publication receipt](../publication-2026-11-12/PUBLICATION_RECEIPT.md). Draft preparation/execution records below remain historical evidence.
+
 # Wellness and Infrared Sauna metadata candidates
 
 ## Current status: SAVED / READBACK VERIFIED / NOT PUBLISHED

@@ -1,0 +1,255 @@
+{
+  "details": [
+    {
+      "answer": "What wellness services does Matrix offer in Salem?",
+      "children": [
+        "SUMMARY",
+        "P"
+      ],
+      "open": false,
+      "summary": "What wellness services does Matrix offer in Salem?"
+    },
+    {
+      "answer": "What is the difference between infrared sauna and red light therapy?",
+      "children": [
+        "SUMMARY",
+        "P"
+      ],
+      "open": false,
+      "summary": "What is the difference between infrared sauna and red light therapy?"
+    },
+    {
+      "answer": "How much does an infrared sauna appointment cost?",
+      "children": [
+        "SUMMARY",
+        "P"
+      ],
+      "open": false,
+      "summary": "How much does an infrared sauna appointment cost?"
+    },
+    {
+      "answer": "Can I combine wellness with massage, a facial or Head Spa?",
+      "children": [
+        "SUMMARY",
+        "P"
+      ],
+      "open": false,
+      "summary": "Can I combine wellness with massage, a facial or Head Spa?"
+    },
+    {
+      "answer": "Do I need to book a session to take the Glow Test?",
+      "children": [
+        "SUMMARY",
+        "P"
+      ],
+      "open": false,
+      "summary": "Do I need to book a session to take the Glow Test?"
+    },
+    {
+      "answer": "How do I choose and book a wellness service?",
+      "children": [
+        "SUMMARY",
+        "P"
+      ],
+      "open": false,
+      "summary": "How do I choose and book a wellness service?"
+    },
+    {
+      "answer": "Where is Matrix, and what areas do you serve?",
+      "children": [
+        "SUMMARY",
+        "P"
+      ],
+      "open": false,
+      "summary": "Where is Matrix, and what areas do you serve?"
+    }
+  ],
+  "documentWidth": 1348,
+  "footer": {
+    "bottom": 6004.03125,
+    "height": 376.03125,
+    "width": 1348,
+    "x": 0,
+    "y": 5628
+  },
+  "h1": [
+    "Wellness & Biotech Services in Salem, WI"
+  ],
+  "host": {
+    "bottom": 5063,
+    "height": 4929,
+    "width": 1348,
+    "x": 0,
+    "y": 134
+  },
+  "images": [
+    {
+      "alt": "Matrix Massage & Bodywork",
+      "complete": true,
+      "naturalWidth": 2048
+    },
+    {
+      "alt": "Warm wooden sauna interior, illustrative image",
+      "complete": true,
+      "naturalWidth": 1000
+    },
+    {
+      "alt": "Illuminated LEDs on a red light therapy panel",
+      "complete": true,
+      "naturalWidth": 1000
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.matrixmassage.net/",
+      "text": "Matrix Massage & Bodywork home"
+    },
+    {
+      "href": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+      "text": "OPEN FULL BOOKING MENU"
+    },
+    {
+      "href": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi#mw-options",
+      "text": "EXPLORE WELLNESS SERVICES"
+    },
+    {
+      "href": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi#mw-options",
+      "text": "Wellness options"
+    },
+    {
+      "href": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi#mw-choose",
+      "text": "Find your fit"
+    },
+    {
+      "href": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi#mw-visit",
+      "text": "Plan your visit"
+    },
+    {
+      "href": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi#mw-faq",
+      "text": "FAQs"
+    },
+    {
+      "href": "https://www.matrixmassage.net/",
+      "text": "Home"
+    },
+    {
+      "href": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "text": "Explore infrared sauna in Salem"
+    },
+    {
+      "href": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+      "text": "Explore red light therapy"
+    },
+    {
+      "href": "https://www.matrixmassage.net/red-light-therapy-glow-score",
+      "text": "Take the free Glow Test"
+    },
+    {
+      "href": "sms:+12629399325",
+      "text": "Text us about your visit"
+    },
+    {
+      "href": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "text": "infrared sauna"
+    },
+    {
+      "href": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+      "text": "custom therapeutic massage"
+    },
+    {
+      "href": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+      "text": "Japanese Head Spa"
+    },
+    {
+      "href": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+      "text": "custom facial"
+    },
+    {
+      "href": "https://www.matrixmassage.net/supplements",
+      "text": "supplements and wellness resources"
+    },
+    {
+      "href": "https://us.fullscript.com/s/matrix_massage_wellness/shop",
+      "text": "VISIT OUR FULLSCRIPT STORE"
+    },
+    {
+      "href": "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+      "text": "Paddock Lake"
+    },
+    {
+      "href": "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+      "text": "Bristol"
+    },
+    {
+      "href": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+      "text": "Twin Lakes and Genoa City"
+    },
+    {
+      "href": "https://www.matrixmassage.net/about-5",
+      "text": "Get to know Matrix"
+    },
+    {
+      "href": "sms:+12629399325",
+      "text": "Text 262-939-9325"
+    },
+    {
+      "href": "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+      "text": "GET DIRECTIONS TO MATRIX"
+    },
+    {
+      "href": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "text": "Booking information & full menu"
+    },
+    {
+      "href": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "text": null
+    },
+    {
+      "href": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+      "text": null
+    },
+    {
+      "href": "https://www.matrixmassage.net/red-light-therapy-glow-score",
+      "text": null
+    },
+    {
+      "href": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+      "text": null
+    },
+    {
+      "href": "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+      "text": null
+    },
+    {
+      "href": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+      "text": "OPEN FULL BOOKING MENU"
+    },
+    {
+      "href": "sms:+12629399325",
+      "text": "TEXT MATRIX"
+    },
+    {
+      "href": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+      "text": "Give someone time for themselves with a Matrix gift card"
+    }
+  ],
+  "reviews": {
+    "bottom": 5628,
+    "height": 565,
+    "width": 1348,
+    "x": 0,
+    "y": 5063
+  },
+  "tag": {
+    "bottom": 5063,
+    "height": 4929,
+    "width": 1348,
+    "x": 0,
+    "y": 134
+  },
+  "url": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+  "viewport": {
+    "height": 936,
+    "width": 1363
+  }
+}

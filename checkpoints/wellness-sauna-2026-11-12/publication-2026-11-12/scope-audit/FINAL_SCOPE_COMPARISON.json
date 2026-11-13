@@ -1,0 +1,303 @@
+{
+  "status": "SCOPE COMPARISON COMPLETE — NO UNEXPLAINED CONTENT CHANGES IN COMPARED PAGE/MASTER PAYLOADS",
+  "checkedAtUtc": "2026-11-13T04:25:46.722658+00:00",
+  "revisions": {
+    "publishedBaseline": 1121,
+    "savedHistorySnapshot": 1130,
+    "source": "Root-captured actual Site History pageLists;1121 explicit,1130 confirmed by native frame context"
+  },
+  "counts": {
+    "pagesBefore": 40,
+    "pagesAfter": 40,
+    "unchangedPageFiles": 31,
+    "changedPageFiles": 9,
+    "approvedContentChangedPages": 2,
+    "otherPagesWithOnlyGeometryAndSignatureDifferences": 7,
+    "payloadDownloads": 20
+  },
+  "pageIdsAdded": [],
+  "pageIdsRemoved": [],
+  "allTitlesAndSlugsPreserved": true,
+  "unrelatedPages": [
+    {
+      "pageId": "anvbe",
+      "route": "massage-therapy-services-salem-wi",
+      "dataEqualExcludingSignatureMetadata": true,
+      "structureEqualExcludingSignatureMetadataAndLayout": true,
+      "titleAndSlugEqual": true,
+      "geometryDifferences": [
+        {
+          "path": "/structure/layout/height",
+          "componentId": "anvbe",
+          "before": 7642,
+          "after": 4671
+        },
+        {
+          "path": "/structure/layout/width",
+          "componentId": "anvbe",
+          "before": 320,
+          "after": 980
+        }
+      ]
+    },
+    {
+      "pageId": "cib7o",
+      "route": "deep-tissue-massage-salem-wi",
+      "dataEqualExcludingSignatureMetadata": true,
+      "structureEqualExcludingSignatureMetadataAndLayout": true,
+      "titleAndSlugEqual": true,
+      "geometryDifferences": [
+        {
+          "path": "/structure/components/0/components/0/layout/height",
+          "componentId": "comp-mw3vryke",
+          "before": 5666,
+          "after": 5669
+        },
+        {
+          "path": "/structure/components/0/components/0/layout/width",
+          "componentId": "comp-mw3vryke",
+          "before": 1021,
+          "after": 980
+        },
+        {
+          "path": "/structure/components/0/layout/height",
+          "componentId": "comp-md6ocjbb",
+          "before": 5666,
+          "after": 5669
+        },
+        {
+          "path": "/structure/components/1/components/2/layout/width",
+          "componentId": "comp-md6ocje36",
+          "before": 1021,
+          "after": 980
+        },
+        {
+          "path": "/structure/components/1/layout/y",
+          "componentId": "comp-md6ocjdz1",
+          "before": 5666,
+          "after": 5669
+        },
+        {
+          "path": "/structure/layout/height",
+          "componentId": "cib7o",
+          "before": 6218,
+          "after": 6221
+        },
+        {
+          "path": "/structure/layout/width",
+          "componentId": "cib7o",
+          "before": 1021,
+          "after": 980
+        }
+      ]
+    },
+    {
+      "pageId": "cib8y",
+      "route": "matrix-skin-pathways-item",
+      "dataEqualExcludingSignatureMetadata": true,
+      "structureEqualExcludingSignatureMetadataAndLayout": true,
+      "titleAndSlugEqual": true,
+      "geometryDifferences": [
+        {
+          "path": "/structure/layout/height",
+          "componentId": "cib8y",
+          "before": 5640,
+          "after": 4040
+        },
+        {
+          "path": "/structure/layout/width",
+          "componentId": "cib8y",
+          "before": 320,
+          "after": 980
+        }
+      ]
+    },
+    {
+      "pageId": "dan8z",
+      "route": "spa-services-near-twin-lakes-genoa-city-wi",
+      "dataEqualExcludingSignatureMetadata": true,
+      "structureEqualExcludingSignatureMetadataAndLayout": true,
+      "titleAndSlugEqual": true,
+      "geometryDifferences": [
+        {
+          "path": "/structure/layout/height",
+          "componentId": "dan8z",
+          "before": 10759,
+          "after": 7416
+        },
+        {
+          "path": "/structure/layout/width",
+          "componentId": "dan8z",
+          "before": 320,
+          "after": 980
+        }
+      ]
+    },
+    {
+      "pageId": "ghmgt",
+      "route": "general-1",
+      "dataEqualExcludingSignatureMetadata": true,
+      "structureEqualExcludingSignatureMetadataAndLayout": true,
+      "titleAndSlugEqual": true,
+      "geometryDifferences": [
+        {
+          "path": "/structure/components/0/components/0/layout/width",
+          "componentId": "comp-mw5v2dtc",
+          "before": 980,
+          "after": 1248
+        },
+        {
+          "path": "/structure/components/1/components/5/layout/width",
+          "componentId": "comp-mc9pzeb0",
+          "before": 980,
+          "after": 1248
+        },
+        {
+          "path": "/structure/components/2/components/0/components/0/layout/x",
+          "componentId": "comp-mbjelxvn6",
+          "before": 0,
+          "after": -20
+        },
+        {
+          "path": "/structure/components/2/components/0/components/1/layout/x",
+          "componentId": "comp-mbjelxvo8",
+          "before": 619,
+          "after": 653
+        },
+        {
+          "path": "/structure/components/2/components/0/layout/width",
+          "componentId": "comp-mbjelxvi1",
+          "before": 980,
+          "after": 1088
+        },
+        {
+          "path": "/structure/components/2/components/1/components/0/layout/x",
+          "componentId": "comp-mbjelxvq6",
+          "before": 0,
+          "after": -35
+        },
+        {
+          "path": "/structure/components/2/components/1/components/1/layout/x",
+          "componentId": "comp-mbjelxvr5",
+          "before": 361,
+          "after": 380
+        },
+        {
+          "path": "/structure/components/2/components/1/layout/width",
+          "componentId": "comp-mbjelxvp6",
+          "before": 980,
+          "after": 1088
+        },
+        {
+          "path": "/structure/layout/width",
+          "componentId": "ghmgt",
+          "before": 980,
+          "after": 1248
+        }
+      ]
+    },
+    {
+      "pageId": "q3smg",
+      "route": "spa-services-near-bristol-wi",
+      "dataEqualExcludingSignatureMetadata": true,
+      "structureEqualExcludingSignatureMetadataAndLayout": true,
+      "titleAndSlugEqual": true,
+      "geometryDifferences": [
+        {
+          "path": "/structure/layout/height",
+          "componentId": "q3smg",
+          "before": 10554,
+          "after": 7351
+        },
+        {
+          "path": "/structure/layout/width",
+          "componentId": "q3smg",
+          "before": 320,
+          "after": 980
+        }
+      ]
+    },
+    {
+      "pageId": "ualp6",
+      "route": "spa-and-beauty-services-salem-wi",
+      "dataEqualExcludingSignatureMetadata": true,
+      "structureEqualExcludingSignatureMetadataAndLayout": true,
+      "titleAndSlugEqual": true,
+      "geometryDifferences": [
+        {
+          "path": "/structure/layout/height",
+          "componentId": "ualp6",
+          "before": 8375,
+          "after": 6192
+        },
+        {
+          "path": "/structure/layout/width",
+          "componentId": "ualp6",
+          "before": 320,
+          "after": 980
+        }
+      ]
+    }
+  ],
+  "master": {
+    "dataChangesOnlyApprovedWellnessAtomicScopeAndTwoPagesSeo": true,
+    "structureUnchangedExceptGeometryAndSignatures": true,
+    "sharedHeaderFooterContentLinksStylesComponentMembershipPreserved": true,
+    "geometryClassification": "Page-container/active-page height, footer-flow position and mobile back-to-top position; no content or style change"
+  },
+  "targets": [
+    {
+      "pageId": "hfzq0",
+      "pageUrl": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "history1130PageFile": "e4cc43_beda6029a6bd33dcb8304fe7546d387c_1129.json",
+      "tagName": "matrix-wellness-page",
+      "tagMatchesExpected": true,
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@eaac30097ff251d67dbb1507a9449feb5618e409/pages/wellness/main/review-2/renderer.js",
+      "sourceMatchesImmutableExpected": true,
+      "advancedSeoTagsMatchApprovedCandidate": true,
+      "expectedBodySha256": "44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820",
+      "sourceBodyHashMatchesExpected": true,
+      "finalSavedNativeCodeSha256": "34b69ed14bafa6591d88e55c08e120e14e4180ed8100da56c65242b6e49edd86",
+      "savedNativeCodeMatchesExpected": true,
+      "historyTopologySeoMarkupFields": [],
+      "history1130RuntimeSeoMarkupHashStatus": "NOT EXPOSED BY THESE STATIC PAGE PAYLOADS; final saved native code/body verified separately, fresh editor/runtime confirmation belongs to root",
+      "finalSavedNativeEvidence": "qa/native/wellness-code-final-saved-readback.js",
+      "decodedFinalSavedNativeSeoMarkupSha256": "44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820",
+      "decodedSavedNativeSeoMarkupMatchesExpectedBody": true
+    },
+    {
+      "pageId": "nf4iw",
+      "pageUrl": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "history1130PageFile": "e4cc43_cb5724200ac604507424fb10cc596c8a_1129.json",
+      "tagName": "matrix-sauna-page",
+      "tagMatchesExpected": true,
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@eaac30097ff251d67dbb1507a9449feb5618e409/pages/wellness/infrared-sauna/review-2/renderer.js",
+      "sourceMatchesImmutableExpected": true,
+      "advancedSeoTagsMatchApprovedCandidate": true,
+      "expectedBodySha256": "a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e",
+      "sourceBodyHashMatchesExpected": true,
+      "finalSavedNativeCodeSha256": "8bc82a35c12d06c23a05181029067cd526a4196a0428504a58fc2c439b1f8283",
+      "savedNativeCodeMatchesExpected": true,
+      "historyTopologySeoMarkupFields": [],
+      "history1130RuntimeSeoMarkupHashStatus": "NOT EXPOSED BY THESE STATIC PAGE PAYLOADS; final saved native code/body verified separately, fresh editor/runtime confirmation belongs to root",
+      "finalSavedNativeEvidence": "qa/native/sauna-code-final-saved-readback.js",
+      "decodedFinalSavedNativeSeoMarkupSha256": "a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e",
+      "decodedSavedNativeSeoMarkupMatchesExpectedBody": true
+    }
+  ],
+  "geometryAssessment": {
+    "fivePages": "Massage hub, Skin Pathways, Twin Lakes/Genoa City, Bristol, Spa/Beauty differ only in root saved width320→980/root-height values and signature metadata; actual components/properties unchanged.",
+    "deepTissue": "Full-width/docked custom element and fullWidth strip normalize1021→980; custom/host height5666→5669, following section shifts3px; unchanged content/source/styles/properties.",
+    "home": "Docked custom element and fullWidth strip normalize980→1248; fullWidth strips with unchanged80px site margins become1088 (=1248−160), columns receive corresponding positions; content/source/styles/properties unchanged.",
+    "inference": "These bounded differences are consistent with responsive editor measurements and normal flow. Actual rendered geometry is a browser check, not proved by semantic equality alone.",
+    "concretePostPublicationChecks": [
+      "HOME runtime body/footer/width preservation",
+      "Deep Tissue runtime source/content and section/review/footer flow"
+    ]
+  },
+  "limits": [
+    "Page/master payload comparison does not independently capture external Velo code bundles or current runtime seoMarkup. Target final saved native code hashes are independently verified, source URLs are exact, and root owns fresh runtime verification.",
+    "No native edits, publish action or GitHub write performed by this reviewer."
+  ],
+  "rawArtifactsPolicy": "Raw20 static payloads and full diffs are local working evidence; persist compact manifest/comparison rather than unnecessary large payload copies."
+}

@@ -1,0 +1,42 @@
+{
+  "status": "PUBLISHED / VERIFIED",
+  "siteId": "cdec8df6-d518-4859-9f1e-f06bf5346d41",
+  "classicDocumentId": "a276c9bf-bc17-4680-959b-a24ebe7370f6",
+  "ownerAuthorization": "Yes publish",
+  "publishActionCount": 1,
+  "nativeConfirmation": [
+    "+\t\t\t\t\t\t\t\t\t782 text Congratulations",
+    "+\t\t\t\t\t\t\t\t\t783 text Your site is published and live online",
+    "+\t\t\t\t\t\t\t\t\t785 text field https://matrixmassage.net/"
+  ],
+  "publicationTimeApproximate": "2026-11-12 22:25 America/Chicago",
+  "publicationTimePrecision": "minute",
+  "publishedRevision": 1131,
+  "revisionEvidence": "DOM script#wix-viewer-model.site.siteRevision on permanent Wellness and Sauna URLs",
+  "editorWritesThisPhase": [
+    "native Publish only"
+  ],
+  "reviewedRuntimeCommit": "eaac30097ff251d67dbb1507a9449feb5618e409",
+  "currentSavedDraftBeforePublish": 1130,
+  "priorPublishedRevision": 1121,
+  "browserChecks": {
+    "targetDesktopWidthCSSPixels": 1348,
+    "wellnessH1Count": 1,
+    "saunaH1Count": 1,
+    "wellnessFaqCount": 7,
+    "saunaFaqCount": 8,
+    "allFaqsOpenAndKeyboardClose": true,
+    "contentImagesLoaded": "Wellness3/3, Sauna2/2",
+    "horizontalOverflow": false,
+    "wellnessBodyToReviewsGapPx": 0,
+    "wellnessReviewsToFooterGapPx": 0,
+    "saunaBodyToFooterGapPx": 0,
+    "homeWidthFooterPreservation": "PASS",
+    "deepTissueWidthSectionFlow": "PASS"
+  },
+  "mobileEvidence": "Native Wix mobile320px and standalone responsive widths320/390/1280/1440/1920 passed before publication; actual production mobile-user-agent browser layout was not tested in this publication phase.",
+  "bookingsMade": 0,
+  "userMessagesSent": 0,
+  "knownFailedRoutineAction": "A body-locator Control+End scroll did not execute; native ctrl+End then succeeded. No content impact.",
+  "editorRefreshSafety": "Reload was rejected by automatic review due potential unsaved state; a fresh editor tab was opened instead, preserving the original tab. No reload/discard/save was performed."
+}

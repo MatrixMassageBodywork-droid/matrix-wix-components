@@ -1,0 +1,265 @@
+Browser tab: 10, Title: "Infrared Sauna in Salem, WI | Matrix Wellness & Recovery", URL: "https://www.matrixmassage.net/infrared-sauna-salem-wi".
+0 AXWebArea Infrared Sauna in Salem, WI | Matrix Wellness & Recovery, URL: matrixmassage.net/infrared-sauna-salem-wi
+	1 container main_MF
+		2 container Description: top of page, ID: SCROLL_TO_TOP
+		54 button Skip to Main Content, ID: SKIP_TO_CONTENT_BTN
+		3 container masterPage
+			4 container SITE_HEADER
+				5 container Site
+					6 content list
+						7 link Description: HOME, Value: matrixmassage.net/
+						8 link Description: BOOK NOW, Value: matrixmassage.net/book-appointments-salem-wi
+						9 container
+							10 link (collapsed) Description: MASSAGE THERAPY SERVICES, Value: matrixmassage.net/massage-therapy-services-salem-wi, Secondary Actions: Expand
+							11 button Toggle MASSAGE THERAPY SERVICES 
+								12 image
+						13 container
+							14 link (collapsed) Description: SPA & BEAUTY SERVICES, Value: matrixmassage.net/spa-and-beauty-services-salem-wi, Secondary Actions: Expand
+							15 button Toggle SPA & BEAUTY SERVICES
+								16 image
+						17 link Description: GIFT CARDS, Value: matrixmassage.net/massage-spa-gift-cards-salem-wi
+						18 link Description: FACIALS, Value: matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+						19 container
+							20 link (collapsed) Description: WELLNESS & BIOTECH SERVICES, Value: matrixmassage.net/wellness-biotech-services-salem-wi, Secondary Actions: Expand
+							21 button Toggle WELLNESS & BIOTECH SERVICES
+								22 image
+						23 link Description: ABOUT, Value: matrixmassage.net/about-5
+						24 link Description: BLOG, Value: matrixmassage.net/salem-wi-blog
+			25 container nf4iw
+				26 container comp-muu92bbq
+					55 container comp-muu96xx4
+						56 container Breadcrumb
+							57 link Description: Home, Value: matrixmassage.net/
+							58 link Description: Wellness & Biotech, Value: matrixmassage.net/wellness-biotech-services-salem-wi
+							59 text Infrared Sauna
+						60 container Infrared Sauna in Salem, WI
+							61 image Matrix Massage & Bodywork
+							62 text PRIVATE WARMTH · SALEM, WISCONSIN
+							63 heading Infrared Sauna in Salem, WI, Value: 1, ID: ms-title
+								64 text Infrared Sauna in Salem, WI
+							65 container
+								66 text Warm up. Slow down.
+								67 text Make room to recover.
+							68 text Give yourself a little more time to unwind. Our private infrared sauna add-on brings comfortable warmth and quiet to an eligible Matrix visit.
+							69 link Description: VIEW SAUNA BOOKING OPTIONS, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+							70 link Description: Explore the session, Value: matrixmassage.net/infrared-sauna-salem-wi#ms-options
+							71 container
+								72 image Illustrative sauna interior with warm wood, soft lighting and folded towels
+								73 text Sauna atmosphere · illustrative image
+						74 container On this page
+							75 link Description: The experience, Value: matrixmassage.net/infrared-sauna-salem-wi#ms-experience
+							76 link Description: Options & price, Value: matrixmassage.net/infrared-sauna-salem-wi#ms-options
+							77 link Description: Plan your visit, Value: matrixmassage.net/infrared-sauna-salem-wi#ms-visit
+							78 link Description: Questions, Value: matrixmassage.net/infrared-sauna-salem-wi#ms-faq
+						79 container Settle into a slower pace., ID: ms-experience
+							80 text A WARM PAUSE IN A FULL DAY
+							81 heading Settle into a slower pace., Value: 2, ID: ms-experience-title
+								82 text Settle into a slower pace.
+							83 text Infrared sauna uses radiant heat to warm the body. At Matrix, the experience centers on comfortable warmth, privacy and time to decompress.
+							84 container
+								85 heading Warmth you can settle into, Value: 3
+									86 text Warmth you can settle into
+								87 text Heat and use time are adapted to your tolerance and the equipment instructions. Your comfort guides the session.
+							88 container
+								89 heading A moment to yourself, Value: 3
+									90 text A moment to yourself
+								91 text Step away from a busy day and enjoy a private appointment with space to slow down, breathe and relax.
+							92 container
+								93 heading More room for recovery, Value: 3
+									94 text More room for recovery
+								95 text Build quiet time into your self-care routine, whether you are unwinding after activity or extending a restorative visit.
+						96 container A little longer to let go., ID: ms-options
+							97 text YOUR SAUNA SESSION
+							98 heading A little longer to let go., Value: 2, ID: ms-options-title
+								99 text A little longer
+								100 text to let go.
+							101 container
+								102 text Add private sauna time to an eligible visit. It is booked separately from your hands-on treatment, so your 
+								103 link Description: massage appointment, Value: matrixmassage.net/massage-therapy-services-salem-wi
+								104 text  keeps its own reserved time.
+							105 container
+								106 text Want to visit just for sauna, or combine more than one service? 
+								107 link Description: Text Matrix, Value: sms:+12629399325
+								108 text  to confirm availability and arrange the timing before you book.
+							109 container
+								110 text PRIVATE APPOINTMENT
+								111 heading Infrared Sauna Add-On, Value: 3
+									112 text Infrared Sauna Add-On
+								113 text $35  · 30 minutes Comfortable warmth and quiet time, added to an eligible Matrix visit. Tell us about heat sensitivity or relevant health considerations when planning your appointment.
+								114 link Description: OPEN FULL BOOKING MENU, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+								115 text Look for “Infrared Sauna (Add-On).” Confirm the current price and availability in the booking menu.
+						116 container Easy to plan. Comfortable to enjoy.
+							117 text WHAT TO EXPECT
+							118 heading Easy to plan. Comfortable to enjoy., Value: 2, ID: ms-expect-title
+								119 text Easy to plan.
+								120 text Comfortable to enjoy.
+							121 text We help you fit the sauna into your visit, with space to ask questions before you begin.
+							122 link Description: Get to know Matrix, Value: matrixmassage.net/about-5
+							123 content list
+								124 container
+									125 text 0 1
+									126 heading Plan the timing, Value: 3
+										127 text Plan the timing
+									128 text Choose an eligible appointment and confirm how your sauna add-on will fit around it. Text us if you would like help coordinating.
+								129 container
+									130 text 0 2
+									131 heading Settle in comfortably, Value: 3
+										132 text Settle in comfortably
+									133 text Review the sauna instructions and share any heat sensitivity. The booked appointment length allows for a session adapted to you.
+								134 container
+									135 text 0 3
+									136 heading Ease back into your day, Value: 3
+										137 text Ease back into your day
+									138 text Allow time to cool down, drink water and enjoy the slower pace. Let us know how you feel before moving on.
+						139 container Sauna or red light?
+							140 text CHOOSE YOUR KIND OF RESET
+							141 heading Sauna or red light?, Value: 2, ID: ms-compare-title
+								142 text Sauna or red light?
+							143 container
+								144 text Both belong in our 
+								145 link Description: Wellness & Biotech collection, Value: matrixmassage.net/wellness-biotech-services-salem-wi
+								146 text . The experience and purpose are different.
+							147 container
+								148 text INFRARED SAUNA
+								149 heading Make warmth the experience., Value: 3
+									150 text Make warmth the experience.
+								151 text Sauna is a heat-based session for private relaxation. Choose it when you want comfortable warmth and a quiet pause.
+								152 link Description: See the sauna option, Value: matrixmassage.net/infrared-sauna-salem-wi#ms-options
+							153 container
+								154 text RED LIGHT THERAPY
+								155 heading Explore light-based wellness., Value: 3
+									156 text Explore light-based wellness.
+								157 text Red light therapy uses red and near-infrared light for a different kind of wellness session. Explore its options, benefits and free Glow Score quiz.
+								158 link Description: Explore red light therapy, Value: matrixmassage.net/red-light-therapy-salem-wi
+							159 container
+								160 text Prefer hands-on relaxation? Explore 
+								161 link Description: custom therapeutic massage, Value: matrixmassage.net/massage-therapy-services-salem-wi
+								162 text  or the scalp care and relaxation of a 
+								163 link Description: Japanese Head Spa, Value: matrixmassage.net/japanese-head-spa-salem-wi
+								164 text . Ask us how to plan services together.
+						165 container Visit us in Salem., ID: ms-visit
+							166 text YOUR LOCAL PLACE TO UNWIND
+							167 heading Visit us in Salem., Value: 2, ID: ms-visit-title
+								168 text Visit us in Salem.
+							169 text Matrix Massage & Bodywork is at 24804 75th St, Salem, WI 53168, serving Salem Lakes, Paddock Lake and nearby communities.
+							170 container
+								171 text Coming from 
+								172 link Description: Bristol, Value: matrixmassage.net/spa-services-near-bristol-wi
+								173 text , 
+								174 link Description: Twin Lakes or Genoa City, Value: matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi
+								175 text , or 
+								176 link Description: Pleasant Prairie, Value: matrixmassage.net/massage-near-pleasant-prairie-wi
+								177 text ? Explore our local guides to plan a visit to the same Salem studio.
+							178 heading Plan your time at Matrix, Value: 3
+								179 text Plan your time at Matrix
+							180 link Description: Get directions to the studio, Value: google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168
+							181 link Description: Text 262-939-9325, Value: sms:+12629399325
+							182 link Description: View appointment information, Value: matrixmassage.net/book-appointments-salem-wi
+						183 container Your sauna questions, answered., ID: ms-faq
+							184 text BEFORE YOU VISIT
+							185 heading Your sauna questions, answered., Value: 2, ID: ms-faq-title
+								186 text Your sauna questions, answered.
+							187 container
+								188 text Have a question about pairing services or your first sauna visit? 
+								189 link Description: Send us a text., Value: sms:+12629399325
+							247 button (collapsed) How much is infrared sauna at Matrix? +, Secondary Actions: Expand
+								248 text How much is infrared sauna at Matrix?
+								249 text +
+							250 button (collapsed) Can I book a sauna session by itself? +, Secondary Actions: Expand
+								251 text Can I book a sauna session by itself?
+								252 text +
+							253 button (collapsed) What is an infrared sauna? +, Secondary Actions: Expand
+								254 text What is an infrared sauna?
+								255 text +
+							256 button (collapsed) Can I combine infrared sauna with massage? +, Secondary Actions: Expand
+								257 text Can I combine infrared sauna with massage?
+								258 text +
+							259 button (collapsed) Is infrared sauna the same as red light therapy? +, Secondary Actions: Expand
+								260 text Is infrared sauna the same as red light therapy?
+								261 text +
+							262 button (collapsed) How should I prepare for my sauna appointment? +, Secondary Actions: Expand
+								263 text How should I prepare for my sauna appointment?
+								264 text +
+							265 button (collapsed) Who should check with a healthcare professional first? +, Secondary Actions: Expand
+								266 text Who should check with a healthcare professional first?
+								267 text +
+							268 button (collapsed) Where is Matrix’s infrared sauna located? +, Secondary Actions: Expand
+								269 text Where is Matrix’s infrared sauna located?
+								270 text +
+						230 container Make space to unwind.
+							231 text A LITTLE WARMTH. A LITTLE MORE TIME FOR YOU.
+							232 heading Make space to unwind., Value: 2, ID: ms-close-title
+								233 text Make space to unwind.
+							234 text Explore the sauna add-on or text us to plan your visit. We’ll help you make the timing feel easy.
+							235 link Description: VIEW SAUNA BOOKING OPTIONS, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+							236 link Description: TEXT TO PLAN YOUR VISIT, Value: sms:+12629399325
+			27 container SITE_FOOTER
+				28 container
+					29 container
+						30 text © 2026 Matrix Massage & Bodywork · Salem Lakes, WI
+						31 text (262) 939-9325 · 24804 75th St, Salem, WI 53168
+						32 link Description: Massage Therapy, Value: matrixmassage.net/massage-therapy-services-salem-wi
+						33 text  · 
+						34 link Description: Custom Facials, Value: matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+						35 text  · 
+						36 link Description: Japanese Head Spa, Value: matrixmassage.net/japanese-head-spa-salem-wi
+					37 container
+						38 text One Salem studio serving Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Kenosha County, Union Grove and nearby Antioch, Illinois.
+						39 text Plan 
+						40 link Description: massage near Union Grove, Value: matrixmassage.net/massage-near-union-grove-wi
+						41 text , 
+						42 link Description: facials near Antioch, Value: matrixmassage.net/facials-near-antioch-il
+						43 text , 
+						44 link Description: Japanese Head Spa near Bristol, Value: matrixmassage.net/japanese-head-spa-near-bristol-wi
+						45 text , or 
+						46 link Description: spa services near Paddock Lake, Value: matrixmassage.net/spa-services-near-paddock-lake-wi
+						47 text . All appointments are provided at Matrix Massage & Bodywork in Salem, Wisconsin.
+					237 container Embedded Content
+						238 AXWebArea www-matrixmassage-net.filesusr.com/html/e4cc43_386e641eedab9b013d9e460ecd6825c1.html
+					239 container Embedded Content
+						240 AXWebArea www-matrixmassage-net.filesusr.com/html/e4cc43_a970c9e447f66d3ac60dd8b99e9f0282.html
+					241 container Embedded Content
+						242 AXWebArea www-matrixmassage-net.filesusr.com/html/e4cc43_297f7620ede407d4fd1b3d0ffbe6f1bb.html
+					243 container Embedded Content
+						244 AXWebArea www-matrixmassage-net.filesusr.com/html/e4cc43_d82a3bef3e52b62cf804ae06f2a05853.html
+					48 container comp-mqsjyvjb
+						49 text ​Links:
+						50 link Description: Gift Cards​, Value: matrixmassage.net/massage-spa-gift-cards-salem-wi
+						51 link Description: Partner with Us, Value: matrixmassage.net/local-wellness-partnerships
+						52 link Description: Work with Us, Value: matrixmassage.net/massage-therapist-jobs-salem-wi
+					245 container Google Maps
+						246 AXWebArea static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/googleMap.f3347ff6.html?defaultLocation=0&showZoom=true&showStreetView=true&showMapType=true&language=en&region=US&id=dataItem-msbtck7h&clientKey=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&googleMapsScriptPath=%2Fservices%2Feditor-elements-library%2Fdist%2Fthunderbolt%2Fmedia%2Fgoogle-map.min.9a2bea98.js&origin=https%3A%2F%2Fwww.matrixmassage.net&hasFocus=true
+							271 container
+								272 button Keyboard shortcuts
+								273 container Map
+								274 container
+									275 container
+										276 button Matrix Massage &amp; Bodywork
+										277 container
+											278 button Close
+											279 container content
+												280 text Matrix Massage & Bodywork
+												281 text Head spa, facials and massage at Matrix’s Salem location.
+												282 link Description: Get directions, Value: google.com/maps/dir/?api=1&origin=Bristol%2C+WI&destination=24804+75th+St%2C+Salem%2C+WI+53168, ID: dataItem-msbtfbny
+												283 link Description: Directions, Value: google.com/maps/dir/?api=1&destination=24804%2075th%20St%2C%20Salem%20Lakes%2C%20WI%2053168%2C%20USA
+								284 menu bar
+									285 Description: Show street map, Value: 1, ID: 01B468EC-1F55-4075-8596-668498D21BE9
+									286 Description: Show satellite imagery, Value: 0, ID: D0684324-E2BE-4FC7-9346-7D3334F44861
+								287 checkbox Description: Toggle fullscreen view, Value: 0
+								288 container
+									289 button Drag Pegman onto the map to open Street View
+										290 image Street View Pegman Control
+									291 button Zoom in
+									292 button Zoom out
+								293 link Description: Open this area in Google Maps (opens a new window), Value: maps.google.com/maps?ll=42.572254,-88.109454&z=14&t=m&hl=en&gl=US&mapclient=apiv3
+								294 container
+									295 button Keyboard shortcuts
+									296 button Map Data
+									297 button Map Scale: 500 m per 71 pixels
+										298 container
+											299 text 500 m 
+									300 link Description: Terms (opens in new tab), Value: google.com/intl/en_US/help/terms_maps.html
+									301 link Description: Report a map error (opens in new tab), Help: Report errors in the road map or imagery to Google, Value: google.com/maps/@42.5722544,-88.109454,14z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3
+		53 container Description: bottom of page, ID: SCROLL_TO_BOTTOM
+
+The focused UI element is 268 button (collapsed) Where is Matrix’s infrared sauna located? +, Secondary Actions: Expand

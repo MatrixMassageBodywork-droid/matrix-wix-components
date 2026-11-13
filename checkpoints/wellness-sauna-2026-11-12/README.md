@@ -1,60 +1,52 @@
-# Wellness and Infrared Sauna — current redesign checkpoint
+# Wellness and Infrared Sauna — current published checkpoint
 
-12 November 2026, America/Chicago; final native/SEO evidence captured 13 November UTC.
+**PUBLISHED / VERIFIED. Wix public revision 1131.** The owner authorized publication of both completed revisions. A single native Publish action succeeded at approximately 10:25 p.m. America/Chicago on 12 November 2026; independent public verification completed at 10:27:29 p.m. (`2026-11-13T04:27:29.238957+00:00`).
 
-**SAVED / VERIFIED / TESTED as native drafts. SEO drafts SAVED / READBACK VERIFIED. NOT PUBLISHED.** No new native revision number was obtained. The current final receipt is `docs/FINAL_DRAFT_RECEIPT.md`; the historical source-save receipt in `qa/source-github-verification.json` describes the earlier pre-installation checkpoint, not the current installation status.
+Current authority: `publication-2026-11-12/PUBLICATION_RECEIPT.md`, `publication-2026-11-12/ROOT_FINAL_REVIEW.json`, native publication/browser evidence and the final public SEO verification. The earlier draft receipt and native Preview records remain historical evidence of the saved design and testing stages.
 
-The owner requested redesigns of the existing Wellness and Infrared Sauna pages, continuation of the prior sauna work, SEO and AI-search foundations, and backlinks. Both designs are now installed and saved on their existing pages. The earlier About publication approval applied to About; these two revisions await separate publication authorization.
+## Permanent pages and immutable sources
 
-## Current authoritative state
+| Page | Public URL | Page ID | Custom tag / native Velo ID |
+|---|---|---|---|
+| Wellness & Biotech | https://www.matrixmassage.net/wellness-biotech-services-salem-wi | `hfzq0` | `matrix-wellness-page` / `matrixWellnessPage` |
+| Infrared Sauna | https://www.matrixmassage.net/infrared-sauna-salem-wi | `nf4iw` | `matrix-sauna-page` / `matrixServicePageV21` |
 
 - Site: `cdec8df6-d518-4859-9f1e-f06bf5346d41`; Classic Editor document: `a276c9bf-bc17-4680-959b-a24ebe7370f6`.
-- Wellness: page `hfzq0`, https://www.matrixmassage.net/wellness-biotech-services-salem-wi .
-- Infrared Sauna: page `nf4iw`, https://www.matrixmassage.net/infrared-sauna-salem-wi .
-- Both current sources are `review-2`. Their immutable runtime source commit is **`eaac30097ff251d67dbb1507a9449feb5618e409`** in `MatrixMassageBodywork-droid/matrix-wix-components`.
-- Evidence branch: `review/wellness-sauna-2026-11-12`. Receipt-only commits must not change the runtime source pin.
-- Current SEO evidence: `seo/review-4-native-bound/FINAL_DRAFT_SEO_VERIFICATION.json`, supported by the actual draft write and subsequent read-only GET results. Earlier SEO plans are preparation/history; do not rerun them.
-- Native final code, mounted source/tag, save confirmation, geometry and screenshots: `qa/native/`. Five-width browser proof measurements: `qa/proof/`.
-- Canonical project Drive folder: `1jthRMAHOoockNm8hAVBK6mz4iaHbhNK8`. Final GitHub evidence-commit and canonical project receipt updates are being completed; neither publishes Wix.
+- Both designs are review 2. Immutable source/runtime pin: **`eaac30097ff251d67dbb1507a9449feb5618e409`**.
+- Verified saved-draft evidence commit: `2792bd47ca208e232cf45fa1c8f2bc6c111e31e8`.
+- Evidence branch: `review/wellness-sauna-2026-11-12`. Publication receipt commits add evidence only and do not repoint either renderer.
+- Canonical project folder: `1jthRMAHOoockNm8hAVBK6mz4iaHbhNK8`. The canonical publication receipt receives the final verified evidence-commit reference after that commit is created.
 
-The prior baseline was live 1121 with unrelated saved 1122 changes retained, per the November 12 production receipt at commit `888c033ed7029c9c96e9ac26b05af70f1c70c002`. That baseline is not a new revision number for this work. Current native captures and final receipts supersede older sauna continuation notes for installation state. No restore/discard or site publication was performed.
+## Published outcome
 
-## Installed designs and identities
+Wellness now follows the standard main-page design: a framed Matrix logo over dark teal water, cream service sections, current Sauna and Red Light imagery, contextual care/booking links and seven FAQs. The three obsolete content sections were replaced while preserving genuine reviews in `comp-mppziohc`. Its custom element `comp-mwe2v0h5` remains inside host `comp-mppziogk1`.
 
-| Page | Native component / Velo ID | Registered tag | Saved page-code SHA-256 |
-|---|---|---|---|
-| Wellness | `comp-mwe2v0h5` / `matrixWellnessPage` | `matrix-wellness-page` | `34b69ed14bafa6591d88e55c08e120e14e4180ed8100da56c65242b6e49edd86` |
-| Infrared Sauna | `comp-muu96xx4` / `matrixServicePageV21` | `matrix-sauna-page` | `8bc82a35c12d06c23a05181029067cd526a4196a0428504a58fc2c439b1f8283` |
+Sauna now has a smaller framed logo, split photographic hero, clear distinction between sauna warmth and red light, a verified **$35 / 30-minute add-on** and eight FAQs. Its existing section `comp-muu92bbq`, component `comp-muu96xx4` and Velo ID were retained. The stock sauna photograph is explicitly labeled illustrative; it is not presented as Matrix's actual room.
 
-Wellness uses the standard main-page framed Matrix logo over dark teal water, cream service sections, current Sauna and Red Light imagery, and seven FAQs. The new custom element is hosted in `comp-mppziogk1`. The three obsolete top-level content sections `comp-mppziofn`, `comp-mppzp2vm` and `comp-mppziogl3` were removed after the replacement rendered successfully. Genuine reviews in `comp-mppziohc` remain after the new content.
+The complete public `seoMarkup` matches the reviewed body byte-for-byte: Wellness SHA256 `44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820`; Sauna SHA256 `a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e`.
 
-Sauna uses a smaller framed logo and split photographic hero, a clear distinction between heat-based sauna and red light, eight FAQs, and the verified public Square **$35 / 30-minute add-on**. Its existing section `comp-muu92bbq`, component and Velo ID were reused. The Wix stock sauna photograph is explicitly labeled illustrative; it is not presented as a photograph of Matrix's actual room.
+## SEO, AI-search delivery and links
 
-Both pages have complete visible-body `seoMarkup` in their page-local code. Final saved readbacks match the prepared candidates byte-for-byte. Native mounted settings confirm the exact review-2 renderer URLs and tags at the immutable source commit.
+The saved and published metadata retain the established titles, descriptions, canonical URLs and social fields. Wellness publishes the reviewed HealthAndBeautyBusiness, OfferCatalog, BreadcrumbList, CollectionPage and 7-question FAQPage. Sauna publishes Service, BreadcrumbList, WebPage and 8-question FAQPage. Every expected JSON-LD document and FAQ answer matches the approved content.
 
-## Search and linking changes
+Both pages returned public revision 1131 with complete semantic content under ordinary browser, simulated Googlebot and simulated OAI-SearchBot requests: all six response groups passed. Both routes are in the sitemap, robots permits the relevant crawler paths, and no accidental noindex was found. All 17 checked internal/booking destinations returned HTTP 200. The pages include reciprocal Wellness ↔ Sauna links and relevant care, booking, About, local-guide and directions links; Wellness also links to existing supplements resources and the free Glow Test.
 
-Native SEO draft writes succeeded for exactly these two pages with `publish:false`. Fresh read-only GETs confirmed accepted tags match the candidates and protected resolved metadata remains unchanged: titles, descriptions, canonicals, indexability and existing social fields. Existing correct schema identities were preserved. Page-specific business/catalog/breadcrumb corrections and matching CollectionPage/WebPage and FAQPage structures were saved, with seven Wellness FAQs and eight Sauna FAQs matching visible content.
+Wix's crawler output removes `sms:` href values while retaining the contact text. Browser `seoMarkup` retains the phone actions. This observed serialization difference required a local verifier adjustment, not a website change. The first-read diagnostic remains classified as historical; the final verification result is authoritative.
 
-The bulk write omitted resolved tags in its response. Two read-only GETs filled that evidence gap; the write was not repeated. See the final SEO verification and audit rather than the earlier preparation file's pre-execution status.
+Internal linking and crawler response checks do not establish third-party backlinks, actual crawler visits, indexing, rankings, rich results or AI-answer inclusion.
 
-The pages include contextual **Wellness ↔ Sauna** links plus relevant links to Red Light, massage, Head Spa, About, booking, directions and local guides. Wellness also links to existing supplements resources and the free Glow Test. Existing Home → Wellness, About → Wellness and Red Light → Wellness routes were retained. These edits establish internal discovery paths; no new third-party backlinks or search ranking/indexing outcome is claimed.
+## Publication scope and preserved behavior
 
-## Verification completed
+Before release, actual Site History 1121 and 1130 page/master payloads were compared. All 40 page IDs, titles and slugs were preserved. 31 page files were unchanged. The two target pages contained the authorized redesign/SEO changes; seven other page filenames differed only in signatures and bounded serialized layout measurements. Shared master content changed only for the new Wellness scope and the two approved SEO records. HOME and Deep Tissue geometry differences were explicitly followed up in the public browser and passed.
 
-- Standalone browser proof measurements at **320, 390, 1280, 1440 and 1920 px** passed: one H1 per page, expected FAQ counts, loaded images, section widths and no measured horizontal overflow.
-- Native Wix desktop at **1348 px** and mobile at **320 px** passed for both pages. Every FAQ was opened and closed; keyboard closure was verified. Native wrappers and sections followed content growth and contraction.
-- Wellness meets the preserved review section with gap 0 in all FAQ states. Sauna meets the footer with gap 0 on desktop and stable 10 px local section spacing on mobile. No large blank region or fixed expanded-height workaround was introduced.
-- Native images are loaded in both layouts. The final Wellness mobile image evidence supersedes the earlier capture taken before its lazy service images entered the viewport.
-- The Wellness mobile wrapper initially retained an uninitialized 125 px shell. Letting the native mobile Editor mount and then saving resolved it without a source patch or manual fixed height.
-- Saved page-code hashes, mounted tags/source pins, component identities and final native Save confirmation are recorded. The Save dialog states that publication is still required to expose the changes.
-- The booking destination opened the correct Matrix Square service menu with no services added and no submission. Source destination checks cover the contextual links; no message, appointment or purchase was submitted.
-- Native SEO saved tags and protected resolved head were read back and verified for both page identities.
+The shared header/footer/navigation/map, genuine Wellness reviews, unrelated content/source/style records, Sauna dataset/CMS/shared renderer, HOME startup scripts/styles, Red Light quiz/integrations, Square catalog/customer data, permissions, automations and redirects were preserved within the verified scope. No code/content edit, restore, discard or second publication occurred in the release phase.
 
-## Preserved boundaries
+## Completed QA and limits
 
-Shared header, footer, navigation, map, theme and global code; all unrelated pages; HOME's three synchronized inline entries; Red Light quiz/integrations; Square catalog/customer data; permissions; automations; redirects and canonical patterns were outside the change scope. The genuine Wellness review section was preserved. Sauna dataset `matrixServicePageDataset` / `comp-muu9amok`, CMS data and shared `public/custom-elements/matrix-service-page-v21.js` remain unchanged; only the page-local old CMS body adapter was replaced.
+- Public browser desktop at 1348 CSS px: one H1 per page, all images loaded, no horizontal overflow, all 7/8 FAQs opened and keyboard-closed, with normal expansion/collapse.
+- Wellness body → reviews → footer gaps are 0 px. Sauna body → footer gap is 0 px. HOME footer/width and Deep Tissue flow preservation passed.
+- Native mobile 320 px and standalone responsive 320/390/1280/1440/1920 px checks passed before publication. **A production mobile-user-agent browser layout was not tested in this release phase.**
+- Target 1130 history tags and source URLs match the exact eaac review 2 pins; fresh native Wellness mounted-script evidence also matches. Both public bodies/seoMarkup are exact, and independent CDN downloads match renderer bytes. Public DOM script URLs were not captured, so that separate claim is not made.
+- Booking destinations were opened without adding services or submitting an appointment. No purchase or user message was sent.
 
-## Remaining publication boundary
-
-The native drafts and SEO are saved and verified. Final durable evidence checkpointing is the remaining documentation action. These revisions are **not published** and have not had post-publication desktop/mobile-user-agent QA or search-engine reprocessing verified. An owner-approved publication and its subsequent live checks are a separate step.
+There is no remaining page correction or live publication action. The commit containing this checkpoint records the publication evidence; the final canonical receipt records its verified SHA and delivery link. Do not replay publication or rewrite source merely to update a receipt.

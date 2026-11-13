@@ -1,0 +1,46 @@
+{
+  "status": "SOURCE CHECKPOINT VERIFIED; PUBLICATION AND CURRENT NATIVE SCOPE AUDIT PENDING",
+  "checkedAtUtc": "2026-11-13T04:15:23.071Z",
+  "authorization": {
+    "status": "OWNER EXPLICITLY AUTHORIZED PUBLICATION OF BOTH SAVED PAGE REVISIONS",
+    "reportedBy": "root",
+    "exactApprovalMessageTimestamp": null
+  },
+  "repository": "MatrixMassageBodywork-droid/matrix-wix-components",
+  "branch": "refs/heads/review/wellness-sauna-2026-11-12",
+  "branchHead": "2792bd47ca208e232cf45fa1c8f2bc6c111e31e8",
+  "expectedEvidenceHead": "2792bd47ca208e232cf45fa1c8f2bc6c111e31e8",
+  "branchHeadUnchanged": true,
+  "sourceCommit": "eaac30097ff251d67dbb1507a9449feb5618e409",
+  "sourceTree": "4adf924dd5cf9db779744f3acf6dce39af5d3bf5",
+  "evidenceCommit": "2792bd47ca208e232cf45fa1c8f2bc6c111e31e8",
+  "evidenceTree": "024c329e95e5e1c8661927c3a3e2818337e807af",
+  "evidenceParentMatchesSource": true,
+  "priorRelease": {
+    "sourceCommit": "888c033ed7029c9c96e9ac26b05af70f1c70c002",
+    "sourcePath": "checkpoints/seo-release-2026-11-12/checkpoint.json",
+    "publishedVersion": 1121,
+    "publishedAtUtc": "2026-11-12T21:19:54.955Z",
+    "method": "Release Manager published the existing tested1121 snapshot",
+    "savedVersion1122Preserved": true,
+    "saved1122ContentsIdentifiedInAvailableRecord": false,
+    "note": "1122 is a pre-existing saved version. Its edit set is not described by the reviewed release JSON/README/report. Current native history and saved-scope audit is required; do not infer it belongs to this redesign."
+  },
+  "nativePublicationAttempted": false,
+  "githubWritesPerformed": false,
+  "runtimeSourcePinsChanged": false,
+  "currentWorkBoundaries": [
+    "Root owns site-wide native scope audit and publication.",
+    "Root owns public browser layout/FAQ/link QA.",
+    "SEO agent owns independent public HTML/metadata/schema comparisons.",
+    "This reviewer owns final evidence-only GitHub commit after concrete evidence and root GO."
+  ],
+  "requiredEvidence": [
+    "Current native published/saved version and pending scope audit",
+    "Publication action response/confirmation/time/revision",
+    "Public body/runtime/SEO readback for both exact URLs",
+    "Public browser desktop/mobile geometry/FAQ/image/link evidence",
+    "Final source/runtime pin preservation",
+    "Final publication receipt and canonical project checkpoint"
+  ]
+}

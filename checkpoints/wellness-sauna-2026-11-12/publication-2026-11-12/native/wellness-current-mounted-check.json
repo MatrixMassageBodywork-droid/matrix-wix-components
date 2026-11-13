@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    [
+      "style",
+      "width: 100%; --wst-color-fill-background-primary: rgb(246, 246, 246); --wst-color-fill-background-secondary: rgb(189, 233, 251); --wst-color-text-primary: rgb(40, 26, 57); --wst-color-text-secondary: rgb(40, 26, 57); --wst-color-action: rgb(40, 26, 57); --wst-color-disabled: rgb(143, 136, 152); --wst-color-title: rgb(40, 26, 57); --wst-color-subtitle: rgb(40, 26, 57); --wst-color-line: rgb(40, 26, 57); --wst-button-color-fill-primary: rgb(40, 26, 57); --wst-button-color-border-primary: rgb(40, 26, 57); --wst-button-color-text-primary: rgb(246, 246, 246); --wst-button-color-fill-primary-hover: rgb(189, 233, 251); --wst-button-color-border-primary-hover: rgb(40, 26, 57); --wst-button-color-text-primary-hover: rgb(40, 26, 57); --wst-button-color-fill-primary-disabled: rgb(143, 136, 152); --wst-button-color-border-primary-disabled: rgb(143, 136, 152); --wst-button-color-text-primary-disabled: rgb(246, 246, 246); --wst-button-color-fill-secondary: rgb(189, 233, 251); --wst-button-color-border-secondary: rgb(40, 26, 57); --wst-button-color-text-secondary: rgb(40, 26, 57); --wst-button-color-fill-secondary-hover: rgb(40, 26, 57); --wst-button-color-border-secondary-hover: rgb(40, 26, 57); --wst-button-color-text-secondary-hover: rgb(246, 246, 246); --wst-button-color-fill-secondary-disabled: rgb(143, 136, 152); --wst-button-color-border-secondary-disabled: rgb(143, 136, 152); --wst-button-color-text-secondary-disabled: rgb(246, 246, 246); --wst-color-fill-base-1: rgb(246, 246, 246); --wst-color-fill-base-2: rgb(40, 26, 57); --wst-color-fill-base-shade-1: rgb(195, 191, 199); --wst-color-fill-base-shade-2: rgb(143, 136, 152); --wst-color-fill-base-shade-3: rgb(92, 81, 104); --wst-color-fill-accent-1: rgb(32, 97, 183); --wst-color-fill-accent-2: rgb(189, 233, 251); --wst-color-fill-accent-3: rgb(234, 224, 218); --wst-color-fill-accent-4: rgb(208, 224, 205); --wst-color-custom-1: rgb(143, 136, 152); --wst-color-custom-2: rgb(208, 224, 205); --wst-color-custom-3: rgb(250, 197, 185); --wst-color-custom-4: rgb(232, 138, 116); --wst-color-custom-5: rgb(204, 118, 98); --wst-color-custom-6: rgb(143, 193, 255); --wst-color-custom-7: rgb(90, 162, 250); --wst-color-custom-8: rgb(25, 114, 222); --wst-color-custom-9: rgb(234, 224, 218); --wst-color-custom-10: rgb(189, 233, 251); --wst-color-custom-11: rgb(180, 226, 215); --wst-color-custom-12: rgb(137, 197, 182); --wst-color-custom-13: rgb(66, 168, 143); --wst-color-custom-14: rgb(44, 112, 95); --wst-color-custom-15: rgb(22, 56, 48); --wst-color-custom-16: rgb(189, 182, 244); --wst-color-custom-17: rgb(129, 114, 232); --wst-color-custom-18: rgb(97, 86, 174); --wst-color-custom-19: rgb(65, 57, 116); --wst-color-custom-20: rgb(32, 29, 58); --wst-font-style-h2: normal normal normal 20px/1.4em avenir-lt-w01_85-heavy1475544,sans-serif; --wst-font-style-h3: italic normal normal 50px/1.4em avenir-lt-w01_85-heavy1475544,sans-serif; --wst-font-style-h4: normal normal normal 40px/1.4em avenir-lt-w01_85-heavy1475544,sans-serif; --wst-font-style-h5: normal normal normal 20px/1.4em avenir-lt-w01_85-heavy1475544,sans-serif; --wst-font-style-h6: normal normal normal 18px/1.4em avenir-lt-w01_85-heavy1475544,sans-serif; --wst-font-style-body-large: italic normal normal 17px/1.4em avenir-lt-w01_85-heavy1475544,sans-serif; --wst-font-style-body-medium: normal normal normal 16px/1.4em avenir-lt-w01_85-heavy1475544,sans-serif; --wst-font-style-body-small: normal normal normal 14px/1.4em avenir-lt-w01_85-heavy1475544,sans-serif; --wst-font-style-body-x-small: normal normal normal 12px/1.4em din-next-w01-light,sans-serif; --one-unit: 1vw; --theme-spx-ratio: 1px; display: block; height: auto;"
+    ],
+    [
+      "data-matrix-mounted",
+      "true"
+    ]
+  ],
+  "faqCount": 7,
+  "h1": [
+    "Wellness & Biotech Services in Salem, WI"
+  ],
+  "scripts": [
+    "https://static.parastorage.com/unpkg/regenerator-runtime@0.12.1/runtime.js",
+    "https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js",
+    "https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js",
+    "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@eaac30097ff251d67dbb1507a9449feb5618e409/pages/wellness/main/review-2/renderer.js"
+  ],
+  "tag": "MATRIX-WELLNESS-PAGE"
+}

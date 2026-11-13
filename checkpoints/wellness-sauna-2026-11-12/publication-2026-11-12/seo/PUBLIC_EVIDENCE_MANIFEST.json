@@ -1,0 +1,74 @@
+{
+  "status": "PUBLIC SEO AND CRAWLER DELIVERY VERIFIED",
+  "capturedAt": "2026-11-13T04:27:29.238957+00:00",
+  "publicRevision": "1131",
+  "finalEvidenceFiles": {
+    "HTTP_RESPONSES.json": {
+      "bytes": 16877,
+      "sha256": "182241db373753a9f559815ffc03fc9afe34504f090db79f42702ea4da2731cc"
+    },
+    "PUBLIC_VERIFICATION.json": {
+      "bytes": 65641,
+      "sha256": "384eed44d2965d3a2e554f35f4f34837542776d471cee690ce0944e386a382f9"
+    },
+    "PUBLISHED_HEAD_AND_BODY_EXTRACT.json": {
+      "bytes": 23857,
+      "sha256": "a1f0c0c70a1678dde8b7111a22417d1bd9f5236c0172128a02bbdf53f7d77680"
+    },
+    "sauna-published-seoMarkup.html": {
+      "bytes": 11861,
+      "sha256": "a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e"
+    },
+    "wellness-published-seoMarkup.html": {
+      "bytes": 12503,
+      "sha256": "44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820"
+    }
+  },
+  "rawHttpResponses": [
+    {
+      "file": "home-browser.html",
+      "bytes": 971364,
+      "sha256": "8ae7b890f2def4f2ffa9eb4e4a51f742ab6d6f33548a9fd6f7244f9af022a3a1"
+    },
+    {
+      "file": "robots-browser.html",
+      "bytes": 495,
+      "sha256": "dfabe256b4a49f13d949ffa1009dc3fcb71b4ab68e503188a00fdb3be98c874f"
+    },
+    {
+      "file": "sauna-browser.html",
+      "bytes": 850984,
+      "sha256": "2908c19dea4bcc6427cf7dc00a1e4b3383e19c8702f9294534a8dc84569e15e0"
+    },
+    {
+      "file": "sauna-googlebot.html",
+      "bytes": 684450,
+      "sha256": "0c64ea7cab4578751febc0faf0144cfed3ea20771003658f113a19d6f0b00b0a"
+    },
+    {
+      "file": "sauna-oai-searchbot.html",
+      "bytes": 684450,
+      "sha256": "0c64ea7cab4578751febc0faf0144cfed3ea20771003658f113a19d6f0b00b0a"
+    },
+    {
+      "file": "sitemap-browser.html",
+      "bytes": 3895,
+      "sha256": "c714c36201ea05d4b4a72693a813d92fc30c6bd68c98e00ea7a259b826a2985b"
+    },
+    {
+      "file": "wellness-browser.html",
+      "bytes": 897081,
+      "sha256": "866cbe95c03e807908498b7ead702c49bbe4fc5a099b1dad819944322646db7a"
+    },
+    {
+      "file": "wellness-googlebot.html",
+      "bytes": 679700,
+      "sha256": "28ee70cce1e24b31e3894f88e4cbd72107e6b951a4e23847a8a4fbc0ccf5006e"
+    },
+    {
+      "file": "wellness-oai-searchbot.html",
+      "bytes": 679700,
+      "sha256": "28ee70cce1e24b31e3894f88e4cbd72107e6b951a4e23847a8a4fbc0ccf5006e"
+    }
+  ]
+}

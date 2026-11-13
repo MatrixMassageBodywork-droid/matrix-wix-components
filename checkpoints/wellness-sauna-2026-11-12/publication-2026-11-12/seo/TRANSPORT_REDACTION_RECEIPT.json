@@ -1,0 +1,63 @@
+{
+  "status": "TRANSIENT RESPONSE COOKIES EXCLUDED FROM REPOSITORY COPIES",
+  "preparedAtUtc": "2026-11-13T04:34:35.109458+00:00",
+  "policy": "Remove only Set-Cookie response header fields. Preserve status, URLs, response hashes, comparisons and every verification result. Original local files remain unchanged and are not uploaded.",
+  "originalRootAcceptedPublicVerificationSha256": "384eed44d2965d3a2e554f35f4f34837542776d471cee690ce0944e386a382f9",
+  "copies": [
+    {
+      "originalLocalFile": "seo/PREFLIGHT_PUBLIC_RESPONSES.json",
+      "originalLocalBytes": 31469,
+      "originalLocalSha256": "ec139566781f0fd5a8b520a2b611747e330cf008f1e3833d6eec7d717398547c",
+      "repositoryFile": "seo/PREFLIGHT_PUBLIC_RESPONSES.sanitized.json",
+      "repositoryBytes": 31112,
+      "repositorySha256": "6834a4e1e3ab4f3c25b1cf1ef49f0a9f42b518199197c9fe5029c175e7968bdf",
+      "removedHeaderPaths": [
+        "/0/headers/set-cookie",
+        "/1/headers/set-cookie",
+        "/2/headers/set-cookie"
+      ],
+      "verificationResultsUnchanged": true
+    },
+    {
+      "originalLocalFile": "seo/postpublish-final-read/HTTP_RESPONSES.json",
+      "originalLocalBytes": 16877,
+      "originalLocalSha256": "182241db373753a9f559815ffc03fc9afe34504f090db79f42702ea4da2731cc",
+      "repositoryFile": "seo/postpublish-final-read/HTTP_RESPONSES.sanitized.json",
+      "repositoryBytes": 15416,
+      "repositorySha256": "0bc31b1ab692ab89667b060146924171f0b035d8276e6a1f27222f06488fd2f4",
+      "removedHeaderPaths": [
+        "/0/headers/set-cookie",
+        "/1/headers/set-cookie",
+        "/2/headers/set-cookie",
+        "/3/headers/set-cookie",
+        "/4/headers/set-cookie",
+        "/5/headers/set-cookie",
+        "/6/headers/set-cookie",
+        "/7/headers/set-cookie",
+        "/8/headers/set-cookie"
+      ],
+      "verificationResultsUnchanged": true
+    },
+    {
+      "originalLocalFile": "seo/postpublish-final-read/PUBLIC_VERIFICATION.json",
+      "originalLocalBytes": 65641,
+      "originalLocalSha256": "384eed44d2965d3a2e554f35f4f34837542776d471cee690ce0944e386a382f9",
+      "repositoryFile": "seo/postpublish-final-read/PUBLIC_VERIFICATION.sanitized.json",
+      "repositoryBytes": 64156,
+      "repositorySha256": "500516b7e73c27a6c8cee82af1e1d11faead14d6bd2ed9e8a3e37a8f74d71d57",
+      "removedHeaderPaths": [
+        "/transport/0/headers/set-cookie",
+        "/transport/1/headers/set-cookie",
+        "/transport/2/headers/set-cookie",
+        "/transport/3/headers/set-cookie",
+        "/transport/4/headers/set-cookie",
+        "/transport/5/headers/set-cookie",
+        "/transport/6/headers/set-cookie",
+        "/transport/7/headers/set-cookie",
+        "/transport/8/headers/set-cookie"
+      ],
+      "verificationResultsUnchanged": true
+    }
+  ],
+  "websiteOrQaChanges": false
+}

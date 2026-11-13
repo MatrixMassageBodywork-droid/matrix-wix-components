@@ -1,0 +1,51 @@
+{
+  "status": "EXPECTED VALUES FROM VERIFIED SAVED DRAFT; NOT A PUBLIC RESULT",
+  "pages": [
+    {
+      "pageId": "hfzq0",
+      "pageUrl": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "bodySha256": "44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820",
+      "nativeCodeSha256": "34b69ed14bafa6591d88e55c08e120e14e4180ed8100da56c65242b6e49edd86",
+      "nativeElementId": "matrixWellnessPage",
+      "nativeComponentId": "comp-mwe2v0h5",
+      "tagName": "matrix-wellness-page",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@eaac30097ff251d67dbb1507a9449feb5618e409/pages/wellness/main/review-2/renderer.js",
+      "readbackVerified": true,
+      "savedCodeEvidence": "qa/native/wellness-code-final-saved-readback.js",
+      "sourceEvidence": "qa/native/wellness-mounted-settings.json",
+      "title": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery",
+      "description": "Explore wellness services in Salem, WI including infrared sauna, red light therapy, recovery enhancements and hands-off wellness at Matrix.",
+      "canonical": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "faqCount": 7,
+      "h1Count": 1,
+      "rendererSha256": "d8ab1c6327ed0d69eb58f7c0fd4a7f1a1cca815268764751dca46869a56cbeb8",
+      "rendererBytes": 23001,
+      "bodyBytes": 12503,
+      "expectedBodyPath": "main/review-2/body.html",
+      "schemaCandidatePath": "seo/review-4-native-bound/wellness-candidate-tags.json"
+    },
+    {
+      "pageId": "nf4iw",
+      "pageUrl": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "bodySha256": "a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e",
+      "nativeCodeSha256": "8bc82a35c12d06c23a05181029067cd526a4196a0428504a58fc2c439b1f8283",
+      "nativeElementId": "matrixServicePageV21",
+      "nativeComponentId": "comp-muu96xx4",
+      "tagName": "matrix-sauna-page",
+      "sourceUrl": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@eaac30097ff251d67dbb1507a9449feb5618e409/pages/wellness/infrared-sauna/review-2/renderer.js",
+      "readbackVerified": true,
+      "savedCodeEvidence": "qa/native/sauna-code-final-saved-readback.js",
+      "sourceEvidence": "qa/native/sauna-mounted-settings.json",
+      "title": "Infrared Sauna in Salem, WI | Matrix Wellness & Recovery",
+      "description": "Book a private infrared sauna session in Salem, WI for warmth, relaxation and recovery-focused wellness at Matrix Massage & Bodywork.",
+      "canonical": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "faqCount": 8,
+      "h1Count": 1,
+      "rendererSha256": "9c8186c457fecc789da59b898518abc20191216c59b7ed64581162ac839943ca",
+      "rendererBytes": 26417,
+      "bodyBytes": 11861,
+      "expectedBodyPath": "infrared-sauna/review-2/body.html",
+      "schemaCandidatePath": "seo/review-4-native-bound/infrared-sauna-candidate-tags.json"
+    }
+  ]
+}

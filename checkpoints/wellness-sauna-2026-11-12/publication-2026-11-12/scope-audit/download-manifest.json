@@ -1,0 +1,501 @@
+{
+  "capturedAtUtc": "2026-11-13T04:23:15.993439+00:00",
+  "source": "Observed topology URLs from actual History1121 and History1130 pageLists",
+  "pageCountBefore": 40,
+  "pageCountAfter": 40,
+  "changedPageRows": [
+    {
+      "pageId": "anvbe",
+      "before": {
+        "pageId": "anvbe",
+        "pageJsonFileName": "e4cc43_2bbfe1b29c0e6660d54b3e983786953b_1121.json",
+        "pageUriSEO": "massage-therapy-services-salem-wi",
+        "title": "MASSAGE THERAPY SERVICES "
+      },
+      "after": {
+        "pageId": "anvbe",
+        "pageJsonFileName": "e4cc43_3af2d54b2c7bb1c18c14266acf591adc_1123.json",
+        "pageUriSEO": "massage-therapy-services-salem-wi",
+        "title": "MASSAGE THERAPY SERVICES "
+      }
+    },
+    {
+      "pageId": "cib7o",
+      "before": {
+        "pageId": "cib7o",
+        "pageJsonFileName": "e4cc43_267d0daea8a3457fcbfdb230e77dd4cf_1111.json",
+        "pageUriSEO": "deep-tissue-massage-salem-wi",
+        "title": "DEEP TISSUE MASSAGE "
+      },
+      "after": {
+        "pageId": "cib7o",
+        "pageJsonFileName": "e4cc43_f01813183c6a935cbf420cec64a59d0c_1123.json",
+        "pageUriSEO": "deep-tissue-massage-salem-wi",
+        "title": "DEEP TISSUE MASSAGE "
+      }
+    },
+    {
+      "pageId": "cib8y",
+      "before": {
+        "pageId": "cib8y",
+        "pageJsonFileName": "e4cc43_98e235400a7f6788ed73595b0f5a4ac3_1121.json",
+        "pageUriSEO": "matrix-skin-pathways-item",
+        "title": "Matrix Skin Pathways (Item)"
+      },
+      "after": {
+        "pageId": "cib8y",
+        "pageJsonFileName": "e4cc43_ca4ab8cd28c58f23ab3cb0d749192a11_1123.json",
+        "pageUriSEO": "matrix-skin-pathways-item",
+        "title": "Matrix Skin Pathways (Item)"
+      }
+    },
+    {
+      "pageId": "dan8z",
+      "before": {
+        "pageId": "dan8z",
+        "pageJsonFileName": "e4cc43_ae2f6d16bd29a20a24c5826b5d6cebf6_1121.json",
+        "pageUriSEO": "spa-services-near-twin-lakes-genoa-city-wi",
+        "title": "SPA NEAR TWIN LAKES & GENOA CITY"
+      },
+      "after": {
+        "pageId": "dan8z",
+        "pageJsonFileName": "e4cc43_3d2acb9f2c314d689a3fad50c63424f1_1123.json",
+        "pageUriSEO": "spa-services-near-twin-lakes-genoa-city-wi",
+        "title": "SPA NEAR TWIN LAKES & GENOA CITY"
+      }
+    },
+    {
+      "pageId": "ghmgt",
+      "before": {
+        "pageId": "ghmgt",
+        "pageJsonFileName": "e4cc43_790b77333f73751595b17c89212ac7b6_1120.json",
+        "pageUriSEO": "general-1",
+        "title": "HOME"
+      },
+      "after": {
+        "pageId": "ghmgt",
+        "pageJsonFileName": "e4cc43_93291d9a8625f22fa05425ed6d0eb502_1130.json",
+        "pageUriSEO": "general-1",
+        "title": "HOME"
+      }
+    },
+    {
+      "pageId": "hfzq0",
+      "before": {
+        "pageId": "hfzq0",
+        "pageJsonFileName": "e4cc43_c3d00a8ab1056b069846764358605336_1036.json",
+        "pageUriSEO": "wellness-biotech-services-salem-wi",
+        "title": "WELLNESS & BIOTECH SERVICES"
+      },
+      "after": {
+        "pageId": "hfzq0",
+        "pageJsonFileName": "e4cc43_beda6029a6bd33dcb8304fe7546d387c_1129.json",
+        "pageUriSEO": "wellness-biotech-services-salem-wi",
+        "title": "WELLNESS & BIOTECH SERVICES"
+      }
+    },
+    {
+      "pageId": "nf4iw",
+      "before": {
+        "pageId": "nf4iw",
+        "pageJsonFileName": "e4cc43_0b29eadd1bd38cd209ce50a14771ce10_1036.json",
+        "pageUriSEO": "infrared-sauna-salem-wi",
+        "title": "Infrared Sauna"
+      },
+      "after": {
+        "pageId": "nf4iw",
+        "pageJsonFileName": "e4cc43_cb5724200ac604507424fb10cc596c8a_1129.json",
+        "pageUriSEO": "infrared-sauna-salem-wi",
+        "title": "Infrared Sauna"
+      }
+    },
+    {
+      "pageId": "q3smg",
+      "before": {
+        "pageId": "q3smg",
+        "pageJsonFileName": "e4cc43_d87ee946e2b94436cc6849b8f8eeeccd_1121.json",
+        "pageUriSEO": "spa-services-near-bristol-wi",
+        "title": "SPA NEAR BRISTOL"
+      },
+      "after": {
+        "pageId": "q3smg",
+        "pageJsonFileName": "e4cc43_cbe9b4fef945aaac6966792536aa6c4f_1123.json",
+        "pageUriSEO": "spa-services-near-bristol-wi",
+        "title": "SPA NEAR BRISTOL"
+      }
+    },
+    {
+      "pageId": "ualp6",
+      "before": {
+        "pageId": "ualp6",
+        "pageJsonFileName": "e4cc43_2e8dbe7c83ba3f2766a33a01d5e664e8_1121.json",
+        "pageUriSEO": "spa-and-beauty-services-salem-wi",
+        "title": "SPA & BEAUTY SERVICES"
+      },
+      "after": {
+        "pageId": "ualp6",
+        "pageJsonFileName": "e4cc43_72de7fbf9d6797d5b061d6c63cc43180_1123.json",
+        "pageUriSEO": "spa-and-beauty-services-salem-wi",
+        "title": "SPA & BEAUTY SERVICES"
+      }
+    }
+  ],
+  "downloads": [
+    {
+      "pageId": "anvbe",
+      "state": "before",
+      "filename": "e4cc43_2bbfe1b29c0e6660d54b3e983786953b_1121.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_2bbfe1b29c0e6660d54b3e983786953b_1121.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 65779,
+      "transferSha256": "e14e9e4565f4ce81d6c48897e44ed8e37a5a4575647f9fba4ecf7f97386209f2",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/anvbe-before.json",
+      "jsonBytes": 110553,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "anvbe",
+      "state": "after",
+      "filename": "e4cc43_3af2d54b2c7bb1c18c14266acf591adc_1123.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_3af2d54b2c7bb1c18c14266acf591adc_1123.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 65769,
+      "transferSha256": "3a3ac52797f5b475af46b91bff9affbf9237bd25af7303d3a9f39fdb3fc7ba28",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/anvbe-after.json",
+      "jsonBytes": 110543,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "cib7o",
+      "state": "before",
+      "filename": "e4cc43_267d0daea8a3457fcbfdb230e77dd4cf_1111.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_267d0daea8a3457fcbfdb230e77dd4cf_1111.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 68497,
+      "transferSha256": "a05c038b40d6047b0ed3d98517fb4b259fc44ff5c23a59d70936110b155a6050",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/cib7o-before.json",
+      "jsonBytes": 114474,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "cib7o",
+      "state": "after",
+      "filename": "e4cc43_f01813183c6a935cbf420cec64a59d0c_1123.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_f01813183c6a935cbf420cec64a59d0c_1123.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 68491,
+      "transferSha256": "13c5f9d15fcfde5907f3d8226ac8efc26f7502835c5d78a3f48d001ce1a6964f",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/cib7o-after.json",
+      "jsonBytes": 114468,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "cib8y",
+      "state": "before",
+      "filename": "e4cc43_98e235400a7f6788ed73595b0f5a4ac3_1121.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_98e235400a7f6788ed73595b0f5a4ac3_1121.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 7826,
+      "transferSha256": "2dd321fffef8eba7d1d186ce932c1041644e7a31f6aab206089b43e1438b375c",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/cib8y-before.json",
+      "jsonBytes": 12650,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "cib8y",
+      "state": "after",
+      "filename": "e4cc43_ca4ab8cd28c58f23ab3cb0d749192a11_1123.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_ca4ab8cd28c58f23ab3cb0d749192a11_1123.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 7822,
+      "transferSha256": "bf1015b5cc4afa84554375bf7f4b68d788121425e3deb7adba01954c9341e5d3",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/cib8y-after.json",
+      "jsonBytes": 12646,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "dan8z",
+      "state": "before",
+      "filename": "e4cc43_ae2f6d16bd29a20a24c5826b5d6cebf6_1121.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_ae2f6d16bd29a20a24c5826b5d6cebf6_1121.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 14553,
+      "transferSha256": "c83e97a753bdb6e5380b71f929c65ad42d796800dc3b3f04df34594ad78fa830",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/dan8z-before.json",
+      "jsonBytes": 18828,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "dan8z",
+      "state": "after",
+      "filename": "e4cc43_3d2acb9f2c314d689a3fad50c63424f1_1123.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_3d2acb9f2c314d689a3fad50c63424f1_1123.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 14550,
+      "transferSha256": "04d452bdbecce9a31aef4735b39ac1be89042222ea1bb9cf788a68ca3a321b87",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/dan8z-after.json",
+      "jsonBytes": 18825,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "ghmgt",
+      "state": "before",
+      "filename": "e4cc43_790b77333f73751595b17c89212ac7b6_1120.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_790b77333f73751595b17c89212ac7b6_1120.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 83568,
+      "transferSha256": "f10446301486bebf6ad8fa24a3caa7f9d88b81bb2683ee33614a3542a74b7eb9",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/ghmgt-before.json",
+      "jsonBytes": 129079,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "ghmgt",
+      "state": "after",
+      "filename": "e4cc43_93291d9a8625f22fa05425ed6d0eb502_1130.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_93291d9a8625f22fa05425ed6d0eb502_1130.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 83576,
+      "transferSha256": "f2a10557c9ceb1d838e47dd3513c97610f49fd25f5bd254abb198f427106645e",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/ghmgt-after.json",
+      "jsonBytes": 129087,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "hfzq0",
+      "state": "before",
+      "filename": "e4cc43_c3d00a8ab1056b069846764358605336_1036.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_c3d00a8ab1056b069846764358605336_1036.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 164381,
+      "transferSha256": "87aa32cbfd77a11f14203d835577c15f7f129198e1385ad882be42aab7bc4ff1",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/hfzq0-before.json",
+      "jsonBytes": 271494,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "hfzq0",
+      "state": "after",
+      "filename": "e4cc43_beda6029a6bd33dcb8304fe7546d387c_1129.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_beda6029a6bd33dcb8304fe7546d387c_1129.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 76668,
+      "transferSha256": "827383f78c6bdd4718ef2ed7db548e35935b4fe8340f52bc3f535c579a12cacc",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/hfzq0-after.json",
+      "jsonBytes": 125666,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "nf4iw",
+      "state": "before",
+      "filename": "e4cc43_0b29eadd1bd38cd209ce50a14771ce10_1036.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_0b29eadd1bd38cd209ce50a14771ce10_1036.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 10500,
+      "transferSha256": "a3579d7b6c1f6eebe6795e35672f682bd7ffce796167fe9a77a26620d103d18b",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/nf4iw-before.json",
+      "jsonBytes": 15171,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "nf4iw",
+      "state": "after",
+      "filename": "e4cc43_cb5724200ac604507424fb10cc596c8a_1129.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_cb5724200ac604507424fb10cc596c8a_1129.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 16673,
+      "transferSha256": "b44085d42fdc3a6bfb96b188df5ab3e6b8a989877a640176d9f54d26559c4b95",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/nf4iw-after.json",
+      "jsonBytes": 21517,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "q3smg",
+      "state": "before",
+      "filename": "e4cc43_d87ee946e2b94436cc6849b8f8eeeccd_1121.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_d87ee946e2b94436cc6849b8f8eeeccd_1121.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 14104,
+      "transferSha256": "b5fae3665f3beac9f3de2a83877709fb1d6eea8b4b4f46e2902d0ae1d0bc3f6e",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/q3smg-before.json",
+      "jsonBytes": 18219,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "q3smg",
+      "state": "after",
+      "filename": "e4cc43_cbe9b4fef945aaac6966792536aa6c4f_1123.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_cbe9b4fef945aaac6966792536aa6c4f_1123.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 14100,
+      "transferSha256": "d82ae9f92f877b7d8c45ba380d5b4d96257f7ad5ff1312af32be916c1fd9484c",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/q3smg-after.json",
+      "jsonBytes": 18215,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "ualp6",
+      "state": "before",
+      "filename": "e4cc43_2e8dbe7c83ba3f2766a33a01d5e664e8_1121.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_2e8dbe7c83ba3f2766a33a01d5e664e8_1121.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 75298,
+      "transferSha256": "95e033bc9091e60f673ff321c4ff60d793bb560eab3b2ae812d6d623cdc0fe1a",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/ualp6-before.json",
+      "jsonBytes": 125439,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "ualp6",
+      "state": "after",
+      "filename": "e4cc43_72de7fbf9d6797d5b061d6c63cc43180_1123.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_72de7fbf9d6797d5b061d6c63cc43180_1123.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 75295,
+      "transferSha256": "0d7115e8c7acb7f9b05ead1383c42e99682076b427704a4334aff00e000985ed",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/ualp6-after.json",
+      "jsonBytes": 125436,
+      "keys": [
+        "structure",
+        "data",
+        "title",
+        "pageUriSEO"
+      ]
+    },
+    {
+      "pageId": "masterPage",
+      "state": "before",
+      "filename": "e4cc43_36da89b422c97cde8967c544a6ef1dab_1121.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_36da89b422c97cde8967c544a6ef1dab_1121.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 377616,
+      "transferSha256": "25b2585b6787e239b1fa0bec01fc4cbd9473860c6f35e4162ed7a125723d4f99",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/masterPage-before.json",
+      "jsonBytes": 491625,
+      "keys": [
+        "structure",
+        "data"
+      ]
+    },
+    {
+      "pageId": "masterPage",
+      "state": "after",
+      "filename": "e4cc43_4aaa4db15a8c3b5f37b9a9b6e4458e68_1130.json",
+      "url": "https://pages.parastorage.com/sites/e4cc43_4aaa4db15a8c3b5f37b9a9b6e4458e68_1130.json.z?v=3",
+      "status": 200,
+      "contentType": "application/json",
+      "transferBytes": 388803,
+      "transferSha256": "a5bba17f5971980a406146f794cc11f91eef1d8b077f3c5202c4ba9a28a7343e",
+      "jsonPath": "/workspace/scratch/6f987ab79794/matrix-wellness/publication-2026-11-12/scope-audit/raw/masterPage-after.json",
+      "jsonBytes": 502914,
+      "keys": [
+        "structure",
+        "data"
+      ]
+    }
+  ]
+}

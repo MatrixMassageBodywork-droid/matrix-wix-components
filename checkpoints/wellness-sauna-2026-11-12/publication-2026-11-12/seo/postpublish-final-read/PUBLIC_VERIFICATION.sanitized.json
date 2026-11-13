@@ -1,0 +1,1469 @@
+{
+  "status": "PUBLIC SEO AND CRAWLER DELIVERY VERIFIED",
+  "capturedAt": "2026-11-13T04:27:29.238957+00:00",
+  "expectedSiteRevision": "1131",
+  "pages": [
+    {
+      "target": "hfzq0",
+      "userAgentProfile": "browser",
+      "url": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "checks": {
+        "http200": true,
+        "permanentUrlUnchanged": true,
+        "expectedSiteRevision": true,
+        "allProtectedHeadMatches": true,
+        "noNoindex": true,
+        "structuredDataParses": true,
+        "allExpectedSchemaExact": true,
+        "oneFAQPage": true,
+        "faqExactVisibleSourceMatch": true,
+        "expectedFAQCount": true,
+        "fullBodySeoMarkupExact": true,
+        "publishedWebLinksMatchReviewedBody": true,
+        "correctSquareBookingLinkPresent": true,
+        "noMassageBookLink": true
+      },
+      "allPassed": true,
+      "failures": [],
+      "protectedHeadChecks": {
+        "title": true,
+        "description": true,
+        "canonical": true,
+        "og:title": true,
+        "og:description": true,
+        "og:image": true,
+        "og:image:width": true,
+        "og:image:height": true,
+        "og:url": true,
+        "og:site_name": true,
+        "og:type": true,
+        "google-site-verification": true,
+        "twitter:card": true,
+        "twitter:title": true,
+        "twitter:description": true,
+        "twitter:image": true
+      },
+      "protectedHeadDifferences": [],
+      "revisionEvidence": [
+        {
+          "path": "wix-essential-viewer-model.commonConfig.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-fedops.data.site.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-viewer-model.site.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-viewer-model.commonConfig.siteRevision",
+          "revision": "1131"
+        }
+      ],
+      "schemaTypes": [
+        "BreadcrumbList",
+        "HealthAndBeautyBusiness",
+        "OfferCatalog",
+        "CollectionPage",
+        "FAQPage"
+      ],
+      "expectedSchemaCount": 5,
+      "observedSchemaCount": 5,
+      "observedFaqCount": 7,
+      "seoMarkup": [
+        {
+          "path": "wix-warmup-data.platform.ssrPropsUpdates[0].comp-mwe2v0h5.seoMarkup",
+          "bytes": 12503,
+          "sha256": "44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820",
+          "root": "<article class=\"matrix-wellness\">\n  <header class=\"mw-hero\">\n    <div class=\"mw-"
+        }
+      ],
+      "expectedBodySha256": "44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820",
+      "semanticBodyPresent": false,
+      "semanticBodyTextMatches": false,
+      "publishedLinks": [
+        "#mw-choose",
+        "#mw-faq",
+        "#mw-options",
+        "#mw-visit",
+        "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+        "https://us.fullscript.com/s/matrix_massage_wellness/shop",
+        "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+        "https://www.matrixmassage.net/",
+        "https://www.matrixmassage.net/about-5",
+        "https://www.matrixmassage.net/book-appointments-salem-wi",
+        "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+        "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+        "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+        "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+        "https://www.matrixmassage.net/red-light-therapy-glow-score",
+        "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+        "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+        "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+        "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+        "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+        "https://www.matrixmassage.net/supplements",
+        "sms:+12629399325"
+      ],
+      "crawlerContactActionsWithoutHref": [],
+      "runtimePinPresentInRawResponse": false
+    },
+    {
+      "target": "hfzq0",
+      "userAgentProfile": "googlebot",
+      "url": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "checks": {
+        "http200": true,
+        "permanentUrlUnchanged": true,
+        "expectedSiteRevision": true,
+        "allProtectedHeadMatches": true,
+        "noNoindex": true,
+        "structuredDataParses": true,
+        "allExpectedSchemaExact": true,
+        "oneFAQPage": true,
+        "faqExactVisibleSourceMatch": true,
+        "expectedFAQCount": true,
+        "fullBodySeoMarkupExact": true,
+        "publishedWebLinksMatchReviewedBody": true,
+        "correctSquareBookingLinkPresent": true,
+        "noMassageBookLink": true,
+        "semanticBodyDeliveredToCrawlerUA": true,
+        "oneSemanticBodyH1": true,
+        "semanticFAQCount": true
+      },
+      "allPassed": true,
+      "failures": [],
+      "protectedHeadChecks": {
+        "title": true,
+        "description": true,
+        "canonical": true,
+        "og:title": true,
+        "og:description": true,
+        "og:image": true,
+        "og:image:width": true,
+        "og:image:height": true,
+        "og:url": true,
+        "og:site_name": true,
+        "og:type": true,
+        "google-site-verification": true,
+        "twitter:card": true,
+        "twitter:title": true,
+        "twitter:description": true,
+        "twitter:image": true
+      },
+      "protectedHeadDifferences": [],
+      "revisionEvidence": [
+        {
+          "path": "wix-essential-viewer-model.commonConfig.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-fedops.data.site.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-viewer-model.site.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-viewer-model.commonConfig.siteRevision",
+          "revision": "1131"
+        }
+      ],
+      "schemaTypes": [
+        "BreadcrumbList",
+        "HealthAndBeautyBusiness",
+        "OfferCatalog",
+        "CollectionPage",
+        "FAQPage"
+      ],
+      "expectedSchemaCount": 5,
+      "observedSchemaCount": 5,
+      "observedFaqCount": 7,
+      "seoMarkup": [
+        {
+          "path": "wix-warmup-data.platform.ssrPropsUpdates[0].comp-mwe2v0h5.seoMarkup",
+          "bytes": 12503,
+          "sha256": "44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820",
+          "root": "<article class=\"matrix-wellness\">\n  <header class=\"mw-hero\">\n    <div class=\"mw-"
+        }
+      ],
+      "expectedBodySha256": "44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820",
+      "semanticBodyPresent": true,
+      "semanticBodyTextMatches": true,
+      "publishedLinks": [
+        "#mw-choose",
+        "#mw-faq",
+        "#mw-options",
+        "#mw-visit",
+        "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+        "https://us.fullscript.com/s/matrix_massage_wellness/shop",
+        "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+        "https://www.matrixmassage.net/",
+        "https://www.matrixmassage.net/about-5",
+        "https://www.matrixmassage.net/book-appointments-salem-wi",
+        "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+        "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+        "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+        "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+        "https://www.matrixmassage.net/red-light-therapy-glow-score",
+        "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+        "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+        "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+        "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+        "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+        "https://www.matrixmassage.net/supplements"
+      ],
+      "crawlerContactActionsWithoutHref": [
+        {
+          "text": "Text us about your visit",
+          "attributes": {
+            "class": "mw-text-link",
+            "href": null
+          }
+        },
+        {
+          "text": "Text 262-939-9325",
+          "attributes": {
+            "class": "mw-text-link",
+            "href": null
+          }
+        },
+        {
+          "text": "Text Matrix",
+          "attributes": {
+            "class": "mw-button mw-button-outline",
+            "href": null
+          }
+        }
+      ],
+      "runtimePinPresentInRawResponse": false
+    },
+    {
+      "target": "hfzq0",
+      "userAgentProfile": "oai-searchbot",
+      "url": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "checks": {
+        "http200": true,
+        "permanentUrlUnchanged": true,
+        "expectedSiteRevision": true,
+        "allProtectedHeadMatches": true,
+        "noNoindex": true,
+        "structuredDataParses": true,
+        "allExpectedSchemaExact": true,
+        "oneFAQPage": true,
+        "faqExactVisibleSourceMatch": true,
+        "expectedFAQCount": true,
+        "fullBodySeoMarkupExact": true,
+        "publishedWebLinksMatchReviewedBody": true,
+        "correctSquareBookingLinkPresent": true,
+        "noMassageBookLink": true,
+        "semanticBodyDeliveredToCrawlerUA": true,
+        "oneSemanticBodyH1": true,
+        "semanticFAQCount": true
+      },
+      "allPassed": true,
+      "failures": [],
+      "protectedHeadChecks": {
+        "title": true,
+        "description": true,
+        "canonical": true,
+        "og:title": true,
+        "og:description": true,
+        "og:image": true,
+        "og:image:width": true,
+        "og:image:height": true,
+        "og:url": true,
+        "og:site_name": true,
+        "og:type": true,
+        "google-site-verification": true,
+        "twitter:card": true,
+        "twitter:title": true,
+        "twitter:description": true,
+        "twitter:image": true
+      },
+      "protectedHeadDifferences": [],
+      "revisionEvidence": [
+        {
+          "path": "wix-essential-viewer-model.commonConfig.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-fedops.data.site.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-viewer-model.site.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-viewer-model.commonConfig.siteRevision",
+          "revision": "1131"
+        }
+      ],
+      "schemaTypes": [
+        "BreadcrumbList",
+        "HealthAndBeautyBusiness",
+        "OfferCatalog",
+        "CollectionPage",
+        "FAQPage"
+      ],
+      "expectedSchemaCount": 5,
+      "observedSchemaCount": 5,
+      "observedFaqCount": 7,
+      "seoMarkup": [
+        {
+          "path": "wix-warmup-data.platform.ssrPropsUpdates[0].comp-mwe2v0h5.seoMarkup",
+          "bytes": 12503,
+          "sha256": "44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820",
+          "root": "<article class=\"matrix-wellness\">\n  <header class=\"mw-hero\">\n    <div class=\"mw-"
+        }
+      ],
+      "expectedBodySha256": "44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820",
+      "semanticBodyPresent": true,
+      "semanticBodyTextMatches": true,
+      "publishedLinks": [
+        "#mw-choose",
+        "#mw-faq",
+        "#mw-options",
+        "#mw-visit",
+        "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+        "https://us.fullscript.com/s/matrix_massage_wellness/shop",
+        "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+        "https://www.matrixmassage.net/",
+        "https://www.matrixmassage.net/about-5",
+        "https://www.matrixmassage.net/book-appointments-salem-wi",
+        "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+        "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+        "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+        "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+        "https://www.matrixmassage.net/red-light-therapy-glow-score",
+        "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+        "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+        "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+        "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+        "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+        "https://www.matrixmassage.net/supplements"
+      ],
+      "crawlerContactActionsWithoutHref": [
+        {
+          "text": "Text us about your visit",
+          "attributes": {
+            "class": "mw-text-link",
+            "href": null
+          }
+        },
+        {
+          "text": "Text 262-939-9325",
+          "attributes": {
+            "class": "mw-text-link",
+            "href": null
+          }
+        },
+        {
+          "text": "Text Matrix",
+          "attributes": {
+            "class": "mw-button mw-button-outline",
+            "href": null
+          }
+        }
+      ],
+      "runtimePinPresentInRawResponse": false
+    },
+    {
+      "target": "nf4iw",
+      "userAgentProfile": "browser",
+      "url": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "checks": {
+        "http200": true,
+        "permanentUrlUnchanged": true,
+        "expectedSiteRevision": true,
+        "allProtectedHeadMatches": true,
+        "noNoindex": true,
+        "structuredDataParses": true,
+        "allExpectedSchemaExact": true,
+        "oneFAQPage": true,
+        "faqExactVisibleSourceMatch": true,
+        "expectedFAQCount": true,
+        "fullBodySeoMarkupExact": true,
+        "publishedWebLinksMatchReviewedBody": true,
+        "correctSquareBookingLinkPresent": true,
+        "noMassageBookLink": true
+      },
+      "allPassed": true,
+      "failures": [],
+      "protectedHeadChecks": {
+        "title": true,
+        "description": true,
+        "canonical": true,
+        "og:title": true,
+        "og:description": true,
+        "og:image": true,
+        "og:image:width": true,
+        "og:image:height": true,
+        "og:url": true,
+        "og:site_name": true,
+        "og:type": true,
+        "google-site-verification": true,
+        "twitter:card": true,
+        "twitter:title": true,
+        "twitter:description": true,
+        "twitter:image": true
+      },
+      "protectedHeadDifferences": [],
+      "revisionEvidence": [
+        {
+          "path": "wix-essential-viewer-model.commonConfig.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-fedops.data.site.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-viewer-model.site.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-viewer-model.commonConfig.siteRevision",
+          "revision": "1131"
+        }
+      ],
+      "schemaTypes": [
+        "Service",
+        "BreadcrumbList",
+        "WebPage",
+        "FAQPage"
+      ],
+      "expectedSchemaCount": 4,
+      "observedSchemaCount": 4,
+      "observedFaqCount": 8,
+      "seoMarkup": [
+        {
+          "path": "wix-warmup-data.platform.ssrPropsUpdates[0].comp-muu96xx4.seoMarkup",
+          "bytes": 11861,
+          "sha256": "a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e",
+          "root": "<div class=\"matrix-sauna\">\n  <nav class=\"ms-breadcrumb\" aria-label=\"Breadcrumb\">"
+        }
+      ],
+      "expectedBodySha256": "a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e",
+      "semanticBodyPresent": false,
+      "semanticBodyTextMatches": false,
+      "publishedLinks": [
+        "#ms-experience",
+        "#ms-faq",
+        "#ms-options",
+        "#ms-visit",
+        "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+        "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+        "https://www.matrixmassage.net/",
+        "https://www.matrixmassage.net/about-5",
+        "https://www.matrixmassage.net/book-appointments-salem-wi",
+        "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+        "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi",
+        "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+        "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+        "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+        "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+        "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+        "sms:+12629399325"
+      ],
+      "crawlerContactActionsWithoutHref": [],
+      "runtimePinPresentInRawResponse": false
+    },
+    {
+      "target": "nf4iw",
+      "userAgentProfile": "googlebot",
+      "url": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "checks": {
+        "http200": true,
+        "permanentUrlUnchanged": true,
+        "expectedSiteRevision": true,
+        "allProtectedHeadMatches": true,
+        "noNoindex": true,
+        "structuredDataParses": true,
+        "allExpectedSchemaExact": true,
+        "oneFAQPage": true,
+        "faqExactVisibleSourceMatch": true,
+        "expectedFAQCount": true,
+        "fullBodySeoMarkupExact": true,
+        "publishedWebLinksMatchReviewedBody": true,
+        "correctSquareBookingLinkPresent": true,
+        "noMassageBookLink": true,
+        "semanticBodyDeliveredToCrawlerUA": true,
+        "oneSemanticBodyH1": true,
+        "semanticFAQCount": true
+      },
+      "allPassed": true,
+      "failures": [],
+      "protectedHeadChecks": {
+        "title": true,
+        "description": true,
+        "canonical": true,
+        "og:title": true,
+        "og:description": true,
+        "og:image": true,
+        "og:image:width": true,
+        "og:image:height": true,
+        "og:url": true,
+        "og:site_name": true,
+        "og:type": true,
+        "google-site-verification": true,
+        "twitter:card": true,
+        "twitter:title": true,
+        "twitter:description": true,
+        "twitter:image": true
+      },
+      "protectedHeadDifferences": [],
+      "revisionEvidence": [
+        {
+          "path": "wix-essential-viewer-model.commonConfig.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-fedops.data.site.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-viewer-model.site.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-viewer-model.commonConfig.siteRevision",
+          "revision": "1131"
+        }
+      ],
+      "schemaTypes": [
+        "Service",
+        "BreadcrumbList",
+        "WebPage",
+        "FAQPage"
+      ],
+      "expectedSchemaCount": 4,
+      "observedSchemaCount": 4,
+      "observedFaqCount": 8,
+      "seoMarkup": [
+        {
+          "path": "wix-warmup-data.platform.ssrPropsUpdates[0].comp-muu96xx4.seoMarkup",
+          "bytes": 11861,
+          "sha256": "a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e",
+          "root": "<div class=\"matrix-sauna\">\n  <nav class=\"ms-breadcrumb\" aria-label=\"Breadcrumb\">"
+        }
+      ],
+      "expectedBodySha256": "a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e",
+      "semanticBodyPresent": true,
+      "semanticBodyTextMatches": true,
+      "publishedLinks": [
+        "#ms-experience",
+        "#ms-faq",
+        "#ms-options",
+        "#ms-visit",
+        "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+        "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+        "https://www.matrixmassage.net/",
+        "https://www.matrixmassage.net/about-5",
+        "https://www.matrixmassage.net/book-appointments-salem-wi",
+        "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+        "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi",
+        "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+        "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+        "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+        "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+        "https://www.matrixmassage.net/wellness-biotech-services-salem-wi"
+      ],
+      "crawlerContactActionsWithoutHref": [
+        {
+          "text": "Text Matrix",
+          "attributes": {
+            "href": null
+          }
+        },
+        {
+          "text": "Text 262-939-9325",
+          "attributes": {
+            "class": "ms-contact",
+            "href": null
+          }
+        },
+        {
+          "text": "Send us a text.",
+          "attributes": {
+            "href": null
+          }
+        },
+        {
+          "text": "TEXT TO PLAN YOUR VISIT",
+          "attributes": {
+            "class": "ms-button ms-outline",
+            "href": null
+          }
+        }
+      ],
+      "runtimePinPresentInRawResponse": false
+    },
+    {
+      "target": "nf4iw",
+      "userAgentProfile": "oai-searchbot",
+      "url": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "checks": {
+        "http200": true,
+        "permanentUrlUnchanged": true,
+        "expectedSiteRevision": true,
+        "allProtectedHeadMatches": true,
+        "noNoindex": true,
+        "structuredDataParses": true,
+        "allExpectedSchemaExact": true,
+        "oneFAQPage": true,
+        "faqExactVisibleSourceMatch": true,
+        "expectedFAQCount": true,
+        "fullBodySeoMarkupExact": true,
+        "publishedWebLinksMatchReviewedBody": true,
+        "correctSquareBookingLinkPresent": true,
+        "noMassageBookLink": true,
+        "semanticBodyDeliveredToCrawlerUA": true,
+        "oneSemanticBodyH1": true,
+        "semanticFAQCount": true
+      },
+      "allPassed": true,
+      "failures": [],
+      "protectedHeadChecks": {
+        "title": true,
+        "description": true,
+        "canonical": true,
+        "og:title": true,
+        "og:description": true,
+        "og:image": true,
+        "og:image:width": true,
+        "og:image:height": true,
+        "og:url": true,
+        "og:site_name": true,
+        "og:type": true,
+        "google-site-verification": true,
+        "twitter:card": true,
+        "twitter:title": true,
+        "twitter:description": true,
+        "twitter:image": true
+      },
+      "protectedHeadDifferences": [],
+      "revisionEvidence": [
+        {
+          "path": "wix-essential-viewer-model.commonConfig.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-fedops.data.site.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-viewer-model.site.siteRevision",
+          "revision": "1131"
+        },
+        {
+          "path": "wix-viewer-model.commonConfig.siteRevision",
+          "revision": "1131"
+        }
+      ],
+      "schemaTypes": [
+        "Service",
+        "BreadcrumbList",
+        "WebPage",
+        "FAQPage"
+      ],
+      "expectedSchemaCount": 4,
+      "observedSchemaCount": 4,
+      "observedFaqCount": 8,
+      "seoMarkup": [
+        {
+          "path": "wix-warmup-data.platform.ssrPropsUpdates[0].comp-muu96xx4.seoMarkup",
+          "bytes": 11861,
+          "sha256": "a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e",
+          "root": "<div class=\"matrix-sauna\">\n  <nav class=\"ms-breadcrumb\" aria-label=\"Breadcrumb\">"
+        }
+      ],
+      "expectedBodySha256": "a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e",
+      "semanticBodyPresent": true,
+      "semanticBodyTextMatches": true,
+      "publishedLinks": [
+        "#ms-experience",
+        "#ms-faq",
+        "#ms-options",
+        "#ms-visit",
+        "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+        "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+        "https://www.matrixmassage.net/",
+        "https://www.matrixmassage.net/about-5",
+        "https://www.matrixmassage.net/book-appointments-salem-wi",
+        "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+        "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi",
+        "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+        "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+        "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+        "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+        "https://www.matrixmassage.net/wellness-biotech-services-salem-wi"
+      ],
+      "crawlerContactActionsWithoutHref": [
+        {
+          "text": "Text Matrix",
+          "attributes": {
+            "href": null
+          }
+        },
+        {
+          "text": "Text 262-939-9325",
+          "attributes": {
+            "class": "ms-contact",
+            "href": null
+          }
+        },
+        {
+          "text": "Send us a text.",
+          "attributes": {
+            "href": null
+          }
+        },
+        {
+          "text": "TEXT TO PLAN YOUR VISIT",
+          "attributes": {
+            "class": "ms-button ms-outline",
+            "href": null
+          }
+        }
+      ],
+      "runtimePinPresentInRawResponse": false
+    }
+  ],
+  "homeGuard": {
+    "checks": {
+      "homeSeoMarkupUnchanged": true,
+      "homeStartupAndStyleBlocksUnchanged": true,
+      "homeTitleCanonicalUnchanged": true,
+      "homeProtectedMetadataUnchanged": true,
+      "homeSchemaUnchanged": true
+    },
+    "before": {
+      "seoMarkup": [
+        {
+          "path": "wix-warmup-data.platform.ssrPropsUpdates[0].comp-mw5v2dtc.seoMarkup",
+          "sha256": "abb3069b9579dee11365400bde9ed17f332108880435c26d097e0bd12d519c63",
+          "bytes": 23327
+        }
+      ],
+      "inlineBlocks": [
+        {
+          "kind": "style",
+          "key": "matrix-home-critical-styles",
+          "sha256": "ee7f73e3a03d174789ebefac1c0ff8c3a8f2479abd79a028557d7da550ce4f76"
+        },
+        {
+          "kind": "style",
+          "key": "matrix-home-footer-access",
+          "sha256": "0d59b832aff09e9ea5e8ae098278268c160f6b21af8eecc85e3295c9d0bc233c"
+        },
+        {
+          "kind": "script",
+          "key": "startup-part-0",
+          "sha256": "20c7cd8f5098a8668ac75ac1ad3ba313dfba801b46d01528ea86ab3271c657c4"
+        },
+        {
+          "kind": "script",
+          "key": "startup-part-1",
+          "sha256": "ba8c6037c561af1f842fea479b9b0a746f4e6a9f6b051acf18b817027625c47f"
+        }
+      ],
+      "title": "Japanese Head Spa, Facials & Massage in Salem, WI | Matrix",
+      "meta": {
+        "viewport": [
+          "width=device-width, initial-scale=1"
+        ],
+        "generator": [
+          "Wix.com Website Builder"
+        ],
+        "format-detection": [
+          "telephone=no"
+        ],
+        "skype_toolbar": [
+          "skype_toolbar_parser_compatible"
+        ],
+        "description": [
+          "Clinical luxury spa in Salem, WI: Japanese Head Spa with in-house scalp infusions, custom facials, red light, infrared sauna, lymphatic drainage and massage."
+        ],
+        "og:title": [
+          "Japanese Head Spa, Facials & Massage in Salem, WI | Matrix"
+        ],
+        "og:description": [
+          "Clinical luxury spa in Salem, WI: Japanese Head Spa with in-house scalp infusions, custom facials, red light, infrared sauna, lymphatic drainage and massage."
+        ],
+        "og:image": [
+          "https://static.wixstatic.com/media/e4cc43_9104433612e44402b1d300fc7f8cf84a~mv2.png/v1/fill/w_500,h_500,al_c/e4cc43_9104433612e44402b1d300fc7f8cf84a~mv2.png"
+        ],
+        "og:image:width": [
+          "500"
+        ],
+        "og:image:height": [
+          "500"
+        ],
+        "og:url": [
+          "https://www.matrixmassage.net"
+        ],
+        "og:site_name": [
+          "Matrix Massage & Bodywork"
+        ],
+        "og:type": [
+          "website"
+        ],
+        "google-site-verification": [
+          "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+        ],
+        "twitter:card": [
+          "summary_large_image"
+        ],
+        "twitter:title": [
+          "Japanese Head Spa, Facials & Massage in Salem, WI | Matrix"
+        ],
+        "twitter:description": [
+          "Clinical luxury spa in Salem, WI: Japanese Head Spa with in-house scalp infusions, custom facials, red light, infrared sauna, lymphatic drainage and massage."
+        ],
+        "twitter:image": [
+          "https://static.wixstatic.com/media/e4cc43_9104433612e44402b1d300fc7f8cf84a~mv2.png/v1/fill/w_500,h_500,al_c/e4cc43_9104433612e44402b1d300fc7f8cf84a~mv2.png"
+        ]
+      },
+      "canonical": [
+        "https://www.matrixmassage.net/"
+      ],
+      "schemaJson": [
+        "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix offers Japanese Head Spa, custom facials, red light therapy, infrared sauna, manual lymphatic drainage, Swedish, deep tissue and prenatal massage, cupping, waxing and dermaplaning in our Salem, WI studio.\"},\"name\":\"What services does Matrix Massage & Bodywork offer?\"},{\"@type\":\"Question\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It is our clinical luxury approach: every visit feels indulgent and relaxing, and every service is chosen with intention for how you want to look and feel, from scalp and skin to recovery and stress relief.\"},\"name\":\"What is a spa day with purpose?\"},{\"@type\":\"Question\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Our Japanese Head Spa rituals feature Matrix Precision Scalp Infusions™ that we craft in house, plus complimentary Zen Lounge time. Rituals start at $95.\"},\"name\":\"Do you offer Japanese Head Spa near me?\"},{\"@type\":\"Question\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. New guests can enjoy a 45-minute custom facial for $79, regularly $95.\"},\"name\":\"Do you have a new client facial offer?\"},{\"@type\":\"Question\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Book online anytime through our Square booking page or text (262) 939-9325. We are happy to help you choose the right service.\"},\"name\":\"How do I book an appointment?\"},{\"@type\":\"Question\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Your appointment time is reserved just for you, so we ask for at least 24 hours' notice to cancel or reschedule. Cancellations made within 24 hours of your appointment, for any reason, and no-shows are charged the full price of the service plus an automatic 20% gratuity.\"},\"name\":\"What is your cancellation policy?\"},{\"@type\":\"Question\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. To secure your appointment, complete our intake form and credit card authorization form when you book. If you have a Matrix gift card on file instead, its remaining balance is applied toward any late-cancellation fee.\"},\"name\":\"Do I need a card on file to book?\"},{\"@type\":\"Question\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Our Salem studio at 24804 75th St welcomes guests from Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Silver Lake, Kansasville, Union Grove, Burlington, Pleasant Prairie, Kenosha and Antioch, IL.\"},\"name\":\"What areas do you serve?\"}]}",
+        "{\"@context\":\"https://schema.org/\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"US\",\"addressLocality\":\"Salem Lakes\",\"addressRegion\":\"WI\",\"postalCode\":\"53168-8808\",\"streetAddress\":\"24804 75th Street\"},\"image\":\"https://static.wixstatic.com/media/e4cc43_cf635e615e9f48d0b0240c45c73be2a9~mv2.png\",\"name\":\"Matrix Massage & Bodywork, LLC\",\"telephone\":\"(262) 939-9325\",\"url\":\"https://www.matrixmassage.net\"}",
+        "{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\"}"
+      ],
+      "schemaParseErrors": []
+    },
+    "after": {
+      "seoMarkup": [
+        {
+          "path": "wix-warmup-data.platform.ssrPropsUpdates[0].comp-mw5v2dtc.seoMarkup",
+          "sha256": "abb3069b9579dee11365400bde9ed17f332108880435c26d097e0bd12d519c63",
+          "bytes": 23327
+        }
+      ],
+      "inlineBlocks": [
+        {
+          "kind": "style",
+          "key": "matrix-home-critical-styles",
+          "sha256": "ee7f73e3a03d174789ebefac1c0ff8c3a8f2479abd79a028557d7da550ce4f76"
+        },
+        {
+          "kind": "style",
+          "key": "matrix-home-footer-access",
+          "sha256": "0d59b832aff09e9ea5e8ae098278268c160f6b21af8eecc85e3295c9d0bc233c"
+        },
+        {
+          "kind": "script",
+          "key": "startup-part-0",
+          "sha256": "20c7cd8f5098a8668ac75ac1ad3ba313dfba801b46d01528ea86ab3271c657c4"
+        },
+        {
+          "kind": "script",
+          "key": "startup-part-1",
+          "sha256": "ba8c6037c561af1f842fea479b9b0a746f4e6a9f6b051acf18b817027625c47f"
+        }
+      ],
+      "title": "Japanese Head Spa, Facials & Massage in Salem, WI | Matrix",
+      "meta": {
+        "viewport": [
+          "width=device-width, initial-scale=1"
+        ],
+        "generator": [
+          "Wix.com Website Builder"
+        ],
+        "format-detection": [
+          "telephone=no"
+        ],
+        "skype_toolbar": [
+          "skype_toolbar_parser_compatible"
+        ],
+        "description": [
+          "Clinical luxury spa in Salem, WI: Japanese Head Spa with in-house scalp infusions, custom facials, red light, infrared sauna, lymphatic drainage and massage."
+        ],
+        "og:title": [
+          "Japanese Head Spa, Facials & Massage in Salem, WI | Matrix"
+        ],
+        "og:description": [
+          "Clinical luxury spa in Salem, WI: Japanese Head Spa with in-house scalp infusions, custom facials, red light, infrared sauna, lymphatic drainage and massage."
+        ],
+        "og:image": [
+          "https://static.wixstatic.com/media/e4cc43_9104433612e44402b1d300fc7f8cf84a~mv2.png/v1/fill/w_500,h_500,al_c/e4cc43_9104433612e44402b1d300fc7f8cf84a~mv2.png"
+        ],
+        "og:image:width": [
+          "500"
+        ],
+        "og:image:height": [
+          "500"
+        ],
+        "og:url": [
+          "https://www.matrixmassage.net"
+        ],
+        "og:site_name": [
+          "Matrix Massage & Bodywork"
+        ],
+        "og:type": [
+          "website"
+        ],
+        "google-site-verification": [
+          "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+        ],
+        "twitter:card": [
+          "summary_large_image"
+        ],
+        "twitter:title": [
+          "Japanese Head Spa, Facials & Massage in Salem, WI | Matrix"
+        ],
+        "twitter:description": [
+          "Clinical luxury spa in Salem, WI: Japanese Head Spa with in-house scalp infusions, custom facials, red light, infrared sauna, lymphatic drainage and massage."
+        ],
+        "twitter:image": [
+          "https://static.wixstatic.com/media/e4cc43_9104433612e44402b1d300fc7f8cf84a~mv2.png/v1/fill/w_500,h_500,al_c/e4cc43_9104433612e44402b1d300fc7f8cf84a~mv2.png"
+        ]
+      },
+      "canonical": [
+        "https://www.matrixmassage.net/"
+      ],
+      "schemaJson": [
+        "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix offers Japanese Head Spa, custom facials, red light therapy, infrared sauna, manual lymphatic drainage, Swedish, deep tissue and prenatal massage, cupping, waxing and dermaplaning in our Salem, WI studio.\"},\"name\":\"What services does Matrix Massage & Bodywork offer?\"},{\"@type\":\"Question\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"It is our clinical luxury approach: every visit feels indulgent and relaxing, and every service is chosen with intention for how you want to look and feel, from scalp and skin to recovery and stress relief.\"},\"name\":\"What is a spa day with purpose?\"},{\"@type\":\"Question\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. Our Japanese Head Spa rituals feature Matrix Precision Scalp Infusions™ that we craft in house, plus complimentary Zen Lounge time. Rituals start at $95.\"},\"name\":\"Do you offer Japanese Head Spa near me?\"},{\"@type\":\"Question\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. New guests can enjoy a 45-minute custom facial for $79, regularly $95.\"},\"name\":\"Do you have a new client facial offer?\"},{\"@type\":\"Question\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Book online anytime through our Square booking page or text (262) 939-9325. We are happy to help you choose the right service.\"},\"name\":\"How do I book an appointment?\"},{\"@type\":\"Question\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Your appointment time is reserved just for you, so we ask for at least 24 hours' notice to cancel or reschedule. Cancellations made within 24 hours of your appointment, for any reason, and no-shows are charged the full price of the service plus an automatic 20% gratuity.\"},\"name\":\"What is your cancellation policy?\"},{\"@type\":\"Question\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes. To secure your appointment, complete our intake form and credit card authorization form when you book. If you have a Matrix gift card on file instead, its remaining balance is applied toward any late-cancellation fee.\"},\"name\":\"Do I need a card on file to book?\"},{\"@type\":\"Question\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Our Salem studio at 24804 75th St welcomes guests from Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Silver Lake, Kansasville, Union Grove, Burlington, Pleasant Prairie, Kenosha and Antioch, IL.\"},\"name\":\"What areas do you serve?\"}]}",
+        "{\"@context\":\"https://schema.org/\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"US\",\"addressLocality\":\"Salem Lakes\",\"addressRegion\":\"WI\",\"postalCode\":\"53168-8808\",\"streetAddress\":\"24804 75th Street\"},\"image\":\"https://static.wixstatic.com/media/e4cc43_cf635e615e9f48d0b0240c45c73be2a9~mv2.png\",\"name\":\"Matrix Massage & Bodywork, LLC\",\"telephone\":\"(262) 939-9325\",\"url\":\"https://www.matrixmassage.net\"}",
+        "{\"@context\":\"https://schema.org/\",\"@type\":\"WebSite\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\"}"
+      ],
+      "schemaParseErrors": []
+    }
+  },
+  "robots": [
+    {
+      "page": "wellness",
+      "agent": "Googlebot",
+      "allowed": true
+    },
+    {
+      "page": "wellness",
+      "agent": "Bingbot",
+      "allowed": true
+    },
+    {
+      "page": "wellness",
+      "agent": "OAI-SearchBot",
+      "allowed": true
+    },
+    {
+      "page": "wellness",
+      "agent": "ChatGPT-User",
+      "allowed": true
+    },
+    {
+      "page": "sauna",
+      "agent": "Googlebot",
+      "allowed": true
+    },
+    {
+      "page": "sauna",
+      "agent": "Bingbot",
+      "allowed": true
+    },
+    {
+      "page": "sauna",
+      "agent": "OAI-SearchBot",
+      "allowed": true
+    },
+    {
+      "page": "sauna",
+      "agent": "ChatGPT-User",
+      "allowed": true
+    }
+  ],
+  "sitemap": {
+    "wellness": true,
+    "sauna": true
+  },
+  "destinationChecks": [
+    {
+      "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+      "finalUrl": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:08.845225+00:00",
+      "capturedAt": "2026-11-13T04:27:12.384606+00:00",
+      "bytes": 222117,
+      "sha256": "02caccec5ee0c8865c918db2e805af54198047fc64417a896c5cc38f12c823bb"
+    },
+    {
+      "url": "https://www.matrixmassage.net/",
+      "finalUrl": "https://www.matrixmassage.net/",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:08.845762+00:00",
+      "capturedAt": "2026-11-13T04:27:10.838155+00:00",
+      "bytes": 971364,
+      "sha256": "8ae7b890f2def4f2ffa9eb4e4a51f742ab6d6f33548a9fd6f7244f9af022a3a1"
+    },
+    {
+      "url": "https://www.matrixmassage.net/about-5",
+      "finalUrl": "https://www.matrixmassage.net/about-5",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:08.846169+00:00",
+      "capturedAt": "2026-11-13T04:27:12.295820+00:00",
+      "bytes": 836067,
+      "sha256": "6049af50c5406271763b833b030f2f3614570a03f52104d6bf9ad474b406b7df"
+    },
+    {
+      "url": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/book-appointments-salem-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:08.846607+00:00",
+      "capturedAt": "2026-11-13T04:27:12.457913+00:00",
+      "bytes": 849414,
+      "sha256": "64c9746cabf357287909a7d3e0978d879948c900d012a37508334fa5f5d225bb"
+    },
+    {
+      "url": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:10.838845+00:00",
+      "capturedAt": "2026-11-13T04:27:12.718251+00:00",
+      "bytes": 850984,
+      "sha256": "2908c19dea4bcc6427cf7dc00a1e4b3383e19c8702f9294534a8dc84569e15e0"
+    },
+    {
+      "url": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:12.296417+00:00",
+      "capturedAt": "2026-11-13T04:27:14.073408+00:00",
+      "bytes": 838103,
+      "sha256": "95786afcc99862fd4017d5761df8ed68a5d742cf1b5370ec20c09659d8077902"
+    },
+    {
+      "url": "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi",
+      "finalUrl": "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:12.384905+00:00",
+      "capturedAt": "2026-11-13T04:27:14.297986+00:00",
+      "bytes": 828891,
+      "sha256": "ac9b8ba83227885e645354e49f808c825c57ea7cd9d1ea7f13a9063bb815ea4a"
+    },
+    {
+      "url": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:12.458534+00:00",
+      "capturedAt": "2026-11-13T04:27:14.173414+00:00",
+      "bytes": 836198,
+      "sha256": "c99293034486dda5bd36e14ae36502bc611096cfdb3122e729d870eb582a10b1"
+    },
+    {
+      "url": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:12.719113+00:00",
+      "capturedAt": "2026-11-13T04:27:16.945474+00:00",
+      "bytes": 890832,
+      "sha256": "e5906b8ea9cf520390e43289113d5ae9dec9baa9c8ba23bd1a069b033717fa25"
+    },
+    {
+      "url": "https://www.matrixmassage.net/red-light-therapy-glow-score",
+      "finalUrl": "https://www.matrixmassage.net/red-light-therapy-glow-score",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:14.074095+00:00",
+      "capturedAt": "2026-11-13T04:27:16.897075+00:00",
+      "bytes": 839458,
+      "sha256": "9631df95c9b1a550c8f1f7b6dc80c291d9b4496d121fbece0ad021041a32ce26"
+    },
+    {
+      "url": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:14.174010+00:00",
+      "capturedAt": "2026-11-13T04:27:16.838678+00:00",
+      "bytes": 899337,
+      "sha256": "cc7ee54b0ea1df174bb98f2f6a06793f6a91edeacc815fde27cffca0f9b92a43"
+    },
+    {
+      "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:14.298584+00:00",
+      "capturedAt": "2026-11-13T04:27:16.786934+00:00",
+      "bytes": 871602,
+      "sha256": "d7c57545a7b7be684dd9c5d90aa98c93b7c96cbf0c3ec60249fcf17620bf9d56"
+    },
+    {
+      "url": "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+      "finalUrl": "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:16.788111+00:00",
+      "capturedAt": "2026-11-13T04:27:20.893642+00:00",
+      "bytes": 840815,
+      "sha256": "4d963a45bef038396449c269ca63e5a5df23d682f0d3357628b0881bc085b908"
+    },
+    {
+      "url": "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+      "finalUrl": "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:16.840472+00:00",
+      "capturedAt": "2026-11-13T04:27:20.761302+00:00",
+      "bytes": 928850,
+      "sha256": "dd0d111304ed0e66cc3d3b0e11e61d846105ab3ac46f8367c196983029cf8e76"
+    },
+    {
+      "url": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+      "finalUrl": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:16.897687+00:00",
+      "capturedAt": "2026-11-13T04:27:20.769233+00:00",
+      "bytes": 841104,
+      "sha256": "a7e840e37ab7b01c45f8052c2af5de724d4fa348cbab972e9c56d0ddbe12ead2"
+    },
+    {
+      "url": "https://www.matrixmassage.net/supplements",
+      "finalUrl": "https://www.matrixmassage.net/supplements",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:16.946212+00:00",
+      "capturedAt": "2026-11-13T04:27:20.665423+00:00",
+      "bytes": 956058,
+      "sha256": "1637dd65553ce15eaf3554eca63694a73b0f28512fd0a616fd684dc7bef26683"
+    },
+    {
+      "url": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:20.666062+00:00",
+      "capturedAt": "2026-11-13T04:27:23.274331+00:00",
+      "bytes": 897081,
+      "sha256": "866cbe95c03e807908498b7ead702c49bbe4fc5a099b1dad819944322646db7a"
+    }
+  ],
+  "rendererChecks": [
+    {
+      "pageId": "hfzq0",
+      "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@eaac30097ff251d67dbb1507a9449feb5618e409/pages/wellness/main/review-2/renderer.js",
+      "status": 200,
+      "sha256": "d8ab1c6327ed0d69eb58f7c0fd4a7f1a1cca815268764751dca46869a56cbeb8",
+      "matchesReviewedRenderer": true
+    },
+    {
+      "pageId": "nf4iw",
+      "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@eaac30097ff251d67dbb1507a9449feb5618e409/pages/wellness/infrared-sauna/review-2/renderer.js",
+      "status": 200,
+      "sha256": "9c8186c457fecc789da59b898518abc20191216c59b7ed64581162ac839943ca",
+      "matchesReviewedRenderer": true
+    }
+  ],
+  "transport": [
+    {
+      "key": "wellness",
+      "agent": "browser",
+      "url": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:00.759797+00:00",
+      "capturedAt": "2026-11-13T04:27:03.570469+00:00",
+      "bytes": 897081,
+      "sha256": "866cbe95c03e807908498b7ead702c49bbe4fc5a099b1dad819944322646db7a",
+      "headers": {
+        "date": "Fri, 13 Nov 2026 04:27:03 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "cf-ray": "a59b0592ab8427ec-LAX",
+        "cf-cache-status": "DYNAMIC",
+        "age": "85",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "content-language": "en-US",
+        "etag": "W/\"ed395ce9b8dc97e4d9840559c9c5fa4e\"",
+        "link": "<https://static.parastorage.com/>; rel=preconnect; crossorigin, <https://static.parastorage.com/>; rel=preconnect, <https://static.wixstatic.com/>; rel=preconnect; crossorigin, <https://static.wixstatic.com/>; rel=preconnect, <https://siteassets.parastorage.com>; rel=preconnect; crossorigin",
+        "server": "envoy",
+        "x-served-by": "LAX",
+        "strict-transport-security": "max-age=31556952",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-wix-request-id": "1794544023.494937477331498",
+        "server-timing": "cache;desc=hit, varnish;desc=hit_miss, dc;desc=cloudflare_sea1_cf",
+        "x-seen-by": "bQAXdg/f3pWGCb3VI6q72A==,bQAXdg/f3pWGCb3VI6q72A==,ui2Pjuc3zC1HEw7V2qXeyh9slopJdhD+WySraMrpIY8=,ui2Pjuc3zC1HEw7V2qXeyh9slopJdhD+WySraMrpIY8=,Ua1iSBCTq7qSXjmRCGE1N2l69DsMyTrCa+R+REAKjlT0PlflnPQDvkRyoFPR68DLiEjJ19gJ6UUN+Su9S15jeD7f29WZ1WDKju7buomJ1Qk=,2d58ifebGbosy5xc+FRaltA/PIDgqqsm8lQg+VZ4xMINq6fyDBwhGrj12d8CD+OIU4t18k5eBa6iHq/Q5KOe6A==,2UNV7KOq4oGjA5+PKsX47EzpsDHuH75rNqOhkG1qhKU=",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-envoy-upstream-service-time": "75",
+        "connection": "close",
+        "transfer-encoding": "chunked"
+      }
+    },
+    {
+      "key": "wellness",
+      "agent": "googlebot",
+      "url": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:00.760547+00:00",
+      "capturedAt": "2026-11-13T04:27:03.558294+00:00",
+      "bytes": 679700,
+      "sha256": "28ee70cce1e24b31e3894f88e4cbd72107e6b951a4e23847a8a4fbc0ccf5006e",
+      "headers": {
+        "date": "Fri, 13 Nov 2026 04:27:03 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "cf-ray": "a59b0592af416150-LAX",
+        "cf-cache-status": "HIT",
+        "age": "68",
+        "cache-control": "public,max-age=0,must-revalidate",
+        "x-seen-by": "bQAXdg/f3pWGCb3VI6q72A==,",
+        "content-language": "en",
+        "etag": "W/\"b676d15a8ba73455785bf80d98507687\"",
+        "link": "<https://static.parastorage.com/>; rel=preconnect; crossorigin, <https://static.parastorage.com/>; rel=preconnect, <https://static.wixstatic.com/>; rel=preconnect; crossorigin, <https://static.wixstatic.com/>; rel=preconnect, <https://siteassets.parastorage.com>; rel=preconnect; crossorigin",
+        "server": "envoy",
+        "x-wix-request-id": "1794544023.473568176653581023",
+        "strict-transport-security": "max-age=31556952",
+        "vary": "Accept-Encoding",
+        "server-timing": "cache;desc=miss, varnish;desc=miss_hit, dc;desc=cloudflare",
+        "x-content-type-options": "nosniff",
+        "x-served-by": "LAX",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-envoy-upstream-service-time": "35",
+        "connection": "close",
+        "transfer-encoding": "chunked"
+      }
+    },
+    {
+      "key": "wellness",
+      "agent": "oai-searchbot",
+      "url": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:00.761029+00:00",
+      "capturedAt": "2026-11-13T04:27:03.566598+00:00",
+      "bytes": 679700,
+      "sha256": "28ee70cce1e24b31e3894f88e4cbd72107e6b951a4e23847a8a4fbc0ccf5006e",
+      "headers": {
+        "date": "Fri, 13 Nov 2026 04:27:03 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "cf-ray": "a59b0592ab8527ec-LAX",
+        "cf-cache-status": "HIT",
+        "age": "68",
+        "cache-control": "public,max-age=0,must-revalidate",
+        "x-seen-by": "bQAXdg/f3pWGCb3VI6q72A==,",
+        "content-language": "en",
+        "etag": "W/\"b676d15a8ba73455785bf80d98507687\"",
+        "link": "<https://static.parastorage.com/>; rel=preconnect; crossorigin, <https://static.parastorage.com/>; rel=preconnect, <https://static.wixstatic.com/>; rel=preconnect; crossorigin, <https://static.wixstatic.com/>; rel=preconnect, <https://siteassets.parastorage.com>; rel=preconnect; crossorigin",
+        "server": "envoy",
+        "x-wix-request-id": "1794544023.472055617984471353",
+        "strict-transport-security": "max-age=31556952",
+        "vary": "Accept-Encoding",
+        "server-timing": "cache;desc=miss, varnish;desc=miss_hit, dc;desc=cloudflare",
+        "x-content-type-options": "nosniff",
+        "x-served-by": "LAX",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-envoy-upstream-service-time": "26",
+        "connection": "close",
+        "transfer-encoding": "chunked"
+      }
+    },
+    {
+      "key": "sauna",
+      "agent": "browser",
+      "url": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:00.761664+00:00",
+      "capturedAt": "2026-11-13T04:27:03.606237+00:00",
+      "bytes": 850984,
+      "sha256": "2908c19dea4bcc6427cf7dc00a1e4b3383e19c8702f9294534a8dc84569e15e0",
+      "headers": {
+        "date": "Fri, 13 Nov 2026 04:27:03 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "cf-ray": "a59b0592af3b6150-LAX",
+        "cf-cache-status": "DYNAMIC",
+        "age": "68",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "content-language": "en",
+        "etag": "W/\"1b3303a1d03136ec7d17092d55c91edc\"",
+        "link": "<https://static.parastorage.com/>; rel=preconnect; crossorigin, <https://static.parastorage.com/>; rel=preconnect, <https://static.wixstatic.com/>; rel=preconnect; crossorigin, <https://static.wixstatic.com/>; rel=preconnect, <https://siteassets.parastorage.com>; rel=preconnect; crossorigin",
+        "server": "envoy",
+        "x-served-by": "LAX",
+        "strict-transport-security": "max-age=31556952",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-wix-request-id": "1794544023.494875801971488",
+        "server-timing": "cache;desc=hit, varnish;desc=hit_miss, dc;desc=cloudflare_sea1_cf",
+        "x-seen-by": "bQAXdg/f3pWGCb3VI6q72A==,bQAXdg/f3pWGCb3VI6q72A==,ui2Pjuc3zC1HEw7V2qXeyh9slopJdhD+WySraMrpIY8=,ui2Pjuc3zC1HEw7V2qXeyh9slopJdhD+WySraMrpIY8=,Ua1iSBCTq7qSXjmRCGE1N/5x/1uGdeU+nfx2WYLYCMOyYrF4a/MZxFARAZ5gnaBLiEjJ19gJ6UUN+Su9S15jeO4mbCPDTeKdLVvqK6Ubgfc=,2d58ifebGbosy5xc+FRalt5DBGcb+xo69Kfs/qXN4yZXvVZQHfOYlFq5oFojbRJnGtw3vMtn6p2dVrJUN4FMnQ==,2UNV7KOq4oGjA5+PKsX47G9tHIFRFgqngjSWmAXGcLU=",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-envoy-upstream-service-time": "70",
+        "connection": "close",
+        "transfer-encoding": "chunked"
+      }
+    },
+    {
+      "key": "sauna",
+      "agent": "googlebot",
+      "url": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:03.561817+00:00",
+      "capturedAt": "2026-11-13T04:27:06.193692+00:00",
+      "bytes": 684450,
+      "sha256": "0c64ea7cab4578751febc0faf0144cfed3ea20771003658f113a19d6f0b00b0a",
+      "headers": {
+        "date": "Fri, 13 Nov 2026 04:27:06 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "cf-ray": "a59b05a33c4c27ec-LAX",
+        "cf-cache-status": "HIT",
+        "age": "68",
+        "cache-control": "public,max-age=0,must-revalidate",
+        "x-seen-by": "bQAXdg/f3pWGCb3VI6q72A==,",
+        "content-language": "en",
+        "etag": "W/\"9bc77f389595bbcdec717f388d77b54e\"",
+        "link": "<https://static.parastorage.com/>; rel=preconnect; crossorigin, <https://static.parastorage.com/>; rel=preconnect, <https://static.wixstatic.com/>; rel=preconnect; crossorigin, <https://static.wixstatic.com/>; rel=preconnect, <https://siteassets.parastorage.com>; rel=preconnect; crossorigin",
+        "server": "envoy",
+        "x-wix-request-id": "1794544026.119181069089636853",
+        "strict-transport-security": "max-age=31556952",
+        "vary": "Accept-Encoding",
+        "server-timing": "cache;desc=miss, varnish;desc=miss_hit, dc;desc=cloudflare",
+        "x-content-type-options": "nosniff",
+        "x-served-by": "LAX",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-envoy-upstream-service-time": "25",
+        "connection": "close",
+        "transfer-encoding": "chunked"
+      }
+    },
+    {
+      "key": "sauna",
+      "agent": "oai-searchbot",
+      "url": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "finalUrl": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:03.570546+00:00",
+      "capturedAt": "2026-11-13T04:27:06.153810+00:00",
+      "bytes": 684450,
+      "sha256": "0c64ea7cab4578751febc0faf0144cfed3ea20771003658f113a19d6f0b00b0a",
+      "headers": {
+        "date": "Fri, 13 Nov 2026 04:27:06 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "cf-ray": "a59b05a2eb8927ec-LAX",
+        "cf-cache-status": "HIT",
+        "age": "68",
+        "cache-control": "public,max-age=0,must-revalidate",
+        "x-seen-by": "bQAXdg/f3pWGCb3VI6q72A==,",
+        "content-language": "en",
+        "etag": "W/\"9bc77f389595bbcdec717f388d77b54e\"",
+        "link": "<https://static.parastorage.com/>; rel=preconnect; crossorigin, <https://static.parastorage.com/>; rel=preconnect, <https://static.wixstatic.com/>; rel=preconnect; crossorigin, <https://static.wixstatic.com/>; rel=preconnect, <https://siteassets.parastorage.com>; rel=preconnect; crossorigin",
+        "server": "envoy",
+        "x-wix-request-id": "1794544026.074079029635414049",
+        "strict-transport-security": "max-age=31556952",
+        "vary": "Accept-Encoding",
+        "server-timing": "cache;desc=miss, varnish;desc=miss_hit, dc;desc=cloudflare",
+        "x-content-type-options": "nosniff",
+        "x-served-by": "LAX",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-envoy-upstream-service-time": "30",
+        "connection": "close",
+        "transfer-encoding": "chunked"
+      }
+    },
+    {
+      "key": "home",
+      "agent": "browser",
+      "url": "https://www.matrixmassage.net/",
+      "finalUrl": "https://www.matrixmassage.net/",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:03.573496+00:00",
+      "capturedAt": "2026-11-13T04:27:06.235967+00:00",
+      "bytes": 971364,
+      "sha256": "8ae7b890f2def4f2ffa9eb4e4a51f742ab6d6f33548a9fd6f7244f9af022a3a1",
+      "headers": {
+        "date": "Fri, 13 Nov 2026 04:27:06 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "cf-ray": "a59b05a32ef06150-LAX",
+        "cf-cache-status": "DYNAMIC",
+        "age": "68",
+        "cache-control": "private,max-age=0,must-revalidate",
+        "content-language": "en",
+        "etag": "W/\"3e6f4bff1014136128d958c3efaef5ea\"",
+        "link": "<https://static.parastorage.com/>; rel=preconnect; crossorigin, <https://static.parastorage.com/>; rel=preconnect, <https://static.wixstatic.com/>; rel=preconnect; crossorigin, <https://static.wixstatic.com/>; rel=preconnect, <https://siteassets.parastorage.com>; rel=preconnect; crossorigin",
+        "server": "envoy",
+        "x-served-by": "LAX",
+        "strict-transport-security": "max-age=31556952",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-wix-request-id": "1794544026.137885593451495",
+        "server-timing": "cache;desc=hit, varnish;desc=hit_miss, dc;desc=cloudflare_sea1_cf",
+        "x-seen-by": "bQAXdg/f3pWGCb3VI6q72A==,bQAXdg/f3pWGCb3VI6q72A==,xIKq3IotbbLp4+7DTTMx8R9slopJdhD+WySraMrpIY8=,ui2Pjuc3zC1HEw7V2qXeyh9slopJdhD+WySraMrpIY8=,Ua1iSBCTq7qSXjmRCGE1N7ADqeWqve0yxPP79NV14Yd4TV05E9GTxWWmjOPQhKNDiEjJ19gJ6UUN+Su9S15jeJ4W5heq/GqW7e6g4rjY9Ic=,2d58ifebGbosy5xc+FRals8kGKECPyUOfdVnLI6aspJJuQKgFQQFaLga4LFuShPIH5CahN25DLfTcoHDYg14jQ==,2UNV7KOq4oGjA5+PKsX47KtUTHQeecWkgrb9IlLu/OM=",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-envoy-upstream-service-time": "69",
+        "connection": "close",
+        "transfer-encoding": "chunked"
+      }
+    },
+    {
+      "key": "robots",
+      "agent": "browser",
+      "url": "https://www.matrixmassage.net/robots.txt",
+      "finalUrl": "https://www.matrixmassage.net/robots.txt",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:03.609128+00:00",
+      "capturedAt": "2026-11-13T04:27:06.135663+00:00",
+      "bytes": 495,
+      "sha256": "dfabe256b4a49f13d949ffa1009dc3fcb71b4ab68e503188a00fdb3be98c874f",
+      "headers": {
+        "date": "Fri, 13 Nov 2026 04:27:06 GMT",
+        "content-type": "text/plain; charset=utf-8",
+        "content-length": "495",
+        "cf-ray": "a59b05a33f186150-LAX",
+        "cf-cache-status": "HIT",
+        "accept-ranges": "bytes",
+        "age": "69",
+        "cache-control": "public,max-age=0,must-revalidate",
+        "etag": "W/\"1ef-0qRIGf03/GzraolsM/lFG2Tl+Jg\"",
+        "server": "envoy",
+        "strict-transport-security": "max-age=31556952",
+        "server-timing": "cache;desc=miss, varnish;desc=miss_hit, dc;desc=cloudflare",
+        "x-content-type-options": "nosniff",
+        "x-wix-request-id": "1794544026.119138143051691684",
+        "x-served-by": "LAX",
+        "x-seen-by": "bQAXdg/f3pWGCb3VI6q72A==,",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-envoy-upstream-service-time": "25",
+        "connection": "close"
+      }
+    },
+    {
+      "key": "sitemap",
+      "agent": "browser",
+      "url": "https://www.matrixmassage.net/pages-sitemap.xml",
+      "finalUrl": "https://www.matrixmassage.net/pages-sitemap.xml",
+      "status": 200,
+      "startedAt": "2026-11-13T04:27:06.137613+00:00",
+      "capturedAt": "2026-11-13T04:27:08.711609+00:00",
+      "bytes": 3895,
+      "sha256": "c714c36201ea05d4b4a72693a813d92fc30c6bd68c98e00ea7a259b826a2985b",
+      "headers": {
+        "date": "Fri, 13 Nov 2026 04:27:08 GMT",
+        "content-type": "text/xml; charset=utf-8",
+        "cf-ray": "a59b05b2fa0e27ec-LAX",
+        "cf-cache-status": "DYNAMIC",
+        "age": "69",
+        "cache-control": "no-cache",
+        "content-language": "en",
+        "etag": "W/\"f37-ijRToiuyv0gj8QdM+rsH9GdM9lc\"",
+        "server": "envoy",
+        "strict-transport-security": "max-age=31556952",
+        "vary": "Accept-Encoding",
+        "x-content-type-options": "nosniff",
+        "x-wix-request-id": "1794544028.6789598179181501",
+        "server-timing": "cache;desc=hit, varnish;desc=hit_miss, dc;desc=cloudflare_sea1_cf",
+        "x-seen-by": "bQAXdg/f3pWGCb3VI6q72A==,bQAXdg/f3pWGCb3VI6q72A==,1ev8u3tblITHmgXkyGXE9h9slopJdhD+WySraMrpIY8=,ui2Pjuc3zC1HEw7V2qXeyh9slopJdhD+WySraMrpIY8=,Ua1iSBCTq7qSXjmRCGE1N4PD+odvAixVTn9Va7CpQnG85KFXXwMGIbbj+0NJgvD2iEjJ19gJ6UUN+Su9S15jeIeeOr2UdJvI7TS2v0hDDoQ=,2d58ifebGbosy5xc+FRalgqrV0hUEChxffjv18ZiBuiA9VvtSecIscDePljSQHK8H5CahN25DLfTcoHDYg14jQ==,2UNV7KOq4oGjA5+PKsX47HqjR+6CNmn/ng3r7CWVjR4=",
+        "x-served-by": "LAX",
+        "x-wix-cache-control": "public, max-age=604800",
+        "alt-svc": "h3=\":443\"; ma=86400",
+        "x-envoy-upstream-service-time": "78",
+        "connection": "close",
+        "transfer-encoding": "chunked"
+      }
+    }
+  ],
+  "limitations": [
+    "User-agent checks simulate crawler requests; they do not prove actual crawler visits, indexing, rankings or AI inclusion.",
+    "Public HTTP verifies returned metadata/content. Root's browser QA verifies rendered layout, interactions and the consumed runtime pin.",
+    "Wix's crawler HTML strips sms: action hrefs while retaining contact text; crawlable web links are compared separately, and the exact seoMarkup retains the original phone actions.",
+    "HOME checks compare delivered public body, inline startup/style blocks and metadata; they do not inspect dashboard entry enablement."
+  ]
+}

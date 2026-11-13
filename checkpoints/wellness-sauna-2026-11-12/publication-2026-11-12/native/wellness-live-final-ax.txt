@@ -1,0 +1,268 @@
+Browser tab: 9, Title: "Wellness Services in Salem, WI | Sauna, Red Light & Recovery", URL: "https://www.matrixmassage.net/wellness-biotech-services-salem-wi".
+0 AXWebArea Wellness Services in Salem, WI | Sauna, Red Light & Recovery, URL: matrixmassage.net/wellness-biotech-services-salem-wi
+	1 container main_MF
+		2 container Description: top of page, ID: SCROLL_TO_TOP
+		82 button Skip to Main Content, ID: SKIP_TO_CONTENT_BTN
+		3 container masterPage
+			4 container SITE_HEADER
+				5 container Site
+					6 content list
+						7 link Description: HOME, Value: matrixmassage.net/
+						8 link Description: BOOK NOW, Value: matrixmassage.net/book-appointments-salem-wi
+						9 container
+							10 link (collapsed) Description: MASSAGE THERAPY SERVICES, Value: matrixmassage.net/massage-therapy-services-salem-wi, Secondary Actions: Expand
+							11 button Toggle MASSAGE THERAPY SERVICES 
+								12 image
+						13 container
+							14 link (collapsed) Description: SPA & BEAUTY SERVICES, Value: matrixmassage.net/spa-and-beauty-services-salem-wi, Secondary Actions: Expand
+							15 button Toggle SPA & BEAUTY SERVICES
+								16 image
+						17 link Description: GIFT CARDS, Value: matrixmassage.net/massage-spa-gift-cards-salem-wi
+						18 link Description: FACIALS, Value: matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+						19 container
+							20 link (collapsed) Description: WELLNESS & BIOTECH SERVICES, Value: matrixmassage.net/wellness-biotech-services-salem-wi, Secondary Actions: Expand
+							21 button Toggle WELLNESS & BIOTECH SERVICES
+								22 image
+						23 link Description: ABOUT, Value: matrixmassage.net/about-5
+						24 link Description: BLOG, Value: matrixmassage.net/salem-wi-blog
+			25 container hfzq0
+				26 container
+					27 container comp-mppziogk1
+						83 container
+							84 link Description: Matrix Massage & Bodywork home, Value: matrixmassage.net/
+							85 text WARMTH · LIGHT · TIME FOR YOURSELF
+							86 heading Wellness & Biotech Services in Salem, WI, Value: 1
+								87 text Wellness & Biotech Services in Salem, WI
+							88 container
+								89 text A little less rush.
+								90 text A little more room to recharge.
+							91 text Infrared sauna, red light therapy and thoughtful recovery options at Matrix Massage & Bodywork. Choose a quiet moment on its own or ask us to build it into your next spa visit.
+							92 link Description: OPEN FULL BOOKING MENU, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+							93 link Description: EXPLORE WELLNESS SERVICES, Value: matrixmassage.net/wellness-biotech-services-salem-wi#mw-options
+							94 text 24804 75th St · Salem, Wisconsin · Near Paddock Lake
+							95 container Wellness page sections
+								96 link Description: Wellness options, Value: matrixmassage.net/wellness-biotech-services-salem-wi#mw-options
+								97 link Description: Find your fit, Value: matrixmassage.net/wellness-biotech-services-salem-wi#mw-choose
+								98 link Description: Plan your visit, Value: matrixmassage.net/wellness-biotech-services-salem-wi#mw-visit
+								99 link Description: FAQs, Value: matrixmassage.net/wellness-biotech-services-salem-wi#mw-faq
+							100 container Find your kind of reset., ID: mw-options
+								101 container Breadcrumb
+									102 link Description: Home, Value: matrixmassage.net/
+									103 text Wellness & Biotech
+								104 text YOUR WELLNESS. YOUR PACE.
+								105 heading Find your kind of reset., Value: 2, ID: mw-options-title
+									106 text Find your kind of reset.
+								107 text Matrix Wellness & Biotech brings warmth, light and recovery-focused care together in our Salem studio. Start with how you want your visit to feel, then explore the service that fits.
+								108 container
+									109 image Warm wooden sauna interior, illustrative image
+									110 text Illustrative sauna setting
+									111 text PRIVATE WARMTH · QUIET TIME
+									112 heading Infrared Sauna, Value: 3
+										113 text Infrared Sauna
+									114 text A welcoming pause for people who enjoy warmth. Settle into a private sauna appointment, slow your pace and add some unhurried time to your day. $35  · 30-minute sauna add-on Want to come for sauna alone? Text us to confirm availability and the right booking option.
+									115 link Description: Explore infrared sauna in Salem, Value: matrixmassage.net/infrared-sauna-salem-wi
+								116 container
+									117 image Illuminated LEDs on a red light therapy panel
+									118 text Red and near-infrared light technology
+									119 text LIGHT THERAPY · A MOMENT TO RECHARGE
+									120 heading Red Light Therapy, Value: 3
+										121 text Red Light Therapy
+									122 text Explore red and near-infrared light sessions, including full-body and face-and-head options. Our dedicated guide explains the experience, current options and how a session can fit your goals. Curious where to begin? The free Glow Test introduces your personalized areas of interest without requiring a booking.
+									123 link Description: Explore red light therapy, Value: matrixmassage.net/red-light-therapy-salem-wi
+									124 link Description: Take the free Glow Test, Value: matrixmassage.net/red-light-therapy-glow-score
+							125 container Make the visit your own., ID: mw-choose
+								126 text START WITH WHAT YOU NEED
+								127 heading Make the visit your own., Value: 2, ID: mw-choose-title
+									128 text Make the visit
+									129 text your own.
+								130 text Some days call for quiet warmth. Others call for focused hands-on care or time for your skin and scalp. You can start small and ask us to coordinate the rest.
+								131 link Description: Text us about your visit, Value: sms:+12629399325
+								132 container
+									133 heading “I want to slow down.”, Value: 3
+										134 text “I want to slow down.”
+									135 text Explore 
+									136 link Description: infrared sauna, Value: matrixmassage.net/infrared-sauna-salem-wi
+									137 text  for private warmth and a break from your usual pace. We’ll review comfort and suitability before your session.
+								138 container
+									139 heading “I want focused recovery care.”, Value: 3
+										140 text “I want focused recovery care.”
+									141 text Start with 
+									142 link Description: custom therapeutic massage, Value: matrixmassage.net/massage-therapy-services-salem-wi
+									143 text . Ask about eligible enhancements, including cupping, hand compression with heat, or a separate sauna appointment.
+								144 container
+									145 heading “I want a longer spa visit.”, Value: 3
+										146 text “I want a longer spa visit.”
+									147 text Explore a 
+									148 link Description: Japanese Head Spa, Value: matrixmassage.net/japanese-head-spa-salem-wi
+									149 text  ritual or 
+									150 link Description: custom facial, Value: matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+									151 text , then ask which wellness options work with your appointment and schedule.
+							152 container Support your everyday routine.
+								153 text BETWEEN STUDIO VISITS
+								154 heading Support your everyday routine., Value: 2, ID: mw-support-title
+									155 text Support your everyday routine.
+								156 container
+									157 text Wellness can continue beyond your appointment. Explore our 
+									158 link Description: supplements and wellness resources, Value: matrixmassage.net/supplements
+									159 text , or visit the Matrix Fullscript store to browse available products.
+								160 text For questions about a supplement’s suitability, medications or an existing condition, check with your healthcare professional.
+								161 text MATRIX FULLSCRIPT STORE
+								162 heading A place to explore., Value: 3
+									163 text A place to explore.
+								164 text Browse products, review their details and choose what fits your established routine.
+								165 link Description: VISIT OUR FULLSCRIPT STORE, Value: us.fullscript.com/s/matrix_massage_wellness/shop
+							166 container Your Salem wellness stop., ID: mw-visit
+								167 text CLOSE TO HOME. SPACE TO UNWIND.
+								168 heading Your Salem wellness stop., Value: 2, ID: mw-visit-title
+									169 text Your Salem wellness stop.
+								170 text Find Matrix on 75th Street in Salem, near Paddock Lake and Salem Lakes. We welcome guests from Bristol, Trevor, Twin Lakes, Genoa City, Pleasant Prairie, Kenosha, Union Grove and nearby Antioch, Illinois.
+								171 container
+									172 text Every visit takes place at our Salem studio. Explore local information for 
+									173 link Description: Paddock Lake, Value: matrixmassage.net/spa-services-near-paddock-lake-wi
+									174 text , 
+									175 link Description: Bristol, Value: matrixmassage.net/spa-services-near-bristol-wi
+									176 text , and 
+									177 link Description: Twin Lakes and Genoa City, Value: matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi
+									178 text .
+								179 link Description: Get to know Matrix, Value: matrixmassage.net/about-5
+								180 text MATRIX MASSAGE & BODYWORK
+								181 heading We’ll help you get started., Value: 3
+									182 text We’ll help you get started.
+								183 container
+									184 text 24804 75th St
+									185 text Salem, WI 53168
+								186 link Description: Text 262-939-9325, Value: sms:+12629399325
+								187 link Description: GET DIRECTIONS TO MATRIX, Value: google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168
+								188 link Description: Booking information & full menu, Value: matrixmassage.net/book-appointments-salem-wi
+							189 container Wellness, made easier., ID: mw-faq
+								190 text A FEW HELPFUL ANSWERS
+								191 heading Wellness, made easier., Value: 2, ID: mw-faq-title
+									192 text Wellness, made easier.
+								193 text Choose a starting point. We’re here to help with the details.
+								257 button (collapsed) What wellness services does Matrix offer in Salem? +, Secondary Actions: Expand
+									258 text What wellness services does Matrix offer in Salem?
+									259 text +
+								260 button (collapsed) What is the difference between infrared sauna and red light therapy? +, Secondary Actions: Expand
+									261 text What is the difference between infrared sauna and red light therapy?
+									262 text +
+								263 button (collapsed) How much does an infrared sauna appointment cost? +, Secondary Actions: Expand
+									264 text How much does an infrared sauna appointment cost?
+									265 text +
+								266 button (collapsed) Can I combine wellness with massage, a facial or Head Spa? +, Secondary Actions: Expand
+									267 text Can I combine wellness with massage, a facial or Head Spa?
+									268 text +
+								269 button (collapsed) Do I need to book a session to take the Glow Test? +, Secondary Actions: Expand
+									270 text Do I need to book a session to take the Glow Test?
+									271 text +
+								272 button (collapsed) How do I choose and book a wellness service? +, Secondary Actions: Expand
+									273 text How do I choose and book a wellness service?
+									274 text +
+								275 button (collapsed) Where is Matrix, and what areas do you serve? +, Secondary Actions: Expand
+									276 text Where is Matrix, and what areas do you serve?
+									277 text +
+							238 container Your next pause starts here.
+								239 text MAKE A LITTLE TIME FOR YOURSELF
+								240 heading Your next pause starts here., Value: 2, ID: mw-close-title
+									241 text Your next pause
+									242 text starts here.
+								243 text Choose your wellness experience, or tell us what you have in mind.
+								244 link Description: OPEN FULL BOOKING MENU, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+								245 link Description: TEXT MATRIX, Value: sms:+12629399325
+								246 link Description: Give someone time for themselves with a Matrix gift card, Value: matrixmassage.net/massage-spa-gift-cards-salem-wi
+					28 container comp-mppziohc
+						29 container bgLayers_comp-mppziohc
+							30 image ChatGPT Image Jan 28, 2026, 03_19_23 PM.png
+						31 container
+							32 heading What our Clients Say.., Value: 2
+								33 text What our Clients Say..
+							34 container comp-mppziohn5
+								35 container comp-mppzioho5
+									36 container bgLayers_comp-mppzioho5
+										37 image ChatGPT Image Jan 28, 2026, 03_19_23 PM.png
+									38 container
+										39 container Description: Slideshow, ID: comp-mppziohp6
+											40 button Previous
+												41 image
+											42 button Next
+												43 image
+											278 container comp-mppziohv1
+												279 container
+													280 image Description: Matrix Massage Therapy | Massage Therapist, ID: img_comp-mppziohw2
+													281 image Description: 5 star massage rating, ID: img_comp-mppziohx1
+													282 text First time visiting DaNelle at Matrix. She was professional, inquired about the issues I was experiencing and offered possible solutions, and gave a great first massage. I will be returning.
+											49 container Slides
+												50 content list
+													51 link Description: Section3SlideShowItem1MediaImage1, Value: matrixmassage.net/#comp-mppziohv1
+													52 link Description: Section3SlideShowItem2MediaImage1, Value: matrixmassage.net/#comp-mppziohz
+													53 link Description: Section3SlideShowItem3MediaImage1, Value: matrixmassage.net/#comp-mppzioi3
+										54 link Description: Book Now, Value: matrixmassage.net/book-appointments-salem-wi
+			55 container SITE_FOOTER
+				56 container
+					57 container
+						58 text © 2026 Matrix Massage & Bodywork · Salem Lakes, WI
+						59 text (262) 939-9325 · 24804 75th St, Salem, WI 53168
+						60 link Description: Massage Therapy, Value: matrixmassage.net/massage-therapy-services-salem-wi
+						61 text  · 
+						62 link Description: Custom Facials, Value: matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+						63 text  · 
+						64 link Description: Japanese Head Spa, Value: matrixmassage.net/japanese-head-spa-salem-wi
+					65 container
+						66 text One Salem studio serving Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Kenosha County, Union Grove and nearby Antioch, Illinois.
+						67 text Plan 
+						68 link Description: massage near Union Grove, Value: matrixmassage.net/massage-near-union-grove-wi
+						69 text , 
+						70 link Description: facials near Antioch, Value: matrixmassage.net/facials-near-antioch-il
+						71 text , 
+						72 link Description: Japanese Head Spa near Bristol, Value: matrixmassage.net/japanese-head-spa-near-bristol-wi
+						73 text , or 
+						74 link Description: spa services near Paddock Lake, Value: matrixmassage.net/spa-services-near-paddock-lake-wi
+						75 text . All appointments are provided at Matrix Massage & Bodywork in Salem, Wisconsin.
+					247 container Embedded Content
+						248 AXWebArea www-matrixmassage-net.filesusr.com/html/e4cc43_386e641eedab9b013d9e460ecd6825c1.html
+					249 container Embedded Content
+						250 AXWebArea www-matrixmassage-net.filesusr.com/html/e4cc43_a970c9e447f66d3ac60dd8b99e9f0282.html
+					251 container Embedded Content
+						252 AXWebArea www-matrixmassage-net.filesusr.com/html/e4cc43_297f7620ede407d4fd1b3d0ffbe6f1bb.html
+					253 container Embedded Content
+						254 AXWebArea www-matrixmassage-net.filesusr.com/html/e4cc43_d82a3bef3e52b62cf804ae06f2a05853.html
+					76 container comp-mqsjyvjb
+						77 text ​Links:
+						78 link Description: Gift Cards​, Value: matrixmassage.net/massage-spa-gift-cards-salem-wi
+						79 link Description: Partner with Us, Value: matrixmassage.net/local-wellness-partnerships
+						80 link Description: Work with Us, Value: matrixmassage.net/massage-therapist-jobs-salem-wi
+					255 container Google Maps
+						256 AXWebArea static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/googleMap.f3347ff6.html?defaultLocation=0&showZoom=true&showStreetView=true&showMapType=true&language=en&region=US&id=dataItem-msbtck7h&clientKey=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&googleMapsScriptPath=%2Fservices%2Feditor-elements-library%2Fdist%2Fthunderbolt%2Fmedia%2Fgoogle-map.min.9a2bea98.js&origin=https%3A%2F%2Fwww.matrixmassage.net&hasFocus=true
+							283 container
+								284 button Keyboard shortcuts
+								285 container Map
+								286 container
+									287 container
+										288 button Matrix Massage &amp; Bodywork
+										289 container
+											290 button Close
+											291 container content
+												292 text Matrix Massage & Bodywork
+												293 text Head spa, facials and massage at Matrix’s Salem location.
+												294 link Description: Get directions, Value: google.com/maps/dir/?api=1&origin=Bristol%2C+WI&destination=24804+75th+St%2C+Salem%2C+WI+53168, ID: dataItem-msbtfbny
+												295 link Description: Directions, Value: google.com/maps/dir/?api=1&destination=24804%2075th%20St%2C%20Salem%20Lakes%2C%20WI%2053168%2C%20USA
+								296 menu bar
+									297 Description: Show street map, Value: 1, ID: E82AC61E-96FF-4392-A52B-F6F22B3AF48B
+									298 Description: Show satellite imagery, Value: 0, ID: 1468FE1E-D96D-4F61-9698-BA12C116BB04
+								299 checkbox Description: Toggle fullscreen view, Value: 0
+								300 container
+									301 button Drag Pegman onto the map to open Street View
+										302 image Street View Pegman Control
+									303 button Zoom in
+									304 button Zoom out
+								305 link Description: Open this area in Google Maps (opens a new window), Value: maps.google.com/maps?ll=42.572254,-88.109454&z=14&t=m&hl=en&gl=US&mapclient=apiv3
+								306 container
+									307 button Keyboard shortcuts
+									308 button Map Data
+									309 button Map Scale: 500 m per 71 pixels
+										310 container
+											311 text 500 m 
+									312 link Description: Terms (opens in new tab), Value: google.com/intl/en_US/help/terms_maps.html
+									313 link Description: Report a map error (opens in new tab), Help: Report errors in the road map or imagery to Google, Value: google.com/maps/@42.5722544,-88.109454,14z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3
+		81 container Description: bottom of page, ID: SCROLL_TO_BOTTOM
+
+The focused UI element is 275 button (collapsed) Where is Matrix, and what areas do you serve? +, Secondary Actions: Expand

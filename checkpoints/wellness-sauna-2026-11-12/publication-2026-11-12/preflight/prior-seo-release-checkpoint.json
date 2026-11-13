@@ -1,0 +1,378 @@
+{
+  "checkpointId": "MATRIX-SEO-PUBLIC-RELEASE-2026-11-12",
+  "recordedAtUtc": "2026-11-12T21:25:24.532774+00:00",
+  "website": "https://www.matrixmassage.net/",
+  "status": "PUBLISHED AND VERIFIED WITH RECORDED TEST LIMITS",
+  "release": {
+    "wixLiveVersion": 1121,
+    "publishedVerifiedAtUtc": "2026-11-12T21:19:54.955Z",
+    "publicExposurePercent": 100,
+    "testSiteRemaining": false,
+    "newerSavedVersion1122RetainedInHistory": true
+  },
+  "scope": {
+    "changeIds": [
+      "A01",
+      "A02",
+      "A03",
+      "A04",
+      "A05",
+      "A06",
+      "A07",
+      "A08"
+    ],
+    "affectedPageCount": 16,
+    "protectedPages": [
+      "Home",
+      "About"
+    ],
+    "repositoryChange": "Documentation checkpoint only; no main merge or deployment."
+  },
+  "publicSourceVerification": {
+    "checkedAtUtc": "2026-11-12T21:20:29.413913+00:00",
+    "status": "PASS",
+    "affectedPagesPassed": 16,
+    "protectedPagesPassed": 2,
+    "http200ResponsesIncludingRobotsTxt": 19,
+    "approvedSubstantiveSchemaDocuments": 30,
+    "approvedFaqQuestionAnswerPairs": 88,
+    "criticalIssueCount": 0,
+    "allAffectedNavigationAndFooterComparisonsUnchanged": true,
+    "ordinaryPublicRequests": true,
+    "usedBrowserSessionCookies": false,
+    "usedTestSiteUrlParameters": false,
+    "pages": [
+      {
+        "key": "massage",
+        "url": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+        "status": "PASS",
+        "title": "PASS",
+        "description": "PASS",
+        "canonical": "PASS",
+        "indexabilitySignals": "PASS",
+        "bodyAndLinks": "PASS",
+        "approvedSchemaDocumentCount": 4,
+        "approvedFaqPairCount": 5,
+        "navigationPreserved": true,
+        "footerPreserved": true,
+        "changedSourceSignals": [
+          "seoMarkup"
+        ]
+      },
+      {
+        "key": "age-defying-firm",
+        "url": "https://www.matrixmassage.net/facial-goals/age-defying-firm",
+        "status": "PASS",
+        "title": "PASS",
+        "description": "PASS",
+        "canonical": "PASS",
+        "indexabilitySignals": "PASS",
+        "bodyAndLinks": "PASS",
+        "approvedSchemaDocumentCount": 1,
+        "approvedFaqPairCount": 4,
+        "navigationPreserved": true,
+        "footerPreserved": true,
+        "changedSourceSignals": [
+          "jsonld"
+        ]
+      },
+      {
+        "key": "hydrate-restore",
+        "url": "https://www.matrixmassage.net/facial-goals/hydrate-restore",
+        "status": "PASS",
+        "title": "PASS",
+        "description": "PASS",
+        "canonical": "PASS",
+        "indexabilitySignals": "PASS",
+        "bodyAndLinks": "PASS",
+        "approvedSchemaDocumentCount": 1,
+        "approvedFaqPairCount": 4,
+        "navigationPreserved": true,
+        "footerPreserved": true,
+        "changedSourceSignals": [
+          "jsonld"
+        ]
+      },
+      {
+        "key": "brighten-smooth",
+        "url": "https://www.matrixmassage.net/facial-goals/brighten-smooth",
+        "status": "PASS",
+        "title": "PASS",
+        "description": "PASS",
+        "canonical": "PASS",
+        "indexabilitySignals": "PASS",
+        "bodyAndLinks": "PASS",
+        "approvedSchemaDocumentCount": 1,
+        "approvedFaqPairCount": 4,
+        "navigationPreserved": true,
+        "footerPreserved": true,
+        "changedSourceSignals": [
+          "jsonld"
+        ]
+      },
+      {
+        "key": "clear-balance",
+        "url": "https://www.matrixmassage.net/facial-goals/clear-balance",
+        "status": "PASS",
+        "title": "PASS",
+        "description": "PASS",
+        "canonical": "PASS",
+        "indexabilitySignals": "PASS",
+        "bodyAndLinks": "PASS",
+        "approvedSchemaDocumentCount": 1,
+        "approvedFaqPairCount": 4,
+        "navigationPreserved": true,
+        "footerPreserved": true,
+        "changedSourceSignals": [
+          "jsonld"
+        ]
+      },
+      {
+        "key": "calm-support",
+        "url": "https://www.matrixmassage.net/facial-goals/calm-support",
+        "status": "PASS",
+        "title": "PASS",
+        "description": "PASS",
+        "canonical": "PASS",
+        "indexabilitySignals": "PASS",
+        "bodyAndLinks": "PASS",
+        "approvedSchemaDocumentCount": 1,
+        "approvedFaqPairCount": 4,
+        "navigationPreserved": true,
+        "footerPreserved": true,
+        "changedSourceSignals": [
+          "jsonld"
+        ]
+      },
+      {
+        "key": "maintain-glow",
+        "url": "https://www.matrixmassage.net/facial-goals/maintain-glow",
+        "status": "PASS",
+        "title": "PASS",
+        "description": "PASS",
+        "canonical": "PASS",
+        "indexabilitySignals": "PASS",
+        "bodyAndLinks": "PASS",
+        "approvedSchemaDocumentCount": 1,
+        "approvedFaqPairCount": 5,
+        "navigationPreserved": true,
+        "footerPreserved": true,
+        "changedSourceSignals": [
+          "jsonld"
+        ]
+      },
+      {
+        "key": "spa",
+        "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+        "status": "PASS",
+        "title": "PASS",
+        "description": "PASS",
+        "canonical": "PASS",
+        "indexabilitySignals": "PASS",
+        "bodyAndLinks": "PASS",
+        "approvedSchemaDocumentCount": 4,
+        "approvedFaqPairCount": 4,
+        "navigationPreserved": true,
+        "footerPreserved": true,
+        "changedSourceSignals": [
+          "seoMarkup"
+        ]
+      },
+      {
+        "key": "bristol",
+        "url": "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+        "status": "PASS",
+        "title": "PASS",
+        "description": "PASS",
+        "canonical": "PASS",
+        "indexabilitySignals": "PASS",
+        "bodyAndLinks": "PASS",
+        "approvedSchemaDocumentCount": 2,
+        "approvedFaqPairCount": 10,
+        "navigationPreserved": true,
+        "footerPreserved": true,
+        "changedSourceSignals": [
+          "seoMarkup"
+        ]
+      },
+      {
+        "key": "twin",
+        "url": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+        "status": "PASS",
+        "title": "PASS",
+        "description": "PASS",
+        "canonical": "PASS",
+        "indexabilitySignals": "PASS",
+        "bodyAndLinks": "PASS",
+        "approvedSchemaDocumentCount": 2,
+        "approvedFaqPairCount": 10,
+        "navigationPreserved": true,
+        "footerPreserved": true,
+        "changedSourceSignals": [
+          "seoMarkup"
+        ]
+      },
+      {
+        "key": "waxing",
+        "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi",
+        "status": "PASS",
+        "title": "PASS",
+        "description": "PASS",
+        "canonical": "PASS",
+        "indexabilitySignals": "PASS",
+        "bodyAndLinks": "PASS",
+        "approvedSchemaDocumentCount": 3,
+        "approvedFaqPairCount": 8,
+        "navigationPreserved": true,
+        "footerPreserved": true,
+        "changedSourceSignals": [
+          "jsonld"
+        ]
+      },
+      {
+        "key": "deep-tissue",
+        "url": "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+        "status": "PASS",
+        "title": "PASS",
+        "description": "PASS",
+        "canonical": "PASS",
+        "indexabilitySignals": "PASS",
+        "bodyAndLinks": "PASS",
+        "approvedSchemaDocumentCount": 2,
+        "approvedFaqPairCount": 7,
+        "navigationPreserved": true,
+        "footerPreserved": true,
+        "changedSourceSignals": [
+          "jsonld"
+        ]
+      },
+      {
+        "key": "swedish",
+        "url": "https://www.matrixmassage.net/swedish-massage-salem-wi",
+        "status": "PASS",
+        "title": "PASS",
+        "description": "PASS",
+        "canonical": "PASS",
+        "indexabilitySignals": "PASS",
+        "bodyAndLinks": "PASS",
+        "approvedSchemaDocumentCount": 2,
+        "approvedFaqPairCount": 7,
+        "navigationPreserved": true,
+        "footerPreserved": true,
+        "changedSourceSignals": [
+          "jsonld"
+        ]
+      },
+      {
+        "key": "mld",
+        "url": "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+        "status": "PASS",
+        "title": "PASS",
+        "description": "PASS",
+        "canonical": "PASS",
+        "indexabilitySignals": "PASS",
+        "bodyAndLinks": "PASS",
+        "approvedSchemaDocumentCount": 2,
+        "approvedFaqPairCount": 6,
+        "navigationPreserved": true,
+        "footerPreserved": true,
+        "changedSourceSignals": [
+          "jsonld"
+        ]
+      },
+      {
+        "key": "pleasant-prairie",
+        "url": "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi",
+        "status": "PASS",
+        "title": "PASS",
+        "description": "PASS",
+        "canonical": "PASS",
+        "indexabilitySignals": "PASS",
+        "bodyAndLinks": "PASS",
+        "approvedSchemaDocumentCount": 2,
+        "approvedFaqPairCount": 6,
+        "navigationPreserved": true,
+        "footerPreserved": true,
+        "changedSourceSignals": [
+          "jsonld"
+        ]
+      },
+      {
+        "key": "hiring",
+        "url": "https://www.matrixmassage.net/massage-therapist-jobs-salem-wi",
+        "status": "PASS",
+        "title": "PASS",
+        "description": "PASS",
+        "canonical": "PASS",
+        "indexabilitySignals": "PASS",
+        "bodyAndLinks": "PASS",
+        "approvedSchemaDocumentCount": 1,
+        "approvedFaqPairCount": 0,
+        "navigationPreserved": true,
+        "footerPreserved": true,
+        "changedSourceSignals": [
+          "jsonld"
+        ]
+      }
+    ]
+  },
+  "deepTissueProductionConfirmation": {
+    "status": "PASS; prior Test Site discrepancy not reproduced on ordinary production",
+    "verifiedAtUtc": "2026-11-12T21:22:51.920035+00:00",
+    "browserStates": [
+      "Initial ordinary-public page",
+      "All seven FAQ disclosures open",
+      "Fresh reload"
+    ],
+    "approvedSchemaDocumentsExactlyOncePerState": 2,
+    "faqQuestionAnswerPairs": 7,
+    "contentLinksTitleCanonical": "PASS",
+    "dt01Applied": false,
+    "dt01Disposition": "Do not apply the speculative change; retain the earlier proposal only as historical troubleshooting evidence.",
+    "causeOfHistoricalTestDiscrepancy": "Not established; no causal repair claim."
+  },
+  "savedNativeSeoArrays": {
+    "status": "PASS",
+    "exactApprovedMatches": 6,
+    "readAtUtc": "2026-11-12T21:12:23Z",
+    "limitation": "Saved revision readback was supplemented with post-publication ordinary source and targeted browser checks."
+  },
+  "limits": [
+    "Exact 1440, 390 and 375 pixel viewport checks were not completed.",
+    "Source checks do not establish every rendered layout or interaction state; browser evidence is scoped to the captured routes and states.",
+    "No actual Google indexing, rankings, external backlinks, analytics outcomes or rich-result eligibility are inferred.",
+    "Earlier Test Site reports and the initial source verification report predate the final Deep Tissue production confirmations; this checkpoint records the current result."
+  ],
+  "evidenceFingerprints": [
+    {
+      "record": "public-post-release-20261112T212008Z-verification.json",
+      "sha256": "8030a3b56fa6fd6030189e0ad8f5add7e35e10e7e6a973ec2d4eb80278588915"
+    },
+    {
+      "record": "deep-tissue-production-resolution.json",
+      "sha256": "c6725afb4b740e0dc4d53d7012cc2c93524945d4c93712110226839e2d6171d8"
+    },
+    {
+      "record": "deep-tissue-public-runtime-verdict.json",
+      "sha256": "2d5168ae8105c8a0d437b1599f5b7f35a8ef7de6fdc89f5e9d2d6ce459134921"
+    },
+    {
+      "record": "deep-tissue-public-all-faqs-verdict.json",
+      "sha256": "c3d38ca0ae9d24a984cd331cfe9c90ff239a55b2e89cb68940a05ed559f2b629"
+    },
+    {
+      "record": "deep-tissue-public-reload-verdict.json",
+      "sha256": "b5431bb249574e65fb2cfb72714eb7728818f95e5946bf875cef4e0bf4342add"
+    },
+    {
+      "record": "native-tags-pre-release.json",
+      "sha256": "43e71a42c553c165390a901f3dba07f2b9a7cffa71b2af0a5f2a582e5cfd4351"
+    }
+  ],
+  "repositoryContext": {
+    "branch": "improve/seo-approved-drafts-2026-11-12",
+    "baseCommit": "8badc47c814b91171ff0f57f7a35d7576204bc31",
+    "mainAtPreflight": "34318faae01ef3416959b8f854fa9a88ee91f10b"
+  },
+  "sanitization": "No private approval quotes, local paths, account screenshots, preview links, tracking payloads or customer data are included."
+}

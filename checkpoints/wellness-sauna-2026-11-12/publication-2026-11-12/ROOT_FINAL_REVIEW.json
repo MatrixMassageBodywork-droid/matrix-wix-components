@@ -1,0 +1,23 @@
+{
+  "status": "ACCEPTED \u2014 PUBLISHED / VERIFIED",
+  "reviewer": "root",
+  "publicEvidenceSha256": "384eed44d2965d3a2e554f35f4f34837542776d471cee690ce0944e386a382f9",
+  "checks": {
+    "sixPublicPageProfilesPass": true,
+    "publicRevision1131": true,
+    "allRobotsPermitted": true,
+    "bothSitemapEntries": true,
+    "all17Destinations200": true,
+    "bothRendererBytesExact": true,
+    "homePublicCodeAndMetadataPreserved": true,
+    "targetKeyboardFaqClose": true,
+    "targetNoHorizontalOverflow": true,
+    "targetReviewsAndFooterFlow": true,
+    "homeLiveWidthAndFooterFlow": true,
+    "deepTissueLiveWidthAndSectionFlow": true
+  },
+  "runtimePinEvidence": "Both tags/source URLs verified in current native1130 topology before publishing; fresh native Wellness renderer script observed; published reviewed bodies and expected renderer bytes verified. Public DOM script URLs were not separately captured.",
+  "testLimit": "Actual production mobile-user-agent browser layout not tested; prior saved native Wix mobile320px plus responsive proof widths passed.",
+  "panel": "WixSitePanel called once after completed publication; panel could not embed the permanent URL and instructed sharing the direct link. Direct URLs are verified.",
+  "noFurtherSiteMutationRequired": true
+}
