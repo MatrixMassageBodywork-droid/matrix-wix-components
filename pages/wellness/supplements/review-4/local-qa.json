@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-13",
+  "status": "LOCAL TESTED; NOT INSTALLED OR PUBLISHED",
+  "staticChecks": 18,
+  "staticResult": "PASS",
+  "proofViewports": [320,375,390,700,1280,1440,1920],
+  "visualResult": "PASS",
+  "logoAndWaterLoaded": true,
+  "horizontalOverflow": false,
+  "externalVisualRequests": 0,
+  "expandedFaqs": 8,
+  "preservedFullscriptPlans": 6,
+  "preordersEnabled": false,
+  "exactRebuildArtifacts": 10,
+  "nativeWixTested": false,
+  "publicSlugChanged": false,
+  "indexed": "NOT VERIFIED",
+  "externalFullscriptDestinations": "NOT INDEPENDENTLY VERIFIED",
+  "notes": "Tests use offline Chromium rendering of generated proof HTML; not actual-device or live Wix evidence."
+}

@@ -1,0 +1,118 @@
+{
+  "baselineCommit": "a66d1e36648000205ebcded5ce6117bced1647fd",
+  "bodyBeforeSha256": "21df0a2c4477e1bd3980f2a3a32e4b6ac365b53720e00a62f6edf3284ac8252f",
+  "cssBeforeSha256": "46c83109f0eaf790f60ef2b3158d8ac7710d7d9078ccc45e62ce759375fb24a2",
+  "appendCss": "\n/* R4: local information and navigation; R3 hero/logo rules above remain intact. */\n.matrix-supplements .ms-breadcrumb{font:13px/1.7 Arial,sans-serif;color:#eef5f1;margin:0 auto 22px;text-wrap:balance}\n.matrix-supplements .ms-breadcrumb a{display:inline-block;padding:8px 3px;text-underline-offset:4px}\n.matrix-supplements .ms-hero-note{font-size:14px;line-height:1.7;color:#edf5f1;margin:16px auto 0;max-width:680px}\n.matrix-supplements .ms-local-grid{display:grid;grid-template-columns:1.25fr 1fr;gap:40px;margin-top:32px;align-items:start}\n.matrix-supplements .ms-location-card{background:var(--aqua);border:1px solid #c1d5cd;padding:28px}\n.matrix-supplements .ms-location-card h3{margin-bottom:22px}\n.matrix-supplements .ms-facts{margin:0;font-size:15px}\n.matrix-supplements .ms-facts dt{font-weight:700;margin:18px 0 4px}\n.matrix-supplements .ms-facts dd{margin:0}\n.matrix-supplements .ms-area-links{display:flex;flex-wrap:wrap;gap:12px 24px;border-top:1px solid #c8d7cf;margin-top:32px;padding-top:20px;font-size:14px}\n.matrix-supplements .ms-area-links a{display:inline-flex;align-items:center;min-height:44px;text-underline-offset:4px}\n@media(max-width:720px){.matrix-supplements .ms-local-grid{grid-template-columns:1fr;gap:26px}.matrix-supplements .ms-location-card{padding:24px}}\n",
+  "config": {
+    "serviceName": "Health Supplements & Vitamins in Salem, WI",
+    "revision": "review-4-local-seo-2026-11-13",
+    "tagName": "matrix-supplements-page",
+    "elementId": "matrixSupplementsPageV1",
+    "rootClass": "matrix-supplements",
+    "pageUrl": "https://www.matrixmassage.net/supplements-vitamins-salem-wi",
+    "seoTitle": "Health Supplements & Vitamins in Salem, WI | Matrix",
+    "seoDescription": "Explore health supplements, vitamins and Fullscript plans from Matrix in Salem, WI, serving Paddock Lake, Twin Lakes, Burlington, Union Grove and Bristol.",
+    "seoSource": "User-requested R4 metadata; NOT LIVE. Saved native aeh8h baseline read November 13, 2026. Existing schema id -XDVhoNa. Rename same native page only at coordinated release; 301 /supplements to /supplements-vitamins-salem-wi required. Preserve native #business identity and no-API gates.",
+    "bodyFile": "body.html",
+    "cssFile": "style.css",
+    "expectedFaqCount": 8
+  },
+  "metadata": {
+    "status": "CANDIDATE ONLY; NO WIX MUTATION",
+    "nativePageId": "aeh8h",
+    "nativeSchemaIdToReplace": "-XDVhoNa",
+    "nativeSchemaDisplayName": "Matrix Supplements",
+    "currentUrl": "https://www.matrixmassage.net/supplements",
+    "proposedUrl": "https://www.matrixmassage.net/supplements-vitamins-salem-wi",
+    "slug": "supplements-vitamins-salem-wi",
+    "title": "Health Supplements & Vitamins in Salem, WI | Matrix",
+    "description": "Explore health supplements, vitamins and Fullscript plans from Matrix in Salem, WI, serving Paddock Lake, Twin Lakes, Burlington, Union Grove and Bristol.",
+    "canonical": "https://www.matrixmassage.net/supplements-vitamins-salem-wi",
+    "og:title": "Health Supplements & Vitamins in Salem, WI | Matrix",
+    "og:description": "Explore health supplements, vitamins and Fullscript plans from Matrix in Salem, WI, serving Paddock Lake, Twin Lakes, Burlington, Union Grove and Bristol.",
+    "og:url": "https://www.matrixmassage.net/supplements-vitamins-salem-wi",
+    "twitter:title": "Health Supplements & Vitamins in Salem, WI | Matrix",
+    "twitter:description": "Explore health supplements, vitamins and Fullscript plans from Matrix in Salem, WI, serving Paddock Lake, Twin Lakes, Burlington, Union Grove and Bristol.",
+    "robots": "Preserve indexable native settings; do not add proof noindex",
+    "og:image": "Preserve existing verified native image metadata unless a separate image revision is approved",
+    "focusKeywords": [
+      {
+        "term": "health supplements vitamins Salem WI",
+        "isMain": true
+      },
+      {
+        "term": "vitamins Salem WI",
+        "isMain": false
+      },
+      {
+        "term": "supplements Paddock Lake WI",
+        "isMain": false
+      },
+      {
+        "term": "health and wellness Salem WI",
+        "isMain": false
+      },
+      {
+        "term": "health and wellness Paddock Lake WI",
+        "isMain": false
+      }
+    ],
+    "schema": "Replace observed -XDVhoNa entry with structured-data-candidate.json; do not append a duplicate business or page identity",
+    "releaseDependency": "Do not point canonical or og:url at new URL until same-page native slug migration and successful public destination are coordinated."
+  },
+  "migration": {
+    "status": "PREPARED; NOT APPLIED",
+    "source": "/supplements",
+    "destination": "/supplements-vitamins-salem-wi",
+    "httpStatus": 301,
+    "preservePageId": "aeh8h",
+    "createNewPage": false,
+    "sameDayReleaseOrder": [
+      "Capture current native source, all SEO tags, pending changes and redirect list",
+      "Install approved R4 body and exact seoMarkup into the existing page only; save and inspect",
+      "Set same-page slug supplements-vitamins-salem-wi with Wix automatic redirect retained",
+      "Set R4 title/description/canonical/social values and replace -XDVhoNa structured data",
+      "Update direct internal links and the observed Wellness catalog dependency; preserve all other entries",
+      "Run private/native QA; publish only after explicit authorization for this R4 scope",
+      "Verify new URL returns 200; /supplements returns one-hop 301; no loops or duplicate indexable pages",
+      "Verify canonical, sitemap, mobile, schema/visible-copy parity and destination links; request new-URL indexing when permitted"
+    ],
+    "knownStructuredDependency": {
+      "nativePageId": "hfzq0",
+      "nativeSchemaId": "4rWCmYq6",
+      "displayName": "Wellness Services Catalog Schema",
+      "jsonPath": "$.itemListElement[3].itemOffered.url",
+      "expectedOld": "https://www.matrixmassage.net/supplements",
+      "new": "https://www.matrixmassage.net/supplements-vitamins-salem-wi",
+      "preserve": "All other catalog entries and fields"
+    },
+    "directLinkAuditScope": [
+      "Shared menu Supplements & Wellness (preserve page object reference and layout)",
+      "Homepage supplement link plus all mirrored HOME sources if present",
+      "Wellness hub supplemental resource links",
+      "Paddock Lake guide",
+      "Bristol guide",
+      "Twin Lakes/Genoa City guide",
+      "Union Grove guide",
+      "Relevant existing supplement articles; only their supplement destination links"
+    ],
+    "doNotChange": [
+      "Google Sheet IDs, payments, Fullscript links, Forms, customer data, global logo, unrelated drafts",
+      "Public robots permissions, bot settings or verification tags without separate approval",
+      "Old schema or sources outside specifically observed URL references"
+    ],
+    "googleSubmission": "No Search Console Change of Address for a path-only change; sitemap/new URL inspection only. A submission is not proof of indexing."
+  },
+  "expectedSha256": {
+    "body.html": "75b1144aace48953a14c9b60876ec6eafeb58500c4b6bc457032141fcd5246a0",
+    "style.css": "14e78fa565cc288c6af768922486f5e57b475a57cee9e324949dc157e07b073c",
+    "renderer.js": "019436755ac77760c5d7c4c4c3609514993da19ef79a381cf5648b33a364b3d2",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "83d945aa02cc6e03937b1bd9eb6f6ec20a3188d2fb98c5f3757d321033ef4164",
+    "preview-network-assets.html": "25ee17659a1839173b66da1490987a8c8cc904cc965793764220e65da528fdf9",
+    "faq-schema.json": "eb9dc526e67e3d342526d219775f7617db3d810be05e76642885e752170015e3",
+    "structured-data-candidate.json": "a458e4d4f51fd860eb3aceba35e84a18ddf96c0bc78880dd00454dbeccc35c76",
+    "metadata-candidate.json": "05032833ab1235bf6b88ca9575027a925ffeb776a90ae36c666f1f96b52a2ae6",
+    "url-migration-plan.json": "22da7ef976aa7a44839ece481b39347b29290004fcebdfeb14a17736423fb001",
+    "preview.html": "ae50cb734f5fdd69218c1189df3702676334616bf05a6ca08ad1793c5168e7ee"
+  }
+}
