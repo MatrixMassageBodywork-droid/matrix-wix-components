@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Organization",
+    "name": "Matrix Massage & Bodywork",
+    "url": "https://www.matrixmassage.net/about-5"
+  },
+  "dateModified": "2026-11-07T02:36:25.769Z",
+  "datePublished": "2025-06-30T16:16:09.000Z",
+  "headline": "How Massage Therapy Can Relieve Nerve Pain In Your Arms, Hands or Feet: Techniques That Work",
+  "mainEntityOfPage": {
+    "@id": "https://www.matrixmassage.net/post/how-massage-therapy-in-salem-wi-can-relieve-nerve-pain-in-your-arms-hands-or-feet-techniques-that",
+    "@type": "ItemPage",
+    "url": "https://www.matrixmassage.net/post/how-massage-therapy-in-salem-wi-can-relieve-nerve-pain-in-your-arms-hands-or-feet-techniques-that"
+  },
+  "description": "Explore Matrix’s discussion of massage techniques and nerve-related discomfort, with cited references and booking information for Salem, WI.",
+  "url": "https://www.matrixmassage.net/post/how-massage-therapy-in-salem-wi-can-relieve-nerve-pain-in-your-arms-hands-or-feet-techniques-that",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://static.wixstatic.com/media/e4cc43_793e9e60c2004312aaefa6a4fa25b7f7~mv2.jpg/v1/fill/w_392,h_472,al_c,q_80/e4cc43_793e9e60c2004312aaefa6a4fa25b7f7~mv2.jpg",
+    "width": "392",
+    "height": "472"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Matrix Massage & Bodywork",
+    "url": "https://www.matrixmassage.net"
+  }
+}

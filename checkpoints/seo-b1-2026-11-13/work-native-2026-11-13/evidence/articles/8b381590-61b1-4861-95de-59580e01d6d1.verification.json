@@ -1,0 +1,13 @@
+{
+  "slug": "lymphatic-drainage-why-it-works-why-you-might-need-it",
+  "pass": true,
+  "checks": {
+    "status": true,
+    "oneArticle": true,
+    "exactSchema": true,
+    "title": true,
+    "meta": true,
+    "canonical": true,
+    "body": true
+  }
+}

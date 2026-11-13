@@ -1,0 +1,13 @@
+{
+  "slug": "how-to-minimize-large-pores-salem-wi",
+  "pass": true,
+  "checks": {
+    "status": true,
+    "oneArticle": true,
+    "exactSchema": true,
+    "title": true,
+    "meta": true,
+    "canonical": true,
+    "body": true
+  }
+}

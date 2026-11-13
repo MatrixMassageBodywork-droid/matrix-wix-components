@@ -1,0 +1,38 @@
+{
+  "source": "Saved native Editor Preview; supplementary, not Test Site viewport QA",
+  "before": {
+    "height": 15000,
+    "links": [
+      {
+        "href": "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+        "text": "Paddock Lake"
+      }
+    ],
+    "questions": [
+      "Where can I get eyelash extensions near Salem and Paddock Lake, WI?",
+      "How much do lash extensions cost at Matrix?",
+      "Should I choose Classic, Hybrid or Volume lashes?",
+      "Can I ask questions before booking?",
+      "How long does a lash appointment take?",
+      "How often should I book a lash fill?",
+      "Can I book a fill if another salon applied my lashes?",
+      "What should I do before my first lash appointment?",
+      "How do I care for eyelash extensions?",
+      "Are lash extensions the same as a lash lift?",
+      "Can I get a natural-looking set for everyday wear?",
+      "How do I book lash extensions at Matrix?"
+    ],
+    "scroll": 320,
+    "width": 320
+  },
+  "open": {
+    "height": 15000,
+    "open": 1,
+    "scroll": 320,
+    "width": 320
+  },
+  "closed": {
+    "height": 15000,
+    "open": 0
+  }
+}

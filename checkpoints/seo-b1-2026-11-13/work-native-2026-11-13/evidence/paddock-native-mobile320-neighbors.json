@@ -1,0 +1,23 @@
+{
+  "status": "Edited paragraph fits; adjacent existing hero text overlaps in Editor Preview, Test Site mobile confirmation required; no geometry edits made",
+  "elements": [
+    {
+      "id": "text-content-comp-mvu242uh",
+      "parentId": "comp-mvu242uh",
+      "rect": "{\"bottom\":163.8125,\"height\":52.8125,\"left\":529,\"right\":809,\"top\":111,\"width\":280,\"x\":529,\"y\":111}",
+      "text": "A little time for yourself can change the pace of your day."
+    },
+    {
+      "id": "text-content-comp-mvuxqzb5",
+      "parentId": "comp-mvuxqzb5",
+      "rect": "{\"bottom\":177.625,\"height\":105.625,\"left\":534,\"right\":814,\"top\":72,\"width\":280,\"x\":534,\"y\":72}",
+      "text": "All treatments are performed by licensed massage therapists and skincare professionals dedicated to your comfort and wellness."
+    },
+    {
+      "id": "text-content-comp-msbundsm",
+      "parentId": "comp-msbundsm",
+      "rect": "{\"bottom\":403.84375,\"height\":184.84375,\"left\":534,\"right\":814,\"top\":219,\"width\":280,\"x\":534,\"y\":219}",
+      "text": "Discover customized facials, therapeutic massage, Japanese Head Spa rituals, eyelash extensions, waxing and restorative wellness experiences at Matrix Massage & Bodywork's Salem studio, serving Paddock Lake and the surrounding communities."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "fascia-foam-rolling-massage-benefits",
+  "pass": true,
+  "checks": {
+    "status": true,
+    "oneArticle": true,
+    "exactSchema": true,
+    "title": true,
+    "meta": true,
+    "canonical": true,
+    "body": true
+  }
+}

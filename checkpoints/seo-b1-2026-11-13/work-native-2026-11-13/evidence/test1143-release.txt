@@ -1,0 +1,812 @@
+- iframe [id="preview"]:
+  - region "top of page"
+  - banner:
+    - navigation "Site":
+      - list:
+        - link "HOME":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6
+          - generic: HOME
+        - link "BOOK NOW":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/book-appointments-salem-wi
+          - generic: BOOK NOW
+        - link "MASSAGE THERAPY SERVICES":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/massage-therapy-services-salem-wi
+          - generic: MASSAGE THERAPY SERVICES
+        - button "Toggle MASSAGE THERAPY SERVICES":
+        - link "SPA & BEAUTY SERVICES":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/spa-and-beauty-services-salem-wi
+          - generic: SPA & BEAUTY SERVICES
+        - button "Toggle SPA & BEAUTY SERVICES":
+        - link "GIFT CARDS":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/massage-spa-gift-cards-salem-wi
+          - generic: GIFT CARDS
+        - link "FACIALS":
+          - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+          - generic: FACIALS
+        - link "WELLNESS & BIOTECH SERVICES":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/wellness-biotech-services-salem-wi
+          - generic: WELLNESS & BIOTECH SERVICES
+        - button "Toggle WELLNESS & BIOTECH SERVICES":
+        - link "ABOUT":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/about-5
+          - generic: ABOUT
+        - link "BLOG":
+          - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/salem-wi-blog
+          - generic: BLOG
+  - main:
+    - iframe:
+      - link "Spa & Beauty / Head Spa":
+        - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi
+      - img "Matrix Massage & Bodywork"
+      - paragraph: MATRIX MASSAGE & BODYWORK · SALEM, WI
+      - heading "Japanese Head Spa in Salem, WI" [level=1]
+      - paragraph: Let your shoulders drop. Enjoy warm water, scalp massage and care chosen for your scalp and hair—all at an easier pace.
+      - link "BOOK HEAD SPA":
+        - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - link "Explore the experience":
+        - /url: "#experience"
+      - paragraph: 45–120 minute experiences · Customized scalp care · Relaxation
+      - img "The Japanese Head Spa waterfall basin during a Matrix scalp treatment in Salem, Wisconsin."
+      - generic: Warm water. A little quiet. Your time.
+      - navigation "Head Spa page sections":
+        - link "The ritual":
+          - /url: "#experience"
+        - link "Head Spa menu":
+          - /url: "#head-spa-menu"
+        - link "Scalp infusions":
+          - /url: "#infusions"
+        - link "Before your visit":
+          - /url: "#before-your-visit"
+      - paragraph: FROM OUR SALEM STUDIO
+      - heading "Step into the Matrix Head Spa." [level=2]
+      - paragraph: A look inside our scalp-care experience, from hands-on care to the infusions selected for your visit.
+      - figure "Care, from the scalp down A relaxing treatment shaped around your scalp and comfort.":
+        - img "A Matrix provider performing a Head Spa treatment at the Salem studio."
+        - heading "Care, from the scalp down" [level=3]
+        - paragraph: A relaxing treatment shaped around your scalp and comfort.
+      - figure "Our scalp-care collection Customized infusions selected as part of your Head Spa.":
+        - img "Matrix Precision Scalp Infusions displayed in the Salem studio."
+        - heading "Our scalp-care collection" [level=3]
+        - paragraph: Customized infusions selected as part of your Head Spa.
+      - paragraph: A RESET FROM THE SCALP DOWN
+      - heading "Scalp care, with a slower rhythm." [level=2]
+      - paragraph:
+        - text: A Japanese Head Spa combines cosmetic scalp care with a deeply relaxing sensory experience. At Matrix, your provider adapts cleansing, scalp massage and a customized infusion to your scalp, hair and comfort.
+        - link "Read about the Matrix Head Spa experience":
+          - /url: https://www.matrixmassage.net/post/head-spa-salem-wi
+        - text: .
+      - article:
+        - generic: "01"
+        - heading "Begin with your scalp" [level=3]
+        - paragraph: Share your scalp concerns, sensitivities and hair needs. Scalp analysis helps guide the care selected for your visit.
+      - article:
+        - generic: "02"
+        - heading "Cleanse and unwind" [level=3]
+        - paragraph: Enjoy cleansing, warm-water waterfall therapy and scalp massage. Longer rituals offer extra time and additional care.
+      - article:
+        - generic: "03"
+        - heading "Finish refreshed" [level=3]
+        - paragraph: Warm towels and personalized finishing care complete the ritual. Hair is left wet; drying or styling is booked separately.
+      - paragraph: CHOOSE YOUR RITUAL
+      - heading "A little refresh. A longer escape." [level=2]
+      - paragraph: Select your experience by time and the kind of care you want. Your provider personalizes the products and approach within your booked service.
+      - article:
+        - paragraph: 60 MINUTES · $135
+        - heading "Matrix Signature Head Spa" [level=3]
+        - paragraph: "A beautiful first visit: scalp analysis, customized infusion, double cleanse, exfoliation, steam, waterfall therapy and extended scalp, neck and shoulder massage."
+        - link "VIEW & BOOK":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/JBJI7MD5EU2QM3E4MQXE5TSK
+      - article:
+        - paragraph: 45 MINUTES · $95
+        - heading "Matrix Scalp Cleanse & Refresh Head Spa" [level=3]
+        - paragraph: Focused maintenance with scalp analysis, customized infusion, gentle cleansing, steam towels, waterfall rinse and relaxing scalp massage.
+        - link "VIEW & BOOK":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/E3GF7465U2EEJBNBUWKE7O5B
+      - article:
+        - paragraph: 90 MINUTES · $195
+        - heading "Matrix Deep Relaxation Head Spa" [level=3]
+        - paragraph: The Signature experience with extended waterfall therapy and scalp care, facial massage, hand and arm massage, and more time to unwind.
+        - link "VIEW & BOOK":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/5ARKZCV4NSRAFWNYZOTEKTOU
+      - article:
+        - paragraph: 120 MINUTES · $265
+        - heading "Matrix Intensive Scalp Renewal Head Spa" [level=3]
+        - paragraph: Our most comprehensive scalp-care experience, with detailed scalp imaging and analysis, an advanced scalp serum and extended massage.
+        - link "VIEW & BOOK":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/RM2XACH3ZAVQ65UTSENKJAGW
+      - article:
+        - paragraph: 120 MINUTES · $285
+        - heading "Matrix Head Spa + Hydrating Glow Facial" [level=3]
+        - paragraph: Customized Head Spa care paired with a mini facial, facial massage and hyaluronic hydration for a refreshed scalp and hydrated-looking skin.
+        - link "VIEW & BOOK":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/ANHVUNL2SFY2ETFWNCU5WNJS
+      - article:
+        - paragraph: 60 MINUTES · $135
+        - heading "Matrix Men’s Scalp Refresh + Mini Facial" [level=3]
+        - paragraph: A shorter scalp-and-skin combination with scalp cleansing and massage, a mini facial, and neck and shoulder relaxation.
+        - link "VIEW & BOOK":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/VJPRLALSE5VDWQRMF6LQLOHM
+      - article:
+        - paragraph: 90 MINUTES · $175
+        - heading "Matrix Men’s Head Spa + Refreshing Custom Facial" [level=3]
+        - paragraph: An extended Head Spa and custom facial combination, with longer scalp massage and care selected for your scalp, hair and skin.
+        - link "VIEW & BOOK":
+          - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/UGLNWFVWMYIZSHHC6MDZPCFA
+      - paragraph: The booking menu has current availability and full inclusions. Enhancements such as scalp red light are used only when appropriate.
+      - img "Matrix Precision Scalp Infusions M1 through M6 with amber bottles and labeled vials."
+      - paragraph: MATRIX PRECISION SCALP INFUSIONS™
+      - heading "Personal care begins at the scalp." [level=2]
+      - paragraph: Your Head Spa includes a customized scalp infusion, selected after your provider reviews your scalp. Matrix’s M1–M6 Precision Scalp Infusions are part of this personalized approach.
+      - paragraph: Tell us whether your priority is a cleaner feel, hydration, scalp comfort or simply a restorative pause. Your provider considers sensitivities and current products when choosing care.
+      - paragraph: Head Spa is cosmetic scalp care and relaxation. It is not medical treatment for scalp conditions or hair loss.
+      - link "CHOOSE A HEAD SPA":
+        - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - paragraph: BEFORE YOUR VISIT
+      - heading "Settle in with the details covered." [level=2]
+      - paragraph: A few useful things to know so you can arrive ready to relax.
+      - article:
+        - generic: "01"
+        - heading "Share your hair needs" [level=3]
+        - paragraph: Tell us about extensions, braids, recent color or chemical services, scalp irritation and product allergies before your visit.
+      - article:
+        - generic: "02"
+        - heading "Plan for wet hair" [level=3]
+        - paragraph: Hair is left wet after Head Spa. If you would like professional drying or styling, arrange a separate service in advance.
+      - article:
+        - generic: "03"
+        - heading "Choose your focus" [level=3]
+        - paragraph: A shorter ritual suits focused scalp care. Choose a longer visit for additional massage, or a facial combination for skin and scalp.
+      - heading "Make it a scalp-and-skin visit." [level=3]
+      - paragraph: The Head Spa + Hydrating Glow Facial brings scalp care, a mini facial and hydration together in one appointment.
+      - link "VIEW THE COMBINATION":
+        - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/ANHVUNL2SFY2ETFWNCU5WNJS
+      - heading "Looking for a full facial?" [level=3]
+      - paragraph: Explore Custom Facials, Circadia treatments and skin-goal pathways, including care for acne-prone skin and congestion.
+      - link "EXPLORE FACIALS":
+        - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+      - paragraph: ONE STUDIO, CLOSE TO HOME
+      - heading "Japanese Head Spa near you, in Salem." [level=2]
+      - paragraph: Our Salem studio welcomes Head Spa guests from Union Grove, Twin Lakes, Trevor, Bristol and nearby Antioch, Illinois. Whether you want a shorter scalp refresh or time for a longer ritual, choose your experience and visit us at 24804 75th St, Salem, WI 53168.
+      - link "TEXT MATRIX · 262-939-9325":
+        - /url: sms:+12629399325
+      - paragraph: GOOD TO KNOW
+      - heading "A few helpful details." [level=2]
+      - paragraph: Feel comfortable choosing your next visit.
+      - generic "What is a Japanese Head Spa? +"
+      - generic "Which Head Spa should I choose for my first visit? +"
+      - generic "Will my hair be dry when I leave? +"
+      - generic "Can I book with short hair, thinning hair or extensions? +"
+      - generic "Does Head Spa treat hair loss or scalp disease? +"
+      - generic "Can I add a facial to my Head Spa? +"
+      - generic "How often should I book? +"
+      - generic "Where can I book a Head Spa near Union Grove, Twin Lakes or Antioch? +"
+      - paragraph: NEARBY, IN SALEM
+      - heading "Your next quiet moment is close." [level=2]
+      - link "Head Spa near Bristol":
+        - /url: https://www.matrixmassage.net/japanese-head-spa-near-bristol-wi
+      - link "Custom Facials":
+        - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+      - link "All Spa & Beauty":
+        - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi
+      - paragraph: MAKE ROOM FOR YOURSELF
+      - heading "Let the day soften around you." [level=2]
+      - paragraph: Find your Head Spa ritual and reserve time for scalp care, warm water and restorative touch.
+      - link "BOOK HEAD SPA":
+        - /url: https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+      - link "ALL SPA & BEAUTY":
+        - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi
+      - paragraph: 24804 75th St · Salem, WI 53168 · Text 262-939-9325
+  - contentinfo:
+    - paragraph:
+      - text: © 2026 Matrix Massage & Bodywork · Salem Lakes, WI
+      - text: (262) 939-9325 | 24804 75th St. Salem, WI 53168
+      - text: "Book online: www.matrixmassage.net/book-appointments-salem-wi"
+    - paragraph:
+      - text: Licensed Massage Therapy,
+      - link "Facials":
+        - /url: https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+      - text: ", Day Spa, Beauty & Biotech Spa"
+    - paragraph
+    - paragraph:
+      - generic: Serving Salem WI, Paddock Lake & all of Kenosha County
+    - paragraph
+    - paragraph:
+      - text: Now serving clients from Kenosha, Antioch IL, Bristol,
+      - link "Pleasant Prairie,":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/massage-near-pleasant-prairie-wi
+      - link "Union Grove":
+        - /url: https://www.matrixmassage.net/massage-near-union-grove-wi
+      - text: ", WI and surrounding areas. Matrix Massage & Bodywork offers"
+      - link "therapeutic massage":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/massage-therapy-services-salem-wi
+      - text: ","
+      - link "lymphatic drainage,":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/manual-lymphatic-drainage-massage-salem-wi
+      - link "Facials,":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/spa-and-beauty-services-salem-wi/facials-salem-wi
+      - link "Head Spa,":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/japanese-head-spa-salem-wi
+      - link "waxing":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi
+      - text: ", cupping, and"
+      - link "red light therapy":
+        - /url: https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/red-light-therapy-salem-wi
+      - text: Salem WI.
+      - link "Get pain relief now!":
+        - /url: https://painrelief.matrixmassage.net/
+    - iframe [name="htmlComp-iframe"]
+    - iframe [name="htmlComp-iframe"]
+    - iframe [name="htmlComp-iframe"]
+    - iframe [name="htmlComp-iframe"]
+    - paragraph:
+      - generic: "Links:"
+    - paragraph:
+      - link "Gift Cards":
+        - /url: https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi
+        - generic: Gift Cards
+    - paragraph:
+      - link "Partner with Us":
+        - /url: https://www.matrixmassage.net/local-wellness-partnerships
+        - generic: Partner with Us
+    - paragraph
+    - paragraph:
+      - link "Work with Us":
+        - /url: https://www.matrixmassage.net/massage-therapist-jobs-salem-wi
+        - generic: Work with Us
+    - paragraph
+    - paragraph
+    - iframe
+  - region "bottom of page"
+  - iframe
+- button:
+- generic: Site
+- generic: Settings
+- generic: Dev Mode
+- generic: Hire a Professional
+- generic: Help
+- generic: Upgrade
+- button "Save":
+  - generic: Save
+- button "Preview":
+  - generic: Preview
+- button:
+- button "Publish":
+  - generic: Publish
+- text: "Page:"
+- generic: JAPANESE HEAD SPA
+- button:
+- button:
+- generic: www.matrixmassage.net
+- button:
+- button:
+- button "100%":
+  - generic: 100%
+- button "Tools":
+  - generic: Tools
+- button "Search":
+  - generic: Search
+- generic: Page Code
+- generic: Main Pages
+- list:
+  - generic: HOME
+  - generic: SPA NEAR BRISTOL
+  - generic: SPA NEAR TWIN LAKES & GENOA CITY
+  - generic: Glow Guide
+  - generic: BOOK NOW
+  - generic: MASSAGE THERAPY SERVICES
+  - generic: SPA & BEAUTY SERVICES
+  - generic: FACIALS
+  - generic: GIFT CARDS
+  - generic: Studio
+  - generic: Studio TV
+  - generic: WELLNESS & BIOTECH SERVICES
+  - generic: 360 GLOW SCORE | Matrix Wellness
+  - generic: ABOUT
+  - generic: NOW HIRING
+  - generic: LOCAL WELLNESS & RECOVERY PARTNERSHIPS
+  - generic: MATRIX PARTNER KIT
+  - generic: MASSAGE NEAR PLEASANT PRAIRIE WI
+- separator
+- generic: masterPage.js
+- generic: Wix Blog
+- list:
+  - generic: Post
+  - generic: BLOG
+- generic: Dynamic Pages
+- list:
+  - generic: Matrix Landing Pages Pages (Dynamic)
+  - list:
+    - generic: Matrix Landing Pages (Item)
+  - generic: Matrix Skin Pathways Pages (Dynamic)
+  - list:
+    - generic: Matrix Skin Pathways (Item)
+- list:
+  - button:
+  - generic: Add Elements
+  - button:
+  - generic: Add Section
+  - button:
+  - generic: Pages & Menu
+  - button:
+  - generic: Site Design
+  - button "3":
+    - generic: "3"
+  - generic: Add Apps
+  - button:
+  - generic: My Business
+  - button:
+  - generic: Media
+  - button:
+  - generic: CMS
+  - button:
+  - generic: Marketing & SEO
+- button:
+- generic: AI Tools
+- generic: "#section3"
+- generic: "Section: Services"
+- generic: Custom Element
+- generic: "#matrixHeadSpaReview"
+- list:
+  - listitem: Choose Source
+  - listitem: Set Attributes
+- generic: "100"
+- generic: "200"
+- generic: "300"
+- generic: "400"
+- generic: "500"
+- generic: "600"
+- generic: "700"
+- generic: "800"
+- generic: "900"
+- generic: "1000"
+- generic: "1100"
+- generic: "1200"
+- generic: "1300"
+- generic: "1400"
+- generic: "1500"
+- generic: "1600"
+- generic: "1700"
+- generic: "1800"
+- generic: "1900"
+- generic: "2000"
+- generic: "2100"
+- generic: "2200"
+- generic: "2300"
+- generic: "2400"
+- generic: "2500"
+- generic: "2600"
+- generic: "2700"
+- generic: "2800"
+- generic: "2900"
+- generic: "3000"
+- generic: "3100"
+- generic: "3200"
+- generic: "3300"
+- generic: "3400"
+- generic: "3500"
+- generic: "3600"
+- generic: "3700"
+- generic: "3800"
+- generic: "3900"
+- generic: "4000"
+- generic: "4100"
+- generic: "4200"
+- generic: "4300"
+- generic: "4400"
+- generic: "4500"
+- generic: "4600"
+- generic: "4700"
+- generic: "4800"
+- generic: "4900"
+- generic: "5000"
+- generic: "5100"
+- generic: "5200"
+- generic: "5300"
+- generic: "5400"
+- generic: "5500"
+- generic: "5600"
+- generic: "5700"
+- generic: "5800"
+- generic: "5900"
+- generic: "6000"
+- generic: "6100"
+- generic: "6200"
+- generic: "6300"
+- generic: "6400"
+- generic: "6500"
+- generic: "6600"
+- generic: "6700"
+- generic: "6800"
+- generic: "6900"
+- generic: "7000"
+- generic: "7100"
+- generic: "7200"
+- generic: "7300"
+- generic: "7400"
+- generic: "7500"
+- generic: "7600"
+- generic: "7700"
+- generic: "7800"
+- generic: "7900"
+- generic: "0"
+- generic: "100"
+- generic: "200"
+- generic: "300"
+- generic: "400"
+- generic: "500"
+- generic: "600"
+- generic: "700"
+- generic: "800"
+- generic: "900"
+- banner:
+  - generic: Dashboard
+  - button:
+  - button:
+- iframe:
+  - region "Sidebar":
+    - button "Quick Actions":
+      - generic: Quick Actions
+    - button:
+    - separator
+    - button "Collapse sidebar":
+    - button "Get 250 monthly visitors 35.6 89/250 visitors":
+      - generic: Get 250 monthly visitors
+      - progressbar
+      - generic: 89/250 visitors
+    - navigation:
+      - list:
+        - link "Home":
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/home?referralInfo=sidebar
+          - generic: Home
+        - button "AI Agents":
+          - generic: AI Agents
+          - generic: NEW
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/ai-assistants/symphony?referralInfo=sidebar
+          - generic: Symphony
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/ai-assistants/marketing-assistant?referralInfo=sidebar
+          - generic: Marketing Agent
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/ai-assistants/wixel?referralInfo=sidebar
+          - generic: Design Agent
+          - generic: NEW
+        - button "Getting Paid":
+          - generic: Getting Paid
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/getting-paid?referralInfo=sidebar
+          - generic: Connect & Setup
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/pay-links?referralInfo=sidebar
+          - generic: Pay Links
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/wix-invoices?referralInfo=sidebar
+          - generic: Invoices
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/pricequotes?referralInfo=sidebar
+          - generic: Price Quotes
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/proposals?referralInfo=sidebar
+          - generic: Proposals
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/premium-quickbooks-bm?referralInfo=sidebar
+          - generic: QuickBooks
+        - button "Sales":
+          - generic: Sales
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/subscriptions?referralInfo=sidebar
+          - generic: Subscriptions
+        - button:
+          - generic: Payments & Finances
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/payments-dashboard?referralInfo=sidebar
+          - generic: All Payments
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/receipts/list?referralInfo=sidebar
+          - generic: Receipts
+        - button:
+          - generic: Point of Sale
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/pos?referralInfo=sidebar
+          - generic: POS Home
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/pos-checkout?referralInfo=sidebar
+          - generic: POS Checkout
+        - button:
+          - generic: Analytics
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/analytics/overviews/sales?referralInfo=sidebar
+          - generic: Sales Overview
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/subscriptions/overviews/subscriptions?referralInfo=sidebar
+          - generic: Subscriptions
+        - button "Catalog":
+          - generic: Catalog
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/coupons?referralInfo=sidebar
+          - generic: Coupons
+        - button "Staff":
+          - generic: Staff
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/staff-hub/staff-list?referralInfo=sidebar
+          - generic: Staff List
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/staff-hub/timecards?referralInfo=sidebar
+          - generic: Timecards
+        - button "Blog":
+          - generic: Blog
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/blog/overview?referralInfo=sidebar
+          - generic: Overview
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/blog/posts?referralInfo=sidebar
+          - generic: Posts
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/blog/comments?referralInfo=sidebar
+          - generic: Comments
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/blog/categories?referralInfo=sidebar
+          - generic: Categories
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/blog/tags?referralInfo=sidebar
+          - generic: Tags
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/blog/writers?referralInfo=sidebar
+          - generic: Writers
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/blog/monetization?referralInfo=sidebar
+          - generic: Monetization
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/blog/overviews/blog?referralInfo=sidebar
+          - generic: Analytics
+        - button "Apps":
+          - generic: Apps
+          - generic: "4"
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/manage-installed-apps?referralInfo=sidebar
+          - generic: Manage Apps
+          - generic: "4"
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/app-market/for-you?referralInfo=sidebar
+          - generic: App Market
+        - separator
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/app/13ee53b4-2343-b641-c84d-056d2e6ed2e6?referralInfo=sidebar
+          - generic: TWIPLA Website Intelligence
+        - separator
+        - button "Site & Mobile App":
+          - generic: Site & Mobile App
+        - button:
+          - generic: Website Overview
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/website-channel?referralInfo=sidebar
+          - generic: Website
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/analytics/performance/site-speed?referralInfo=sidebar
+          - generic: Site Speed
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/analytics/performance/reliability?referralInfo=sidebar
+          - generic: Uptime & Security
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/mobile-app?referralInfo=sidebar
+          - generic: Mobile App
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/brand-maker?referralInfo=sidebar
+          - generic: Logo & Brand
+        - button "Marketing":
+          - generic: Marketing
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/marketing-home?referralInfo=sidebar
+          - generic: Marketing Home
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/seo-home?referralInfo=sidebar
+          - generic: SEO & GEO
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/google-ads?referralInfo=sidebar
+          - generic: Google Ads
+          - generic: NEW
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/facebook-ads?referralInfo=sidebar
+          - generic: Facebook & Instagram Ads
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/email-marketing?referralInfo=sidebar
+          - generic: Email Marketing
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/message-campaigns?referralInfo=sidebar
+          - generic: Messaging Campaigns
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/social-marketing-web?referralInfo=sidebar
+          - generic: Social Media Marketing
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/referral-program?referralInfo=sidebar
+          - generic: Referral Program
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/google-business-profile-manager?referralInfo=sidebar
+          - generic: Google Business Profile
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/collab-hub?referralInfo=sidebar
+          - generic: Collab Hub
+        - link "Inbox":
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/inbox?referralInfo=sidebar
+          - generic: Inbox
+        - button "Customers & Leads":
+          - generic: Customers & Leads
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/contacts?referralInfo=sidebar
+          - generic: Contacts
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/wix-forms?referralInfo=sidebar
+          - generic: Forms & Submissions
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/wix-meetings?referralInfo=sidebar
+          - generic: Meetings
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/pipelines?referralInfo=sidebar
+          - generic: Pipelines
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/community?referralInfo=sidebar
+          - generic: Community
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/loyalty-program?referralInfo=sidebar
+          - generic: Loyalty Program
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/my-mailboxes-site-level/mailboxes?referralInfo=sidebar
+          - generic: Business Email
+        - button "Analytics":
+          - generic: Analytics
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/analytics/highlights?referralInfo=sidebar
+          - generic: Highlights
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/analytics/overviews/realtime?referralInfo=sidebar
+          - generic: Real-time
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/analytics/overviews/traffic?referralInfo=sidebar
+          - generic: Traffic
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/analytics/overviews/behavior?referralInfo=sidebar
+          - generic: Behavior
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/analytics/overviews/marketing?referralInfo=sidebar
+          - generic: Marketing
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/analytics/session-recordings?referralInfo=sidebar
+          - generic: Session Recordings
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/analytics/performance/insights-and-benchmarks?referralInfo=sidebar
+          - generic: Insights & Benchmarks
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/analytics/reports?referralInfo=sidebar
+          - generic: All Reports
+        - link "Automations":
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/triggers?referralInfo=sidebar
+          - generic: Automations
+        - separator
+        - link "Settings":
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/settings?referralInfo=sidebar
+          - generic: Settings
+        - link "CMS":
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/wix-cms?referralInfo=sidebar
+          - generic: CMS
+        - button "Developer Tools":
+          - generic: Developer Tools
+        - button:
+          - generic: Logging Tools
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/developer-tools/logging-tools/wix-logs?referralInfo=sidebar
+          - generic: Wix Logs
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/developer-tools/logging-tools/more-tools?referralInfo=sidebar
+          - generic: Advanced Log Tools
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/developer-tools/monitoring-dashboard?referralInfo=sidebar
+          - generic: Monitoring
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/developer-tools/secrets-manager?referralInfo=sidebar
+          - generic: Secrets Manager
+        - link:
+          - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/developer-tools/triggered-emails?referralInfo=sidebar
+          - generic: Triggered Emails
+    - link "Add More Tools":
+      - generic: Add More Tools
+  - main "Release Manager":
+    - button "Settings":
+      - generic: Settings
+    - button "Release Manager":
+      - generic: Release Manager
+    - button:
+    - heading "Release Manager" [level=1]
+    - text: Deploy a new version of your site to a subset of your audience and gradually open to more visitors.
+    - link "Learn more":
+      - /url: https://support.wix.com/articles/id/338127ec-fe2c-4003-96a1-9e2c7458d898?locale=en
+      - generic: Learn more
+    - heading "Versions" [level=3]
+    - generic: Live Site
+    - table:
+      - rowgroup:
+        - 'row "Version not found Exposure: 100% Version 2 Open"':
+          - cell "Version not found":
+            - generic: Version not found
+          - 'cell "Exposure: 100%"'
+          - cell "Version 2"
+          - cell "Open":
+            - button "Open":
+    - generic: Test Site
+    - table:
+      - rowgroup:
+        - 'row "Nov 13, 2026, 9:22 AM Site owner Exposure: 0% Version 1143 Open"':
+          - cell "Nov 13, 2026, 9:22 AM Site owner":
+            - generic: Nov 13, 2026, 9:22 AM
+            - text: Site owner
+          - 'cell "Exposure: 0%"'
+          - cell "Version 1143"
+          - cell "Open":
+            - button "Open":
+            - button:
+    - heading "Site History" [level=3]
+    - text: View and restore a previous version of your site.
+    - button "Restore Version":
+      - generic: Restore Version
+    - heading "Logs" [level=3]
+    - text: View your site versions' logs using professional tools.
+    - button "Get Started":
+      - generic: Get Started
+  - list:
+    - link:
+      - /url: /dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/subscriptions?referralInfo=sidebar
+      - generic: Subscriptions
+    - button:
+      - generic: Payments & Finances
+    - button:
+      - generic: Point of Sale
+    - button:
+      - generic: Analytics
+- banner:
+  - button:
+- region "scrollable content":
+  - generic: JAPANESE HEAD SPA
+- button "Run":
+  - text: Run
+- button:
+- button:
+- button:
+- button:
+- code:
+  - generic: m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services\">BOOK HEAD SPA</a><a
+  - textbox "Editor content;Press Alt+F1 for Accessibility Options.": "// Approved Review 2; existing l21lg page, shared shell and SEO identity retained. $w.onReady(function () { $w(\"#matrixHeadSpaReview\").seoMarkup = \"<div class=\\\"matrix-head-spa\\\"><section class=\\\"hero\\\"><div class=\\\"hero-copy\\\"><a class=\\\"breadcrumb\\\" href=\\\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi\\\">Spa &amp; Beauty / Head Spa</a><img class=\\\"logo\\\" src=\\\"https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@f9c063da3d7970ff13667252772af99c2874585e/pages/…m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services\\\">BOOK HEAD SPA</a><a class=\\\"button outline\\\" href=\\\"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi\\\">ALL SPA &amp; BEAUTY</a></div><p class=\\\"location\\\">24804 75th St \\u00b7 Salem, WI 53168 \\u00b7 Text 262-939-9325</p></div></section></div>\\n\\n\"; });"
+- generic: "API Reference:"
+- generic: CustomElement Element
+- separator
+- generic: ID
+- text: "#"
+- textbox: matrixHeadSpaReview
+- separator
+- generic: Default Values
+- generic: Hidden
+- generic: Collapsed
+- separator
+- generic: Event Handlers
+- button "Code Assistant":
+  - text: Code Assistant
+- generic: onMouseIn( )
+- generic: onMouseOut( )
+- generic: onViewportEnter( )
+- generic: onViewportLeave( )
+- button "?"
+- textbox "°" [disabled]: "0"
+- generic: °
+- generic: Size (px)
+- generic: "W:"
+- textbox "W:" [disabled]: "980"
+- generic: "H:"
+- textbox "H:": "7305"
+- generic: Position
+- generic: "X:"
+- textbox "X:" [disabled]: "0"
+- generic: "Y:"
+- textbox "Y:": "134"
+- generic: Show on All Pages
+- checkbox
+- button "Layers"
+- alert
+- alert

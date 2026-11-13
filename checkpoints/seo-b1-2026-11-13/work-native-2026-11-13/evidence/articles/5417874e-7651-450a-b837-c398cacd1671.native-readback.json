@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Organization",
+    "name": "Matrix Massage & Bodywork",
+    "url": "https://www.matrixmassage.net/about-5"
+  },
+  "dateModified": "2026-11-07T02:36:24.718Z",
+  "datePublished": "2025-07-23T03:47:26.988Z",
+  "headline": "Fascia, Foam Rolling & Massage: What You Need to Know",
+  "mainEntityOfPage": {
+    "@id": "https://www.matrixmassage.net/post/fascia-foam-rolling-massage-benefits",
+    "@type": "ItemPage",
+    "url": "https://www.matrixmassage.net/post/fascia-foam-rolling-massage-benefits"
+  },
+  "description": "Discover how fascia—the connective tissue surrounding your muscles—impacts pain, mobility, and overall wellness. Learn how massage therapy, foam rolling, and hydration work together to release fascial tension, improve circulation, and promote healing. This educational post from Matrix Massage & Bodywork in Salem, WI explains fascia’s role in chronic pain and how hands-on therapy can support long-term recovery.",
+  "url": "https://www.matrixmassage.net/post/fascia-foam-rolling-massage-benefits",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://static.wixstatic.com/media/e4cc43_f56f26265b25456c9b655c9bd322f57e~mv2.png/v1/fill/w_1536,h_1024,al_c,q_90/e4cc43_f56f26265b25456c9b655c9bd322f57e~mv2.png",
+    "width": "1536",
+    "height": "1024"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Matrix Massage & Bodywork",
+    "url": "https://www.matrixmassage.net"
+  }
+}

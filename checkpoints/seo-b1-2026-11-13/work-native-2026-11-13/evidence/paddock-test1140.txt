@@ -1,0 +1,195 @@
+Browser tab: 14, Title: "Spa Services Near Paddock Lake, WI | Matrix Massage", URL: "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi?rc=test-site".
+1 AXWebArea Spa Services Near Paddock Lake, WI | Matrix Massage, URL: matrixmassage.net/spa-services-near-paddock-lake-wi?rc=test-site
+	2 container main_MF
+		3 container Description: top of page, ID: SCROLL_TO_TOP
+		4 button Skip to Main Content, ID: SKIP_TO_CONTENT_BTN
+		5 container masterPage
+			6 container SITE_HEADER
+				7 container Site
+					8 content list
+						9 link Description: HOME, Value: matrixmassage.net/
+						10 link Description: BOOK NOW, Value: matrixmassage.net/book-appointments-salem-wi
+						11 container
+							12 link (collapsed) Description: MASSAGE THERAPY SERVICES, Value: matrixmassage.net/massage-therapy-services-salem-wi, Secondary Actions: Expand
+							13 button Toggle MASSAGE THERAPY SERVICES 
+								14 image
+						15 container
+							16 link (collapsed) Description: SPA & BEAUTY SERVICES, Value: matrixmassage.net/spa-and-beauty-services-salem-wi, Secondary Actions: Expand
+							17 button Toggle SPA & BEAUTY SERVICES
+								18 image
+						19 link Description: GIFT CARDS, Value: matrixmassage.net/massage-spa-gift-cards-salem-wi
+						20 link Description: FACIALS, Value: matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+						21 container
+							22 link (collapsed) Description: WELLNESS & BIOTECH SERVICES, Value: matrixmassage.net/wellness-biotech-services-salem-wi, Secondary Actions: Expand
+							23 button Toggle WELLNESS & BIOTECH SERVICES
+								24 image
+						25 link Description: ABOUT, Value: matrixmassage.net/about-5
+						26 link Description: BLOG, Value: matrixmassage.net/salem-wi-blog
+			27 container i4qul
+				28 container
+					29 container comp-msbundsi
+						30 container
+							31 container comp-msbundsk
+								32 container
+									33 heading Spa Services Near Paddock Lake, WI, Value: 1
+										34 text Spa Services Near Paddock Lake, WI
+									35 text A little time for yourself can change the pace of your day.
+							36 text MATRIX MASSAGE & BODYWORK · PADDOCK LAKE, WI
+							37 image Description: Matrix Massage & Bodywork, ID: img_comp-mvu2atcn
+							38 text All treatments are performed by licensed massage therapists and skincare professionals dedicated to your comfort and wellness.
+							39 container
+								40 text Discover customized facials, therapeutic massage, Japanese Head Spa rituals, 
+								41 link Description: eyelash extensions, Value: matrixmassage.net/spa-and-beauty-services-salem-wi/eyelash-extensions-salem-wi
+								42 text , waxing and restorative wellness experiences at Matrix Massage & Bodywork's Salem studio, serving Paddock Lake and the surrounding communities.
+							43 link Description: EXPLORE SERVICES, Value: matrixmassage.net/spa-services-near-paddock-lake-wi#services
+							44 link Description: BOOK AN APPOINTMENT, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+							45 text ONE PADDOCK LAKE / SALEM STUDIO · PERSONALIZED CARE · 24804 75TH ST SALEM, WI
+					46 container comp-msbundsp6
+						47 container
+							48 container Description: Services, ID: comp-mvu2ha21
+							49 text FIND YOUR MATRIX EXPERIENCE
+							50 heading Whatever brings you in, make it yours., Value: 2
+								51 text Whatever brings you in, make it yours.
+							52 image Description: Facial Paddock Lake WI, ID: img_comp-mvu337rx
+							53 image Description: Massage in Paddock Lake WI, ID: img_comp-mvu344wi
+							54 image Description: Head spa Paddock Lake WI, ID: img_comp-mvu34wdg
+							55 container comp-msbundsz
+								56 text SKINCARE WITH A PURPOSE
+								57 heading Custom Facials, Value: 3
+									58 text Custom Facials
+								59 text Consultation-led facials personalized around hydration, texture, sensitivity, radiance and your current goals. Explore Circadia specialties and dermaplaning, or simply start with a Custom Facial.
+								60 link Description: EXPLORE FACIALS, Value: matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+							61 container comp-mvu2t6k4
+								62 text RELAX + RECOVER
+								63 heading Massage & Bodywork, Value: 3
+									64 text Massage & Bodywork
+								65 text Massage care shaped around your preferences and areas of tension. Choose an appointment length and discuss your pressure and treatment goals with your therapist.
+								66 link Description: EXPLORE MASSAGE, Value: matrixmassage.net/massage-therapy-services-salem-wi
+							67 container comp-mvu2w0km
+								68 text SCALP CARE + DEEP RELAXATION
+								69 heading Japanese Head Spa, Value: 3
+									70 text Japanese Head Spa
+								71 text Enjoy an immersive scalp-focused experience. Explore services featuring scalp cleansing, massage, waterfall therapy, steam and customized scalp-care options according to the ritual booked.
+								72 link Description: EXPLORE HEAD SPA, Value: matrixmassage.net/japanese-head-spa-salem-wi
+							73 container comp-mvu2x0co
+								74 text SMOOTH, THOUGHTFUL CARE
+								75 heading Waxing & Hair Removal, Value: 3
+									76 text Waxing & Hair Removal
+								77 text Professional face and body waxing services for guests looking for a convenient beauty appointment in a calm studio setting.
+								78 link Description: EXPLORE WAXING, Value: matrixmassage.net/spa-and-beauty-services-salem-wi/hair-removal-waxing-salem-wi
+							79 container comp-mvu2xvmw
+								80 text SPACE TO RESTORE
+								81 heading Sauna, Red Light & Wellness, Value: 3
+									82 text Sauna, Red Light & Wellness
+								83 text Explore infrared sauna, red light therapy and other wellness options. Check the current booking menu for available standalone sessions and enhancements.
+								84 link Description: EXPLORE WELLNESS, Value: matrixmassage.net/wellness-biotech-services-salem-wi
+					85 container comp-mvtzt4fa
+						86 container
+							87 text MAKE ROOM FOR YOURSELF
+							88 heading A visit shaped around what you need today., Value: 2
+								89 text A visit shaped around what you need today.
+							90 text Maybe you want some focused work on tense shoulders. Maybe your skin needs a little more care. Or perhaps a Japanese Head Spa is the quiet experience you've been looking forward to.
+							91 text At Matrix, there is no need to make every visit the same. Choose the service that fits your priorities, and we'll take the time to discuss your comfort and goals.
+							92 image Description: Spa Paddock Lake WI, ID: img_comp-mvtzt55l
+							93 text Our studio combines personal attention with a calm, modern spa atmosphere.
+							94 link Description: VIEW ALL SERVICES, Value: matrixmassage.net/studio
+					95 container comp-mvu0jl7d
+						96 container
+							97 text YOUR VISIT, MADE SIMPLE
+							98 heading Not sure what to book first?, Value: 2
+								99 text Not sure what to book first?
+							100 text For your skin: Begin with a Custom Facial if you'd like guidance choosing care.
+							101 text For body tension or relaxation: Explore massage therapy and choose the appointment length that fits your visit.
+							102 text For scalp-focused relaxation: Compare the Japanese Head Spa experiences and choose the ritual that appeals to you.
+							103 text For an additional wellness experience: Review the sauna and red-light options listed in the live menu.
+							104 text Current service durations, prices, availability and included steps are shown when booking. Multiple services or combinations depend on the options available in the schedule.
+					105 container comp-mvu0w6k7
+						106 container
+							107 text JUST NEARBY
+							108 heading One Salem studio serving the Paddock Lake community., Value: 2
+								109 text One Salem studio serving the Paddock Lake community.
+							110 text Matrix Massage & Bodywork is located at:
+							111 text 24804 75th St, Salem, WI 53168
+							112 container comp-mvu0w6kt
+								113 text We welcome guests from Paddock Lake, Salem Lakes, Twin Lakes, Bristol, Union Grove and surrounding communities.
+								114 text Convenient, free parking is available on-site right outside our studio doors. We are right across the street from Westosha Central High School football field in the building with American Family Insurance in Paddock Lake, WI.
+							115 container Google Maps
+								116 AXWebArea static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/googleMap.f3347ff6.html?defaultLocation=0&showZoom=true&showStreetView=true&showMapType=true&language=en&region=US&id=dataItem-mvu157wj&clientKey=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&googleMapsScriptPath=%2Fservices%2Feditor-elements-library%2Fdist%2Fthunderbolt%2Fmedia%2Fgoogle-map.min.9a2bea98.js&origin=https%3A%2F%2Fwww.matrixmassage.net&hasFocus=true
+							117 text All treatments take place at our Salem address; this is not a separate Paddock Lake branch. Use current maps for directions and plan around your confirmed appointment time.
+							118 link Description: GET DIRECTIONS, Value: maps.google.com/maps?cid=13922054554836148682
+							119 button TEXT MATRIX
+					120 container comp-mvtzgw60
+						121 container
+							122 heading Planning your Matrix visit, Value: 2
+								123 text Planning your Matrix visit
+							124 container comp-mvtzgwo4
+								125 heading Where is Matrix located in relation to Paddock Lake?, Value: 3
+									126 text Where is Matrix located in relation to Paddock Lake?
+								127 text Matrix Massage & Bodywork has one studio at 24804 75th St in Salem, Wisconsin. We are conveniently located just at the end of the double-lane road on HWY 50, only a quick 3- to 5-minute drive from Paddock Lake. All services are performed at this central Salem location.
+							128 container comp-mvtzgwo6
+								129 heading Can I get both a facial and a massage?, Value: 3
+									130 text Can I get both a facial and a massage?
+								131 text Matrix offers both services. Review the live booking menu for available appointment options and schedule separate services when needed.
+							132 container comp-mvtzgwo71
+								133 heading How do I choose a facial if I'm new to skincare?, Value: 3
+									134 text How do I choose a facial if I'm new to skincare?
+								135 text Start with the Custom Facial. Your provider can discuss your skin goals, sensitivities and current routine before selecting appropriate care.
+							136 container comp-mvtzgwo9
+								137 heading Does a Japanese Head Spa include a facial?, Value: 3
+									138 text Does a Japanese Head Spa include a facial?
+								139 text The services vary by ritual. Check the current booking descriptions for what's included and explore any combined head-spa-and-facial experiences listed.
+							140 container comp-mvtzgwoa
+								141 heading Can I book red light therapy or infrared sauna separately?, Value: 3
+									142 text Can I book red light therapy or infrared sauna separately?
+								143 text Review the current booking menu for available sessions and enhancements. The options depend on the service and schedule.
+							144 container comp-mvtzhoys
+								145 heading Do I need an appointment?, Value: 3
+									146 text Do I need an appointment?
+								147 text Yes. Choose your service and available time through the online booking menu, or text us at 262-939-9325 with questions.
+					148 container comp-mvtz73r3
+						149 container
+							150 text YOUR NEXT VISIT TO MATRIX
+							151 heading Come for the care. Leave feeling refreshed., Value: 2
+								152 text Come for the care. Leave feeling refreshed.
+							153 text Whether you're exploring a facial, massage, head spa or wellness experience, your appointment begins with choosing a little time for yourself.
+							154 link Description: BOOK YOUR VISIT, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
+							155 link Description: EXPLORE FACIALS, Value: matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+			156 container SITE_FOOTER
+				157 container
+					158 container
+						159 text © 2026 Matrix Massage & Bodywork · Salem Lakes, WI
+						160 text (262) 939-9325 · 24804 75th St, Salem, WI 53168
+						161 link Description: Massage Therapy, Value: matrixmassage.net/massage-therapy-services-salem-wi
+						162 text  · 
+						163 link Description: Custom Facials, Value: matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
+						164 text  · 
+						165 link Description: Japanese Head Spa, Value: matrixmassage.net/japanese-head-spa-salem-wi
+					166 container
+						167 text One Salem studio serving Salem Lakes, Paddock Lake, Bristol, Twin Lakes, Kenosha County, Union Grove and nearby Antioch, Illinois.
+						168 text Plan 
+						169 link Description: massage near Union Grove, Value: matrixmassage.net/massage-near-union-grove-wi
+						170 text , 
+						171 link Description: facials near Antioch, Value: matrixmassage.net/facials-near-antioch-il
+						172 text , 
+						173 link Description: Japanese Head Spa near Bristol, Value: matrixmassage.net/japanese-head-spa-near-bristol-wi
+						174 text , or 
+						175 link Description: spa services near Paddock Lake, Value: matrixmassage.net/spa-services-near-paddock-lake-wi
+						176 text . All appointments are provided at Matrix Massage & Bodywork in Salem, Wisconsin.
+					177 container Embedded Content
+						178 AXWebArea www-matrixmassage-net.filesusr.com/html/e4cc43_386e641eedab9b013d9e460ecd6825c1.html
+					179 container Embedded Content
+						180 AXWebArea www-matrixmassage-net.filesusr.com/html/e4cc43_a970c9e447f66d3ac60dd8b99e9f0282.html
+					181 container Embedded Content
+						182 AXWebArea www-matrixmassage-net.filesusr.com/html/e4cc43_297f7620ede407d4fd1b3d0ffbe6f1bb.html
+					183 container Embedded Content
+						184 AXWebArea www-matrixmassage-net.filesusr.com/html/e4cc43_d82a3bef3e52b62cf804ae06f2a05853.html
+					185 container comp-mqsjyvjb
+						186 text ​Links:
+						187 link Description: Gift Cards​, Value: matrixmassage.net/massage-spa-gift-cards-salem-wi
+						188 link Description: Partner with Us, Value: matrixmassage.net/local-wellness-partnerships
+						189 link Description: Work with Us, Value: matrixmassage.net/massage-therapist-jobs-salem-wi
+					190 container Google Maps
+						191 AXWebArea static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/googleMap.f3347ff6.html?defaultLocation=0&showZoom=true&showStreetView=true&showMapType=true&language=en&region=US&id=dataItem-msbtck7h&clientKey=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&googleMapsScriptPath=%2Fservices%2Feditor-elements-library%2Fdist%2Fthunderbolt%2Fmedia%2Fgoogle-map.min.9a2bea98.js&origin=https%3A%2F%2Fwww.matrixmassage.net&hasFocus=true
+		192 container Description: bottom of page, ID: SCROLL_TO_BOTTOM
+
+The focused UI element is 3 container Description: top of page, ID: SCROLL_TO_TOP

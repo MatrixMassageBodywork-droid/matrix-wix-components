@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Organization",
+    "name": "Matrix Massage & Bodywork",
+    "url": "https://www.matrixmassage.net/about-5"
+  },
+  "dateModified": "2026-11-07T02:36:27.640Z",
+  "datePublished": "2025-06-28T13:56:21.000Z",
+  "headline": "Top 10 Reasons Mixing NIR & Red Light Is Essential for Anti-Aging, Muscle Recovery & Skin Health",
+  "mainEntityOfPage": {
+    "@id": "https://www.matrixmassage.net/post/top-10-reasons-mixing-nir-red-light-is-essential-for-anti-aging-muscle-recovery-skin-health",
+    "@type": "ItemPage",
+    "url": "https://www.matrixmassage.net/post/top-10-reasons-mixing-nir-red-light-is-essential-for-anti-aging-muscle-recovery-skin-health"
+  },
+  "description": "Explore red and near-infrared light, wavelength differences and the research cited in Matrix’s educational guide to red light therapy in Salem, WI.",
+  "url": "https://www.matrixmassage.net/post/top-10-reasons-mixing-nir-red-light-is-essential-for-anti-aging-muscle-recovery-skin-health",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://static.wixstatic.com/media/e4cc43_1f10281473c34d6d87e169781c225c0d~mv2.webp/v1/fill/w_1500,h_1500,al_c,q_90/e4cc43_1f10281473c34d6d87e169781c225c0d~mv2.webp",
+    "width": "1500",
+    "height": "1500"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Matrix Massage & Bodywork",
+    "url": "https://www.matrixmassage.net"
+  }
+}

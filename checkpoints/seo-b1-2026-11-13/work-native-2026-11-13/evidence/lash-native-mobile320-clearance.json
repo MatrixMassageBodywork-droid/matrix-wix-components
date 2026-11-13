@@ -1,0 +1,11 @@
+{
+  "source": "Editor Preview only; production mobile not verified",
+  "open": {
+    "contentBottom": 12100.21875,
+    "frameHeight": 15000,
+    "open": 1
+  },
+  "closedContentBottom": 11879.21875,
+  "footerBeginsAtComponentEnd": true,
+  "status": "FAQ opens without clipping, but preview frame remains fixed at 15000px; trailing space requires Test Site mobile check; no geometry changed"
+}

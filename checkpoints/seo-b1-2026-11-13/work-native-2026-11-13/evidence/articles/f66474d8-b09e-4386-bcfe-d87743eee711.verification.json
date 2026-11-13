@@ -1,0 +1,13 @@
+{
+  "slug": "how-massage-can-naturally-support-healthy-blood-sugar-my-client-s-real-life-example",
+  "pass": true,
+  "checks": {
+    "status": true,
+    "oneArticle": true,
+    "exactSchema": true,
+    "title": true,
+    "meta": true,
+    "canonical": true,
+    "body": true
+  }
+}

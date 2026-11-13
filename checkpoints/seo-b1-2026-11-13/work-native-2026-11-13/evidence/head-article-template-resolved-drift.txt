@@ -1,0 +1,31 @@
+<script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "author": {
+    "@type": "Organization",
+    "name": "Matrix Massage & Bodywork",
+    "url": "https://www.matrixmassage.net/about-5"
+  },
+  "datePublished": "2026-05-16T15:07:48.000Z",
+  "headline": "Luxury Head Spa in Salem, WI: Why Not Every Head Spa Experience is Created Equal",
+  "mainEntityOfPage": {
+    "@id": "https://www.matrixmassage.net/post/head-spa-salem-wi",
+    "@type": "ItemPage",
+    "url": "https://www.matrixmassage.net/post/head-spa-salem-wi"
+  },
+  "description": "Experience a luxury head spa in Salem, WI designed to support scalp wellness, relaxation, and healthy-looking hair through personalized scalp analysis and customized hair wellness rituals by a licensed cosmetologist.",
+  "url": "https://www.matrixmassage.net/post/head-spa-salem-wi",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://static.wixstatic.com/media/e4cc43_811d7e011a0b45f8a62bc5838a7d3b70~mv2.png/v1/fit/w_1086,h_1448,al_c/e4cc43_811d7e011a0b45f8a62bc5838a7d3b70~mv2.png",
+    "width": "1086",
+    "height": "1448"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Matrix Massage & Bodywork",
+    "url": "https://www.matrixmassage.net/"
+  }
+}
+</script>

@@ -1,0 +1,13 @@
+{
+  "slug": "top-10-reasons-mixing-nir-red-light-is-essential-for-anti-aging-muscle-recovery-skin-health",
+  "pass": true,
+  "checks": {
+    "status": true,
+    "oneArticle": true,
+    "exactSchema": true,
+    "title": true,
+    "meta": true,
+    "canonical": true,
+    "body": true
+  }
+}

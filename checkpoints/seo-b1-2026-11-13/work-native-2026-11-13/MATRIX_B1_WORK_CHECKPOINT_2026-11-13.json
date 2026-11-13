@@ -1,0 +1,509 @@
+{
+  "checkpoint_utc": "2026-11-13T16:12:49.447452+00:00",
+  "project": "FACIAL WEB SEO PW",
+  "plan": "MATRIX-SITEWIDE-SEO-2026-11-12-B1",
+  "plan_revision": 1,
+  "plan_sha256": "faa0efafc73f64489727ad0fd17fb583a4900d17db65a8d46b4235ad808e3a3c",
+  "approval": "Existing B1 implementation and publication approval remains valid; no new approval required for unchanged scope.",
+  "siteId": "cdec8df6-d518-4859-9f1e-f06bf5346d41",
+  "editor_document": "a276c9bf-bc17-4680-959b-a24ebe7370f6",
+  "repository": "MatrixMassageBodywork-droid/matrix-wix-components",
+  "branch": "improve/seo-b1-2026-11-13",
+  "parent_source_commit": "a5666e1313aff9f11ede628c4435eb2b35fb7427",
+  "overall_status": "PARTIALLY PUBLISHED; native body release BLOCKED by incomplete mobile QA",
+  "article_author_correction": {
+    "status": "PUBLISHED / VERIFIED",
+    "count": 23,
+    "method": "Per-post exclusion of inherited Article plus exactly one full custom BlogPosting with Organization author; all other fields exactly preserved from public baseline.",
+    "author": {
+      "@type": "Organization",
+      "name": "Matrix Massage & Bodywork",
+      "url": "https://www.matrixmassage.net/about-5"
+    },
+    "two_unpublished_drafts": "UNTOUCHED",
+    "dynamic_fields": "Current public values are explicit snapshots, not future dynamic variables. Refresh this markup when article title, description, dates, URL, image or publisher fields change.",
+    "posts": [
+      {
+        "itemId": "22586bf5-c500-4e97-bef4-3a2722fbbc88",
+        "url": "https://www.matrixmassage.net/post/head-spa-salem-wi",
+        "title": "Luxury Head Spa in Salem, WI: Why Not Every Head Spa Experience is Created Equal",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "22586bf5-c500-4e97-bef4-3a2722fbbc88.verification.json",
+        "verified_at_utc": "2026-11-13T15:31:20.775293+00:00"
+      },
+      {
+        "itemId": "20821d24-30f3-4ce2-9a13-854f385ba4a3",
+        "url": "https://www.matrixmassage.net/post/10-reasons-why-you-should-get-a-massage-in-the-hot-summer-months",
+        "title": "10 Reasons Why You Should Get a Massage in the Hot Summer Months",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "20821d24-30f3-4ce2-9a13-854f385ba4a3.verification.json",
+        "verified_at_utc": "2026-11-13T15:33:42.963007+00:00"
+      },
+      {
+        "itemId": "38c7c66c-8f4b-42b6-824e-c8bcba7c83ed",
+        "url": "https://www.matrixmassage.net/post/deep-tissue-massage-vs-myofascial-release-massage-what-s-best-for-you-in-salem-paddock-lake-wi",
+        "title": "Deep Tissue Massage vs. Myofascial Release Massage: What’s Best for You in Salem & Paddock Lake, WI?",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "38c7c66c-8f4b-42b6-824e-c8bcba7c83ed.verification.json",
+        "verified_at_utc": "2026-11-13T15:39:04.878798+00:00"
+      },
+      {
+        "itemId": "5417874e-7651-450a-b837-c398cacd1671",
+        "url": "https://www.matrixmassage.net/post/fascia-foam-rolling-massage-benefits",
+        "title": "Fascia, Foam Rolling & Massage: What You Need to Know",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "5417874e-7651-450a-b837-c398cacd1671.verification.json",
+        "verified_at_utc": "2026-11-13T15:40:06.748685+00:00"
+      },
+      {
+        "itemId": "a2abd00e-246f-4999-bea9-521e5d18d54f",
+        "url": "https://www.matrixmassage.net/post/get-tingly-or-numb-fingers-here-s-8-reasons-why-massage-therapy-improves-nerve-health",
+        "title": "Get Tingly or Numb Fingers? Here’s 8 Reasons Why Massage Therapy Improves Nerve Health",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "a2abd00e-246f-4999-bea9-521e5d18d54f.verification.json",
+        "verified_at_utc": "2026-11-13T15:44:42.690747+00:00"
+      },
+      {
+        "itemId": "f66474d8-b09e-4386-bcfe-d87743eee711",
+        "url": "https://www.matrixmassage.net/post/how-massage-can-naturally-support-healthy-blood-sugar-my-client-s-real-life-example",
+        "title": "How Massage Can Naturally Support Healthy Blood Sugar: My Client’s Real-Life Example",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "f66474d8-b09e-4386-bcfe-d87743eee711.verification.json",
+        "verified_at_utc": "2026-11-13T15:47:05.580381+00:00"
+      },
+      {
+        "itemId": "1ab7f78e-9cca-4eed-8460-b9f646db5e30",
+        "url": "https://www.matrixmassage.net/post/how-massage-therapy-in-salem-wi-can-relieve-nerve-pain-in-your-arms-hands-or-feet-techniques-that",
+        "title": "How Massage Therapy Can Relieve Nerve Pain In Your Arms, Hands or Feet: Techniques That Work",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "1ab7f78e-9cca-4eed-8460-b9f646db5e30.verification.json",
+        "verified_at_utc": "2026-11-13T15:49:14.271450+00:00"
+      },
+      {
+        "itemId": "3703ba0f-1b06-44d9-a188-416736999223",
+        "url": "https://www.matrixmassage.net/post/how-often-should-you-get-lymphatic-drainage-for-inflammation-or-post-procedure-recovery",
+        "title": "How Often Should You Get Lymphatic Drainage Massage for Inflammation or Post-Procedure Recovery?",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "3703ba0f-1b06-44d9-a188-416736999223.verification.json",
+        "verified_at_utc": "2026-11-13T15:50:44.753612+00:00"
+      },
+      {
+        "itemId": "1d9aa303-99fa-4a1d-ad07-dc65301a0a91",
+        "url": "https://www.matrixmassage.net/post/how-to-minimize-large-pores-salem-wi",
+        "title": "Why Your Pores Still Look Large After Cleansing—and What Facials Can Actually Do",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "1d9aa303-99fa-4a1d-ad07-dc65301a0a91.verification.json",
+        "verified_at_utc": "2026-11-13T15:51:43.277025+00:00"
+      },
+      {
+        "itemId": "674a3509-491d-43d0-b662-56ab76f91451",
+        "url": "https://www.matrixmassage.net/post/last-minute-father-s-day-gifts-near-kenosha-wi-that-dad-will-actually-use",
+        "title": "Last-Minute Father’s Day Gifts Near Kenosha, WI That Dad Will Actually Use",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "674a3509-491d-43d0-b662-56ab76f91451.verification.json",
+        "verified_at_utc": "2026-11-13T15:52:32.005796+00:00"
+      },
+      {
+        "itemId": "8b381590-61b1-4861-95de-59580e01d6d1",
+        "url": "https://www.matrixmassage.net/post/lymphatic-drainage-why-it-works-why-you-might-need-it",
+        "title": "Lymphatic Drainage - Why It Works & Why You Might Need It",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "8b381590-61b1-4861-95de-59580e01d6d1.verification.json",
+        "verified_at_utc": "2026-11-13T15:53:42.611602+00:00"
+      },
+      {
+        "itemId": "8036d06c-eb96-4a28-9838-969cf8a9282e",
+        "url": "https://www.matrixmassage.net/post/massage-wellness-services-salem-near-pleasant-prairie",
+        "title": "Matrix Massage & Bodywork: Your Local Wellness Destination in Salem, WI",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "8036d06c-eb96-4a28-9838-969cf8a9282e.verification.json",
+        "verified_at_utc": "2026-11-13T15:54:28.805990+00:00"
+      },
+      {
+        "itemId": "2e060b77-36e1-43e2-a20e-8669d5c47bbf",
+        "url": "https://www.matrixmassage.net/post/maximize-the-benefits-of-yourmassage-aftercare-for-deeper-healing-at-home",
+        "title": "Maximize the Benefits of Your Massage: Aftercare for Deeper Healing at Home",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "2e060b77-36e1-43e2-a20e-8669d5c47bbf.verification.json",
+        "verified_at_utc": "2026-11-13T15:55:22.774294+00:00"
+      },
+      {
+        "itemId": "c2eecd49-82af-4f8d-bd3b-25fff685dab1",
+        "url": "https://www.matrixmassage.net/post/nerve-health-more-than-expensive-pee-why-the-right-supplements-genetic-variation-matter",
+        "title": "Nerve Health: More Than “Expensive Pee” – Why the Right Supplements + Genetic Variation Matter",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "c2eecd49-82af-4f8d-bd3b-25fff685dab1.verification.json",
+        "verified_at_utc": "2026-11-13T15:56:11.847809+00:00"
+      },
+      {
+        "itemId": "47c774b4-5466-4ca7-b8f3-604037e471ad",
+        "url": "https://www.matrixmassage.net/post/red-light-therapy-hashimotos",
+        "title": "Research Shows Red & Near Infrared Light Therapy Improves Hashimoto’s",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "47c774b4-5466-4ca7-b8f3-604037e471ad.verification.json",
+        "verified_at_utc": "2026-11-13T15:57:10.381383+00:00"
+      },
+      {
+        "itemId": "d7c4ea96-2d08-40b0-976b-e3b56e241cbb",
+        "url": "https://www.matrixmassage.net/post/rediscovering-relaxation-the-timeless-appeal-of-swedish-massage-for-busy-parents",
+        "title": "Rediscovering Relaxation: The Timeless Appeal of Swedish Massage for Busy Parents",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "d7c4ea96-2d08-40b0-976b-e3b56e241cbb.verification.json",
+        "verified_at_utc": "2026-11-13T15:58:01.779192+00:00"
+      },
+      {
+        "itemId": "3619c40a-c638-41ab-bd45-e3f6a79fd367",
+        "url": "https://www.matrixmassage.net/post/relief-in-harmony-how-massage-and-red-light-therapy-support-nerve-pain-healing",
+        "title": "Relief in Harmony: How Massage and Red Light Therapy Support Nerve Pain & Healing",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "3619c40a-c638-41ab-bd45-e3f6a79fd367.verification.json",
+        "verified_at_utc": "2026-11-13T15:59:15.732501+00:00"
+      },
+      {
+        "itemId": "c3e6efb2-5d71-42a6-8538-f0aec837a4f5",
+        "url": "https://www.matrixmassage.net/post/sciatica-relief-massage-salem-wi",
+        "title": "Sciatica Relief Massage in Salem, WI: How Massage Therapy May Help Reduce Back & Leg Pain",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "c3e6efb2-5d71-42a6-8538-f0aec837a4f5.verification.json",
+        "verified_at_utc": "2026-11-13T16:00:07.844046+00:00"
+      },
+      {
+        "itemId": "284df537-e2a4-4ebf-b177-43a514923d62",
+        "url": "https://www.matrixmassage.net/post/the-science-of-serenity-unpacking-the-proven-benefits-of-massage-therapy-in-salem-wi",
+        "title": "The Science of Serenity: Unpacking the Proven Benefits of Massage Therapy in Salem, WI",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "284df537-e2a4-4ebf-b177-43a514923d62.verification.json",
+        "verified_at_utc": "2026-11-13T16:00:57.409768+00:00"
+      },
+      {
+        "itemId": "dc35cff1-3877-407f-b800-a870ae90b068",
+        "url": "https://www.matrixmassage.net/post/the-synergistic-power-of-red-light-therapy-and-grounding-mats-a-science-backed-wellness-boost",
+        "title": "The Synergistic Power of Red Light Therapy and Grounding Mats: A Science-Backed Wellness Boost",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "dc35cff1-3877-407f-b800-a870ae90b068.verification.json",
+        "verified_at_utc": "2026-11-13T16:01:46.535456+00:00"
+      },
+      {
+        "itemId": "4b8e3be3-0ef2-418f-913c-81d0fe82cd69",
+        "url": "https://www.matrixmassage.net/post/top-10-benefits-of-topical-magnesium-why-soaks-sprays-outshine-epsom-salt",
+        "title": "Top 10 Benefits of Topical Magnesium: Why Soaks & Sprays Outshine Epsom Salt",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "4b8e3be3-0ef2-418f-913c-81d0fe82cd69.verification.json",
+        "verified_at_utc": "2026-11-13T16:02:47.047683+00:00"
+      },
+      {
+        "itemId": "213286a4-f4f0-4934-b2c9-b92289fedeaf",
+        "url": "https://www.matrixmassage.net/post/top-10-reasons-mixing-nir-red-light-is-essential-for-anti-aging-muscle-recovery-skin-health",
+        "title": "Top 10 Reasons Mixing NIR & Red Light Is Essential for Anti-Aging, Muscle Recovery & Skin Health",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "213286a4-f4f0-4934-b2c9-b92289fedeaf.verification.json",
+        "verified_at_utc": "2026-11-13T16:03:37.240303+00:00"
+      },
+      {
+        "itemId": "e8d782e2-f115-4dad-8f3c-e1b195d2f6e8",
+        "url": "https://www.matrixmassage.net/post/wavelength-matters-why-choosing-the-right-red-light-therapy-nm-level-is-key-to-results",
+        "title": "Wavelength Matters: Why Choosing the Right Red Light Therapy NM Level Is Key to Results",
+        "status": "PUBLISHED / VERIFIED",
+        "checks": {
+          "status": true,
+          "oneArticle": true,
+          "exactSchema": true,
+          "title": true,
+          "meta": true,
+          "canonical": true,
+          "body": true
+        },
+        "pass_": true,
+        "verification_file": "e8d782e2-f115-4dad-8f3c-e1b195d2f6e8.verification.json",
+        "verified_at_utc": "2026-11-13T16:04:37.397960+00:00"
+      }
+    ]
+  },
+  "native_release": {
+    "status": "SAVED / DESKTOP TESTED / NOT PUBLISHED",
+    "test_version": 1143,
+    "test_exposure_percent": 0,
+    "test_created_display": "Nov 13, 2026, 9:22 AM",
+    "production_publication_this_turn": "NOT PERFORMED",
+    "last_verified_native_publication": 1131,
+    "release_manager_live_row_anomaly": "Live row displays Version not found / Version 2. Site History established prior publication1131. Do not restore Version2.",
+    "test1140": "Superseded own earlier Test Site after renderer Update controls were found not persisted; final1143 uses confirmed renderer URLs.",
+    "pages": {
+      "Paddock Lake": {
+        "pageId": "i4qul",
+        "component": "comp-msbundsm",
+        "saved": "Overview includes one eyelash extensions link to nested Lash canonical, same window. Studio link comp-mvtzt5751 unchanged.",
+        "desktop": "Test Site link verified, reciprocal destination opened.",
+        "mobile320": "Native Editor Preview only: edited 280px-wide paragraph fits. Adjacent existing hero text components comp-mvu242uh and comp-mvuxqzb5 overlap. Mobile Test Site verification/correction required.",
+        "mobile375": "NOT TESTED"
+      },
+      "Lash": {
+        "pageId": "xkw6l",
+        "component": "comp-mw5qnw5n",
+        "saved": "Only seoMarkup RHS changed; custom renderer pinned to811a4009d73a279df0d2d51d1f7885d5b26061f1 using Update and saved readback.",
+        "desktop": "Test1143 link and FAQ expansion/collapse passed, footer follows height.",
+        "mobile320": "Native Editor Preview only: content width320, no horizontal overflow, correct Paddock link and FAQ opens/closes. Frame remains15000px while closed content ends11879.21875 and open content ends12100.21875; trailing space requires Test Site mobile confirmation. No geometry changed.",
+        "mobile375": "NOT TESTED"
+      },
+      "Head Spa": {
+        "pageId": "l21lg",
+        "component": "comp-mw5557gz",
+        "saved": "Only seoMarkup RHS changed; renderer pinned to811a4009d73a279df0d2d51d1f7885d5b26061f1 using Update and saved readback.",
+        "desktop": "Test1143 article link and FAQ expansion/collapse passed, footer follows height.",
+        "mobile320": "Native Editor Preview: width320, scrollWidth320, correct article link, FAQ height11729→11856→11729, no clipping observed. Supplementary to required Test Site QA.",
+        "mobile375": "NOT TESTED"
+      },
+      "Skin Reset": {
+        "pageId": "ltyp8",
+        "iframe": "comp-moqgyn3g",
+        "saved": "Exactly five href replacements; inverse substitution equals baseline byte-for-byte. Existing iframe geometry/title preserved. One native companion created outside iframe before footer.",
+        "companion_ids": {
+          "section": "comp-mwf3d7k9",
+          "heading": "comp-mwf3wji3",
+          "body": "comp-mwf3entm"
+        },
+        "desktop": "Test1143 verified correct iframe src/title and975×3217 geometry, exact companion and two links, no horizontal overflow.",
+        "mobile320": "Native Editor Preview: companion width288 within320, no overlap observed; screenshot saved.",
+        "mobile375": "NOT TESTED",
+        "actual_retained_iframe_anchor_counts": {
+          "facials_corrected": 5,
+          "guide_forms": 2,
+          "booking": 3
+        },
+        "counts_note": "Master prose had forms/booking counts reversed; exact original source and inverse byte comparison are authoritative."
+      }
+    }
+  },
+  "blocking_conditions": [
+    "Required Test Site mobile QA at320 and375 has not been completed; available native Editor Preview evidence is separately labeled.",
+    "375px viewport could not be provided by Classic fixed mobile canvas; organization blocks browser DevTools. No bypass attempted.",
+    "Paddock adjacent existing hero text overlap and Lash trailing blank space observed in native mobile preview require bounded Test Site confirmation and targeted correction before release."
+  ],
+  "preserved": [
+    "Permanent URLs, canonicals, indexing, metadata, schema outside intended article author replacements, header/footer, maps, booking and pricing, providers/reviews, Studio systems.",
+    "Prior17 search descriptions, four article body changes, prior40-page checks and Wellness/Sauna publication1131 were not rerun."
+  ],
+  "google": "No indexing request attempted this turn; daily quota follow-up remains separate from native release. No indexing completion claim.",
+  "next_action": "Use saved Test1143 and evidence. Confirm mobile findings on Test Site320/375. Chat designs only a bounded correction if confirmed. Do not recreate completed edits/articles. After all checks pass, promote the exact tested approved version through Release Manager and independently verify all four permanent URLs.",
+  "source_files": "native-captures.json; native-source-comparison.json; article baseline/after/readback/verification JSON; screenshots; complete raw HTTP evidence in accompanying private archive."
+}

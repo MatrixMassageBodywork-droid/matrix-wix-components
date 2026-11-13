@@ -1,0 +1,125 @@
+- link:
+  - /url: https://wix.com/?referralAdditionalInfo=Dashboard
+- generic: Matrix Massage & Bodywork
+- button "Explore":
+  - text: Explore
+- link "Hire a Professional":
+  - /url: https://www.wix.com/marketplace/brief/match?entry=bm-header&serviceType=1&origin=hire-a-professional&referralAdditionalInfo=Dashboard&msid=cdec8df6-d518-4859-9f1e-f06bf5346d41
+  - generic: Hire a Professional
+- button "Help":
+  - generic: Help
+- button "Upgrade":
+  - generic: Upgrade
+- textbox "Search..."
+- button "13":
+  - generic: "13"
+- button "Open account menu":
+- button "Ask Aria":
+  - generic: Ask Aria
+- main "Settings":
+  - generic: Site History
+  - link:
+    - /url: https://support.wix.com/en/article/managing-your-site-history-1079227?referral=MAD_history_help
+  - combobox "Show": All Revisions
+  - generic: Show
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 13, 2026, 9:08 AM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button [disabled]:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 13, 2026, 9:07 AM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 13, 2026, 8:56 AM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 13, 2026, 8:49 AM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 13, 2026, 8:46 AM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 13, 2026, 8:44 AM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 13, 2026, 8:43 AM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 13, 2026, 8:41 AM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 12, 2026, 10:25 PM
+  - generic: Published by site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 12, 2026, 9:22 PM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 12, 2026, 8:19 PM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - button:
+  - generic: WIX EDITOR
+  - generic: Original-Branch
+  - generic: Nov 12, 2026, 7:29 PM
+  - text: Saved by
+  - separator
+  - text: site owner
+  - button:
+  - text: Restoring a version of your site?
+  - button "Some things won’t change. Read more":
+    - generic: Some things won’t change. Read more
+  - iframe:
+    - region "top of page"
+    - region "bottom of page"
+    - iframe

@@ -1,0 +1,13 @@
+{
+  "slug": "relief-in-harmony-how-massage-and-red-light-therapy-support-nerve-pain-healing",
+  "pass": true,
+  "checks": {
+    "status": true,
+    "oneArticle": true,
+    "exactSchema": true,
+    "title": true,
+    "meta": true,
+    "canonical": true,
+    "body": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "last-minute-father-s-day-gifts-near-kenosha-wi-that-dad-will-actually-use",
+  "pass": true,
+  "checks": {
+    "status": true,
+    "oneArticle": true,
+    "exactSchema": true,
+    "title": true,
+    "meta": true,
+    "canonical": true,
+    "body": true
+  }
+}

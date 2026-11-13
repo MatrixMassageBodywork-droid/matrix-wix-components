@@ -1,0 +1,13 @@
+{
+  "slug": "how-massage-therapy-in-salem-wi-can-relieve-nerve-pain-in-your-arms-hands-or-feet-techniques-that",
+  "pass": true,
+  "checks": {
+    "status": true,
+    "oneArticle": true,
+    "exactSchema": true,
+    "title": true,
+    "meta": true,
+    "canonical": true,
+    "body": true
+  }
+}

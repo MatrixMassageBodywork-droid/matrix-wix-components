@@ -1,0 +1,12 @@
+Browser tab: 4, Title: "SEO Settings | Wix.com", URL: "https://manage.wix.com/dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/seo-home/seo-settings/blog-post".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 1599-1603
++			1686 button Help
++				1687 text Help
++				1688 image
++													1689 container
++														1690 text Page URL
++													1691 container
++														1692 text Indexable
+~						1650 button (disabled) Publish
+The focused UI element is 1650 button (disabled) Publish

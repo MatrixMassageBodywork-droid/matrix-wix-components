@@ -1,0 +1,223 @@
+Browser tab: 13, Title: "Wix Website Editor | Matrix Massage & Bodywork", URL: "https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/edit/a276c9bf-bc17-4680-959b-a24ebe7370f6?metaSiteId=cdec8df6-d518-4859-9f1e-f06bf5346d41".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 1647-1835, 1893-1915
++							1893 AXWebArea Title, URL: static.parastorage.com/services/editor-elements-library/dist/thunderboltPreview/media/CustomElementPreviewIframe.7788fb1e.html
++								1894 container wix-internal-id
++									1895 container
++										1896 link Description: Spa & Beauty / Head Spa, Value: matrixmassage.net/spa-and-beauty-services-salem-wi
++										1897 image Matrix Massage & Bodywork
++										1898 text MATRIX MASSAGE & BODYWORK · SALEM, WI
++										1899 heading Japanese Head Spa in Salem, WI, Value: 1
++											1900 text Japanese Head Spa in Salem, WI
++										1901 text Let your shoulders drop. Enjoy warm water, scalp massage and care chosen for your scalp and hair—all at an easier pace.
++										1902 link Description: BOOK HEAD SPA, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
++										1903 link Description: Explore the experience, Value: static.parastorage.com/services/editor-elements-library/dist/thunderboltPreview/media/CustomElementPreviewIframe.7788fb1e.html#experience
++										1904 text 45–120 minute experiences · Customized scalp care · Relaxation
++										1905 image The Japanese Head Spa waterfall basin during a Matrix scalp treatment in Salem, Wisconsin.
++										1906 text Warm water. A little quiet. Your time.
++									1907 container Head Spa page sections
++										1908 link Description: The ritual, Value: static.parastorage.com/services/editor-elements-library/dist/thunderboltPreview/media/CustomElementPreviewIframe.7788fb1e.html#experience
++										1909 link Description: Head Spa menu, Value: static.parastorage.com/services/editor-elements-library/dist/thunderboltPreview/media/CustomElementPreviewIframe.7788fb1e.html#head-spa-menu
++										1910 link Description: Scalp infusions, Value: static.parastorage.com/services/editor-elements-library/dist/thunderboltPreview/media/CustomElementPreviewIframe.7788fb1e.html#infusions
++										1911 link Description: Before your visit, Value: static.parastorage.com/services/editor-elements-library/dist/thunderboltPreview/media/CustomElementPreviewIframe.7788fb1e.html#before-your-visit
++									1912 container
++										1913 text FROM OUR SALEM STUDIO
++										1914 heading Step into the Matrix Head Spa., Value: 2
++											1915 text Step into the Matrix Head Spa.
++										1916 text A look inside our scalp-care experience, from hands-on care to the infusions selected for your visit.
++										1917 image A Matrix provider performing a Head Spa treatment at the Salem studio.
++										1918 container
++											1919 heading Care, from the scalp down, Value: 3
++												1920 text Care, from the scalp down
++											1921 text A relaxing treatment shaped around your scalp and comfort.
++										1922 image Matrix Precision Scalp Infusions displayed in the Salem studio.
++										1923 container
++											1924 heading Our scalp-care collection, Value: 3
++												1925 text Our scalp-care collection
++											1926 text Customized infusions selected as part of your Head Spa.
++									1927 container experience
++										1928 text A RESET FROM THE SCALP DOWN
++										1929 heading Scalp care, with a slower rhythm., Value: 2
++											1930 text Scalp care, with a slower rhythm.
++										1931 container
++											1932 text A Japanese Head Spa combines cosmetic scalp care with a deeply relaxing sensory experience. At Matrix, your provider adapts cleansing, scalp massage and a customized infusion to your scalp, hair and comfort. 
++											1933 link Description: Read about the Matrix Head Spa experience, Value: matrixmassage.net/post/head-spa-salem-wi
++											1934 text .
++										1935 container
++											1936 text 01
++											1937 heading Begin with your scalp, Value: 3
++												1938 text Begin with your scalp
++											1939 text Share your scalp concerns, sensitivities and hair needs. Scalp analysis helps guide the care selected for your visit.
++										1940 container
++											1941 text 02
++											1942 heading Cleanse and unwind, Value: 3
++												1943 text Cleanse and unwind
++											1944 text Enjoy cleansing, warm-water waterfall therapy and scalp massage. Longer rituals offer extra time and additional care.
++										1945 container
++											1946 text 03
++											1947 heading Finish refreshed, Value: 3
++												1948 text Finish refreshed
++											1949 text Warm towels and personalized finishing care complete the ritual. Hair is left wet; drying or styling is booked separately.
++									1950 container head-spa-menu
++										1951 text CHOOSE YOUR RITUAL
++										1952 heading A little refresh. A longer escape., Value: 2
++											1953 text A little refresh. A longer escape.
++										1954 text Select your experience by time and the kind of care you want. Your provider personalizes the products and approach within your booked service.
++										1955 container
++											1956 text 60 MINUTES · $135
++											1957 heading Matrix Signature Head Spa, Value: 3
++												1958 text Matrix Signature Head Spa
++											1959 text A beautiful first visit: scalp analysis, customized infusion, double cleanse, exfoliation, steam, waterfall therapy and extended scalp, neck and shoulder massage.
++											1960 link Description: VIEW & BOOK, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/JBJI7MD5EU2QM3E4MQXE5TSK
++										1961 container
++											1962 text 45 MINUTES · $95
++											1963 heading Matrix Scalp Cleanse & Refresh Head Spa, Value: 3
++												1964 text Matrix Scalp Cleanse & Refresh Head Spa
++											1965 text Focused maintenance with scalp analysis, customized infusion, gentle cleansing, steam towels, waterfall rinse and relaxing scalp massage.
++											1966 link Description: VIEW & BOOK, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/E3GF7465U2EEJBNBUWKE7O5B
++										1967 container
++											1968 text 90 MINUTES · $195
++											1969 heading Matrix Deep Relaxation Head Spa, Value: 3
++												1970 text Matrix Deep Relaxation Head Spa
++											1971 text The Signature experience with extended waterfall therapy and scalp care, facial massage, hand and arm massage, and more time to unwind.
++											1972 link Description: VIEW & BOOK, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/5ARKZCV4NSRAFWNYZOTEKTOU
++										1973 container
++											1974 text 120 MINUTES · $265
++											1975 heading Matrix Intensive Scalp Renewal Head Spa, Value: 3
++												1976 text Matrix Intensive Scalp Renewal Head Spa
++											1977 text Our most comprehensive scalp-care experience, with detailed scalp imaging and analysis, an advanced scalp serum and extended massage.
++											1978 link Description: VIEW & BOOK, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/RM2XACH3ZAVQ65UTSENKJAGW
++										1979 container
++											1980 text 120 MINUTES · $285
++											1981 heading Matrix Head Spa + Hydrating Glow Facial, Value: 3
++												1982 text Matrix Head Spa + Hydrating Glow Facial
++											1983 text Customized Head Spa care paired with a mini facial, facial massage and hyaluronic hydration for a refreshed scalp and hydrated-looking skin.
++											1984 link Description: VIEW & BOOK, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/ANHVUNL2SFY2ETFWNCU5WNJS
++										1985 container
++											1986 text 60 MINUTES · $135
++											1987 heading Matrix Men’s Scalp Refresh + Mini Facial, Value: 3
++												1988 text Matrix Men’s Scalp Refresh + Mini Facial
++											1989 text A shorter scalp-and-skin combination with scalp cleansing and massage, a mini facial, and neck and shoulder relaxation.
++											1990 link Description: VIEW & BOOK, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/VJPRLALSE5VDWQRMF6LQLOHM
++										1991 container
++											1992 text 90 MINUTES · $175
++											1993 heading Matrix Men’s Head Spa + Refreshing Custom Facial, Value: 3
++												1994 text Matrix Men’s Head Spa + Refreshing Custom Facial
++											1995 text An extended Head Spa and custom facial combination, with longer scalp massage and care selected for your scalp, hair and skin.
++											1996 link Description: VIEW & BOOK, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/UGLNWFVWMYIZSHHC6MDZPCFA
++										1997 text The booking menu has current availability and full inclusions. Enhancements such as scalp red light are used only when appropriate.
++									1998 container infusions
++										1999 image Matrix Precision Scalp Infusions M1 through M6 with amber bottles and labeled vials.
++										2000 text MATRIX PRECISION SCALP INFUSIONS™
++										2001 heading Personal care begins at the scalp., Value: 2
++											2002 text Personal care begins at the scalp.
++										2003 text Your Head Spa includes a customized scalp infusion, selected after your provider reviews your scalp. Matrix’s M1–M6 Precision Scalp Infusions are part of this personalized approach.
++										2004 text Tell us whether your priority is a cleaner feel, hydration, scalp comfort or simply a restorative pause. Your provider considers sensitivities and current products when choosing care.
++										2005 text Head Spa is cosmetic scalp care and relaxation. It is not medical treatment for scalp conditions or hair loss.
++										2006 link Description: CHOOSE A HEAD SPA, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
++									2007 container before-your-visit
++										2008 text BEFORE YOUR VISIT
++										2009 heading Settle in with the details covered., Value: 2
++											2010 text Settle in with the details covered.
++										2011 text A few useful things to know so you can arrive ready to relax.
++										2012 container
++											2013 text 01
++											2014 heading Share your hair needs, Value: 3
++												2015 text Share your hair needs
++											2016 text Tell us about extensions, braids, recent color or chemical services, scalp irritation and product allergies before your visit.
++										2017 container
++											2018 text 02
++											2019 heading Plan for wet hair, Value: 3
++												2020 text Plan for wet hair
++											2021 text Hair is left wet after Head Spa. If you would like professional drying or styling, arrange a separate service in advance.
++										2022 container
++											2023 text 03
++											2024 heading Choose your focus, Value: 3
++												2025 text Choose your focus
++											2026 text A shorter ritual suits focused scalp care. Choose a longer visit for additional massage, or a facial combination for skin and scalp.
++										2027 heading Make it a scalp-and-skin visit., Value: 3
++											2028 text Make it a scalp-and-skin visit.
++										2029 text The Head Spa + Hydrating Glow Facial brings scalp care, a mini facial and hydration together in one appointment.
++										2030 link Description: VIEW THE COMBINATION, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/ANHVUNL2SFY2ETFWNCU5WNJS
++										2031 heading Looking for a full facial?, Value: 3
++											2032 text Looking for a full facial?
++										2033 text Explore Custom Facials, Circadia treatments and skin-goal pathways, including care for acne-prone skin and congestion.
++										2034 link Description: EXPLORE FACIALS, Value: matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
++									2035 container visit-salem
++										2036 text ONE STUDIO, CLOSE TO HOME
++										2037 heading Japanese Head Spa near you, in Salem., Value: 2
++											2038 text Japanese Head Spa near you, in Salem.
++										2039 text Our Salem studio welcomes Head Spa guests from Union Grove, Twin Lakes, Trevor, Bristol and nearby Antioch, Illinois. Whether you want a shorter scalp refresh or time for a longer ritual, choose your experience and visit us at 24804 75th St, Salem, WI 53168.
++										2040 link Description: TEXT MATRIX · 262-939-9325, Value: sms:+12629399325
++									2041 container
++										2042 text GOOD TO KNOW
++										2043 heading A few helpful details., Value: 2
++											2044 text A few helpful details.
++										2045 text Feel comfortable choosing your next visit.
++										2046 button (collapsed) What is a Japanese Head Spa? +, Secondary Actions: Expand
++											2047 text What is a Japanese Head Spa?
++											2048 text +
++										2049 button (collapsed) Which Head Spa should I choose for my first visit? +, Secondary Actions: Expand
++											2050 text Which Head Spa should I choose for my first visit?
++											2051 text +
++										2052 button (collapsed) Will my hair be dry when I leave? +, Secondary Actions: Expand
++											2053 text Will my hair be dry when I leave?
++											2054 text +
++										2055 button (collapsed) Can I book with short hair, thinning hair or extensions? +, Secondary Actions: Expand
++											2056 text Can I book with short hair, thinning hair or extensions?
++											2057 text +
++										2058 button (collapsed) Does Head Spa treat hair loss or scalp disease? +, Secondary Actions: Expand
++											2059 text Does Head Spa treat hair loss or scalp disease?
++											2060 text +
++										2061 button (collapsed) Can I add a facial to my Head Spa? +, Secondary Actions: Expand
++											2062 text Can I add a facial to my Head Spa?
++											2063 text +
++										2064 button (collapsed) How often should I book? +, Secondary Actions: Expand
++											2065 text How often should I book?
++											2066 text +
++										2067 button (collapsed) Where can I book a Head Spa near Union Grove, Twin Lakes or Antioch? +, Secondary Actions: Expand
++											2068 text Where can I book a Head Spa near Union Grove, Twin Lakes or Antioch?
++											2069 text +
++									2070 container
++										2071 text NEARBY, IN SALEM
++										2072 heading Your next quiet moment is close., Value: 2
++											2073 text Your next quiet moment is close.
++										2074 link Description: Head Spa near Bristol, Value: matrixmassage.net/japanese-head-spa-near-bristol-wi
++										2075 link Description: Custom Facials, Value: matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi
++										2076 link Description: All Spa & Beauty, Value: matrixmassage.net/spa-and-beauty-services-salem-wi
++									2077 container
++										2078 text MAKE ROOM FOR YOURSELF
++										2079 heading Let the day soften around you., Value: 2
++											2080 text Let the day soften around you.
++										2081 text Find your Head Spa ritual and reserve time for scalp care, warm water and restorative touch.
++										2082 link Description: BOOK HEAD SPA, Value: book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services
++										2083 link Description: ALL SPA & BEAUTY, Value: matrixmassage.net/spa-and-beauty-services-salem-wi
++										2084 text 24804 75th St · Salem, WI 53168 · Text 262-939-9325
+~								1163 link Description: Facials,, Value: …
+~								1164 link Description: Head Spa,, Value: danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/render/document/a276c9bf-bc17-4680-959b-a24ebe7370f6/japanese-head-spa-salem-wi
+~		3 container ID: editor, Description: Site Settings Dev Mode Hire a Professional Help Upgrade Save Preview Publish Page: JAPANESE HEAD SPA www.matrixmassage.net
++										2085 container
++											2086 container
++												2087 text Element Attributes
++											2088 button
++												2089 image
++											2090 button
++												2091 image
++											2092 container
++												2093 text Add your script file with:
++												2094 content list
++													2095 container
++														2096 text Server URL
++													2097 container
++														2098 text Velo file
++												2099 text Server URL
++												2100 text entry area (settable) https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@811a4009d73a279df0d2d51d1f7885d5b26061f1/pages/spa-beauty/head-spa/seo-b1-2026-11-13/renderer.js
++												2101 image
++												2102 text Turn on Dev Mode
++												2103 text Once dev mode is on, you can create a file for your code.
++												2104 link Description: Learn more, Value: …
++												2105 text Tag name
++												2106 text field (settable) matrix-head-spa-review
++									2107 image
+~				1037 text field H:, Value: 7305
+The focused UI element is 3 container ID: editor, Description: Site Settings Dev Mode Hire a Professional Help Upgrade Save Preview Publish Page: JAPANESE HEAD SPA www.matrixmassage.net

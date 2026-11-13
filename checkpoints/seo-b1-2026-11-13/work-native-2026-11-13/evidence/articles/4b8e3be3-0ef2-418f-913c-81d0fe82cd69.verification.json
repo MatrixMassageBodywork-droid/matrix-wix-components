@@ -1,0 +1,13 @@
+{
+  "slug": "top-10-benefits-of-topical-magnesium-why-soaks-sprays-outshine-epsom-salt",
+  "pass": true,
+  "checks": {
+    "status": true,
+    "oneArticle": true,
+    "exactSchema": true,
+    "title": true,
+    "meta": true,
+    "canonical": true,
+    "body": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "rediscovering-relaxation-the-timeless-appeal-of-swedish-massage-for-busy-parents",
+  "pass": true,
+  "checks": {
+    "status": true,
+    "oneArticle": true,
+    "exactSchema": true,
+    "title": true,
+    "meta": true,
+    "canonical": true,
+    "body": true
+  }
+}

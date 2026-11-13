@@ -1,0 +1,13 @@
+{
+  "slug": "wavelength-matters-why-choosing-the-right-red-light-therapy-nm-level-is-key-to-results",
+  "pass": true,
+  "checks": {
+    "status": true,
+    "oneArticle": true,
+    "exactSchema": true,
+    "title": true,
+    "meta": true,
+    "canonical": true,
+    "body": true
+  }
+}

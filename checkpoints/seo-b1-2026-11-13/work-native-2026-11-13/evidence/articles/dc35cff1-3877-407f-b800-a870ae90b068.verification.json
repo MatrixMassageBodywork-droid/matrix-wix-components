@@ -1,0 +1,13 @@
+{
+  "slug": "the-synergistic-power-of-red-light-therapy-and-grounding-mats-a-science-backed-wellness-boost",
+  "pass": true,
+  "checks": {
+    "status": true,
+    "oneArticle": true,
+    "exactSchema": true,
+    "title": true,
+    "meta": true,
+    "canonical": true,
+    "body": true
+  }
+}

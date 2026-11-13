@@ -1,0 +1,13 @@
+{
+  "slug": "how-often-should-you-get-lymphatic-drainage-for-inflammation-or-post-procedure-recovery",
+  "pass": true,
+  "checks": {
+    "status": true,
+    "oneArticle": true,
+    "exactSchema": true,
+    "title": true,
+    "meta": true,
+    "canonical": true,
+    "body": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "lash": {
+    "outsideRhsUnchanged": true,
+    "beforeSha256": "065bb9a0298988e3b222806304166e9932659dec8898b93828c7a1abd4846687",
+    "afterSha256": "147f5b06366fe0deb578f241113e484df5bb877ed00601574250254007c3affe",
+    "rendererBefore": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@80ba9e39aefe7cfe1bf480b508a9a351bc6e42e1/pages/spa-beauty/lash-extensions/production-2/renderer.js",
+    "rendererAfter": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@811a4009d73a279df0d2d51d1f7885d5b26061f1/pages/spa-beauty/lash-extensions/seo-b1-2026-11-13/renderer.js"
+  },
+  "head": {
+    "outsideRhsUnchanged": true,
+    "beforeSha256": "a5292d48edfb6aa3aeb012f32c4ebbf1fb02a0e067ccfca0e173f6aea3986ca3",
+    "afterSha256": "13b2aa4454c5bfa4f3cd8f80e770a38916b34d65b372b0a62c26f07451a3cf97",
+    "rendererBefore": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@143a56d2eb86306386085d2cb4a57cc5967f06b8/pages/spa-beauty/head-spa/review-2/renderer.js",
+    "rendererAfter": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@811a4009d73a279df0d2d51d1f7885d5b26061f1/pages/spa-beauty/head-spa/seo-b1-2026-11-13/renderer.js"
+  },
+  "skin": {
+    "oldHrefBefore": 5,
+    "newHrefAfter": 5,
+    "oldHrefAfter": 0,
+    "inverseExact": true,
+    "beforeSha256": "0b3205780c9fa8eb69198902fa2ffaeb384df5b1c55636b6e29d36f8242a8746",
+    "afterSha256": "c61b191c5d8cab9a3dba3e7623613ca6b88426278c20c10d88696bf22110ead7"
+  }
+}

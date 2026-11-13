@@ -1,0 +1,13 @@
+{
+  "slug": "deep-tissue-massage-vs-myofascial-release-massage-what-s-best-for-you-in-salem-paddock-lake-wi",
+  "pass": true,
+  "checks": {
+    "status": true,
+    "oneArticle": true,
+    "exactSchema": true,
+    "title": true,
+    "meta": true,
+    "canonical": true,
+    "body": true
+  }
+}

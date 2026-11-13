@@ -1,0 +1,110 @@
+Browser tab: 13, Title: "Wix Website Editor | Matrix Massage & Bodywork", URL: "https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/edit/a276c9bf-bc17-4680-959b-a24ebe7370f6?metaSiteId=cdec8df6-d518-4859-9f1e-f06bf5346d41".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 3682, 3807-3823
++					3807 text Page:
++				3808 button
++					3809 image
++						3810 container editingArea
++							3811 container
++								3812 container stageContainer
++									3813 container
++										3814 container
++											3815 text #section2
++											3816 text Section: Untitled
++										3817 container
++											3818 container
++												3819 text 0 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000
++									3820 container
++										3821 text 0 100 200 300
++							3822 container
++								3823 container
++									3824 container
++										3825 text Dashboard
++									3826 button
++										3827 image
++									3828 button
++										3829 image
++								3830 AXWebArea Release Manager | Wix.com, URL: manage.wix.com/dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/release-manager-client/?viewMode=editor&shouldHideEditorHeader=true
++									3831 container giza-app-root
++										3832 container Sidebar
++											3833 container
++												3834 button Quick Actions
++													3835 image
++													3836 text Quick Actions
++												3837 button
++												3838 button Collapse sidebar
++												3839 button Get 250 monthly visitors 35.6 89/250 visitors
++													3840 text Get 250 monthly visitors
++													3841 image
++													3842 progress indicator 35.599998474121094
++													3843 text 89/250 visitors
++											3844 content list
++												3845 link Description: Home, Value: manage.wix.com/dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/home?referralInfo=sidebar
++												3846 button (collapsed) AI Agents, Secondary Actions: Expand
++												3847 button (collapsed) Getting Paid, Secondary Actions: Expand
++												3848 button (collapsed) Sales, Secondary Actions: Expand
++												3849 button (collapsed) Catalog, Secondary Actions: Expand
++												3850 button (collapsed) Staff, Secondary Actions: Expand
++												3851 button (collapsed) Blog, Secondary Actions: Expand
++												3852 button (collapsed) Apps, Secondary Actions: Expand
++												3853 button (collapsed) Site & Mobile App, Secondary Actions: Expand
++												3854 button (collapsed) Marketing, Secondary Actions: Expand
++												3855 link Description: Inbox, Value: manage.wix.com/dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/inbox?referralInfo=sidebar
++												3856 button (collapsed) Customers & Leads, Secondary Actions: Expand
++												3857 button (collapsed) Analytics, Secondary Actions: Expand
++												3858 link Description: Automations, Value: manage.wix.com/dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/triggers?referralInfo=sidebar
++												3859 link Description: Settings, Value: manage.wix.com/dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/settings?referralInfo=sidebar
++												3860 link Description: CMS, Value: manage.wix.com/dashboard/cdec8df6-d518-4859-9f1e-f06bf5346d41/wix-cms?referralInfo=sidebar
++												3861 button (collapsed) Developer Tools, Secondary Actions: Expand
++											3862 link Add More Tools
++												3863 text Add More Tools
++										3864 container
++											3865 container Release Manager
++												3866 container
++													3867 container
++														3868 button Settings
++														3869 image
++														3870 button Release Manager
++													3871 button
++														3872 image
++													3873 heading Release Manager, Value: 1
++														3874 text Release Manager
++													3875 container
++														3876 text Deploy a new version of your site to a subset of your audience and gradually open to more visitors. 
++														3877 link Description: Learn more, Value: support.wix.com/articles/id/338127ec-fe2c-4003-96a1-9e2c7458d898?locale=en
++													3878 container
++														3879 heading Versions, Value: 3
++															3880 text Versions
++														3881 text Live Site
++														3882 container
++															3883 container Version not found
++																3884 text Version not found
++															3885 container Exposure: 100%
++																3886 text Exposure: 100%
++															3887 container Version 2
++																3888 text Version 2
++															3889 container Open
++																3890 button Open
++														3891 text Test Site
++														3892 container
++															3893 container Nov 13, 2026, 9:13 AM Site owner
++																3894 text Nov 13, 2026, 9:13 AM
++																3895 text Site owner
++															3896 container Exposure: 0%
++																3897 text Exposure: 0%
++															3898 container Version 1140
++																3899 text Version 1140
++															3900 container Open
++																3901 button Open
++																3902 pop up button (collapsed) Secondary Actions: Expand
++														3903 heading Site History, Value: 3
++															3904 text Site History
++														3905 text View and restore a previous version of your site.
++														3906 button Restore Version
++														3907 heading Logs, Value: 3
++															3908 text Logs
++														3909 text View your site versions' logs using professional tools.
++														3910 button Get Started
++									3911 image
++							3912 text #
+The focused UI element is 0 AXWebArea Wix Website Editor | Matrix Massage & Bodywork, URL: danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/edit/a276c9bf-bc17-4680-959b-a24ebe7370f6?metaSiteId=cdec8df6-d518-4859-9f1e-f06bf5346d41

@@ -1,0 +1,34 @@
+{
+  "source": "Saved native Editor Preview; supplementary, not Test Site viewport QA",
+  "before": {
+    "height": 11729,
+    "link": [
+      {
+        "href": "https://www.matrixmassage.net/post/head-spa-salem-wi",
+        "text": "Read about the Matrix Head Spa experience"
+      }
+    ],
+    "questions": [
+      "What is a Japanese Head Spa?",
+      "Which Head Spa should I choose for my first visit?",
+      "Will my hair be dry when I leave?",
+      "Can I book with short hair, thinning hair or extensions?",
+      "Does Head Spa treat hair loss or scalp disease?",
+      "Can I add a facial to my Head Spa?",
+      "How often should I book?",
+      "Where can I book a Head Spa near Union Grove, Twin Lakes or Antioch?"
+    ],
+    "scroll": 320,
+    "width": 320
+  },
+  "open": {
+    "height": 11856,
+    "open": 1,
+    "scroll": 320,
+    "width": 320
+  },
+  "closed": {
+    "height": 11729,
+    "open": 0
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "get-tingly-or-numb-fingers-here-s-8-reasons-why-massage-therapy-improves-nerve-health",
+  "pass": true,
+  "checks": {
+    "status": true,
+    "oneArticle": true,
+    "exactSchema": true,
+    "title": true,
+    "meta": true,
+    "canonical": true,
+    "body": true
+  }
+}
