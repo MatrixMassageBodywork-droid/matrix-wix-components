@@ -1,0 +1,806 @@
+{
+  "project": "FACIAL WEB SEO PW",
+  "planId": "MATRIX-CONTENT-REVIEW-2026-11-13",
+  "version": 1,
+  "status": "PUBLISHED-RELEASED; EXACT CONTENT VERIFIED; QA LIMITATIONS DOCUMENTED",
+  "verifiedAt": "2026-11-13T20:11:34.540721+00:00",
+  "siteId": "cdec8df6-d518-4859-9f1e-f06bf5346d41",
+  "nativeRevision": 1166,
+  "baselineNativeRevision": 1150,
+  "sourceApprovalCommit": "46efe9aaaaa790cb3afea93e9686290745edf1dd",
+  "branch": "review/seo-content-2026-11-13",
+  "automatedPublicChecks": 254,
+  "items": [
+    {
+      "id": "C01",
+      "url": "https://www.matrixmassage.net/post/how-massage-can-naturally-support-healthy-blood-sugar-my-client-s-real-life-example",
+      "title": "Massage, Stress and Blood Sugar: What One Client’s Experience Can Tell Us",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T19:19:53.990Z",
+      "nativeRevision": null,
+      "beforeFile": "execution/before/C01.json",
+      "beforeSha256": "add15c44883acd58099d35c9625c23bfb3c13cc59041977b959c7af87e52db13",
+      "afterPublicFile": "execution/public/C01.html",
+      "afterPublicSha256": "fc68e703618acb1296de657c41dec25e6f4f7bc5921b35665e0b22aee0e9c584",
+      "publicChecks": {
+        "http200": true,
+        "articleContainer": true,
+        "canonical": true,
+        "indexable": true,
+        "h1": true,
+        "h1Title": true,
+        "title": true,
+        "description": true,
+        "bodyBlocks": true,
+        "articleLinks": true,
+        "singleBlogPosting": true,
+        "schemaExact": true
+      },
+      "mediaChecks": {
+        "retainedImageIds": true,
+        "retainedAltsOrDocumentedFallback": true,
+        "visibleCaptions": true,
+        "removedGraphicsAbsent": true,
+        "supersededCaptionsAbsent": true
+      },
+      "phoneVisualQA": "NOT TESTED on an actual device; article-specific phone visual test not performed"
+    },
+    {
+      "id": "C02",
+      "url": "https://www.matrixmassage.net/post/how-often-should-you-get-lymphatic-drainage-for-inflammation-or-post-procedure-recovery",
+      "title": "How Often Should You Get Lymphatic Drainage? A Guide to Individual Care",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T19:21:56.141Z",
+      "nativeRevision": null,
+      "beforeFile": "execution/before/C02.json",
+      "beforeSha256": "b5850986b30e9587a0ad70be9705cec428b2d0c279da92216576249af8a33c32",
+      "afterPublicFile": "execution/public/C02.html",
+      "afterPublicSha256": "e1dda65c82d0b76847d24f10e47200ada09431f88388a3da3f99c0c38f588aee",
+      "publicChecks": {
+        "http200": true,
+        "articleContainer": true,
+        "canonical": true,
+        "indexable": true,
+        "h1": true,
+        "h1Title": true,
+        "title": true,
+        "description": true,
+        "bodyBlocks": true,
+        "articleLinks": true,
+        "singleBlogPosting": true,
+        "schemaExact": true
+      },
+      "mediaChecks": {
+        "retainedImageIds": true,
+        "retainedAltsOrDocumentedFallback": true,
+        "visibleCaptions": true,
+        "removedGraphicsAbsent": true,
+        "supersededCaptionsAbsent": true
+      },
+      "phoneVisualQA": "NOT TESTED on an actual device; article-specific phone visual test not performed"
+    },
+    {
+      "id": "C03",
+      "url": "https://www.matrixmassage.net/post/red-light-therapy-hashimotos",
+      "title": "Red Light and Hashimoto’s: What the Research Actually Studied",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T19:19:51.160Z",
+      "nativeRevision": null,
+      "beforeFile": "execution/before/C03.json",
+      "beforeSha256": "f52cf66ee1a0b633c4f59e8cd65345d32bfa7023071758f3cedcfb713e772bd8",
+      "afterPublicFile": "execution/public/C03.html",
+      "afterPublicSha256": "a74ecf7b9830b4073524e202ce3b8574f18bc1a54e1d91c9512f1b602b768bc6",
+      "publicChecks": {
+        "http200": true,
+        "articleContainer": true,
+        "canonical": true,
+        "indexable": true,
+        "h1": true,
+        "h1Title": true,
+        "title": true,
+        "description": true,
+        "bodyBlocks": true,
+        "articleLinks": true,
+        "singleBlogPosting": true,
+        "schemaExact": true
+      },
+      "mediaChecks": {
+        "retainedImageIds": true,
+        "retainedAltsOrDocumentedFallback": true,
+        "visibleCaptions": true,
+        "removedGraphicsAbsent": true,
+        "supersededCaptionsAbsent": true
+      },
+      "phoneVisualQA": "NOT TESTED on an actual device; article-specific phone visual test not performed"
+    },
+    {
+      "id": "C04",
+      "url": "https://www.matrixmassage.net/post/nerve-health-more-than-expensive-pee-why-the-right-supplements-genetic-variation-matter",
+      "title": "Nerve Health and Supplements: Evidence, Testing and Questions to Ask",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T19:21:58.217Z",
+      "nativeRevision": null,
+      "beforeFile": "execution/before/C04.json",
+      "beforeSha256": "84d0ee45ef17e99dfc765e4eb95caef82a7bda03175f47668977099d645135b0",
+      "afterPublicFile": "execution/public/C04.html",
+      "afterPublicSha256": "033e0c134f30f3e3d491fad01fec7e0cc4a67d93d2401eaeacb7c33cc5af7df9",
+      "publicChecks": {
+        "http200": true,
+        "articleContainer": true,
+        "canonical": true,
+        "indexable": true,
+        "h1": true,
+        "h1Title": true,
+        "title": true,
+        "description": true,
+        "bodyBlocks": true,
+        "articleLinks": true,
+        "singleBlogPosting": true,
+        "schemaExact": true
+      },
+      "mediaChecks": {
+        "retainedImageIds": true,
+        "retainedAltsOrDocumentedFallback": true,
+        "visibleCaptions": true,
+        "removedGraphicsAbsent": true,
+        "supersededCaptionsAbsent": true
+      },
+      "phoneVisualQA": "NOT TESTED on an actual device; article-specific phone visual test not performed"
+    },
+    {
+      "id": "C05",
+      "url": "https://www.matrixmassage.net/post/top-10-benefits-of-topical-magnesium-why-soaks-sprays-outshine-epsom-salt",
+      "title": "Magnesium Soaks and Sprays: Comfort, Skin Care and What We Know",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T19:21:59.522Z",
+      "nativeRevision": null,
+      "beforeFile": "execution/before/C05.json",
+      "beforeSha256": "9125566b68dec501485f8b80b3dd94646668f3e8cd427706b6c5a3f404b8eb1c",
+      "afterPublicFile": "execution/public/C05.html",
+      "afterPublicSha256": "6c65c8b189c42dd214cef87547b1b5365d6352661b37ab4988ad09599095015c",
+      "publicChecks": {
+        "http200": true,
+        "articleContainer": true,
+        "canonical": true,
+        "indexable": true,
+        "h1": true,
+        "h1Title": true,
+        "title": true,
+        "description": true,
+        "bodyBlocks": true,
+        "articleLinks": true,
+        "singleBlogPosting": true,
+        "schemaExact": true
+      },
+      "mediaChecks": {
+        "retainedImageIds": true,
+        "retainedAltsOrDocumentedFallback": true,
+        "visibleCaptions": true,
+        "removedGraphicsAbsent": true,
+        "supersededCaptionsAbsent": true
+      },
+      "phoneVisualQA": "NOT TESTED on an actual device; article-specific phone visual test not performed"
+    },
+    {
+      "id": "C06",
+      "url": "https://www.matrixmassage.net/post/the-synergistic-power-of-red-light-therapy-and-grounding-mats-a-science-backed-wellness-boost",
+      "title": "Red Light Therapy and Grounding: Exploring the Research and the Experience",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T19:22:00.909Z",
+      "nativeRevision": null,
+      "beforeFile": "execution/before/C06.json",
+      "beforeSha256": "d356b4f7d14cfa43909297722c0a8de4ef21f235925e319d7582d18c89ca98fc",
+      "afterPublicFile": "execution/public/C06.html",
+      "afterPublicSha256": "db6e6b70afdda7d8e68dbc8c61b841612feafbc9c91603553a3e6561305010cf",
+      "publicChecks": {
+        "http200": true,
+        "articleContainer": true,
+        "canonical": true,
+        "indexable": true,
+        "h1": true,
+        "h1Title": true,
+        "title": true,
+        "description": true,
+        "bodyBlocks": true,
+        "articleLinks": true,
+        "singleBlogPosting": true,
+        "schemaExact": true
+      },
+      "mediaChecks": {
+        "retainedImageIds": true,
+        "retainedAltsOrDocumentedFallback": true,
+        "visibleCaptions": true,
+        "removedGraphicsAbsent": true,
+        "supersededCaptionsAbsent": true
+      },
+      "phoneVisualQA": "NOT TESTED on an actual device; article-specific phone visual test not performed"
+    },
+    {
+      "id": "C07",
+      "url": "https://www.matrixmassage.net/post/top-10-reasons-mixing-nir-red-light-is-essential-for-anti-aging-muscle-recovery-skin-health",
+      "title": "Red and Near-Infrared Light: Ten Useful Questions Before a Session",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T19:19:59.353Z",
+      "nativeRevision": null,
+      "beforeFile": "execution/before/C07.json",
+      "beforeSha256": "03a5ac495871a38683ebb196baddac79ae3d55a0cff1da000ca7d1d10984805b",
+      "afterPublicFile": "execution/public/C07.html",
+      "afterPublicSha256": "c73ef01085630b7ea63e86a1067b10f302d504584a8366ae6c689041285f9e4c",
+      "publicChecks": {
+        "http200": true,
+        "articleContainer": true,
+        "canonical": true,
+        "indexable": true,
+        "h1": true,
+        "h1Title": true,
+        "title": true,
+        "description": true,
+        "bodyBlocks": true,
+        "articleLinks": true,
+        "singleBlogPosting": true,
+        "schemaExact": true
+      },
+      "mediaChecks": {
+        "retainedImageIds": true,
+        "retainedAltsOrDocumentedFallback": true,
+        "visibleCaptions": true,
+        "removedGraphicsAbsent": true,
+        "supersededCaptionsAbsent": true
+      },
+      "phoneVisualQA": "NOT TESTED on an actual device; article-specific phone visual test not performed"
+    },
+    {
+      "id": "C08",
+      "url": "https://www.matrixmassage.net/post/relief-in-harmony-how-massage-and-red-light-therapy-support-nerve-pain-healing",
+      "title": "Massage, Red Light and Nerve Discomfort: Setting Useful Goals",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T20:06:49.449Z",
+      "nativeRevision": null,
+      "beforeFile": "execution/before/C08.json",
+      "beforeSha256": "28f4bed6bafd9a905615dc7fa05f45ae32caf4756cde1f5b421d3fe653b32363",
+      "afterPublicFile": "execution/public/C08.html",
+      "afterPublicSha256": "9341b995397d55c4a617be06e364e6575a23528f5e67df8f1bce22d650291ddd",
+      "publicChecks": {
+        "http200": true,
+        "articleContainer": true,
+        "canonical": true,
+        "indexable": true,
+        "h1": true,
+        "h1Title": true,
+        "title": true,
+        "description": true,
+        "bodyBlocks": true,
+        "articleLinks": true,
+        "singleBlogPosting": true,
+        "schemaExact": true
+      },
+      "mediaChecks": {
+        "retainedImageIds": true,
+        "retainedAltsOrDocumentedFallback": true,
+        "visibleCaptions": true,
+        "removedGraphicsAbsent": true,
+        "supersededCaptionsAbsent": true
+      },
+      "phoneVisualQA": "NOT TESTED on an actual device; article-specific phone visual test not performed"
+    },
+    {
+      "id": "C09",
+      "url": "https://www.matrixmassage.net/post/lymphatic-drainage-why-it-works-why-you-might-need-it",
+      "title": "Manual Lymphatic Drainage: What It Is and When to Ask About It",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T19:21:57.151Z",
+      "nativeRevision": null,
+      "beforeFile": "execution/before/C09.json",
+      "beforeSha256": "d9308bf8367ea7187e88c6d7511e2861706efdc9001da0689a0f911ac1d63933",
+      "afterPublicFile": "execution/public/C09.html",
+      "afterPublicSha256": "aff6ea9866f4505127264fbbac0237b5de3236cf4375fbe9d9ab51a8bf2d1cc0",
+      "publicChecks": {
+        "http200": true,
+        "articleContainer": true,
+        "canonical": true,
+        "indexable": true,
+        "h1": true,
+        "h1Title": true,
+        "title": true,
+        "description": true,
+        "bodyBlocks": true,
+        "articleLinks": true,
+        "singleBlogPosting": true,
+        "schemaExact": true
+      },
+      "mediaChecks": {
+        "retainedImageIds": true,
+        "retainedAltsOrDocumentedFallback": true,
+        "visibleCaptions": true,
+        "removedGraphicsAbsent": true,
+        "supersededCaptionsAbsent": true
+      },
+      "phoneVisualQA": "NOT TESTED on an actual device; article-specific phone visual test not performed"
+    },
+    {
+      "id": "C10",
+      "url": "https://www.matrixmassage.net/supplements",
+      "title": "Supplements",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T20:01Z",
+      "nativeRevision": 1166,
+      "beforeFile": "baseline/supplements.html",
+      "beforeSha256": "234f5ce9de70df0fb811d121f2c59913ceece33d5ab02994fac0f550e9947269",
+      "afterPublicFile": "execution/live/C10.html",
+      "afterPublicSha256": "e68fc5a6a790a639cd20114de05ddd549a784497a5ca009602cc1fe6285df216",
+      "publicChecks": {
+        "http200": true,
+        "metadataPreserved": true,
+        "allRichTextAsApproved": true,
+        "noNewRichTextElements": true,
+        "headerPreserved": true,
+        "footerPreserved": true,
+        "formsPreserved": true
+      },
+      "mediaChecks": null,
+      "phoneVisualQA": "320px Wix native preview/editor checked; live phone and 375px NOT TESTED"
+    },
+    {
+      "id": "C11",
+      "url": "https://www.matrixmassage.net/post/massage-wellness-services-salem-near-pleasant-prairie",
+      "title": "Matrix Massage & Bodywork: Your Local Wellness Destination in Salem, WI",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T19:20:05.444Z",
+      "nativeRevision": null,
+      "beforeFile": "execution/before/C11.json",
+      "beforeSha256": "a583b30e5f7c155068cc7b08b70cce0573a1628a60e58bda27a34d4288363172",
+      "afterPublicFile": "execution/public/C11.html",
+      "afterPublicSha256": "e20e6a2bc587f258ead356e4627677c8e578cf4651137b3e4f68f40fe527e28a",
+      "publicChecks": {
+        "http200": true,
+        "articleContainer": true,
+        "canonical": true,
+        "indexable": true,
+        "h1": true,
+        "h1Title": true,
+        "title": true,
+        "description": true,
+        "bodyBlocks": true,
+        "articleLinks": true,
+        "singleBlogPosting": true,
+        "schemaExact": true
+      },
+      "mediaChecks": {
+        "retainedImageIds": true,
+        "retainedAltsOrDocumentedFallback": true,
+        "visibleCaptions": true,
+        "removedGraphicsAbsent": true,
+        "supersededCaptionsAbsent": true
+      },
+      "phoneVisualQA": "NOT TESTED on an actual device; article-specific phone visual test not performed"
+    },
+    {
+      "id": "C12",
+      "url": "https://www.matrixmassage.net/skin-reset-blueprint-salem-wi",
+      "title": "Skin Reset Blueprint",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T20:01Z",
+      "nativeRevision": 1166,
+      "beforeFile": "baseline/skin-reset-blueprint-salem-wi.html",
+      "beforeSha256": "5bd62b449fa764e788e636ce833e86c811932f1f9637397addc427764f78f288",
+      "afterPublicFile": "execution/live/C12.html",
+      "afterPublicSha256": "e46e32e4f926b934dfc0d4c18894395eb6d5402d4931ce298528942495fcb304",
+      "publicChecks": {
+        "http200": true,
+        "metadataPreserved": true,
+        "allRichTextAsApproved": true,
+        "noNewRichTextElements": true,
+        "headerPreserved": true,
+        "footerPreserved": true,
+        "formsPreserved": true,
+        "exactEmbed": true,
+        "tenDestinationsPreserved": true,
+        "cssPreserved": true
+      },
+      "mediaChecks": null,
+      "phoneVisualQA": "320px Wix native preview/editor checked; live phone and 375px NOT TESTED"
+    },
+    {
+      "id": "C13",
+      "url": "https://www.matrixmassage.net/post/rediscovering-relaxation-the-timeless-appeal-of-swedish-massage-for-busy-parents",
+      "title": "Rediscovering Relaxation: The Timeless Appeal of Swedish Massage for Busy Parents",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T19:20:04.012Z",
+      "nativeRevision": null,
+      "beforeFile": "execution/before/C13.json",
+      "beforeSha256": "2d41754e4ed4898f2ac5ae716b275a51fb7dc7204f4dade845bb0adddba28b97",
+      "afterPublicFile": "execution/public/C13.html",
+      "afterPublicSha256": "6946b7082d08e4d8ffcf3f9bf5469132e8488c84d05bb8f8b3f58790668fff11",
+      "publicChecks": {
+        "http200": true,
+        "articleContainer": true,
+        "canonical": true,
+        "indexable": true,
+        "h1": true,
+        "h1Title": true,
+        "title": true,
+        "description": true,
+        "bodyBlocks": true,
+        "articleLinks": true,
+        "singleBlogPosting": true,
+        "schemaExact": true
+      },
+      "mediaChecks": {
+        "retainedImageIds": true,
+        "retainedAltsOrDocumentedFallback": true,
+        "visibleCaptions": true,
+        "removedGraphicsAbsent": true,
+        "supersededCaptionsAbsent": true
+      },
+      "phoneVisualQA": "NOT TESTED on an actual device; article-specific phone visual test not performed"
+    },
+    {
+      "id": "C14",
+      "url": "https://www.matrixmassage.net/post/the-science-of-serenity-unpacking-the-proven-benefits-of-massage-therapy-in-salem-wi",
+      "title": "Massage Therapy in Salem, WI: Benefits, Research and Realistic Goals",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T20:06:51.349Z",
+      "nativeRevision": null,
+      "beforeFile": "execution/before/C14.json",
+      "beforeSha256": "ebb8b19498394eba9680841ec9a4dd3e8a7634fa3dda8d9f9373be63134ac1a5",
+      "afterPublicFile": "execution/public/C14.html",
+      "afterPublicSha256": "04fc8b01bd8ccb8d3a658f494539df4345259904dbf18275bd862f30192f0c2b",
+      "publicChecks": {
+        "http200": true,
+        "articleContainer": true,
+        "canonical": true,
+        "indexable": true,
+        "h1": true,
+        "h1Title": true,
+        "title": true,
+        "description": true,
+        "bodyBlocks": true,
+        "articleLinks": true,
+        "singleBlogPosting": true,
+        "schemaExact": true
+      },
+      "mediaChecks": {
+        "retainedImageIds": true,
+        "retainedAltsOrDocumentedFallback": true,
+        "visibleCaptions": true,
+        "removedGraphicsAbsent": true,
+        "supersededCaptionsAbsent": true
+      },
+      "phoneVisualQA": "NOT TESTED on an actual device; article-specific phone visual test not performed"
+    },
+    {
+      "id": "C15",
+      "url": "https://www.matrixmassage.net/post/wavelength-matters-why-choosing-the-right-red-light-therapy-nm-level-is-key-to-results",
+      "title": "Red Light Therapy Wavelengths: What the Numbers Mean",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T20:06:53.717Z",
+      "nativeRevision": null,
+      "beforeFile": "execution/before/C15.json",
+      "beforeSha256": "ce14c1f5f639791b6e1a4f9e7ca8d8f387c2bfe3037faf1c03242261aca05fc1",
+      "afterPublicFile": "execution/public/C15.html",
+      "afterPublicSha256": "330cdae318989692c44aa4a35ce091f0ef232abc055ba982fd14806a058ef38a",
+      "publicChecks": {
+        "http200": true,
+        "articleContainer": true,
+        "canonical": true,
+        "indexable": true,
+        "h1": true,
+        "h1Title": true,
+        "title": true,
+        "description": true,
+        "bodyBlocks": true,
+        "articleLinks": true,
+        "singleBlogPosting": true,
+        "schemaExact": true
+      },
+      "mediaChecks": {
+        "retainedImageIds": true,
+        "retainedAltsOrDocumentedFallback": true,
+        "visibleCaptions": true,
+        "removedGraphicsAbsent": true,
+        "supersededCaptionsAbsent": true
+      },
+      "phoneVisualQA": "NOT TESTED on an actual device; article-specific phone visual test not performed"
+    },
+    {
+      "id": "C16",
+      "url": "https://www.matrixmassage.net/massage-therapist-jobs-salem-wi",
+      "title": "Hiring",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T20:01Z",
+      "nativeRevision": 1166,
+      "beforeFile": "baseline/massage-therapist-jobs-salem-wi.html",
+      "beforeSha256": "08bd88016f9dc733e228e3f53b4fa041ade4061413de334782eaa15d1eaf82e2",
+      "afterPublicFile": "execution/live/C16.html",
+      "afterPublicSha256": "a69c4ee4602dc617e87ed0233460a15b0fd9c4a8a4ebae99c5c0f084ba2195d5",
+      "publicChecks": {
+        "http200": true,
+        "metadataPreserved": true,
+        "allRichTextAsApproved": true,
+        "noNewRichTextElements": true,
+        "headerPreserved": true,
+        "footerPreserved": true,
+        "formsPreserved": true,
+        "approvedLink": true
+      },
+      "mediaChecks": null,
+      "phoneVisualQA": "320px Wix native preview/editor checked; live phone and 375px NOT TESTED"
+    },
+    {
+      "id": "C17",
+      "url": "https://www.matrixmassage.net/local-wellness-partnerships",
+      "title": "Local Wellness Partnerships",
+      "saved": "SAVED",
+      "readback": "VERIFIED",
+      "automatedPublicTests": "TESTED",
+      "publication": "PUBLISHED-RELEASED",
+      "publicationTimestamp": "2026-11-13T20:01Z",
+      "nativeRevision": 1166,
+      "beforeFile": "baseline/local-wellness-partnerships.html",
+      "beforeSha256": "2ee33c68c29e9d3e3bdd0ea8a02c2b8e5237fde9db504ff46273e21932db03cc",
+      "afterPublicFile": "execution/live/C17.html",
+      "afterPublicSha256": "1b2a9d957e0a328b339b6b7e3a70a2d1adf594d396a17dbbf5816fe95438ea23",
+      "publicChecks": {
+        "http200": true,
+        "metadataPreserved": true,
+        "allRichTextAsApproved": true,
+        "noNewRichTextElements": true,
+        "headerPreserved": true,
+        "footerPreserved": true,
+        "formsPreserved": true,
+        "approvedLink": true
+      },
+      "mediaChecks": null,
+      "phoneVisualQA": "320px Wix native preview/editor checked; live phone and 375px NOT TESTED"
+    }
+  ],
+  "captionCorrections": [
+    {
+      "id": "C08",
+      "changes": [
+        {
+          "imageId": "6m8ip490",
+          "captionId": "q36mz492",
+          "before": "This anatomical illustration highlights the sciatic nerve pathway and lumbar spine inflammation, a common source of nerve pain. It visually represents sciatica and the potential benefits of therapies like massage and red light treatment, which target inflammation and nerve compression at the source.",
+          "after": "Illustration of the lower spine and sciatic nerve. This is educational imagery, not a depiction of a treatment outcome."
+        }
+      ],
+      "contentPublishedAt": "2026-11-13T20:06:49.449Z",
+      "checks": {
+        "captionNodes": true,
+        "seo": true,
+        "noUnpublishedChanges": true,
+        "title": true,
+        "slug": true,
+        "excerpt": true,
+        "media": true,
+        "memberId": true,
+        "categoryIds": true,
+        "tagIds": true,
+        "hashtags": true,
+        "firstPublishedDate": true,
+        "featured": true,
+        "pinned": true,
+        "language": true
+      }
+    },
+    {
+      "id": "C14",
+      "changes": [
+        {
+          "imageId": "wqa5n1995",
+          "captionId": "38uz82016",
+          "before": "Pain Relieving Massage at Matrix Massage in Salem / Paddock Lake, WI",
+          "after": "Massage and muscle comfort"
+        },
+        {
+          "imageId": "bt7kk318",
+          "captionId": "cbbu5400",
+          "before": "Boost Athletic Recovery with Deep Tissue Massage in Salem, WI",
+          "after": "Making time for rest after activity"
+        }
+      ],
+      "contentPublishedAt": "2026-11-13T20:06:51.349Z",
+      "checks": {
+        "captionNodes": true,
+        "seo": true,
+        "noUnpublishedChanges": true,
+        "title": true,
+        "slug": true,
+        "excerpt": true,
+        "media": true,
+        "memberId": true,
+        "categoryIds": true,
+        "tagIds": true,
+        "hashtags": true,
+        "firstPublishedDate": true,
+        "featured": true,
+        "pinned": true,
+        "language": true
+      }
+    },
+    {
+      "id": "C15",
+      "changes": [
+        {
+          "imageId": "f69lk7603",
+          "captionId": "g30ms7605",
+          "before": " NIR & red light therapy panel emitting 660nm and 850nm wavelengths for skin, muscle, and cellular healing benefits",
+          "after": "A red light session. Equipment specifications and instructions depend on the device."
+        }
+      ],
+      "contentPublishedAt": "2026-11-13T20:06:53.717Z",
+      "checks": {
+        "captionNodes": true,
+        "seo": true,
+        "noUnpublishedChanges": true,
+        "title": true,
+        "slug": true,
+        "excerpt": true,
+        "media": true,
+        "memberId": true,
+        "categoryIds": true,
+        "tagIds": true,
+        "hashtags": true,
+        "firstPublishedDate": true,
+        "featured": true,
+        "pinned": true,
+        "language": true
+      }
+    }
+  ],
+  "nativeEvidence": {
+    "planId": "MATRIX-CONTENT-REVIEW-2026-11-13",
+    "nativeRevision": 1166,
+    "publishedAtLocal": "2026-11-13 14:01 America/Chicago",
+    "publishedAtUTCMinute": "2026-11-13T20:01Z",
+    "history": "Published by site owner",
+    "ids": [
+      "C10",
+      "C12",
+      "C16",
+      "C17"
+    ],
+    "C10": {
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"extraIds\":[],\"patches\":[{\"count\":1,\"id\":\"comp-mexcv3181\"},{\"count\":1,\"id\":\"comp-mexcv31f1\"},{\"count\":1,\"id\":\"comp-mexcv31f1\"},{\"count\":1,\"id\":\"comp-mexcv31h\"},{\"count\":1,\"id\":\"comp-mexcv31j\"},{\"count\":1,\"id\":\"comp-mexcv31j\"},{\"count\":1,\"id\":\"comp-mexcv31j\"},{\"count\":1,\"id\":\"comp-mexcv34y2__item-meyijbbk\"},{\"count\":1,\"id\":\"comp-meyiq71f__item-meyijbbk\"},{\"count\":1,\"id\":\"comp-mexcv34y2__item-j9ples3e\"},{\"count\":1,\"id\":\"comp-mexcv300\"}]}"
+        }
+      ],
+      "structuredContent": null,
+      "isError": false
+    },
+    "skinEmbed": "https://www-matrixmassage-net.filesusr.com/html/e4cc43_c62c4db9cfeb1344fff259d174c46c0a.html",
+    "browserQA": {
+      "desktop": {
+        "width": 1440,
+        "scope": "Four native page previews and public desktop readback"
+      },
+      "mobile": {
+        "width": 320,
+        "surface": "Wix native mobile preview/editor",
+        "scope": "Four native page layouts checked; existing Skin Reset embed remains cramped"
+      },
+      "width375": {
+        "status": "NOT TESTED",
+        "reason": "Desktop viewport resizing did not activate Wix mobile layout. Direct embed navigation returned ERR_BLOCKED_BY_CLIENT; not bypassed."
+      },
+      "clicks": [
+        {
+          "from": "/local-wellness-partnerships",
+          "text": "massage therapy",
+          "to": "/massage-therapy-services-salem-wi",
+          "passed": true
+        },
+        {
+          "from": "/massage-therapist-jobs-salem-wi",
+          "text": "Explore our massage services",
+          "to": "/massage-therapy-services-salem-wi",
+          "passed": true
+        }
+      ],
+      "forms": [
+        {
+          "name": "Matrix Partner Kit Request Form",
+          "loaded": true,
+          "submitted": false
+        },
+        {
+          "name": "Matrix Massage & Bodywork Job Application",
+          "loaded": true,
+          "submitted": false
+        },
+        {
+          "name": "Free Skin Reset Blueprint",
+          "loaded": true,
+          "submitted": false
+        }
+      ],
+      "livePhoneCheck": "NOT TESTED on an actual mobile device"
+    },
+    "limitations": [
+      "Skin Reset preserves its original embed dimensions and CSS; narrow-phone layout remains cramped with internal scrolling.",
+      "Existing Wix-default social icons and old Instagram handle on Hiring were preserved outside C16 link-only scope.",
+      "Commercial offers and downstream Skin Reset guide content/delivery remain unverified. No form submissions or bookings were made.",
+      "No Google indexing requests or performance/ranking claims are part of this execution."
+    ]
+  },
+  "durableBeforeBackups": {
+    "fullBeforeZipDriveId": "1EBl1XR6x2J6_vD5bFG82Uvc5AFl0iyuw",
+    "ownerApprovalDriveId": "1pFuAw6o3CWRm7HDCVRFGGGOi27s4Qpdp",
+    "captionBeforeDriveId": "1V2s83uqZ5ZdCYeumf_GNterILSZyvZAL"
+  },
+  "previewPanel": "Attempted after verified publication; panel declined custom domain. Live page URL provided instead.",
+  "nextAuditItems": [
+    {
+      "item": "Skin Reset mobile layout",
+      "status": "RECOMMENDED IMPROVEMENT",
+      "finding": "Original embed remains cramped at narrow mobile widths; CSS/dimensions deliberately preserved by this approved package."
+    },
+    {
+      "item": "Skin Reset guide and delivery",
+      "status": "NOT TESTED",
+      "finding": "Lead form opens; downstream document and email delivery were not audited or submitted."
+    },
+    {
+      "item": "Commercial offers / Fullscript terms",
+      "status": "NOT VERIFIED",
+      "finding": "Preserved existing offer terms and destinations. Product/protocol names unchanged."
+    },
+    {
+      "item": "Hiring social links",
+      "status": "REQUIRED FIX OUTSIDE THIS PACKAGE",
+      "finding": "Existing social icons point to Wix accounts and body Instagram handle is older. C16 only approved one contextual link."
+    }
+  ],
+  "indexing": "No new indexing requests. Crawlability checks do not prove Google indexing or rankings. Existing quota follow-up remains separate."
+}

@@ -1,0 +1,390 @@
+<section class="matrix-landing">
+  <style>
+    .matrix-landing{
+      font-family: Arial, sans-serif;
+      background:#f7f5ef;
+      color:#1f1f1f;
+      margin:0;
+      padding:0;
+    }
+
+    .matrix-wrap{
+      max-width:1120px;
+      margin:auto;
+      padding:64px 24px;
+    }
+
+    .matrix-hero{
+      background:
+        linear-gradient(rgba(255,255,255,.88),rgba(255,255,255,.88)),
+        radial-gradient(circle at top left,#dfeeed,#ffffff 45%,#f7f5ef 100%);
+      border:3px solid #111;
+      padding:70px 42px;
+      text-align:center;
+      box-shadow:0 10px 28px rgba(0,0,0,.12);
+    }
+
+    .matrix-kicker{
+      color:#8a6b2f;
+      text-transform:uppercase;
+      letter-spacing:2px;
+      font-weight:800;
+      margin-bottom:18px;
+      font-size:15px;
+    }
+
+    .matrix-hero h1{
+      font-size:52px;
+      line-height:1.05;
+      margin:0 0 22px;
+      color:#101010;
+    }
+
+    .matrix-hero p{
+      font-size:21px;
+      line-height:1.6;
+      max-width:860px;
+      margin:0 auto 34px;
+      color:#252525;
+    }
+
+    .matrix-btn{
+      display:inline-block;
+      background:#050505;
+      color:#fff !important;
+      padding:16px 30px;
+      border-radius:0;
+      text-decoration:none;
+      font-weight:800;
+      letter-spacing:.5px;
+      margin:8px;
+      text-transform:uppercase;
+      border:2px solid #050505;
+      transition:all .2s ease;
+    }
+
+    .matrix-btn:hover{
+      background:#222;
+      border-color:#222;
+    }
+
+    .matrix-btn.secondary{
+      background:#fff;
+      color:#050505 !important;
+    }
+
+    .matrix-btn.secondary:hover{
+      background:#f1f1f1;
+    }
+
+    .matrix-btn.gold{
+      background:#8a6b2f;
+      border-color:#8a6b2f;
+      color:#fff !important;
+    }
+
+    .matrix-btn.gold:hover{
+      background:#6f5524;
+      border-color:#6f5524;
+    }
+
+    .matrix-grid{
+      display:grid;
+      grid-template-columns:repeat(3,1fr);
+      gap:24px;
+      margin-top:42px;
+    }
+
+    .matrix-card{
+      background:#ffffff;
+      border:2px solid #111;
+      padding:28px;
+      box-shadow:0 8px 20px rgba(0,0,0,.08);
+    }
+
+    .matrix-card h3{
+      color:#111;
+      font-size:24px;
+      margin:0 0 14px;
+      text-transform:uppercase;
+      letter-spacing:1px;
+    }
+
+    .matrix-card h3 a{
+      color:#111;
+      text-decoration:none;
+      border-bottom:2px solid #8a6b2f;
+    }
+
+    .matrix-card h3 a:hover{
+      color:#8a6b2f;
+    }
+
+    .matrix-card p,
+    .matrix-card li{
+      font-size:16px;
+      line-height:1.6;
+      color:#272727;
+    }
+
+    .matrix-section h2{
+      color:#111;
+      font-size:38px;
+      margin-bottom:14px;
+      text-transform:uppercase;
+      letter-spacing:1px;
+    }
+
+    .matrix-section p{
+      font-size:18px;
+      line-height:1.7;
+      max-width:930px;
+    }
+
+    .matrix-section a{
+      color:#111;
+      font-weight:700;
+      text-decoration:underline;
+      text-decoration-color:#8a6b2f;
+    }
+
+    .matrix-list{
+      background:#ffffff;
+      border:2px solid #111;
+      padding:28px 36px;
+      margin-top:24px;
+    }
+
+    .matrix-list li{
+      margin:12px 0;
+      font-size:17px;
+      line-height:1.55;
+    }
+
+    .matrix-center{
+      text-align:center;
+      margin-top:30px;
+    }
+
+    .matrix-highlight{
+      background:#111;
+      color:#fff;
+      padding:38px;
+      margin-top:34px;
+      text-align:center;
+    }
+
+    .matrix-highlight h2{
+      color:#fff;
+      margin-top:0;
+      font-size:34px;
+      text-transform:uppercase;
+      letter-spacing:1px;
+    }
+
+    .matrix-highlight p{
+      color:#fff;
+      font-size:18px;
+      line-height:1.7;
+      max-width:900px;
+      margin:0 auto;
+    }
+
+    .matrix-cta{
+      text-align:center;
+      background:#050505;
+      color:#ffffff;
+      padding:56px 28px;
+      margin-top:40px;
+      border:4px solid #111;
+    }
+
+    .matrix-cta h2{
+      color:#ffffff;
+      font-size:40px;
+      margin-top:0;
+      text-transform:uppercase;
+    }
+
+    .matrix-cta p{
+      color:#ffffff;
+      font-size:18px;
+      line-height:1.7;
+      max-width:850px;
+      margin-left:auto;
+      margin-right:auto;
+    }
+
+    .matrix-small{
+      font-size:14px !important;
+      opacity:.9;
+      margin-top:20px;
+      line-height:1.5 !important;
+    }
+
+    @media(max-width:800px){
+      .matrix-hero h1{
+        font-size:38px;
+      }
+
+      .matrix-hero p{
+        font-size:18px;
+      }
+
+      .matrix-grid{
+        grid-template-columns:1fr;
+      }
+
+      .matrix-wrap{
+        padding:42px 18px;
+      }
+
+      .matrix-section h2{
+        font-size:30px;
+      }
+
+      .matrix-btn{
+        display:block;
+        width:auto;
+        margin:10px auto;
+      }
+    }
+  </style>
+
+  <div class="matrix-wrap">
+    <div class="matrix-hero">
+      <div class="matrix-kicker">Matrix Massage & Bodywork | Facial Services in Salem, WI</div>
+
+      <h1>Facials in Salem, WI for Skin That Needs a Reset</h1>
+
+      <p>
+        If your skincare routine is not working, your skin may need more than another product.
+        Download the free Skin Reset Blueprint and learn how pH, barrier health, acne triggers,
+        aging skin, inflammation, hormones, nutrition, and stress can affect your results.
+      </p>
+
+      <a class="matrix-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfEKBnCpKLxnRu2G6MlBOg2yaoi_YgT01u1JNFsxy-hm74dBQ/viewform?usp=header" target="_blank">
+        Get the Free Skin Reset Guide
+      </a>
+
+      <a class="matrix-btn secondary" href="https://www.matrixmassage.net/book-appointments-salem-wi" target="_blank">
+        Book a Facial
+      </a>
+    </div>
+
+    <div class="matrix-grid">
+      <div class="matrix-card">
+        <h3><a href="https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi" target="_blank">Anti-Aging Facials</a></h3>
+        <p>
+          Learn why dullness, texture, dryness, fine lines, and loss of glow may be connected to
+          barrier stress, hydration loss, inflammation, and poor product tolerance.
+        </p>
+      </div>
+
+      <div class="matrix-card">
+        <h3><a href="https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi" target="_blank">Acne Control Facials</a></h3>
+        <p>
+          Understand how pH, oil imbalance, over-cleansing, stress, hormones, and the skin microbiome
+          can affect acne-prone skin and recurring breakouts.
+        </p>
+      </div>
+
+      <div class="matrix-card">
+        <h3><a href="https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi" target="_blank">Barrier Repair Facials</a></h3>
+        <p>
+          For sensitive, reactive, dry, flaky, or irritated skin that stings with products or feels tight
+          after cleansing. Start with calm, then rebuild.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="matrix-wrap matrix-section">
+    <h2>Free Skin Reset Blueprint</h2>
+
+    <p>
+      This free guide was created by Matrix Massage & Bodywork for clients looking for
+      <a href="https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi" target="_blank">facials in Salem, WI</a>,
+      Kenosha County, Bristol, Pleasant Prairie, Paddock Lake, and Antioch, IL.
+      It explains why your skin may feel reactive, dry, acne-prone, aging, inflamed, or unpredictable —
+      and what to do before adding more products.
+    </p>
+
+    <div class="matrix-list">
+      <ul>
+        <li>Why skincare routines stop working even when you are using “good” products</li>
+        <li>How skin pH affects the barrier, hydration, microbiome, and product tolerance</li>
+        <li>Signs your skin barrier may be damaged, stressed, or overwhelmed</li>
+        <li>What can trigger acne-prone skin, sensitive skin, redness, dryness, and dullness</li>
+        <li>How anti-aging facials and hydration-focused facials support healthier-looking skin</li>
+        <li>Why over-exfoliation, harsh cleansers, hot water, and product stacking can make skin worse</li>
+        <li>How nutrition, hormones, sleep, stress, inflammation, and labs may affect skin health</li>
+        <li>What bloodwork may matter: Vitamin D, zinc, Omega-3 Index, fasting insulin/glucose, CRP, cortisol, and hormone panels</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="matrix-wrap matrix-section">
+    <h2>Facial Services Near Kenosha, Bristol & Antioch</h2>
+
+    <p>
+      Matrix Massage & Bodywork offers
+      <a href="https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi" target="_blank">facial services in Salem, WI</a>
+      for clients looking for a more science-informed approach to skin care. Our facial services are ideal for clients searching for
+      anti-aging facials, acne facials, skin reset facials, barrier repair facials, hydration facials,
+      glow facials, and wellness-based facial treatments near Kenosha, Bristol, Pleasant Prairie,
+      Paddock Lake, Twin Lakes, and Antioch, IL.
+    </p>
+
+    <p>
+      The goal is not to chase a one-day glow. The goal is calmer skin behavior, stronger barrier
+      function, better hydration, improved product tolerance, and a routine your skin can actually handle.
+    </p>
+
+    <div class="matrix-center">
+      <a class="matrix-btn gold" href="https://www.matrixmassage.net/book-appointments-salem-wi" target="_blank">
+        Book Now
+      </a>
+    </div>
+  </div>
+
+  <div class="matrix-wrap">
+    <div class="matrix-highlight">
+      <h2>This Is Not Generic Spa Skincare</h2>
+      <p>
+        At Matrix, we look at the whole picture: skin barrier, pH, inflammation, lifestyle, stress load,
+        sleep, nutrition, hormones, labs, and product tolerance. That is what makes this different from
+        a basic facial.
+      </p>
+    </div>
+  </div>
+
+  <div class="matrix-wrap">
+    <div class="matrix-cta">
+      <h2>Start Your Skin Reset</h2>
+
+      <p>
+        Get the free guide, then book a Skin Reset Facial, anti-aging facial, hydration facial,
+        or acne-support facial at Matrix Massage & Bodywork in Salem, WI.
+      </p>
+
+      <a class="matrix-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSfEKBnCpKLxnRu2G6MlBOg2yaoi_YgT01u1JNFsxy-hm74dBQ/viewform?usp=header" target="_blank">
+        Get the Blueprint
+      </a>
+
+      <a class="matrix-btn secondary" href="https://www.matrixmassage.net/book-appointments-salem-wi" target="_blank">
+        Book Now
+      </a>
+
+      <p class="matrix-small">
+        Matrix Massage & Bodywork<br>
+        24804 75th St, Salem, WI 53168<br>
+        Serving Salem, Paddock Lake, Kenosha, Bristol, Pleasant Prairie, Twin Lakes & Antioch IL
+      </p>
+
+      <p class="matrix-small">
+        Educational only. This guide does not diagnose or treat medical skin disease.
+      </p>
+    </div>
+  </div>
+</section>

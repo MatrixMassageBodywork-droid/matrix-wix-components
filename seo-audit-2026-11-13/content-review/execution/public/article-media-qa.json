@@ -1,0 +1,226 @@
+[
+  {
+    "id": "C03",
+    "checks": {
+      "retainedImageIds": true,
+      "retainedAltsOrDocumentedFallback": true,
+      "visibleCaptions": true,
+      "removedGraphicsAbsent": true,
+      "supersededCaptionsAbsent": true
+    },
+    "retained": [],
+    "removedAssets": []
+  },
+  {
+    "id": "C01",
+    "checks": {
+      "retainedImageIds": true,
+      "retainedAltsOrDocumentedFallback": true,
+      "visibleCaptions": true,
+      "removedGraphicsAbsent": true,
+      "supersededCaptionsAbsent": true
+    },
+    "retained": [],
+    "removedAssets": []
+  },
+  {
+    "id": "C02",
+    "checks": {
+      "retainedImageIds": true,
+      "retainedAltsOrDocumentedFallback": true,
+      "visibleCaptions": true,
+      "removedGraphicsAbsent": true,
+      "supersededCaptionsAbsent": true
+    },
+    "retained": [
+      {
+        "asset": "e4cc43_d007615b643f4c6e85aafeba30c2cf4f~mv2.png",
+        "found": true,
+        "altMatch": true,
+        "captionFound": true,
+        "rendererCaptionAltFallback": false
+      }
+    ],
+    "removedAssets": []
+  },
+  {
+    "id": "C09",
+    "checks": {
+      "retainedImageIds": true,
+      "retainedAltsOrDocumentedFallback": true,
+      "visibleCaptions": true,
+      "removedGraphicsAbsent": true,
+      "supersededCaptionsAbsent": true
+    },
+    "retained": [
+      {
+        "asset": "e4cc43_1fe7fc0981eb46df965a322e27e55e66~mv2.jpg",
+        "found": true,
+        "altMatch": true,
+        "captionFound": true,
+        "rendererCaptionAltFallback": true
+      }
+    ],
+    "removedAssets": []
+  },
+  {
+    "id": "C04",
+    "checks": {
+      "retainedImageIds": true,
+      "retainedAltsOrDocumentedFallback": true,
+      "visibleCaptions": true,
+      "removedGraphicsAbsent": true,
+      "supersededCaptionsAbsent": true
+    },
+    "retained": [],
+    "removedAssets": []
+  },
+  {
+    "id": "C05",
+    "checks": {
+      "retainedImageIds": true,
+      "retainedAltsOrDocumentedFallback": true,
+      "visibleCaptions": true,
+      "removedGraphicsAbsent": true,
+      "supersededCaptionsAbsent": true
+    },
+    "retained": [],
+    "removedAssets": []
+  },
+  {
+    "id": "C06",
+    "checks": {
+      "retainedImageIds": true,
+      "retainedAltsOrDocumentedFallback": true,
+      "visibleCaptions": true,
+      "removedGraphicsAbsent": true,
+      "supersededCaptionsAbsent": true
+    },
+    "retained": [],
+    "removedAssets": [
+      "e4cc43_72468453f01d4774b4bf50fdf0911a42~mv2.png"
+    ]
+  },
+  {
+    "id": "C07",
+    "checks": {
+      "retainedImageIds": true,
+      "retainedAltsOrDocumentedFallback": true,
+      "visibleCaptions": true,
+      "removedGraphicsAbsent": true,
+      "supersededCaptionsAbsent": true
+    },
+    "retained": [],
+    "removedAssets": []
+  },
+  {
+    "id": "C08",
+    "checks": {
+      "retainedImageIds": true,
+      "retainedAltsOrDocumentedFallback": true,
+      "visibleCaptions": true,
+      "removedGraphicsAbsent": true,
+      "supersededCaptionsAbsent": true
+    },
+    "retained": [
+      {
+        "asset": "e4cc43_49e08c5a51284768ba8368734f2bd8bf~mv2.jpg",
+        "found": true,
+        "altMatch": true,
+        "captionFound": true,
+        "rendererCaptionAltFallback": false
+      }
+    ],
+    "removedAssets": []
+  },
+  {
+    "id": "C14",
+    "checks": {
+      "retainedImageIds": true,
+      "retainedAltsOrDocumentedFallback": true,
+      "visibleCaptions": true,
+      "removedGraphicsAbsent": true,
+      "supersededCaptionsAbsent": true
+    },
+    "retained": [
+      {
+        "asset": "e4cc43_c28a00dc2e1a46058828ce8b8241c9b0~mv2.png",
+        "found": true,
+        "altMatch": true,
+        "captionFound": true,
+        "rendererCaptionAltFallback": false
+      },
+      {
+        "asset": "e4cc43_969e19180fff4dfabb060c37aca6abbc~mv2.png",
+        "found": true,
+        "altMatch": true,
+        "captionFound": true,
+        "rendererCaptionAltFallback": false
+      },
+      {
+        "asset": "e4cc43_980b7a2ca24d45359e6eb446d83e28b5~mv2.png",
+        "found": true,
+        "altMatch": true,
+        "captionFound": true,
+        "rendererCaptionAltFallback": false
+      }
+    ],
+    "removedAssets": [
+      "e4cc43_4b46963d020448e7b7d89e65cb224ed1~mv2.png",
+      "e4cc43_adaf1ed57c3b4ab9b6899952d413a43b~mv2.png",
+      "e4cc43_f29da8f31c584dfe9783d535b4808036~mv2.png"
+    ]
+  },
+  {
+    "id": "C15",
+    "checks": {
+      "retainedImageIds": true,
+      "retainedAltsOrDocumentedFallback": true,
+      "visibleCaptions": true,
+      "removedGraphicsAbsent": true,
+      "supersededCaptionsAbsent": true
+    },
+    "retained": [
+      {
+        "asset": "e4cc43_675463d96b4142659de02bdb1d8c37fd~mv2.png",
+        "found": true,
+        "altMatch": true,
+        "captionFound": true,
+        "rendererCaptionAltFallback": false
+      }
+    ],
+    "removedAssets": []
+  },
+  {
+    "id": "C13",
+    "checks": {
+      "retainedImageIds": true,
+      "retainedAltsOrDocumentedFallback": true,
+      "visibleCaptions": true,
+      "removedGraphicsAbsent": true,
+      "supersededCaptionsAbsent": true
+    },
+    "retained": [
+      {
+        "asset": "11062b_bead31d3b8dd46358d4d4df83a3d3720~mv2.jpeg",
+        "found": true,
+        "altMatch": true,
+        "captionFound": true,
+        "rendererCaptionAltFallback": false
+      }
+    ],
+    "removedAssets": []
+  },
+  {
+    "id": "C11",
+    "checks": {
+      "retainedImageIds": true,
+      "retainedAltsOrDocumentedFallback": true,
+      "visibleCaptions": true,
+      "removedGraphicsAbsent": true,
+      "supersededCaptionsAbsent": true
+    },
+    "retained": [],
+    "removedAssets": []
+  }
+]

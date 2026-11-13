@@ -1,0 +1,197 @@
+[
+  {
+    "id": "C01",
+    "checks": {
+      "id": true,
+      "slug": true,
+      "title": true,
+      "lastPublishedDate": true,
+      "no_unpublished": true,
+      "live_draft_same": true,
+      "all_before_blocks": true,
+      "seo": true,
+      "media": true
+    },
+    "ready": true
+  },
+  {
+    "id": "C02",
+    "checks": {
+      "id": true,
+      "slug": true,
+      "title": true,
+      "lastPublishedDate": true,
+      "no_unpublished": true,
+      "live_draft_same": true,
+      "all_before_blocks": true,
+      "seo": true,
+      "media": true
+    },
+    "ready": true
+  },
+  {
+    "id": "C03",
+    "checks": {
+      "id": true,
+      "slug": true,
+      "title": true,
+      "lastPublishedDate": true,
+      "no_unpublished": true,
+      "live_draft_same": true,
+      "all_before_blocks": true,
+      "seo": true,
+      "media": true
+    },
+    "ready": true
+  },
+  {
+    "id": "C04",
+    "checks": {
+      "id": true,
+      "slug": true,
+      "title": true,
+      "lastPublishedDate": true,
+      "no_unpublished": true,
+      "live_draft_same": true,
+      "all_before_blocks": true,
+      "seo": true,
+      "media": true
+    },
+    "ready": true
+  },
+  {
+    "id": "C05",
+    "checks": {
+      "id": true,
+      "slug": true,
+      "title": true,
+      "lastPublishedDate": true,
+      "no_unpublished": true,
+      "live_draft_same": true,
+      "all_before_blocks": true,
+      "seo": true,
+      "media": true
+    },
+    "ready": true
+  },
+  {
+    "id": "C06",
+    "checks": {
+      "id": true,
+      "slug": true,
+      "title": true,
+      "lastPublishedDate": true,
+      "no_unpublished": true,
+      "live_draft_same": true,
+      "all_before_blocks": true,
+      "seo": true,
+      "media": true
+    },
+    "ready": true
+  },
+  {
+    "id": "C07",
+    "checks": {
+      "id": true,
+      "slug": true,
+      "title": true,
+      "lastPublishedDate": true,
+      "no_unpublished": true,
+      "live_draft_same": true,
+      "all_before_blocks": true,
+      "seo": true,
+      "media": true
+    },
+    "ready": true
+  },
+  {
+    "id": "C08",
+    "checks": {
+      "id": true,
+      "slug": true,
+      "title": true,
+      "lastPublishedDate": true,
+      "no_unpublished": true,
+      "live_draft_same": true,
+      "all_before_blocks": true,
+      "seo": true,
+      "media": true
+    },
+    "ready": true
+  },
+  {
+    "id": "C09",
+    "checks": {
+      "id": true,
+      "slug": true,
+      "title": true,
+      "lastPublishedDate": true,
+      "no_unpublished": true,
+      "live_draft_same": true,
+      "all_before_blocks": true,
+      "seo": true,
+      "media": true
+    },
+    "ready": true
+  },
+  {
+    "id": "C11",
+    "checks": {
+      "id": true,
+      "slug": true,
+      "title": true,
+      "lastPublishedDate": true,
+      "no_unpublished": true,
+      "live_draft_same": true,
+      "all_before_blocks": true,
+      "seo": true,
+      "media": true
+    },
+    "ready": true
+  },
+  {
+    "id": "C13",
+    "checks": {
+      "id": true,
+      "slug": true,
+      "title": true,
+      "lastPublishedDate": true,
+      "no_unpublished": true,
+      "live_draft_same": true,
+      "all_before_blocks": true,
+      "seo": true,
+      "media": true
+    },
+    "ready": true
+  },
+  {
+    "id": "C14",
+    "checks": {
+      "id": true,
+      "slug": true,
+      "title": true,
+      "lastPublishedDate": true,
+      "no_unpublished": true,
+      "live_draft_same": true,
+      "all_before_blocks": true,
+      "seo": true,
+      "media": true
+    },
+    "ready": true
+  },
+  {
+    "id": "C15",
+    "checks": {
+      "id": true,
+      "slug": true,
+      "title": true,
+      "lastPublishedDate": true,
+      "no_unpublished": true,
+      "live_draft_same": true,
+      "all_before_blocks": true,
+      "seo": true,
+      "media": true
+    },
+    "ready": true
+  }
+]

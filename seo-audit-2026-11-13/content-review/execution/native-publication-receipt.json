@@ -1,0 +1,77 @@
+{
+  "planId": "MATRIX-CONTENT-REVIEW-2026-11-13",
+  "nativeRevision": 1166,
+  "publishedAtLocal": "2026-11-13 14:01 America/Chicago",
+  "publishedAtUTCMinute": "2026-11-13T20:01Z",
+  "history": "Published by site owner",
+  "ids": [
+    "C10",
+    "C12",
+    "C16",
+    "C17"
+  ],
+  "C10": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"extraIds\":[],\"patches\":[{\"count\":1,\"id\":\"comp-mexcv3181\"},{\"count\":1,\"id\":\"comp-mexcv31f1\"},{\"count\":1,\"id\":\"comp-mexcv31f1\"},{\"count\":1,\"id\":\"comp-mexcv31h\"},{\"count\":1,\"id\":\"comp-mexcv31j\"},{\"count\":1,\"id\":\"comp-mexcv31j\"},{\"count\":1,\"id\":\"comp-mexcv31j\"},{\"count\":1,\"id\":\"comp-mexcv34y2__item-meyijbbk\"},{\"count\":1,\"id\":\"comp-meyiq71f__item-meyijbbk\"},{\"count\":1,\"id\":\"comp-mexcv34y2__item-j9ples3e\"},{\"count\":1,\"id\":\"comp-mexcv300\"}]}"
+      }
+    ],
+    "structuredContent": null,
+    "isError": false
+  },
+  "skinEmbed": "https://www-matrixmassage-net.filesusr.com/html/e4cc43_c62c4db9cfeb1344fff259d174c46c0a.html",
+  "browserQA": {
+    "desktop": {
+      "width": 1440,
+      "scope": "Four native page previews and public desktop readback"
+    },
+    "mobile": {
+      "width": 320,
+      "surface": "Wix native mobile preview/editor",
+      "scope": "Four native page layouts checked; existing Skin Reset embed remains cramped"
+    },
+    "width375": {
+      "status": "NOT TESTED",
+      "reason": "Desktop viewport resizing did not activate Wix mobile layout. Direct embed navigation returned ERR_BLOCKED_BY_CLIENT; not bypassed."
+    },
+    "clicks": [
+      {
+        "from": "/local-wellness-partnerships",
+        "text": "massage therapy",
+        "to": "/massage-therapy-services-salem-wi",
+        "passed": true
+      },
+      {
+        "from": "/massage-therapist-jobs-salem-wi",
+        "text": "Explore our massage services",
+        "to": "/massage-therapy-services-salem-wi",
+        "passed": true
+      }
+    ],
+    "forms": [
+      {
+        "name": "Matrix Partner Kit Request Form",
+        "loaded": true,
+        "submitted": false
+      },
+      {
+        "name": "Matrix Massage & Bodywork Job Application",
+        "loaded": true,
+        "submitted": false
+      },
+      {
+        "name": "Free Skin Reset Blueprint",
+        "loaded": true,
+        "submitted": false
+      }
+    ],
+    "livePhoneCheck": "NOT TESTED on an actual mobile device"
+  },
+  "limitations": [
+    "Skin Reset preserves its original embed dimensions and CSS; narrow-phone layout remains cramped with internal scrolling.",
+    "Existing Wix-default social icons and old Instagram handle on Hiring were preserved outside C16 link-only scope.",
+    "Commercial offers and downstream Skin Reset guide content/delivery remain unverified. No form submissions or bookings were made.",
+    "No Google indexing requests or performance/ranking claims are part of this execution."
+  ]
+}

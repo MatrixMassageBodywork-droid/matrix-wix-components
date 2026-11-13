@@ -1,0 +1,4516 @@
+[
+  {
+    "id": "C08",
+    "postId": "3619c40a-c638-41ab-bd45-e3f6a79fd367",
+    "post": {
+      "id": "3619c40a-c638-41ab-bd45-e3f6a79fd367",
+      "title": "Massage, Red Light and Nerve Discomfort: Setting Useful Goals",
+      "excerpt": "Explore comfort-focused massage and red light questions when nerve symptoms are present, without promises of nerve regeneration or replacement medical care.",
+      "firstPublishedDate": "2025-07-16T23:45:37Z",
+      "lastPublishedDate": "2026-11-13T19:20:00.638Z",
+      "slug": "relief-in-harmony-how-massage-and-red-light-therapy-support-nerve-pain-healing",
+      "featured": false,
+      "pinned": false,
+      "categoryIds": [
+        "aff33dfe-37a1-4c0a-8336-2bb73e091c23",
+        "9408a66f-a8be-4426-902b-d09a33dfd116",
+        "594d5fb0-9a3e-4e8f-9696-bd3edf9a5f5e"
+      ],
+      "memberId": "e4cc431b-a20f-4e73-a8a8-dee9ba5eaf76",
+      "hashtags": [],
+      "commentingEnabled": true,
+      "minutesToRead": 2,
+      "tagIds": [
+        "e0783140-1f25-4c38-b804-58f43362088f",
+        "2794a0b9-1e3d-4f97-b79f-ff53f0e84c39",
+        "74d0affb-5469-4a4e-80ed-519dd30ffa1d",
+        "697111af-ab84-4bd2-b77b-cc997f8d76fd",
+        "a470004f-d819-4dad-9b05-8c809324fcb4",
+        "b52987a8-b272-4e4d-a953-9733ddc5c90c",
+        "6194e166-2780-43e2-b780-391f7b0539ad",
+        "f63d1b4d-9684-493a-92f7-3cfa4ad54243",
+        "3b2d4105-9054-4396-9ce8-2b7b89301ab5",
+        "1ba68bf6-82f8-4b04-a89b-64793747465c",
+        "029af3a6-f01b-473c-85a6-f57fc16c4683",
+        "8e9b5fd1-bbfb-432b-a1c4-6b81ba6889a5",
+        "4a91c9d9-f6e6-4d0d-ac43-e84eeff4450a",
+        "7249e03b-0043-45bf-8e41-74e139077fc9"
+      ],
+      "relatedPostIds": [
+        "1ab7f78e-9cca-4eed-8460-b9f646db5e30",
+        "a2abd00e-246f-4999-bea9-521e5d18d54f",
+        "4b8e3be3-0ef2-418f-913c-81d0fe82cd69"
+      ],
+      "pricingPlanIds": [],
+      "language": "en",
+      "seoData": {
+        "tags": [
+          {
+            "type": "meta",
+            "props": {
+              "name": "description",
+              "content": "Explore comfort-focused massage and red light questions when nerve symptoms are present, without promises of nerve regeneration or replacement medical care."
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "blog-post-blog-posting-preset",
+              "displayName": "blog-post-blog-posting-preset",
+              "variants": [
+                {
+                  "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+                  "schemaType": "blog-post-news-article-preset",
+                  "disabled": [
+                    "{{blog-post.disable-schema}}"
+                  ],
+                  "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+                },
+                {
+                  "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+                  "schemaType": "blog-post-article-preset",
+                  "disabled": [
+                    "{{blog-post.disable-schema}}"
+                  ],
+                  "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+                }
+              ],
+              "selectedVariant": "blog-post-blog-posting-preset"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": true
+          },
+          {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "FCLmK0Qk",
+              "displayName": "Matrix Article Author"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"author\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/about-5\"},\"dateModified\":\"2026-11-13T19:20:00.638Z\",\"datePublished\":\"2025-07-16T23:45:37.000Z\",\"headline\":\"Massage, Red Light and Nerve Discomfort: Setting Useful Goals\",\"mainEntityOfPage\":{\"@id\":\"https://www.matrixmassage.net/post/relief-in-harmony-how-massage-and-red-light-therapy-support-nerve-pain-healing\",\"@type\":\"ItemPage\",\"url\":\"https://www.matrixmassage.net/post/relief-in-harmony-how-massage-and-red-light-therapy-support-nerve-pain-healing\"},\"description\":\"Explore comfort-focused massage and red light questions when nerve symptoms are present, without promises of nerve regeneration or replacement medical care.\",\"url\":\"https://www.matrixmassage.net/post/relief-in-harmony-how-massage-and-red-light-therapy-support-nerve-pain-healing\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wixstatic.com/media/e4cc43_49e08c5a51284768ba8368734f2bd8bf~mv2.jpg/v1/fill/w_1600,h_1600,al_c,q_90/e4cc43_49e08c5a51284768ba8368734f2bd8bf~mv2.jpg\",\"width\":\"1600\",\"height\":\"1600\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\"}}",
+            "custom": false,
+            "disabled": false
+          }
+        ],
+        "settings": {
+          "preventAutoRedirect": false,
+          "keywords": []
+        }
+      },
+      "richContent": {
+        "nodes": [
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n0",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Burning, tingling, numbness and radiating pain can make everyday tasks difficult. They can also arise for different reasons. Finding the cause is the first step; a wellness service should not be presented as a diagnosis or a cure for nerve damage.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s1",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "IMAGE",
+            "id": "6m8ip490",
+            "nodes": [
+              {
+                "type": "CAPTION",
+                "id": "q36mz492",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "nodes": [],
+                    "textData": {
+                      "text": "This anatomical illustration highlights the sciatic nerve pathway and lumbar spine inflammation, a common source of nerve pain. It visually represents sciatica and the potential benefits of therapies like massage and red light treatment, which target inflammation and nerve compression at the source.",
+                      "decorations": []
+                    }
+                  }
+                ]
+              }
+            ],
+            "imageData": {
+              "containerData": {
+                "width": {
+                  "size": "CONTENT"
+                },
+                "alignment": "CENTER",
+                "textWrap": true
+              },
+              "image": {
+                "src": {
+                  "id": "e4cc43_49e08c5a51284768ba8368734f2bd8bf~mv2.jpg"
+                },
+                "width": 1600,
+                "height": 1600
+              },
+              "altText": "Illustration of the lower spine and sciatic nerve with a highlighted area of discomfort",
+              "caption": "Illustration of the lower spine and sciatic nerve. This is educational imagery, not a depiction of a treatment outcome."
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08sp6m8ip490",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c08n1",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Begin with medical guidance",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s2",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n2",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Discuss new, persistent or worsening nerve symptoms with a healthcare professional. Ask which activities and types of touch are appropriate, whether there are areas to avoid and what changes should prompt further assessment. Bring those instructions to a bodywork appointment.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s3",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c08n3",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "What massage may offer",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s4",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n4",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "When appropriate for your condition, massage can focus on comfort, relaxation and surrounding muscle tension. A chronic low-back pain trial reported benefits for symptoms and function, but that finding does not demonstrate nerve regrowth or apply to every neuropathy or sciatica diagnosis.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s5",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n5",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Reduced discomfort during a session should not be interpreted as proof that damaged nerves have healed. The goal and the way progress is assessed should be clear from the start.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s6",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c08n6",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Pressure and technique should fit the person",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s7",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n7",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "More pressure is not automatically more useful. Tell your therapist about reduced sensation and any area where feedback may be unreliable. ",
+                  "decorations": []
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Deep tissue massage",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": " and ",
+                  "decorations": []
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "manual lymphatic drainage",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": " are different services; neither should be selected solely because the word “nerve” appears in a symptom description.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s8",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c08n8",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Where red light fits",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s9",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n9",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "You can read about ",
+                  "decorations": []
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "red light therapy at Matrix",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": " to understand the wellness service. This article does not establish a panel protocol that remyelinates nerves, restores lost sensation or treats neuropathy. A fixed series of appointments should not be sold on those promises.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s10",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c08n10",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Supplements need an individual reason",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s11",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n11",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "B12 deficiency can affect nerve function, while excess supplemental B6 can cause nerve problems. That makes individualized assessment more useful than a standard combination of B vitamins, alpha-lipoic acid and other products. Review supplements and doses with your clinician or pharmacist.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s12",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n12",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Our ",
+                  "decorations": []
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "supplement page",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/supplements",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": " provides access information; it is not a substitute for that assessment.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s13",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c08n13",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Planning comfortable bodywork in Salem",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s14",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n14",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Explore our ",
+                  "decorations": []
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "massage therapy services",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": " and describe your goals and relevant medical instructions before booking. We can discuss whether a comfort-focused appointment is appropriate without promising a medical outcome.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s15",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n15",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "View available appointments",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/book-appointments-salem-wi",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": " for current service options. The right next step is a clear plan that respects both your wellness preferences and your ongoing care.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s16",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c08n16",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Research and references",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s17",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n17",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Cherkin et al. — chronic low-back pain massage trial (2011)",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://pubmed.ncbi.nlm.nih.gov/21727288/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s18",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n18",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "NIH Office of Dietary Supplements — vitamin B12",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s19",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n19",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "NIH Office of Dietary Supplements — vitamin B6",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          }
+        ],
+        "documentStyle": {}
+      },
+      "preview": false,
+      "contentId": "6af762e03aa9937f257d6f7d",
+      "mostRecentContributorId": "e4cc431b-a20f-4e73-a8a8-dee9ba5eaf76",
+      "media": {
+        "wixMedia": {
+          "image": {
+            "id": "e4cc43_49e08c5a51284768ba8368734f2bd8bf~mv2.jpg",
+            "url": "https://static.wixstatic.com/media/e4cc43_49e08c5a51284768ba8368734f2bd8bf~mv2.jpg",
+            "height": 1600,
+            "width": 1600,
+            "filename": "Inflamed Nerve endings.jpg"
+          }
+        },
+        "displayed": true,
+        "custom": true,
+        "altText": "Illustration of the lower spine and sciatic nerve with a highlighted area of discomfort"
+      },
+      "hasUnpublishedChanges": false,
+      "translations": [],
+      "customExcerpt": true,
+      "internalCategoryIds": [],
+      "internalRelatedPostIds": []
+    },
+    "draft": {
+      "id": "3619c40a-c638-41ab-bd45-e3f6a79fd367",
+      "title": "Massage, Red Light and Nerve Discomfort: Setting Useful Goals",
+      "excerpt": "Explore comfort-focused massage and red light questions when nerve symptoms are present, without promises of nerve regeneration or replacement medical care.",
+      "featured": false,
+      "categoryIds": [
+        "aff33dfe-37a1-4c0a-8336-2bb73e091c23",
+        "9408a66f-a8be-4426-902b-d09a33dfd116",
+        "594d5fb0-9a3e-4e8f-9696-bd3edf9a5f5e"
+      ],
+      "memberId": "e4cc431b-a20f-4e73-a8a8-dee9ba5eaf76",
+      "hashtags": [],
+      "commentingEnabled": true,
+      "minutesToRead": 2,
+      "tagIds": [
+        "e0783140-1f25-4c38-b804-58f43362088f",
+        "2794a0b9-1e3d-4f97-b79f-ff53f0e84c39",
+        "74d0affb-5469-4a4e-80ed-519dd30ffa1d",
+        "697111af-ab84-4bd2-b77b-cc997f8d76fd",
+        "a470004f-d819-4dad-9b05-8c809324fcb4",
+        "b52987a8-b272-4e4d-a953-9733ddc5c90c",
+        "6194e166-2780-43e2-b780-391f7b0539ad",
+        "f63d1b4d-9684-493a-92f7-3cfa4ad54243",
+        "3b2d4105-9054-4396-9ce8-2b7b89301ab5",
+        "1ba68bf6-82f8-4b04-a89b-64793747465c",
+        "029af3a6-f01b-473c-85a6-f57fc16c4683",
+        "8e9b5fd1-bbfb-432b-a1c4-6b81ba6889a5",
+        "4a91c9d9-f6e6-4d0d-ac43-e84eeff4450a",
+        "7249e03b-0043-45bf-8e41-74e139077fc9"
+      ],
+      "relatedPostIds": [
+        "1ab7f78e-9cca-4eed-8460-b9f646db5e30",
+        "a2abd00e-246f-4999-bea9-521e5d18d54f",
+        "4b8e3be3-0ef2-418f-913c-81d0fe82cd69"
+      ],
+      "pricingPlanIds": [],
+      "language": "en",
+      "changeOrigin": "PUBLISH",
+      "contentId": "6af762e03aa9937f257d6f7d",
+      "editingSessionId": "b29ffdf9-5435-421c-a5e7-59e368bced63",
+      "richContent": {
+        "nodes": [
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n0",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Burning, tingling, numbness and radiating pain can make everyday tasks difficult. They can also arise for different reasons. Finding the cause is the first step; a wellness service should not be presented as a diagnosis or a cure for nerve damage.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s1",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "IMAGE",
+            "id": "6m8ip490",
+            "nodes": [
+              {
+                "type": "CAPTION",
+                "id": "q36mz492",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "nodes": [],
+                    "textData": {
+                      "text": "This anatomical illustration highlights the sciatic nerve pathway and lumbar spine inflammation, a common source of nerve pain. It visually represents sciatica and the potential benefits of therapies like massage and red light treatment, which target inflammation and nerve compression at the source.",
+                      "decorations": []
+                    }
+                  }
+                ]
+              }
+            ],
+            "imageData": {
+              "containerData": {
+                "width": {
+                  "size": "CONTENT"
+                },
+                "alignment": "CENTER",
+                "textWrap": true
+              },
+              "image": {
+                "src": {
+                  "id": "e4cc43_49e08c5a51284768ba8368734f2bd8bf~mv2.jpg"
+                },
+                "width": 1600,
+                "height": 1600
+              },
+              "altText": "Illustration of the lower spine and sciatic nerve with a highlighted area of discomfort",
+              "caption": "Illustration of the lower spine and sciatic nerve. This is educational imagery, not a depiction of a treatment outcome."
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08sp6m8ip490",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c08n1",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Begin with medical guidance",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s2",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n2",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Discuss new, persistent or worsening nerve symptoms with a healthcare professional. Ask which activities and types of touch are appropriate, whether there are areas to avoid and what changes should prompt further assessment. Bring those instructions to a bodywork appointment.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s3",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c08n3",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "What massage may offer",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s4",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n4",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "When appropriate for your condition, massage can focus on comfort, relaxation and surrounding muscle tension. A chronic low-back pain trial reported benefits for symptoms and function, but that finding does not demonstrate nerve regrowth or apply to every neuropathy or sciatica diagnosis.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s5",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n5",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Reduced discomfort during a session should not be interpreted as proof that damaged nerves have healed. The goal and the way progress is assessed should be clear from the start.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s6",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c08n6",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Pressure and technique should fit the person",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s7",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n7",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "More pressure is not automatically more useful. Tell your therapist about reduced sensation and any area where feedback may be unreliable. ",
+                  "decorations": []
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Deep tissue massage",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": " and ",
+                  "decorations": []
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "manual lymphatic drainage",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": " are different services; neither should be selected solely because the word “nerve” appears in a symptom description.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s8",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c08n8",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Where red light fits",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s9",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n9",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "You can read about ",
+                  "decorations": []
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "red light therapy at Matrix",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": " to understand the wellness service. This article does not establish a panel protocol that remyelinates nerves, restores lost sensation or treats neuropathy. A fixed series of appointments should not be sold on those promises.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s10",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c08n10",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Supplements need an individual reason",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s11",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n11",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "B12 deficiency can affect nerve function, while excess supplemental B6 can cause nerve problems. That makes individualized assessment more useful than a standard combination of B vitamins, alpha-lipoic acid and other products. Review supplements and doses with your clinician or pharmacist.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s12",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n12",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Our ",
+                  "decorations": []
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "supplement page",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/supplements",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": " provides access information; it is not a substitute for that assessment.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s13",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c08n13",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Planning comfortable bodywork in Salem",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s14",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n14",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Explore our ",
+                  "decorations": []
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "massage therapy services",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": " and describe your goals and relevant medical instructions before booking. We can discuss whether a comfort-focused appointment is appropriate without promising a medical outcome.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s15",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n15",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "View available appointments",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/book-appointments-salem-wi",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": " for current service options. The right next step is a clear plan that respects both your wellness preferences and your ongoing care.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s16",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c08n16",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Research and references",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s17",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n17",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Cherkin et al. — chronic low-back pain massage trial (2011)",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://pubmed.ncbi.nlm.nih.gov/21727288/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s18",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n18",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "NIH Office of Dietary Supplements — vitamin B12",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08s19",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c08n19",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "NIH Office of Dietary Supplements — vitamin B6",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          }
+        ],
+        "documentStyle": {}
+      },
+      "status": "PUBLISHED",
+      "mostRecentContributorId": "e4cc431b-a20f-4e73-a8a8-dee9ba5eaf76",
+      "hasUnpublishedChanges": false,
+      "editedDate": "2026-11-13T19:20:00Z",
+      "firstPublishedDate": "2025-07-16T23:45:37Z",
+      "seoData": {
+        "tags": [
+          {
+            "type": "meta",
+            "props": {
+              "name": "description",
+              "content": "Explore comfort-focused massage and red light questions when nerve symptoms are present, without promises of nerve regeneration or replacement medical care."
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "blog-post-blog-posting-preset",
+              "displayName": "blog-post-blog-posting-preset",
+              "variants": [
+                {
+                  "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+                  "schemaType": "blog-post-news-article-preset",
+                  "disabled": [
+                    "{{blog-post.disable-schema}}"
+                  ],
+                  "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+                },
+                {
+                  "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+                  "schemaType": "blog-post-article-preset",
+                  "disabled": [
+                    "{{blog-post.disable-schema}}"
+                  ],
+                  "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+                }
+              ],
+              "selectedVariant": "blog-post-blog-posting-preset"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": true
+          },
+          {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "FCLmK0Qk",
+              "displayName": "Matrix Article Author"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"author\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/about-5\"},\"dateModified\":\"2026-11-13T19:20:00.638Z\",\"datePublished\":\"2025-07-16T23:45:37.000Z\",\"headline\":\"Massage, Red Light and Nerve Discomfort: Setting Useful Goals\",\"mainEntityOfPage\":{\"@id\":\"https://www.matrixmassage.net/post/relief-in-harmony-how-massage-and-red-light-therapy-support-nerve-pain-healing\",\"@type\":\"ItemPage\",\"url\":\"https://www.matrixmassage.net/post/relief-in-harmony-how-massage-and-red-light-therapy-support-nerve-pain-healing\"},\"description\":\"Explore comfort-focused massage and red light questions when nerve symptoms are present, without promises of nerve regeneration or replacement medical care.\",\"url\":\"https://www.matrixmassage.net/post/relief-in-harmony-how-massage-and-red-light-therapy-support-nerve-pain-healing\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wixstatic.com/media/e4cc43_49e08c5a51284768ba8368734f2bd8bf~mv2.jpg/v1/fill/w_1600,h_1600,al_c,q_90/e4cc43_49e08c5a51284768ba8368734f2bd8bf~mv2.jpg\",\"width\":\"1600\",\"height\":\"1600\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\"}}",
+            "custom": false,
+            "disabled": false
+          }
+        ],
+        "settings": {
+          "preventAutoRedirect": false,
+          "keywords": []
+        }
+      },
+      "slugs": [
+        "relief-in-harmony-how-massage-and-red-light-therapy-support-nerve-pain-healing"
+      ],
+      "createdDate": "2025-07-16T23:04:52.624Z",
+      "seoSlug": "relief-in-harmony-how-massage-and-red-light-therapy-support-nerve-pain-healing",
+      "media": {
+        "wixMedia": {
+          "image": {
+            "id": "e4cc43_49e08c5a51284768ba8368734f2bd8bf~mv2.jpg",
+            "url": "https://static.wixstatic.com/media/e4cc43_49e08c5a51284768ba8368734f2bd8bf~mv2.jpg",
+            "height": 1600,
+            "width": 1600,
+            "filename": "Inflamed Nerve endings.jpg"
+          }
+        },
+        "displayed": true,
+        "custom": true,
+        "altText": "Illustration of the lower spine and sciatic nerve with a highlighted area of discomfort"
+      },
+      "translations": []
+    }
+  },
+  {
+    "id": "C14",
+    "postId": "284df537-e2a4-4ebf-b177-43a514923d62",
+    "post": {
+      "id": "284df537-e2a4-4ebf-b177-43a514923d62",
+      "title": "Massage Therapy in Salem, WI: Benefits, Research and Realistic Goals",
+      "excerpt": "Explore massage for relaxation, muscle comfort and selected pain concerns, with research context and practical ways to plan a visit in Salem, WI.",
+      "firstPublishedDate": "2025-09-11T17:30:08Z",
+      "lastPublishedDate": "2026-11-13T19:22:02.023Z",
+      "slug": "the-science-of-serenity-unpacking-the-proven-benefits-of-massage-therapy-in-salem-wi",
+      "featured": false,
+      "pinned": false,
+      "categoryIds": [
+        "594d5fb0-9a3e-4e8f-9696-bd3edf9a5f5e",
+        "5be015ea-c550-4dd0-aec8-2bd4330d61ef",
+        "aee4c562-2cfa-489b-a6c9-258e94b95c80",
+        "99f7f307-2385-4a8f-850a-4cd42bbe9a8e"
+      ],
+      "memberId": "e4cc431b-a20f-4e73-a8a8-dee9ba5eaf76",
+      "hashtags": [
+        "massageappointmentssalem",
+        "massagebenefits",
+        "wellnesssalemwi",
+        "selfcaresalem",
+        "matrixmassagewi",
+        "salemhealth",
+        "painreliefwi",
+        "stressreduction",
+        "healthylivingsalem",
+        "massagetherapywisconsin",
+        "massagepaddocklakewi",
+        "massagekenosha",
+        "massageinkenoshacounty",
+        "massagetherapy",
+        "massageuniongrovewi"
+      ],
+      "commentingEnabled": true,
+      "minutesToRead": 2,
+      "tagIds": [
+        "1cc55dc2-0cb8-43f1-85e8-62d226ecf443",
+        "2794a0b9-1e3d-4f97-b79f-ff53f0e84c39",
+        "1927983d-a515-4659-9491-e90f8c4efc10",
+        "691af0ff-3b3f-4446-ba34-1a77f38a0dc5",
+        "dcbf35de-b687-4a37-b270-ee228d0c13b8",
+        "51240a10-608d-4371-9598-98a118b3da1f",
+        "504fc4fc-7342-4029-84a4-0993b7d9c915",
+        "ff73e53e-75a9-4e60-bb4e-ef0563372794",
+        "f2cf71db-7f08-4b24-87f4-3cc112329ecf",
+        "66dd5c8c-46bb-44f1-b597-5a5e13b25e5b",
+        "59a9a28a-f4af-4659-9be3-a81b2edf910d",
+        "9676fee1-550a-4ad8-96f9-cdff87efdc26"
+      ],
+      "relatedPostIds": [
+        "38c7c66c-8f4b-42b6-824e-c8bcba7c83ed",
+        "5417874e-7651-450a-b837-c398cacd1671",
+        "8036d06c-eb96-4a28-9838-969cf8a9282e"
+      ],
+      "pricingPlanIds": [],
+      "language": "en",
+      "seoData": {
+        "tags": [
+          {
+            "type": "title",
+            "children": "Massage Therapy in Salem, WI: Benefits, Research and Realistic Goals",
+            "custom": false,
+            "disabled": false
+          },
+          {
+            "type": "meta",
+            "props": {
+              "name": "description",
+              "content": "Explore massage for relaxation, muscle comfort and selected pain concerns, with research context and practical ways to plan a visit in Salem, WI."
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "blog-post-blog-posting-preset",
+              "displayName": "blog-post-blog-posting-preset",
+              "variants": [
+                {
+                  "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+                  "schemaType": "blog-post-news-article-preset",
+                  "disabled": [
+                    "{{blog-post.disable-schema}}"
+                  ],
+                  "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+                },
+                {
+                  "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+                  "schemaType": "blog-post-article-preset",
+                  "disabled": [
+                    "{{blog-post.disable-schema}}"
+                  ],
+                  "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+                }
+              ],
+              "selectedVariant": "blog-post-blog-posting-preset"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": true
+          },
+          {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "uNS6LkwF",
+              "displayName": "Matrix Article Author"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"author\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/about-5\"},\"dateModified\":\"2026-11-13T19:22:02.023Z\",\"datePublished\":\"2025-09-11T17:30:08.000Z\",\"headline\":\"Massage Therapy in Salem, WI: Benefits, Research and Realistic Goals\",\"mainEntityOfPage\":{\"@id\":\"https://www.matrixmassage.net/post/the-science-of-serenity-unpacking-the-proven-benefits-of-massage-therapy-in-salem-wi\",\"@type\":\"ItemPage\",\"url\":\"https://www.matrixmassage.net/post/the-science-of-serenity-unpacking-the-proven-benefits-of-massage-therapy-in-salem-wi\"},\"description\":\"Explore massage for relaxation, muscle comfort and selected pain concerns, with research context and practical ways to plan a visit in Salem, WI.\",\"url\":\"https://www.matrixmassage.net/post/the-science-of-serenity-unpacking-the-proven-benefits-of-massage-therapy-in-salem-wi\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wixstatic.com/media/e4cc43_c28a00dc2e1a46058828ce8b8241c9b0~mv2.png/v1/fill/w_512,h_512,al_c,q_85/e4cc43_c28a00dc2e1a46058828ce8b8241c9b0~mv2.png\",\"width\":\"512\",\"height\":\"512\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\"}}",
+            "custom": false,
+            "disabled": false
+          }
+        ],
+        "settings": {
+          "preventAutoRedirect": false,
+          "keywords": [
+            {
+              "term": "Benefits of Massage Therapy",
+              "isMain": true
+            }
+          ]
+        }
+      },
+      "richContent": {
+        "nodes": [
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n0",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "A good massage starts with a useful goal. You may want a quiet hour, attention to tense shoulders or a comfortable way to care for muscles after a demanding week. Research can help frame those choices without turning every session into a promise of a medical result.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s1",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c14n1",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Relaxation and stress",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s2",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "IMAGE",
+            "id": "s8te4856",
+            "nodes": [
+              {
+                "type": "CAPTION",
+                "id": "n8yip862",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "nodes": [],
+                    "textData": {
+                      "text": "Massage Appointments Salem / Paddock Lake, WI ",
+                      "decorations": []
+                    }
+                  }
+                ]
+              }
+            ],
+            "imageData": {
+              "containerData": {
+                "width": {
+                  "size": "CONTENT"
+                },
+                "alignment": "CENTER",
+                "textWrap": true
+              },
+              "image": {
+                "src": {
+                  "id": "e4cc43_c28a00dc2e1a46058828ce8b8241c9b0~mv2.png"
+                },
+                "width": 512,
+                "height": 512
+              },
+              "altText": "Woman receiving a massage in Salem, WI on a bed in a serene room, blue art on walls. Text: \"De-Stress & Unwind,\" \"Matrix Massage & Bodywork,\" contact info.",
+              "caption": "Massage Appointments Salem / Paddock Lake, WI "
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14sps8te4856",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n2",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Massage gives you time to pause and communicate what feels comfortable. Small clinical studies have explored anxiety-related outcomes, but their results should not be stretched into a guarantee that massage corrects hormones or replaces mental-health care.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s3",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c14n3",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Muscle comfort and pain",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s4",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "IMAGE",
+            "id": "wqa5n1995",
+            "nodes": [
+              {
+                "type": "CAPTION",
+                "id": "38uz82016",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "nodes": [],
+                    "textData": {
+                      "text": "Pain Relieving Massage at Matrix Massage in Salem / Paddock Lake, WI",
+                      "decorations": []
+                    }
+                  }
+                ]
+              }
+            ],
+            "imageData": {
+              "containerData": {
+                "width": {
+                  "size": "CONTENT"
+                },
+                "alignment": "CENTER",
+                "textWrap": true
+              },
+              "image": {
+                "src": {
+                  "id": "e4cc43_969e19180fff4dfabb060c37aca6abbc~mv2.png"
+                },
+                "width": 512,
+                "height": 512
+              },
+              "altText": "Illustration of a massage session in a softly lit room",
+              "caption": "Massage and muscle comfort"
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14spwqa5n1995",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n4",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "A randomized trial in adults with nonspecific chronic low-back pain found improvements in symptoms and function after a course of massage. That supports a focused discussion about certain pain concerns; it does not establish that massage treats every cause of pain.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s5",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n5",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Tell your therapist where you feel discomfort, which activities bother you and what healthcare guidance you have received. Pressure and positioning can then be selected around a meaningful goal.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s6",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c14n6",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Recovery after activity",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s7",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "IMAGE",
+            "id": "bt7kk318",
+            "nodes": [
+              {
+                "type": "CAPTION",
+                "id": "cbbu5400",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "nodes": [],
+                    "textData": {
+                      "text": "Boost Athletic Recovery with Deep Tissue Massage in Salem, WI",
+                      "decorations": []
+                    }
+                  }
+                ]
+              }
+            ],
+            "imageData": {
+              "containerData": {
+                "width": {
+                  "size": "CONTENT"
+                },
+                "alignment": "CENTER",
+                "textWrap": true
+              },
+              "image": {
+                "src": {
+                  "id": "e4cc43_980b7a2ca24d45359e6eb446d83e28b5~mv2.png"
+                },
+                "width": 512,
+                "height": 512
+              },
+              "altText": "Illustration of a person resting on a gym floor",
+              "caption": "Making time for rest after activity"
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14spbt7kk318",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n7",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Some small studies have examined post-exercise soreness. Feeling less sore is different from proving faster tissue repair or better athletic performance. Massage also should not be explained as flushing out lactic acid.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s8",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c14n8",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "What about immunity?",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s9",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n9",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Research measuring short-term immune markers is not the same as research showing fewer infections. We therefore describe massage around comfort and relaxation rather than claiming it boosts protection against illness.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s10",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c14n10",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Make the appointment useful to you",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s11",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n11",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Before your visit, choose one or two priorities. During the session, speak up about temperature, pressure and positioning. Afterward, notice comfort and everyday function rather than expecting a specific laboratory or hormone change. Discuss persistent symptoms with your healthcare professional.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s12",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c14n12",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Massage near Salem and Union Grove",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s13",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n13",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Matrix Massage & Bodywork welcomes clients in Salem, Paddock Lake and surrounding communities. If you are visiting from ",
+                  "decorations": []
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Union Grove",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/massage-near-union-grove-wi",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": ", explore the local service information and plan travel around your starting point.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s14",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n14",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "View massage appointments in Salem",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/book-appointments-salem-wi",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": " to find the current options and choose a session that fits your goals.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s15",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c14n15",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Research and references",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s16",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n16",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Rapaport et al. — preliminary massage biomarker study (2010)",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://pubmed.ncbi.nlm.nih.gov/20809811/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s17",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n17",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Cherkin et al. — chronic low-back pain massage trial (2011)",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://pubmed.ncbi.nlm.nih.gov/21727288/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s18",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n18",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Rapaport et al. — massage and anxiety proof-of-concept trial (2016)",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://pubmed.ncbi.nlm.nih.gov/27464321/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s19",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n19",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Hilbert et al. — massage and delayed muscle soreness (2003)",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://pubmed.ncbi.nlm.nih.gov/12547748/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s20",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n20",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Wiltshire et al. — massage and lactate removal (2010)",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://pubmed.ncbi.nlm.nih.gov/19997015/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          }
+        ],
+        "documentStyle": {}
+      },
+      "preview": false,
+      "contentId": "6af7635afd7dd207752fffbe",
+      "mostRecentContributorId": "e4cc431b-a20f-4e73-a8a8-dee9ba5eaf76",
+      "media": {
+        "wixMedia": {
+          "image": {
+            "id": "e4cc43_c28a00dc2e1a46058828ce8b8241c9b0~mv2.png",
+            "url": "https://static.wixstatic.com/media/e4cc43_c28a00dc2e1a46058828ce8b8241c9b0~mv2.png",
+            "height": 512,
+            "width": 512,
+            "filename": "image.png"
+          }
+        },
+        "displayed": true,
+        "custom": true,
+        "altText": "Massage Appointment in Salem, WI"
+      },
+      "hasUnpublishedChanges": false,
+      "translations": [],
+      "customExcerpt": true,
+      "internalCategoryIds": [],
+      "internalRelatedPostIds": []
+    },
+    "draft": {
+      "id": "284df537-e2a4-4ebf-b177-43a514923d62",
+      "title": "Massage Therapy in Salem, WI: Benefits, Research and Realistic Goals",
+      "excerpt": "Explore massage for relaxation, muscle comfort and selected pain concerns, with research context and practical ways to plan a visit in Salem, WI.",
+      "featured": false,
+      "categoryIds": [
+        "594d5fb0-9a3e-4e8f-9696-bd3edf9a5f5e",
+        "5be015ea-c550-4dd0-aec8-2bd4330d61ef",
+        "aee4c562-2cfa-489b-a6c9-258e94b95c80",
+        "99f7f307-2385-4a8f-850a-4cd42bbe9a8e"
+      ],
+      "memberId": "e4cc431b-a20f-4e73-a8a8-dee9ba5eaf76",
+      "hashtags": [
+        "massageappointmentssalem",
+        "massagebenefits",
+        "wellnesssalemwi",
+        "selfcaresalem",
+        "matrixmassagewi",
+        "salemhealth",
+        "painreliefwi",
+        "stressreduction",
+        "healthylivingsalem",
+        "massagetherapywisconsin",
+        "massagepaddocklakewi",
+        "massagekenosha",
+        "massageinkenoshacounty",
+        "massagetherapy",
+        "massageuniongrovewi"
+      ],
+      "commentingEnabled": true,
+      "minutesToRead": 2,
+      "tagIds": [
+        "1cc55dc2-0cb8-43f1-85e8-62d226ecf443",
+        "2794a0b9-1e3d-4f97-b79f-ff53f0e84c39",
+        "1927983d-a515-4659-9491-e90f8c4efc10",
+        "691af0ff-3b3f-4446-ba34-1a77f38a0dc5",
+        "dcbf35de-b687-4a37-b270-ee228d0c13b8",
+        "51240a10-608d-4371-9598-98a118b3da1f",
+        "504fc4fc-7342-4029-84a4-0993b7d9c915",
+        "ff73e53e-75a9-4e60-bb4e-ef0563372794",
+        "f2cf71db-7f08-4b24-87f4-3cc112329ecf",
+        "66dd5c8c-46bb-44f1-b597-5a5e13b25e5b",
+        "59a9a28a-f4af-4659-9be3-a81b2edf910d",
+        "9676fee1-550a-4ad8-96f9-cdff87efdc26"
+      ],
+      "relatedPostIds": [
+        "38c7c66c-8f4b-42b6-824e-c8bcba7c83ed",
+        "5417874e-7651-450a-b837-c398cacd1671",
+        "8036d06c-eb96-4a28-9838-969cf8a9282e"
+      ],
+      "pricingPlanIds": [],
+      "language": "en",
+      "changeOrigin": "PUBLISH",
+      "contentId": "6af7635afd7dd207752fffbe",
+      "editingSessionId": "bf9a6695-8d5c-493d-94b5-274fdac93808",
+      "richContent": {
+        "nodes": [
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n0",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "A good massage starts with a useful goal. You may want a quiet hour, attention to tense shoulders or a comfortable way to care for muscles after a demanding week. Research can help frame those choices without turning every session into a promise of a medical result.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s1",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c14n1",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Relaxation and stress",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s2",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "IMAGE",
+            "id": "s8te4856",
+            "nodes": [
+              {
+                "type": "CAPTION",
+                "id": "n8yip862",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "nodes": [],
+                    "textData": {
+                      "text": "Massage Appointments Salem / Paddock Lake, WI ",
+                      "decorations": []
+                    }
+                  }
+                ]
+              }
+            ],
+            "imageData": {
+              "containerData": {
+                "width": {
+                  "size": "CONTENT"
+                },
+                "alignment": "CENTER",
+                "textWrap": true
+              },
+              "image": {
+                "src": {
+                  "id": "e4cc43_c28a00dc2e1a46058828ce8b8241c9b0~mv2.png"
+                },
+                "width": 512,
+                "height": 512
+              },
+              "altText": "Woman receiving a massage in Salem, WI on a bed in a serene room, blue art on walls. Text: \"De-Stress & Unwind,\" \"Matrix Massage & Bodywork,\" contact info.",
+              "caption": "Massage Appointments Salem / Paddock Lake, WI "
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14sps8te4856",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n2",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Massage gives you time to pause and communicate what feels comfortable. Small clinical studies have explored anxiety-related outcomes, but their results should not be stretched into a guarantee that massage corrects hormones or replaces mental-health care.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s3",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c14n3",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Muscle comfort and pain",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s4",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "IMAGE",
+            "id": "wqa5n1995",
+            "nodes": [
+              {
+                "type": "CAPTION",
+                "id": "38uz82016",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "nodes": [],
+                    "textData": {
+                      "text": "Pain Relieving Massage at Matrix Massage in Salem / Paddock Lake, WI",
+                      "decorations": []
+                    }
+                  }
+                ]
+              }
+            ],
+            "imageData": {
+              "containerData": {
+                "width": {
+                  "size": "CONTENT"
+                },
+                "alignment": "CENTER",
+                "textWrap": true
+              },
+              "image": {
+                "src": {
+                  "id": "e4cc43_969e19180fff4dfabb060c37aca6abbc~mv2.png"
+                },
+                "width": 512,
+                "height": 512
+              },
+              "altText": "Illustration of a massage session in a softly lit room",
+              "caption": "Massage and muscle comfort"
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14spwqa5n1995",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n4",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "A randomized trial in adults with nonspecific chronic low-back pain found improvements in symptoms and function after a course of massage. That supports a focused discussion about certain pain concerns; it does not establish that massage treats every cause of pain.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s5",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n5",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Tell your therapist where you feel discomfort, which activities bother you and what healthcare guidance you have received. Pressure and positioning can then be selected around a meaningful goal.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s6",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c14n6",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Recovery after activity",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s7",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "IMAGE",
+            "id": "bt7kk318",
+            "nodes": [
+              {
+                "type": "CAPTION",
+                "id": "cbbu5400",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "nodes": [],
+                    "textData": {
+                      "text": "Boost Athletic Recovery with Deep Tissue Massage in Salem, WI",
+                      "decorations": []
+                    }
+                  }
+                ]
+              }
+            ],
+            "imageData": {
+              "containerData": {
+                "width": {
+                  "size": "CONTENT"
+                },
+                "alignment": "CENTER",
+                "textWrap": true
+              },
+              "image": {
+                "src": {
+                  "id": "e4cc43_980b7a2ca24d45359e6eb446d83e28b5~mv2.png"
+                },
+                "width": 512,
+                "height": 512
+              },
+              "altText": "Illustration of a person resting on a gym floor",
+              "caption": "Making time for rest after activity"
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14spbt7kk318",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n7",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Some small studies have examined post-exercise soreness. Feeling less sore is different from proving faster tissue repair or better athletic performance. Massage also should not be explained as flushing out lactic acid.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s8",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c14n8",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "What about immunity?",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s9",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n9",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Research measuring short-term immune markers is not the same as research showing fewer infections. We therefore describe massage around comfort and relaxation rather than claiming it boosts protection against illness.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s10",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c14n10",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Make the appointment useful to you",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s11",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n11",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Before your visit, choose one or two priorities. During the session, speak up about temperature, pressure and positioning. Afterward, notice comfort and everyday function rather than expecting a specific laboratory or hormone change. Discuss persistent symptoms with your healthcare professional.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s12",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c14n12",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Massage near Salem and Union Grove",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s13",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n13",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Matrix Massage & Bodywork welcomes clients in Salem, Paddock Lake and surrounding communities. If you are visiting from ",
+                  "decorations": []
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Union Grove",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/massage-near-union-grove-wi",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": ", explore the local service information and plan travel around your starting point.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s14",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n14",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "View massage appointments in Salem",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/book-appointments-salem-wi",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": " to find the current options and choose a session that fits your goals.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s15",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c14n15",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Research and references",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s16",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n16",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Rapaport et al. — preliminary massage biomarker study (2010)",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://pubmed.ncbi.nlm.nih.gov/20809811/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s17",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n17",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Cherkin et al. — chronic low-back pain massage trial (2011)",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://pubmed.ncbi.nlm.nih.gov/21727288/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s18",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n18",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Rapaport et al. — massage and anxiety proof-of-concept trial (2016)",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://pubmed.ncbi.nlm.nih.gov/27464321/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s19",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n19",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Hilbert et al. — massage and delayed muscle soreness (2003)",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://pubmed.ncbi.nlm.nih.gov/12547748/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14s20",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c14n20",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Wiltshire et al. — massage and lactate removal (2010)",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://pubmed.ncbi.nlm.nih.gov/19997015/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          }
+        ],
+        "documentStyle": {}
+      },
+      "status": "PUBLISHED",
+      "mostRecentContributorId": "e4cc431b-a20f-4e73-a8a8-dee9ba5eaf76",
+      "hasUnpublishedChanges": false,
+      "editedDate": "2026-11-13T19:22:41Z",
+      "firstPublishedDate": "2025-09-11T17:30:08Z",
+      "seoData": {
+        "tags": [
+          {
+            "type": "title",
+            "children": "Massage Therapy in Salem, WI: Benefits, Research and Realistic Goals",
+            "custom": false,
+            "disabled": false
+          },
+          {
+            "type": "meta",
+            "props": {
+              "name": "description",
+              "content": "Explore massage for relaxation, muscle comfort and selected pain concerns, with research context and practical ways to plan a visit in Salem, WI."
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "blog-post-blog-posting-preset",
+              "displayName": "blog-post-blog-posting-preset",
+              "variants": [
+                {
+                  "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+                  "schemaType": "blog-post-news-article-preset",
+                  "disabled": [
+                    "{{blog-post.disable-schema}}"
+                  ],
+                  "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+                },
+                {
+                  "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+                  "schemaType": "blog-post-article-preset",
+                  "disabled": [
+                    "{{blog-post.disable-schema}}"
+                  ],
+                  "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+                }
+              ],
+              "selectedVariant": "blog-post-blog-posting-preset"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": true
+          },
+          {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "uNS6LkwF",
+              "displayName": "Matrix Article Author"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"author\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/about-5\"},\"dateModified\":\"2026-11-13T19:22:02.023Z\",\"datePublished\":\"2025-09-11T17:30:08.000Z\",\"headline\":\"Massage Therapy in Salem, WI: Benefits, Research and Realistic Goals\",\"mainEntityOfPage\":{\"@id\":\"https://www.matrixmassage.net/post/the-science-of-serenity-unpacking-the-proven-benefits-of-massage-therapy-in-salem-wi\",\"@type\":\"ItemPage\",\"url\":\"https://www.matrixmassage.net/post/the-science-of-serenity-unpacking-the-proven-benefits-of-massage-therapy-in-salem-wi\"},\"description\":\"Explore massage for relaxation, muscle comfort and selected pain concerns, with research context and practical ways to plan a visit in Salem, WI.\",\"url\":\"https://www.matrixmassage.net/post/the-science-of-serenity-unpacking-the-proven-benefits-of-massage-therapy-in-salem-wi\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wixstatic.com/media/e4cc43_c28a00dc2e1a46058828ce8b8241c9b0~mv2.png/v1/fill/w_512,h_512,al_c,q_85/e4cc43_c28a00dc2e1a46058828ce8b8241c9b0~mv2.png\",\"width\":\"512\",\"height\":\"512\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\"}}",
+            "custom": false,
+            "disabled": false
+          }
+        ],
+        "settings": {
+          "preventAutoRedirect": false,
+          "keywords": [
+            {
+              "term": "Benefits of Massage Therapy",
+              "isMain": true
+            }
+          ]
+        }
+      },
+      "slugs": [
+        "the-science-of-serenity-unpacking-the-proven-benefits-of-massage-therapy-in-salem-wi"
+      ],
+      "createdDate": "2025-09-11T17:09:25.684Z",
+      "seoSlug": "the-science-of-serenity-unpacking-the-proven-benefits-of-massage-therapy-in-salem-wi",
+      "media": {
+        "wixMedia": {
+          "image": {
+            "id": "e4cc43_c28a00dc2e1a46058828ce8b8241c9b0~mv2.png",
+            "url": "https://static.wixstatic.com/media/e4cc43_c28a00dc2e1a46058828ce8b8241c9b0~mv2.png",
+            "height": 512,
+            "width": 512,
+            "filename": "image.png"
+          }
+        },
+        "displayed": true,
+        "custom": true,
+        "altText": "Massage Appointment in Salem, WI"
+      },
+      "translations": []
+    }
+  },
+  {
+    "id": "C15",
+    "postId": "e8d782e2-f115-4dad-8f3c-e1b195d2f6e8",
+    "post": {
+      "id": "e8d782e2-f115-4dad-8f3c-e1b195d2f6e8",
+      "title": "Red Light Therapy Wavelengths: What the Numbers Mean",
+      "excerpt": "Learn what red and near-infrared wavelength numbers describe, why dose and device design also matter, and what to ask before a session.",
+      "firstPublishedDate": "2025-06-24T04:13:46.155Z",
+      "lastPublishedDate": "2026-11-13T19:22:03.212Z",
+      "slug": "wavelength-matters-why-choosing-the-right-red-light-therapy-nm-level-is-key-to-results",
+      "featured": false,
+      "pinned": false,
+      "categoryIds": [
+        "aff33dfe-37a1-4c0a-8336-2bb73e091c23"
+      ],
+      "memberId": "e4cc431b-a20f-4e73-a8a8-dee9ba5eaf76",
+      "hashtags": [],
+      "commentingEnabled": true,
+      "minutesToRead": 2,
+      "tagIds": [
+        "32fbb494-4def-4ec0-b74e-f0e51dccc8e6",
+        "e0783140-1f25-4c38-b804-58f43362088f",
+        "9c48032b-6c31-4ebb-9ed7-8548e381f7f9",
+        "709cda5b-db0b-4394-b0be-0b6354fa2a3c"
+      ],
+      "relatedPostIds": [
+        "dc35cff1-3877-407f-b800-a870ae90b068"
+      ],
+      "pricingPlanIds": [],
+      "language": "en",
+      "seoData": {
+        "tags": [
+          {
+            "type": "meta",
+            "props": {
+              "name": "description",
+              "content": "Learn what red and near-infrared wavelength numbers describe, why dose and device design also matter, and what to ask before a session."
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "blog-post-blog-posting-preset",
+              "displayName": "blog-post-blog-posting-preset",
+              "variants": [
+                {
+                  "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+                  "schemaType": "blog-post-news-article-preset",
+                  "disabled": [
+                    "{{blog-post.disable-schema}}"
+                  ],
+                  "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+                },
+                {
+                  "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+                  "schemaType": "blog-post-article-preset",
+                  "disabled": [
+                    "{{blog-post.disable-schema}}"
+                  ],
+                  "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+                }
+              ],
+              "selectedVariant": "blog-post-blog-posting-preset"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": true
+          },
+          {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "U5DpICiK",
+              "displayName": "Matrix Article Author"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"author\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/about-5\"},\"dateModified\":\"2026-11-13T19:22:03.212Z\",\"datePublished\":\"2025-06-24T04:13:46.155Z\",\"headline\":\"Red Light Therapy Wavelengths: What the Numbers Mean\",\"mainEntityOfPage\":{\"@id\":\"https://www.matrixmassage.net/post/wavelength-matters-why-choosing-the-right-red-light-therapy-nm-level-is-key-to-results\",\"@type\":\"ItemPage\",\"url\":\"https://www.matrixmassage.net/post/wavelength-matters-why-choosing-the-right-red-light-therapy-nm-level-is-key-to-results\"},\"description\":\"Learn what red and near-infrared wavelength numbers describe, why dose and device design also matter, and what to ask before a session.\",\"url\":\"https://www.matrixmassage.net/post/wavelength-matters-why-choosing-the-right-red-light-therapy-nm-level-is-key-to-results\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wixstatic.com/media/e4cc43_675463d96b4142659de02bdb1d8c37fd~mv2.png/v1/fill/w_1200,h_800,al_c,q_90/e4cc43_675463d96b4142659de02bdb1d8c37fd~mv2.png\",\"width\":\"1200\",\"height\":\"800\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\"}}",
+            "custom": false,
+            "disabled": false
+          }
+        ],
+        "settings": {
+          "preventAutoRedirect": false,
+          "keywords": [
+            {
+              "term": "red light therapy",
+              "isMain": true
+            }
+          ]
+        }
+      },
+      "richContent": {
+        "nodes": [
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n0",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Numbers such as 660 or 850 describe a wavelength in nanometers, often abbreviated nm. They tell you something about the light a device emits. They do not, on their own, tell you whether a session is right for your goal or how much benefit to expect.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s1",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "IMAGE",
+            "id": "f69lk7603",
+            "nodes": [
+              {
+                "type": "CAPTION",
+                "id": "g30ms7605",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "nodes": [],
+                    "textData": {
+                      "text": " NIR & red light therapy panel emitting 660nm and 850nm wavelengths for skin, muscle, and cellular healing benefits",
+                      "decorations": []
+                    }
+                  }
+                ]
+              }
+            ],
+            "imageData": {
+              "containerData": {
+                "width": {
+                  "size": "CONTENT"
+                },
+                "alignment": "CENTER",
+                "textWrap": true
+              },
+              "image": {
+                "src": {
+                  "id": "e4cc43_675463d96b4142659de02bdb1d8c37fd~mv2.png"
+                },
+                "width": 1200,
+                "height": 800
+              },
+              "altText": "Person resting beneath a curved red light device",
+              "caption": "A red light session. Equipment specifications and instructions depend on the device."
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15spf69lk7603",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c15n1",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Red and near-infrared",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s2",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n2",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Red light is visible. Near-infrared light lies outside the visible red range. Products may use one region or a combination. That does not create a simple rule that one wavelength treats skin while another automatically treats nerves, joints or the brain.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s3",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c15n3",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Wavelength is one part of the treatment",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s4",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n4",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Output, exposure area, distance and session time also affect delivery. A study using a directed laser is not automatically a study of a broad LED panel, even if a wavelength number looks similar. Device instructions and the evidence for the intended use matter together.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s5",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c15n5",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "What research helps explain",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s6",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n6",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Some controlled skin research has reported improvements in appearance. Exercise studies have explored particular doses and outcomes. These are useful research areas, but neither gives a universal distance-and-time chart for every consumer device.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s7",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c15n7",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Questions worth asking",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s8",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n8",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "What equipment will be used? What is the session intended to offer? Which instructions apply to eye protection, positioning and exposure? Is the claim based on research using comparable equipment, or only on a matching wavelength label?",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s9",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n9",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Be cautious about exact tissue-depth promises or claims that adding more wavelengths makes a treatment universally stronger. The numbers are a starting point for understanding the equipment, not a diagnosis or a treatment prescription.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s10",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c15n10",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Choosing a Matrix session",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s11",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n11",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Use the current service description to understand the experience offered, and discuss relevant medical precautions before your visit. Follow the instructions for the equipment being used rather than applying a protocol from a different device.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s12",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n12",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Explore ",
+                  "decorations": []
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "red light therapy in Salem",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": " for Matrix’s current service information and appointment options.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s13",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c15n13",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Research and references",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s14",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n14",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Wunsch and Matuschka — controlled skin light study (2014)",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://pubmed.ncbi.nlm.nih.gov/24286286/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s15",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n15",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Vanin et al. — exercise photobiomodulation trial (2016)",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://pubmed.ncbi.nlm.nih.gov/27575834/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          }
+        ],
+        "documentStyle": {}
+      },
+      "preview": false,
+      "contentId": "6af7635bf5e7dea4f715470b",
+      "mostRecentContributorId": "e4cc431b-a20f-4e73-a8a8-dee9ba5eaf76",
+      "media": {
+        "wixMedia": {
+          "image": {
+            "id": "e4cc43_675463d96b4142659de02bdb1d8c37fd~mv2.png",
+            "url": "https://static.wixstatic.com/media/e4cc43_675463d96b4142659de02bdb1d8c37fd~mv2.png",
+            "height": 800,
+            "width": 1200,
+            "filename": "RL Face Neck.png"
+          }
+        },
+        "displayed": true,
+        "custom": true,
+        "altText": "Person resting beneath a curved red light device"
+      },
+      "hasUnpublishedChanges": false,
+      "translations": [],
+      "customExcerpt": true,
+      "internalCategoryIds": [],
+      "internalRelatedPostIds": []
+    },
+    "draft": {
+      "id": "e8d782e2-f115-4dad-8f3c-e1b195d2f6e8",
+      "title": "Red Light Therapy Wavelengths: What the Numbers Mean",
+      "excerpt": "Learn what red and near-infrared wavelength numbers describe, why dose and device design also matter, and what to ask before a session.",
+      "featured": false,
+      "categoryIds": [
+        "aff33dfe-37a1-4c0a-8336-2bb73e091c23"
+      ],
+      "memberId": "e4cc431b-a20f-4e73-a8a8-dee9ba5eaf76",
+      "hashtags": [],
+      "commentingEnabled": true,
+      "minutesToRead": 2,
+      "tagIds": [
+        "32fbb494-4def-4ec0-b74e-f0e51dccc8e6",
+        "e0783140-1f25-4c38-b804-58f43362088f",
+        "9c48032b-6c31-4ebb-9ed7-8548e381f7f9",
+        "709cda5b-db0b-4394-b0be-0b6354fa2a3c"
+      ],
+      "relatedPostIds": [
+        "dc35cff1-3877-407f-b800-a870ae90b068"
+      ],
+      "pricingPlanIds": [],
+      "language": "en",
+      "changeOrigin": "PUBLISH",
+      "contentId": "6af7635bf5e7dea4f715470b",
+      "editingSessionId": "c3c8ea9a-eff1-4d2e-8d99-db2d0f32c5b9",
+      "richContent": {
+        "nodes": [
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n0",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Numbers such as 660 or 850 describe a wavelength in nanometers, often abbreviated nm. They tell you something about the light a device emits. They do not, on their own, tell you whether a session is right for your goal or how much benefit to expect.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s1",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "IMAGE",
+            "id": "f69lk7603",
+            "nodes": [
+              {
+                "type": "CAPTION",
+                "id": "g30ms7605",
+                "nodes": [
+                  {
+                    "type": "TEXT",
+                    "id": "",
+                    "nodes": [],
+                    "textData": {
+                      "text": " NIR & red light therapy panel emitting 660nm and 850nm wavelengths for skin, muscle, and cellular healing benefits",
+                      "decorations": []
+                    }
+                  }
+                ]
+              }
+            ],
+            "imageData": {
+              "containerData": {
+                "width": {
+                  "size": "CONTENT"
+                },
+                "alignment": "CENTER",
+                "textWrap": true
+              },
+              "image": {
+                "src": {
+                  "id": "e4cc43_675463d96b4142659de02bdb1d8c37fd~mv2.png"
+                },
+                "width": 1200,
+                "height": 800
+              },
+              "altText": "Person resting beneath a curved red light device",
+              "caption": "A red light session. Equipment specifications and instructions depend on the device."
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15spf69lk7603",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c15n1",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Red and near-infrared",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s2",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n2",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Red light is visible. Near-infrared light lies outside the visible red range. Products may use one region or a combination. That does not create a simple rule that one wavelength treats skin while another automatically treats nerves, joints or the brain.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s3",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c15n3",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Wavelength is one part of the treatment",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s4",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n4",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Output, exposure area, distance and session time also affect delivery. A study using a directed laser is not automatically a study of a broad LED panel, even if a wavelength number looks similar. Device instructions and the evidence for the intended use matter together.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s5",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c15n5",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "What research helps explain",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s6",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n6",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Some controlled skin research has reported improvements in appearance. Exercise studies have explored particular doses and outcomes. These are useful research areas, but neither gives a universal distance-and-time chart for every consumer device.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s7",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c15n7",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Questions worth asking",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s8",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n8",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "What equipment will be used? What is the session intended to offer? Which instructions apply to eye protection, positioning and exposure? Is the claim based on research using comparable equipment, or only on a matching wavelength label?",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s9",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n9",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Be cautious about exact tissue-depth promises or claims that adding more wavelengths makes a treatment universally stronger. The numbers are a starting point for understanding the equipment, not a diagnosis or a treatment prescription.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s10",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c15n10",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Choosing a Matrix session",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s11",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n11",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Use the current service description to understand the experience offered, and discuss relevant medical precautions before your visit. Follow the instructions for the equipment being used rather than applying a protocol from a different device.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s12",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n12",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Explore ",
+                  "decorations": []
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "red light therapy in Salem",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+                          "target": "SELF"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": " for Matrix’s current service information and appointment options.",
+                  "decorations": []
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s13",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "HEADING",
+            "id": "c15n13",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Research and references",
+                  "decorations": []
+                }
+              }
+            ],
+            "headingData": {
+              "level": 2
+            }
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s14",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n14",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Wunsch and Matuschka — controlled skin light study (2014)",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://pubmed.ncbi.nlm.nih.gov/24286286/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15s15",
+            "nodes": [],
+            "paragraphData": {}
+          },
+          {
+            "type": "PARAGRAPH",
+            "id": "c15n15",
+            "nodes": [
+              {
+                "type": "TEXT",
+                "id": "",
+                "nodes": [],
+                "textData": {
+                  "text": "Vanin et al. — exercise photobiomodulation trial (2016)",
+                  "decorations": [
+                    {
+                      "type": "LINK",
+                      "linkData": {
+                        "link": {
+                          "url": "https://pubmed.ncbi.nlm.nih.gov/27575834/",
+                          "target": "BLANK"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            ],
+            "paragraphData": {}
+          }
+        ],
+        "documentStyle": {}
+      },
+      "status": "PUBLISHED",
+      "mostRecentContributorId": "e4cc431b-a20f-4e73-a8a8-dee9ba5eaf76",
+      "hasUnpublishedChanges": false,
+      "editedDate": "2026-11-13T19:22:03Z",
+      "firstPublishedDate": "2025-06-24T04:13:46Z",
+      "seoData": {
+        "tags": [
+          {
+            "type": "meta",
+            "props": {
+              "name": "description",
+              "content": "Learn what red and near-infrared wavelength numbers describe, why dose and device design also matter, and what to ask before a session."
+            },
+            "children": "",
+            "custom": false,
+            "disabled": false
+          },
+          {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "blog-post-blog-posting-preset",
+              "displayName": "blog-post-blog-posting-preset",
+              "variants": [
+                {
+                  "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+                  "schemaType": "blog-post-news-article-preset",
+                  "disabled": [
+                    "{{blog-post.disable-schema}}"
+                  ],
+                  "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+                },
+                {
+                  "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+                  "schemaType": "blog-post-article-preset",
+                  "disabled": [
+                    "{{blog-post.disable-schema}}"
+                  ],
+                  "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+                }
+              ],
+              "selectedVariant": "blog-post-blog-posting-preset"
+            },
+            "children": "",
+            "custom": false,
+            "disabled": true
+          },
+          {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "U5DpICiK",
+              "displayName": "Matrix Article Author"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"author\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/about-5\"},\"dateModified\":\"2026-11-13T19:22:03.212Z\",\"datePublished\":\"2025-06-24T04:13:46.155Z\",\"headline\":\"Red Light Therapy Wavelengths: What the Numbers Mean\",\"mainEntityOfPage\":{\"@id\":\"https://www.matrixmassage.net/post/wavelength-matters-why-choosing-the-right-red-light-therapy-nm-level-is-key-to-results\",\"@type\":\"ItemPage\",\"url\":\"https://www.matrixmassage.net/post/wavelength-matters-why-choosing-the-right-red-light-therapy-nm-level-is-key-to-results\"},\"description\":\"Learn what red and near-infrared wavelength numbers describe, why dose and device design also matter, and what to ask before a session.\",\"url\":\"https://www.matrixmassage.net/post/wavelength-matters-why-choosing-the-right-red-light-therapy-nm-level-is-key-to-results\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wixstatic.com/media/e4cc43_675463d96b4142659de02bdb1d8c37fd~mv2.png/v1/fill/w_1200,h_800,al_c,q_90/e4cc43_675463d96b4142659de02bdb1d8c37fd~mv2.png\",\"width\":\"1200\",\"height\":\"800\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\"}}",
+            "custom": false,
+            "disabled": false
+          }
+        ],
+        "settings": {
+          "preventAutoRedirect": false,
+          "keywords": [
+            {
+              "term": "red light therapy",
+              "isMain": true
+            }
+          ]
+        }
+      },
+      "slugs": [
+        "wavelength-matters-why-choosing-the-right-red-light-therapy-nm-level-is-key-to-results"
+      ],
+      "createdDate": "2025-06-24T03:53:41.551Z",
+      "seoSlug": "wavelength-matters-why-choosing-the-right-red-light-therapy-nm-level-is-key-to-results",
+      "media": {
+        "wixMedia": {
+          "image": {
+            "id": "e4cc43_675463d96b4142659de02bdb1d8c37fd~mv2.png",
+            "url": "https://static.wixstatic.com/media/e4cc43_675463d96b4142659de02bdb1d8c37fd~mv2.png",
+            "height": 800,
+            "width": 1200,
+            "filename": "RL Face Neck.png"
+          }
+        },
+        "displayed": true,
+        "custom": true,
+        "altText": "Person resting beneath a curved red light device"
+      },
+      "translations": []
+    }
+  }
+]

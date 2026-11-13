@@ -1,0 +1,209 @@
+[
+  {
+    "id": "C10",
+    "url": "https://www.matrixmassage.net/supplements",
+    "status": "200\thttps://www.matrixmassage.net/supplements",
+    "sha256": "e68fc5a6a790a639cd20114de05ddd549a784497a5ca009602cc1fe6285df216",
+    "checks": {
+      "http200": true,
+      "metadataPreserved": true,
+      "allRichTextAsApproved": true,
+      "noNewRichTextElements": true,
+      "headerPreserved": true,
+      "footerPreserved": true,
+      "formsPreserved": true
+    },
+    "metadata": {
+      "title": [
+        "Supplements & Wellness Plans | Matrix Wellness & Biotech, Salem WI"
+      ],
+      "description": [
+        "Explore supplements and wellness resources through Matrix Massage & Bodywork’s Fullscript dispensary, with information for clients in Salem, WI and online."
+      ],
+      "canonical": [
+        "https://www.matrixmassage.net/supplements"
+      ],
+      "robots": [],
+      "schema": [
+        "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"description\":\"Explore supplements and wellness resources through Matrix Massage & Bodywork’s Fullscript dispensary, with information for clients in Salem, WI and online.\",\"name\":\"Supplements & Wellness Plans\",\"provider\":{\"@id\":\"https://www.matrixmassage.net/#business\",\"@type\":\"HealthAndBeautyBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"US\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"streetAddress\":\"24804 75th St\"},\"name\":\"Matrix Massage & Bodywork\",\"telephone\":\"+1-262-939-9325\",\"url\":\"https://www.matrixmassage.net/\"},\"url\":\"https://www.matrixmassage.net/supplements\"}"
+      ]
+    },
+    "richDifferences": []
+  },
+  {
+    "id": "C12",
+    "url": "https://www.matrixmassage.net/skin-reset-blueprint-salem-wi",
+    "status": "200\thttps://www.matrixmassage.net/skin-reset-blueprint-salem-wi",
+    "sha256": "e46e32e4f926b934dfc0d4c18894395eb6d5402d4931ce298528942495fcb304",
+    "checks": {
+      "http200": true,
+      "metadataPreserved": true,
+      "allRichTextAsApproved": true,
+      "noNewRichTextElements": true,
+      "headerPreserved": true,
+      "footerPreserved": true,
+      "formsPreserved": true,
+      "exactEmbed": true,
+      "tenDestinationsPreserved": true,
+      "cssPreserved": true
+    },
+    "metadata": {
+      "title": [
+        "Free Skin Reset Blueprint | Matrix Massage Salem WI"
+      ],
+      "description": [
+        "Download Matrix Massage & Bodywork’s free educational Skin Reset Blueprint for practical guidance on barrier care, hydration, acne triggers and product tolerance."
+      ],
+      "canonical": [
+        "https://www.matrixmassage.net/skin-reset-blueprint-salem-wi"
+      ],
+      "robots": [],
+      "schema": [
+        "{\"@context\":\"https://schema.org\",\"@id\":\"https://www.matrixmassage.net/#business\",\"@type\":\"HealthAndBeautyBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"US\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"streetAddress\":\"24804 75th St\"},\"areaServed\":[{\"@type\":\"City\",\"name\":\"Salem\"},{\"@type\":\"City\",\"name\":\"Paddock Lake\"},{\"@type\":\"City\",\"name\":\"Kenosha\"},{\"@type\":\"City\",\"name\":\"Bristol\"},{\"@type\":\"City\",\"name\":\"Pleasant Prairie\"},{\"@type\":\"City\",\"name\":\"Twin Lakes\"},{\"@type\":\"City\",\"name\":\"Antioch\"},{\"@type\":\"City\",\"name\":\"Union Grove\"}],\"description\":\"Matrix Massage & Bodywork offers facial services in Salem, WI, including skin reset facials, anti-aging facials, acne-support facials, hydration facials, and barrier-focused facial treatments near Kenosha, Bristol, Pleasant Prairie, Paddock Lake, Twin Lakes, Antioch, and Union Grove.\",\"hasOfferCatalog\":{\"@type\":\"OfferCatalog\",\"itemListElement\":[{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"description\":\"Barrier-first facial service focused on calming reactive, dry, irritated, or unpredictable skin.\",\"name\":\"Skin Reset Facial\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"description\":\"Facial service for dullness, dryness, fine lines, texture concerns, hydration support, and healthier-looking skin.\",\"name\":\"Anti-Aging Facial\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"description\":\"Facial service for acne-prone skin, recurring breakouts, oil imbalance, barrier stress, and skin reset support.\",\"name\":\"Acne-Support Facial\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"description\":\"Facial service for sensitive, reactive, dry, flaky, dehydrated, or irritated-feeling skin.\",\"name\":\"Hydration and Barrier Support Facial\"}}],\"name\":\"Facial Services\"},\"name\":\"Matrix Massage & Bodywork\",\"priceRange\":\"$$\",\"telephone\":\"+1-262-939-9325\",\"url\":\"https://www.matrixmassage.net/\"}"
+      ]
+    },
+    "richDifferences": [],
+    "embedSrc": "https://www-matrixmassage-net.filesusr.com/html/e4cc43_c62c4db9cfeb1344fff259d174c46c0a.html",
+    "embedHash": "74d9172e3d290616812c75c821c619baf1716674e06f3c3d09e74ab9ef68abfd",
+    "embedLinks": [
+      [
+        "Get the Free Skin Reset Guide",
+        "https://docs.google.com/forms/d/e/1FAIpQLSfEKBnCpKLxnRu2G6MlBOg2yaoi_YgT01u1JNFsxy-hm74dBQ/viewform?usp=header",
+        "_blank"
+      ],
+      [
+        "Book a Facial",
+        "https://www.matrixmassage.net/book-appointments-salem-wi",
+        "_blank"
+      ],
+      [
+        "Anti-Aging Facials",
+        "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+        "_blank"
+      ],
+      [
+        "Facials for Acne-Prone Skin",
+        "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+        "_blank"
+      ],
+      [
+        "Barrier-Focused Facials",
+        "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+        "_blank"
+      ],
+      [
+        "facials in Salem, WI",
+        "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+        "_blank"
+      ],
+      [
+        "facial services in Salem, WI",
+        "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+        "_blank"
+      ],
+      [
+        "Book Now",
+        "https://www.matrixmassage.net/book-appointments-salem-wi",
+        "_blank"
+      ],
+      [
+        "Get the Blueprint",
+        "https://docs.google.com/forms/d/e/1FAIpQLSfEKBnCpKLxnRu2G6MlBOg2yaoi_YgT01u1JNFsxy-hm74dBQ/viewform?usp=header",
+        "_blank"
+      ],
+      [
+        "Book Now",
+        "https://www.matrixmassage.net/book-appointments-salem-wi",
+        "_blank"
+      ]
+    ]
+  },
+  {
+    "id": "C16",
+    "url": "https://www.matrixmassage.net/massage-therapist-jobs-salem-wi",
+    "status": "200\thttps://www.matrixmassage.net/massage-therapist-jobs-salem-wi",
+    "sha256": "a69c4ee4602dc617e87ed0233460a15b0fd9c4a8a4ebae99c5c0f084ba2195d5",
+    "checks": {
+      "http200": true,
+      "metadataPreserved": true,
+      "allRichTextAsApproved": true,
+      "noNewRichTextElements": true,
+      "headerPreserved": true,
+      "footerPreserved": true,
+      "formsPreserved": true,
+      "approvedLink": true
+    },
+    "metadata": {
+      "title": [
+        "Massage Therapist Jobs in Salem, WI | Now Hiring LMT Near Kenosha | Matrix Massage"
+      ],
+      "description": [
+        "Now hiring a Licensed Massage Therapist at Matrix Massage & Bodywork in Salem, WI (15 min from Kenosha). Commission-based pay, established client base, marketing done for you, flexible scheduling. No room rental fees. Apply today!"
+      ],
+      "canonical": [
+        "https://www.matrixmassage.net/massage-therapist-jobs-salem-wi"
+      ],
+      "robots": [],
+      "schema": [
+        "{\"@context\":\"https://schema.org/\",\"@type\":\"JobPosting\",\"applicantLocationRequirements\":{\"@type\":\"Country\",\"name\":\"US\"},\"datePosted\":\"2026-05-01\",\"description\":\"Matrix Massage and Bodywork in Salem, WI is actively hiring a Licensed Massage Therapist. Build your schedule quickly with consistent marketing support and a steady client flow. What We Provide: Established client base with steady bookings, marketing and advertising handled for you, fully equipped modern treatment rooms, professional systems and workflows, supportive team environment, opportunities for continued growth into specialty services, flexible scheduling options. Ideal Candidates: Licensed Massage Therapist in Wisconsin, skilled in Swedish and Deep Tissue massage, reliable punctual and professional, strong communication skills, open to learning new techniques. Position Details: Part-time to start with growth potential into a full schedule, commission-based pay structure, performance-based opportunities.\",\"directApply\":true,\"employmentType\":\"PART_TIME\",\"hiringOrganization\":{\"@type\":\"Organization\",\"logo\":\"https://www.matrixmassage.net/favicon.ico\",\"name\":\"Matrix Massage and Bodywork\",\"sameAs\":\"https://www.matrixmassage.net\"},\"identifier\":{\"@type\":\"PropertyValue\",\"name\":\"Matrix Massage and Bodywork\",\"value\":\"LMT-SALEM-2026\"},\"industry\":\"Health and Wellness\",\"jobLocation\":{\"@type\":\"Place\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"US\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"streetAddress\":\"24804 75th St\"}},\"occupationalCategory\":\"31-9011.00\",\"qualifications\":\"Wisconsin Licensed Massage Therapist (LMT )\",\"skills\":\"Swedish Massage, Deep Tissue Massage, Client Communication, Professional Wellness Care\",\"title\":\"Licensed Massage Therapist\",\"validThrough\":\"2026-12-31T23:59\"}"
+      ]
+    },
+    "richDifferences": [],
+    "links": [
+      [
+        "Explore our massage services",
+        "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+        "_self"
+      ],
+      [
+        "Facebook",
+        "https://www.facebook.com/profile.php?id=61566733700253",
+        "_blank"
+      ],
+      [
+        "@matrix.massage.bodywork",
+        "https://www.instagram.com/matrix.massage.bodywork",
+        "_blank"
+      ]
+    ]
+  },
+  {
+    "id": "C17",
+    "url": "https://www.matrixmassage.net/local-wellness-partnerships",
+    "status": "200\thttps://www.matrixmassage.net/local-wellness-partnerships",
+    "sha256": "1b2a9d957e0a328b339b6b7e3a70a2d1adf594d396a17dbbf5816fe95438ea23",
+    "checks": {
+      "http200": true,
+      "metadataPreserved": true,
+      "allRichTextAsApproved": true,
+      "noNewRichTextElements": true,
+      "headerPreserved": true,
+      "footerPreserved": true,
+      "formsPreserved": true,
+      "approvedLink": true
+    },
+    "metadata": {
+      "title": [
+        "Local Wellness & Recovery Partnerships in Salem, WI | Matrix Massage & Bodywork"
+      ],
+      "description": [
+        "Matrix Massage & Bodywork partners with local gyms, chiropractors, trainers, and wellness providers in Salem, Kenosha County, Union Grove, Bristol, and nearby areas for recovery-focused massage and wellness referrals."
+      ],
+      "canonical": [
+        "https://www.matrixmassage.net/local-wellness-partnerships"
+      ],
+      "robots": [],
+      "schema": [
+        "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://www.matrixmassage.net/#business\",\"@type\":\"HealthAndBeautyBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"US\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"streetAddress\":\"24804 75th St\"},\"name\":\"Matrix Massage & Bodywork\",\"telephone\":\"+1-262-939-9325\",\"url\":\"https://www.matrixmassage.net/\"},{\"@id\":\"https://www.matrixmassage.net/local-wellness-partnerships#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://www.matrixmassage.net/#business\"},\"description\":\"Matrix Massage & Bodywork partners with local gyms, chiropractors, trainers, and wellness providers in Salem, Kenosha County, Union Grove, Bristol, and nearby areas for recovery-focused massage and wellness referrals.\",\"name\":\"Local Wellness & Recovery Partnerships in Salem, WI | Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/local-wellness-partnerships\"}]}"
+      ]
+    },
+    "richDifferences": [],
+    "links": [
+      [
+        "massage therapy",
+        "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+        "_self"
+      ]
+    ]
+  }
+]
