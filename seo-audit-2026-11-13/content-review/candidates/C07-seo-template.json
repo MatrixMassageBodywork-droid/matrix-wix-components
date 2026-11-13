@@ -1,0 +1,63 @@
+{
+  "tags": [
+    {
+      "type": "meta",
+      "props": {
+        "name": "description",
+        "content": "Learn what red and near-infrared wavelengths mean, how research varies by device and goal, and which questions to ask before a wellness session."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "blog-post-blog-posting-preset",
+        "displayName": "blog-post-blog-posting-preset",
+        "variants": [
+          {
+            "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+            "schemaType": "blog-post-news-article-preset",
+            "disabled": [
+              "{{blog-post.disable-schema}}"
+            ],
+            "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+          },
+          {
+            "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+            "schemaType": "blog-post-article-preset",
+            "disabled": [
+              "{{blog-post.disable-schema}}"
+            ],
+            "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+          }
+        ],
+        "selectedVariant": "blog-post-blog-posting-preset"
+      },
+      "children": "",
+      "custom": false,
+      "disabled": true
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "4ko_CN5R",
+        "displayName": "Matrix Article Author"
+      },
+      "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"author\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/about-5\"},\"dateModified\":\"__ACTUAL_CONTENT_PUBLICATION_ISO__\",\"datePublished\":\"2025-06-28T13:56:21.000Z\",\"headline\":\"Red and Near-Infrared Light: Ten Useful Questions Before a Session\",\"mainEntityOfPage\":{\"@id\":\"https://www.matrixmassage.net/post/top-10-reasons-mixing-nir-red-light-is-essential-for-anti-aging-muscle-recovery-skin-health\",\"@type\":\"ItemPage\",\"url\":\"https://www.matrixmassage.net/post/top-10-reasons-mixing-nir-red-light-is-essential-for-anti-aging-muscle-recovery-skin-health\"},\"description\":\"Learn what red and near-infrared wavelengths mean, how research varies by device and goal, and which questions to ask before a wellness session.\",\"url\":\"https://www.matrixmassage.net/post/top-10-reasons-mixing-nir-red-light-is-essential-for-anti-aging-muscle-recovery-skin-health\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wixstatic.com/media/e4cc43_1f10281473c34d6d87e169781c225c0d~mv2.webp/v1/fill/w_1500,h_1500,al_c,q_90/e4cc43_1f10281473c34d6d87e169781c225c0d~mv2.webp\",\"width\":\"1500\",\"height\":\"1500\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\"}}",
+      "custom": false,
+      "disabled": false
+    }
+  ],
+  "settings": {
+    "preventAutoRedirect": false,
+    "keywords": []
+  }
+}

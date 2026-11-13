@@ -1,0 +1,629 @@
+{
+  "nodes": [
+    {
+      "type": "PARAGRAPH",
+      "id": "foo",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Parenting can be rewarding and demanding in the same day. Between work, household tasks and caring for children, a quiet hour can feel hard to find. Here is a practical introduction to Swedish massage and ways to make the session comfortable and useful to you.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "6oflt",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "IMAGE",
+      "id": "am5dv",
+      "nodes": [
+        {
+          "type": "CAPTION",
+          "id": "pt5a09004",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "id": "",
+              "nodes": [],
+              "textData": {
+                "text": "Massage Therapist administering Swedish Massage to client",
+                "decorations": []
+              }
+            }
+          ]
+        }
+      ],
+      "imageData": {
+        "containerData": {
+          "width": {
+            "size": "CONTENT"
+          },
+          "alignment": "CENTER",
+          "textWrap": true
+        },
+        "image": {
+          "src": {
+            "id": "11062b_bead31d3b8dd46358d4d4df83a3d3720~mv2.jpeg"
+          },
+          "width": 5760,
+          "height": 3840
+        },
+        "altText": "Massage Therapist administering Swedish Massage to client",
+        "caption": "Massage Therapist administering Swedish Massage to client"
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "9n4of",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "3b5iv",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "What Is Swedish Massage?",
+            "decorations": [
+              {
+                "type": "ITALIC",
+                "italicData": true
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "8e6ia",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "7nnd1",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Swedish massage, also called classic massage, uses a range of hands-on techniques, often with an emphasis on comfort and relaxation. Your therapist can adapt the pace and pressure to your preferences.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "e3bo8",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "3rcav",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "The Names of Techniques and Movements Involved in Swedish Massage",
+            "decorations": [
+              {
+                "type": "ITALIC",
+                "italicData": true
+              },
+              {
+                "type": "UNDERLINE"
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "96f9",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "7jl16",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Swedish massage is renowned for its five key techniques, each with a distinctive name and purpose:",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ci54b",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "b05hs",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "1. Effleurage: Long, gliding strokes using the palms or fingers, often used to begin a session and establish comfortable pressure.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "7rnke",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "sg3l",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "2. Petrissage: Kneading, lifting or rolling movements applied to soft tissue with pressure adapted to the person.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "1qcjo",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "9jst9",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "3. Friction: Focused rubbing movements applied to a particular area. Pressure should remain appropriate to your comfort and needs; it is not a promise to break down adhesions.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "bg10i",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "f4odb",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "4. Tapotement: Also known as percussion, tapotement includes rhythmic tapping or chopping motions using the edge of the hand or fingertips. It stimulates the muscles, invigorates the body, and provides a sense of energy and vitality.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "75hcs",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "chtl2",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "5. Vibration: Small shaking or oscillating movements that may be included according to your preferences.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "evi0g",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "2h9v2",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Practical Applications and Benefits of Swedish Massage Therapy",
+            "decorations": [
+              {
+                "type": "ITALIC",
+                "italicData": true
+              },
+              {
+                "type": "UNDERLINE"
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "3c0sv",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ckvnt",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "1. Stress Reduction: The gentle, rhythmic strokes of Swedish massage can help reduce stress and anxiety, providing a much-needed escape from the demands of parenthood.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "2edij",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "dfmro",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "2. Muscle Comfort: Tell your therapist about areas of tension, such as the neck, shoulders or back, so the session can focus on a useful goal.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "8s25g",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "d63p1",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "3. Time to Unwind: A quieter pace and a comfortable setting can make the appointment a welcome pause in a busy week.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "5ej1a",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "1lrkh",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "4. Personalized Pressure: You can ask for lighter or firmer work, changes in positioning or an adjustment to any technique.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "cfbht",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "3gs0j",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "5. A Moment for Yourself: Choose a session that gives you space to rest and attend to your own comfort.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "7i5fd",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "9n9l2",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "A Swedish massage can be a practical way to make room for rest. Share your goals, choose comfortable pressure and let the session fit your needs rather than adding another performance expectation to a busy day.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        },
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c13spend",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c13service",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Explore ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Swedish massage in Salem",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/swedish-massage-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": " to learn about the service and current appointment options.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    }
+  ],
+  "documentStyle": {}
+}

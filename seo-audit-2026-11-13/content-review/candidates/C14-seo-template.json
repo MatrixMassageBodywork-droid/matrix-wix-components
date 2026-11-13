@@ -1,0 +1,74 @@
+{
+  "tags": [
+    {
+      "type": "title",
+      "children": "Massage Therapy in Salem, WI: Benefits, Research and Realistic Goals",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "meta",
+      "props": {
+        "name": "description",
+        "content": "Explore massage for relaxation, muscle comfort and selected pain concerns, with research context and practical ways to plan a visit in Salem, WI."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "blog-post-blog-posting-preset",
+        "displayName": "blog-post-blog-posting-preset",
+        "variants": [
+          {
+            "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+            "schemaType": "blog-post-news-article-preset",
+            "disabled": [
+              "{{blog-post.disable-schema}}"
+            ],
+            "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+          },
+          {
+            "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+            "schemaType": "blog-post-article-preset",
+            "disabled": [
+              "{{blog-post.disable-schema}}"
+            ],
+            "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+          }
+        ],
+        "selectedVariant": "blog-post-blog-posting-preset"
+      },
+      "children": "",
+      "custom": false,
+      "disabled": true
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "uNS6LkwF",
+        "displayName": "Matrix Article Author"
+      },
+      "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"author\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/about-5\"},\"dateModified\":\"__ACTUAL_CONTENT_PUBLICATION_ISO__\",\"datePublished\":\"2025-09-11T17:30:08.000Z\",\"headline\":\"Massage Therapy in Salem, WI: Benefits, Research and Realistic Goals\",\"mainEntityOfPage\":{\"@id\":\"https://www.matrixmassage.net/post/the-science-of-serenity-unpacking-the-proven-benefits-of-massage-therapy-in-salem-wi\",\"@type\":\"ItemPage\",\"url\":\"https://www.matrixmassage.net/post/the-science-of-serenity-unpacking-the-proven-benefits-of-massage-therapy-in-salem-wi\"},\"description\":\"Explore massage for relaxation, muscle comfort and selected pain concerns, with research context and practical ways to plan a visit in Salem, WI.\",\"url\":\"https://www.matrixmassage.net/post/the-science-of-serenity-unpacking-the-proven-benefits-of-massage-therapy-in-salem-wi\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wixstatic.com/media/e4cc43_c28a00dc2e1a46058828ce8b8241c9b0~mv2.png/v1/fill/w_512,h_512,al_c,q_85/e4cc43_c28a00dc2e1a46058828ce8b8241c9b0~mv2.png\",\"width\":\"512\",\"height\":\"512\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\"}}",
+      "custom": false,
+      "disabled": false
+    }
+  ],
+  "settings": {
+    "preventAutoRedirect": false,
+    "keywords": [
+      {
+        "term": "Benefits of Massage Therapy",
+        "isMain": true
+      }
+    ]
+  }
+}

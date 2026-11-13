@@ -1,0 +1,22 @@
+{
+  "plan_id": "MATRIX-CONTENT-REVIEW-2026-11-13",
+  "date": "2026-11-13",
+  "status": "PREPARED_VERIFIED_OFFLINE_NOT_PUBLISHED",
+  "live_baseline": "B1 revision 1150",
+  "scope": "17 reviewed URLs; 13 article candidates; 2 native text/HTML patches; 2 optional native links",
+  "validation_passed": 147,
+  "live_mutations": false,
+  "pending": "Owner review of new substantive health-related copy, then connected-tool execution and four native pages as authorized",
+  "do_not_repeat": "B1 publication, completed descriptions/links/author schemas or accepted Lash indexing request",
+  "open_dependencies": [
+    "commercial offer/name verification",
+    "Skin Reset guide/form content review",
+    "post-publication live and mobile checks"
+  ],
+  "primary_files": [
+    "manifest.json",
+    "EXECUTION.md",
+    "validation.json",
+    "Matrix_Content_Review_2026-11-13.html"
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "nodes": [
+    {
+      "type": "PARAGRAPH",
+      "id": "c09n0",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Manual lymphatic drainage, often shortened to MLD, uses specialized light techniques. It is different from deep-pressure massage and should be chosen for a clear reason rather than as a universal detox service.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09s1",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "IMAGE",
+      "id": "hzfew2669",
+      "nodes": [
+        {
+          "type": "CAPTION",
+          "id": "tc3g22698",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "id": "",
+              "nodes": [],
+              "textData": {
+                "text": "Massage Therapy - Lymphatic Drainage Massage in Salem, WI",
+                "decorations": []
+              }
+            }
+          ]
+        }
+      ],
+      "imageData": {
+        "containerData": {
+          "width": {
+            "custom": "550"
+          },
+          "alignment": "CENTER",
+          "textWrap": true
+        },
+        "image": {
+          "src": {
+            "id": "e4cc43_1fe7fc0981eb46df965a322e27e55e66~mv2.jpg"
+          },
+          "width": 1024,
+          "height": 1024
+        },
+        "caption": "Massage Therapy - Lymphatic Drainage Massage in Salem, WI"
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09sphzfew2669",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c09n1",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "What the lymphatic system does",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09s2",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09n2",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "The lymphatic system is involved in fluid transport and immune function. That normal role does not mean that everyone needs treatment to “clean” it or that stimulating it will prevent illness. Swelling requires attention to its cause.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09s3",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c09n3",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "When MLD may be discussed",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09s4",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09n4",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "People with diagnosed lymphedema may discuss manual techniques with their treating team as part of an individualized management plan. Following a procedure, suitability and timing depend on the procedure, healing and clinician instructions.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09s5",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09n5",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Occasional bloating, tiredness or frequent colds should not be used on their own to diagnose a lymphatic problem or sell a recurring drainage package.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09s6",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c09n6",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "What a useful consultation covers",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09s7",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09n7",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Explain why you are considering the service, where symptoms occur and any existing diagnosis or recovery instructions. Ask about the provider’s training, the goal of treatment and how response will be reviewed. A clinical lymphedema plan can involve more than a studio massage appointment.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09s8",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09n8",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "New or worsening unexplained swelling should be assessed medically before massage. If you are recovering from a procedure, obtain guidance about timing, treatment areas and positioning rather than relying on a universal start date.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09s9",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c09n9",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "What to expect afterward",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09s10",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09n10",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Focus on comfort and the specific goal agreed for the session. Drinking extra water, urinating more or feeling tired afterward is not proof that toxins were removed. Let your provider know about unexpected discomfort or changes so that the next step can be appropriate.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09s11",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c09n11",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Exploring care at Matrix",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09s12",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09n12",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Matrix Massage & Bodywork is located in Salem, WI, serving nearby Paddock Lake, Bristol, Twin Lakes and surrounding communities. Contact the studio about your needs before booking recovery-related care.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09s13",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09n13",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Review our ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "manual lymphatic drainage services",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": " for current information and discuss any medical instructions before scheduling.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09s14",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c09n14",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Research and references",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09s15",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c09n15",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "International Society of Lymphology — consensus (2023)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/39207406/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    }
+  ]
+}

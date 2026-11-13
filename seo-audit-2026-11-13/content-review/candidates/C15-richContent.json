@@ -1,0 +1,419 @@
+{
+  "nodes": [
+    {
+      "type": "PARAGRAPH",
+      "id": "c15n0",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Numbers such as 660 or 850 describe a wavelength in nanometers, often abbreviated nm. They tell you something about the light a device emits. They do not, on their own, tell you whether a session is right for your goal or how much benefit to expect.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15s1",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "IMAGE",
+      "id": "f69lk7603",
+      "nodes": [
+        {
+          "type": "CAPTION",
+          "id": "g30ms7605",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "id": "",
+              "nodes": [],
+              "textData": {
+                "text": " NIR & red light therapy panel emitting 660nm and 850nm wavelengths for skin, muscle, and cellular healing benefits",
+                "decorations": []
+              }
+            }
+          ]
+        }
+      ],
+      "imageData": {
+        "containerData": {
+          "width": {
+            "size": "CONTENT"
+          },
+          "alignment": "CENTER",
+          "textWrap": true
+        },
+        "image": {
+          "src": {
+            "id": "e4cc43_675463d96b4142659de02bdb1d8c37fd~mv2.png"
+          },
+          "width": 1200,
+          "height": 800
+        },
+        "caption": "A red light session. Equipment specifications and instructions depend on the device.",
+        "altText": "Person resting beneath a curved red light device"
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15spf69lk7603",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c15n1",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Red and near-infrared",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15s2",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15n2",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Red light is visible. Near-infrared light lies outside the visible red range. Products may use one region or a combination. That does not create a simple rule that one wavelength treats skin while another automatically treats nerves, joints or the brain.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15s3",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c15n3",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Wavelength is one part of the treatment",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15s4",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15n4",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Output, exposure area, distance and session time also affect delivery. A study using a directed laser is not automatically a study of a broad LED panel, even if a wavelength number looks similar. Device instructions and the evidence for the intended use matter together.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15s5",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c15n5",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "What research helps explain",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15s6",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15n6",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Some controlled skin research has reported improvements in appearance. Exercise studies have explored particular doses and outcomes. These are useful research areas, but neither gives a universal distance-and-time chart for every consumer device.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15s7",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c15n7",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Questions worth asking",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15s8",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15n8",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "What equipment will be used? What is the session intended to offer? Which instructions apply to eye protection, positioning and exposure? Is the claim based on research using comparable equipment, or only on a matching wavelength label?",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15s9",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15n9",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Be cautious about exact tissue-depth promises or claims that adding more wavelengths makes a treatment universally stronger. The numbers are a starting point for understanding the equipment, not a diagnosis or a treatment prescription.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15s10",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c15n10",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Choosing a Matrix session",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15s11",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15n11",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Use the current service description to understand the experience offered, and discuss relevant medical precautions before your visit. Follow the instructions for the equipment being used rather than applying a protocol from a different device.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15s12",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15n12",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Explore ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "red light therapy in Salem",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": " for Matrix’s current service information and appointment options.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15s13",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c15n13",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Research and references",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15s14",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15n14",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Wunsch and Matuschka — controlled skin light study (2014)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/24286286/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15s15",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c15n15",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Vanin et al. — exercise photobiomodulation trial (2016)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/27575834/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    }
+  ]
+}

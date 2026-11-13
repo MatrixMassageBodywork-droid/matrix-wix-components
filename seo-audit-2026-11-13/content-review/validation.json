@@ -1,0 +1,751 @@
+{
+  "plan_id": "MATRIX-CONTENT-REVIEW-2026-11-13",
+  "run_date": "2026-11-13",
+  "live_writes_performed": false,
+  "checks": [
+    {
+      "check": "17 unique pages",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "No existing unpublished blog changes in read baseline",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C01 all media explicitly retained or removed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C01 no additional H1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C01 no root TEXT nodes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C01 all TEXT leaves nested",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C01 no legacy booking or misdirected subdomain links",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C01 one existing Organization schema",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C01 schema identity and original publication preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C02 all media explicitly retained or removed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C02 no additional H1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C02 no root TEXT nodes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C02 all TEXT leaves nested",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C02 required contextual link",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C02 no legacy booking or misdirected subdomain links",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C02 one existing Organization schema",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C02 schema identity and original publication preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C03 all media explicitly retained or removed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C03 no additional H1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C03 no root TEXT nodes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C03 all TEXT leaves nested",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C03 no legacy booking or misdirected subdomain links",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C03 one existing Organization schema",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C03 schema identity and original publication preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C04 all media explicitly retained or removed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C04 no additional H1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C04 no root TEXT nodes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C04 all TEXT leaves nested",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C04 required contextual link",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C04 no legacy booking or misdirected subdomain links",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C04 one existing Organization schema",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C04 schema identity and original publication preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C05 all media explicitly retained or removed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C05 no additional H1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C05 no root TEXT nodes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C05 all TEXT leaves nested",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C05 required contextual link",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C05 no legacy booking or misdirected subdomain links",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C05 one existing Organization schema",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C05 schema identity and original publication preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C06 all media explicitly retained or removed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C06 no additional H1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C06 no root TEXT nodes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C06 all TEXT leaves nested",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C06 required contextual link",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C06 no legacy booking or misdirected subdomain links",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C06 one existing Organization schema",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C06 schema identity and original publication preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C07 all media explicitly retained or removed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C07 no additional H1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C07 no root TEXT nodes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C07 all TEXT leaves nested",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C07 no legacy booking or misdirected subdomain links",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C07 one existing Organization schema",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C07 schema identity and original publication preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C08 all media explicitly retained or removed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C08 no additional H1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C08 no root TEXT nodes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C08 all TEXT leaves nested",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C08 no legacy booking or misdirected subdomain links",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C08 one existing Organization schema",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C08 schema identity and original publication preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C09 all media explicitly retained or removed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C09 no additional H1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C09 no root TEXT nodes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C09 all TEXT leaves nested",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C09 required contextual link",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C09 no legacy booking or misdirected subdomain links",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C09 one existing Organization schema",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C09 schema identity and original publication preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before qbtpk10",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before 4i98l36",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before 8x0rk39",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before ng66x42",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before nmkee56",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before eo4r464",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before 0yhj967",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before zk55p70",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before axvtp84",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before o8fud92",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before r606t95",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before v0rqs98",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before 9lh67108",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before ht8tk181",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before 04y41184",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before cnct1189",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before p014p192",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before xqxld195",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before zx0b6198",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before kjiqq212",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before suhzi222",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before hs51g225",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before hoiff228",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before 5cvt0242",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before 664kq255",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 exact before m9jaq264",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 unaffected paragraphs preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 no additional H1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 no root TEXT nodes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 all TEXT leaves nested",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 no legacy booking or misdirected subdomain links",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 one existing Organization schema",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C11 schema identity and original publication preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 exact before foo",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 exact before 3b5iv",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 exact before 7nnd1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 exact before b05hs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 exact before sg3l",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 exact before 9jst9",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 exact before chtl2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 exact before dfmro",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 exact before d63p1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 exact before 1lrkh",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 exact before 3gs0j",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 exact before 9n9l2",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 unaffected paragraphs preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 no additional H1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 no root TEXT nodes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 all TEXT leaves nested",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 required contextual link",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 no legacy booking or misdirected subdomain links",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 one existing Organization schema",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C13 schema identity and original publication preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C14 all media explicitly retained or removed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C14 no additional H1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C14 no root TEXT nodes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C14 all TEXT leaves nested",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C14 required contextual link",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C14 no legacy booking or misdirected subdomain links",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C14 one existing Organization schema",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C14 schema identity and original publication preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C15 all media explicitly retained or removed",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C15 no additional H1",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C15 no root TEXT nodes",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C15 all TEXT leaves nested",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C15 required contextual link",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C15 no legacy booking or misdirected subdomain links",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C15 one existing Organization schema",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "C15 schema identity and original publication preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Eight required contextual article links",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Skin Reset ten exact destinations preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Skin Reset five facial, three booking and two form links preserved",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Skin Reset CSS unchanged",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "All required article-link targets return 200 and self-canonical",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Optional link target returns 200 and self-canonical",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Report has 17 navigable item sections",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "Report has no empty link targets",
+      "pass": true,
+      "detail": ""
+    }
+  ],
+  "not_tested": [
+    "Wix draft save/read-back",
+    "Live publication and post-publication source",
+    "Native editor desktop/320/375 layout and interactions",
+    "Google indexing or rankings",
+    "Current commercial offers and downstream Skin Reset guide/form contents"
+  ],
+  "result": "PASS — offline package checks only",
+  "passed_count": 147
+}

@@ -1,0 +1,658 @@
+{
+  "nodes": [
+    {
+      "type": "PARAGRAPH",
+      "id": "c14n0",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "A good massage starts with a useful goal. You may want a quiet hour, attention to tense shoulders or a comfortable way to care for muscles after a demanding week. Research can help frame those choices without turning every session into a promise of a medical result.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s1",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c14n1",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Relaxation and stress",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s2",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "IMAGE",
+      "id": "s8te4856",
+      "nodes": [
+        {
+          "type": "CAPTION",
+          "id": "n8yip862",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "id": "",
+              "nodes": [],
+              "textData": {
+                "text": "Massage Appointments Salem / Paddock Lake, WI ",
+                "decorations": []
+              }
+            }
+          ]
+        }
+      ],
+      "imageData": {
+        "containerData": {
+          "width": {
+            "size": "CONTENT"
+          },
+          "alignment": "CENTER",
+          "textWrap": true
+        },
+        "image": {
+          "src": {
+            "id": "e4cc43_c28a00dc2e1a46058828ce8b8241c9b0~mv2.png"
+          },
+          "width": 512,
+          "height": 512
+        },
+        "altText": "Woman receiving a massage in Salem, WI on a bed in a serene room, blue art on walls. Text: \"De-Stress & Unwind,\" \"Matrix Massage & Bodywork,\" contact info.",
+        "caption": "Massage Appointments Salem / Paddock Lake, WI "
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14sps8te4856",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14n2",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Massage gives you time to pause and communicate what feels comfortable. Small clinical studies have explored anxiety-related outcomes, but their results should not be stretched into a guarantee that massage corrects hormones or replaces mental-health care.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s3",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c14n3",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Muscle comfort and pain",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s4",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "IMAGE",
+      "id": "wqa5n1995",
+      "nodes": [
+        {
+          "type": "CAPTION",
+          "id": "38uz82016",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "id": "",
+              "nodes": [],
+              "textData": {
+                "text": "Pain Relieving Massage at Matrix Massage in Salem / Paddock Lake, WI",
+                "decorations": []
+              }
+            }
+          ]
+        }
+      ],
+      "imageData": {
+        "containerData": {
+          "width": {
+            "size": "CONTENT"
+          },
+          "alignment": "CENTER",
+          "textWrap": true
+        },
+        "image": {
+          "src": {
+            "id": "e4cc43_969e19180fff4dfabb060c37aca6abbc~mv2.png"
+          },
+          "width": 512,
+          "height": 512
+        },
+        "altText": "Illustration of a massage session in a softly lit room",
+        "caption": "Massage and muscle comfort"
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14spwqa5n1995",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14n4",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "A randomized trial in adults with nonspecific chronic low-back pain found improvements in symptoms and function after a course of massage. That supports a focused discussion about certain pain concerns; it does not establish that massage treats every cause of pain.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s5",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14n5",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Tell your therapist where you feel discomfort, which activities bother you and what healthcare guidance you have received. Pressure and positioning can then be selected around a meaningful goal.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s6",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c14n6",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Recovery after activity",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s7",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "IMAGE",
+      "id": "bt7kk318",
+      "nodes": [
+        {
+          "type": "CAPTION",
+          "id": "cbbu5400",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "id": "",
+              "nodes": [],
+              "textData": {
+                "text": "Boost Athletic Recovery with Deep Tissue Massage in Salem, WI",
+                "decorations": []
+              }
+            }
+          ]
+        }
+      ],
+      "imageData": {
+        "containerData": {
+          "width": {
+            "size": "CONTENT"
+          },
+          "alignment": "CENTER",
+          "textWrap": true
+        },
+        "image": {
+          "src": {
+            "id": "e4cc43_980b7a2ca24d45359e6eb446d83e28b5~mv2.png"
+          },
+          "width": 512,
+          "height": 512
+        },
+        "altText": "Illustration of a person resting on a gym floor",
+        "caption": "Making time for rest after activity"
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14spbt7kk318",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14n7",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Some small studies have examined post-exercise soreness. Feeling less sore is different from proving faster tissue repair or better athletic performance. Massage also should not be explained as flushing out lactic acid.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s8",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c14n8",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "What about immunity?",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s9",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14n9",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Research measuring short-term immune markers is not the same as research showing fewer infections. We therefore describe massage around comfort and relaxation rather than claiming it boosts protection against illness.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s10",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c14n10",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Make the appointment useful to you",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s11",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14n11",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Before your visit, choose one or two priorities. During the session, speak up about temperature, pressure and positioning. Afterward, notice comfort and everyday function rather than expecting a specific laboratory or hormone change. Discuss persistent symptoms with your healthcare professional.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s12",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c14n12",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Massage near Salem and Union Grove",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s13",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14n13",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Matrix Massage & Bodywork welcomes clients in Salem, Paddock Lake and surrounding communities. If you are visiting from ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Union Grove",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/massage-near-union-grove-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": ", explore the local service information and plan travel around your starting point.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s14",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14n14",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "View massage appointments in Salem",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/book-appointments-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": " to find the current options and choose a session that fits your goals.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s15",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c14n15",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Research and references",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s16",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14n16",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Rapaport et al. — preliminary massage biomarker study (2010)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/20809811/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s17",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14n17",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Cherkin et al. — chronic low-back pain massage trial (2011)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/21727288/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s18",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14n18",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Rapaport et al. — massage and anxiety proof-of-concept trial (2016)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/27464321/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s19",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14n19",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Hilbert et al. — massage and delayed muscle soreness (2003)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/12547748/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14s20",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c14n20",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Wiltshire et al. — massage and lactate removal (2010)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/19997015/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    }
+  ]
+}

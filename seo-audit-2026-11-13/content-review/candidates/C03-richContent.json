@@ -1,0 +1,446 @@
+{
+  "nodes": [
+    {
+      "type": "PARAGRAPH",
+      "id": "c03n0",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Research into light-based treatment for Hashimoto’s thyroiditis is interesting, but the device, setting and medical supervision matter. A clinical laser study cannot automatically establish what a wellness red-light panel will do for thyroid disease.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03s1",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c03n1",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "What the original trial found",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03s2",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03n2",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Höfling and colleagues studied 43 people with chronic autoimmune thyroiditis in a randomized trial. Treatment used a medical point laser with clinical follow-up. The treated group required less levothyroxine at nine months than the placebo group, and one thyroid-antibody measure improved. These findings support further research in that specific setting.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03s3",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c03n3",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "What the longer follow-up adds",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03s4",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03n4",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "A later follow-up reported lower levothyroxine requirements in the previously treated group, while thyroid-antibody levels did not differ between groups. It does not establish that periodic wellness-panel sessions maintain thyroid function or prevent Hashimoto’s from progressing.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03s5",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c03n5",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Why the equipment matters",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03s6",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03n6",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "“Red light” describes a broad category. A directed laser and a broad LED panel can differ in output, treatment area and delivered dose. Similar wavelength labels do not make their results interchangeable. The cited studies do not provide a validated home-panel or Matrix-session protocol for treating the thyroid.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03s7",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03n7",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "For that reason, this article does not give a thyroid exposure schedule, treatment distance or minutes per thyroid lobe. Those would be medical treatment instructions that the panel evidence here does not establish.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03s8",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c03n8",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "What this means for your care",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03s9",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03n9",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Keep thyroid testing and medication decisions with your prescribing clinician. Do not reduce or stop thyroid medication based on a wellness session, symptoms alone or this article. If you are interested in clinical light-based thyroid research, discuss the actual papers and their limitations with your endocrinologist.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03s10",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c03n10",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Red light at Matrix",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03s11",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03n11",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Our ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "red light therapy page",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": " explains the Matrix wellness offering. It should not be read as an offer to treat Hashimoto’s, replace thyroid medication or interpret thyroid laboratory tests. You can explore the service for a wellness visit while continuing the medical care that manages your thyroid condition.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03s12",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03n12",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "For other interests, explore ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "facials in Salem",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": ", our ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Japanese head spa",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": " or the ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "wellness service menu",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": ". These links describe services, not thyroid treatments.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03s13",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c03n13",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Research and references",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03s14",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03n14",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Höfling et al. — randomized trial in autoimmune thyroiditis (2013)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/22718472/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03s15",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c03n15",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Höfling et al. — six-year follow-up (2018)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/30532779/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    }
+  ]
+}

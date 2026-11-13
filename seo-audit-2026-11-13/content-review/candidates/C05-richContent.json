@@ -1,0 +1,357 @@
+{
+  "nodes": [
+    {
+      "type": "PARAGRAPH",
+      "id": "c05n0",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "A warm soak or a gentle body-care ritual can be a welcome pause in a busy day. Magnesium chloride soaks, sprays and lotions are popular ways to create that experience. The most useful way to choose one is to consider the product, your skin and the kind of routine you enjoy.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05s1",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c05n1",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Magnesium chloride and Epsom salt are different products",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05s2",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05n2",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Epsom salt is magnesium sulfate; many products marketed as magnesium flakes or sprays use magnesium chloride. The names identify different salts. They do not, by themselves, establish that one product delivers more magnesium into your body or produces better health outcomes.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05s3",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c05n3",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "What the absorption research shows",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05s4",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05n4",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "A small pilot study tested magnesium cream over two weeks. Overall changes in blood and urine measurements were not statistically significant, although a subgroup result suggested a question for further research. This does not show that baths reliably correct deficiency or that topical products outperform oral supplements.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05s5",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05n5",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Claims about oral magnesium cannot simply be transferred to a soak, scrub or spray. The route, dose and evidence are different.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05s6",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c05n6",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Choose the experience you want",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05s7",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05n7",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "A soak offers a quiet, unhurried ritual. A lotion may be chosen for its feel on the skin. A scrub is a cosmetic exfoliating product, not a method of replenishing minerals or treating a medical problem. Ingredients such as fragrance and essential oils also affect which product suits you.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05s8",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05n8",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Use the product as labeled and pay attention to comfort. A stronger concentration or more intense skin sensation is not evidence that a product is working better. Avoid applying irritating products to broken or freshly irritated skin, and stop if a reaction develops.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05s9",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c05n9",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Keep health claims in perspective",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05s10",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05n10",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "The evidence reviewed here does not establish magnesium soaks as treatments for migraines, hormonal imbalance, insomnia or magnesium deficiency. Nor does it show that they remove toxins. If a clinician recommends magnesium for a medical reason, ask about the appropriate product and route rather than substituting a bath.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05s11",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c05n11",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Enjoying a relaxation routine at Matrix",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05s12",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05n12",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "At Matrix Massage & Bodywork in Salem, WI, the useful conversation is about comfort, preferences and the services currently available. A pleasant foot treatment can complement a relaxing visit without needing a promise about mineral absorption.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05s13",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05n13",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "View the current appointment menu",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/book-appointments-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": " to explore available services, or contact the studio about current magnesium body-care options.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05s14",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c05n14",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Research and references",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05s15",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c05n15",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Kass et al. — magnesium cream pilot (2017)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/28403154/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    }
+  ]
+}

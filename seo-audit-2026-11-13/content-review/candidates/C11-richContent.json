@@ -1,0 +1,2907 @@
+{
+  "nodes": [
+    {
+      "type": "PARAGRAPH",
+      "id": "gucak6",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Matrix Massage & Bodywork: Your Local Wellness Destination in Salem, WI",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "9t7c59",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "qbtpk10",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Welcome to ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Matrix Massage & Bodywork",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": " in Salem, Wisconsin, serving Pleasant Prairie, Bristol, Antioch and Paddock Lake. Explore massage and wellness options for relaxation, bodywork and time devoted to your comfort.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "2uehr12",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "milsm13",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Whether you’re an athlete recovering from muscle strain, someone ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "navigating chronic pain",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+                    "target": "SELF",
+                    "rel": {
+                      "noreferrer": true
+                    }
+                  }
+                }
+              },
+              {
+                "type": "UNDERLINE"
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": ", or just in need of serious self-care, Matrix is your sanctuary. Here’s a full breakdown of what we offer — and why your body and mind will thank you.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "x0nx118",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "5at9e19",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "🔥 Signature Massage Services",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "0vyk023",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "payec24",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Deep Tissue Massage",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+                    "target": "BLANK",
+                    "rel": {
+                      "noreferrer": true
+                    }
+                  }
+                }
+              },
+              {
+                "type": "UNDERLINE"
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "e0r7912722",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "gbonq28",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Target stubborn knots and chronic tension with our results-driven deep tissue massage. Ideal for athletes, desk workers, and anyone carrying stress in their neck, shoulders, or back.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ptwb430",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "nc5fz31",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Benefits:",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "BULLETED_LIST",
+      "id": "trnyy34",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "0rfd735",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "4i98l36",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "Focuses on areas of muscle soreness and tension",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "3wuyg38",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "8x0rk39",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "Pressure and positioning adapted to your comfort",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "uc80841",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "ng66x42",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "A session planned around your bodywork goals",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        }
+      ],
+      "bulletedListData": {
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "v7dyz45",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "s1lps46",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "💬 Client Favorite: Pair it with muscle scraping and red light therapy in our Muscle Recovery Package.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "rnyrr51",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "9x1v052",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Swedish & Relaxation Massage",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/swedish-massage-salem-wi",
+                    "target": "BLANK",
+                    "rel": {
+                      "noreferrer": true
+                    }
+                  }
+                }
+              },
+              {
+                "type": "UNDERLINE"
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "sk8ys11944",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "nmkee56",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Our Swedish massage offers an unhurried session with pressure and techniques tailored to your preferences. Choose it when you want time to unwind and attention to everyday muscle tension.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "0wlam58",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "nuwi959",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Benefits:",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "BULLETED_LIST",
+      "id": "eue1562",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "k4j6863",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "eo4r464",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "Time for relaxation and a pause from daily stress",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "5bn7d66",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "0yhj967",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "A quiet setting to slow down",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "6ayam69",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "zk55p70",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "Gentle bodywork adapted to your comfort",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        }
+      ],
+      "bulletedListData": {
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "grpmf73",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "wcxyi74",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "💆 Try it with aromatherapy and a magnesium foot scrub for ultimate relaxation.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "g5qn079",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "i3dci80",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Lymphatic Drainage Massage",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+                    "target": "BLANK",
+                    "rel": {
+                      "noreferrer": true
+                    }
+                  }
+                }
+              },
+              {
+                "type": "UNDERLINE"
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "kde7g83",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "axvtp84",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Manual lymphatic drainage uses specialized light techniques. Suitability depends on your needs; post-procedure care requires guidance from your treating clinician. It is not a universal detox or immune-boost service.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "yhslg86",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "56ku387",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Benefits:",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "BULLETED_LIST",
+      "id": "3gqok90",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "x80sv91",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "o8fud92",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "Discuss swelling-related goals after appropriate assessment",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "hacng94",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "r606t95",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "Individual planning rather than a generic detox schedule",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "v8ddw97",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "v0rqs98",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "Post-procedure treatment only when appropriate and cleared",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        }
+      ],
+      "bulletedListData": {
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "djag7101",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ti768102",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "🌹 Included in our Cellular Regeneration Package with red light therapy and cupping.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "wf7sa107",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "9lh67108",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "🌟 ",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Explore Our Wellness Packages",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "n4r6y112",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "inmj7113",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "1. Rejuvenation Package – For stress relief and full-body reset",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "4w9cb121",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "60 min: $130 | 90 min: $160",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "seg4a123",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Includes Swedish or lymphatic massage, facial with light lymphatic drainage, aromatherapy (lavender, chamomile, frankincense), red light therapy, and hydrogen water.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "xzs68128",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ypf0l129",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "2. Cellular Regeneration Package– For skin, tissue, and detox support",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "qr9pz137",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "60 min: $140 | 90 min: $170",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "kfyqt139",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Includes lymphatic massage, red light therapy, cupping (optional), and aromatherapy (rose, geranium, sandalwood).",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "inggy144",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "im4d0145",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "3. Muscle Recovery Package –For athletes and chronic pain clients",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "xysaj153",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "60 min: $140 | 90 min: $175",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "zxymy155",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Includes deep tissue or sports massage, cupping, muscle scraping, peppermint/eucalyptus/ginger oils, and hydrogen water.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "bv9an160",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "48uwz161",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "4. Muscle Repair & Energizing Package- For fatigue and circulation boost",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ah8qx169",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "60 min: $135 | 90 min: $165",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "jh3ot171",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Swedish or deep tissue massage with red light therapy, muscle scraping, citrus/rosemary/black pepper oils, and hydrogen water.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "me3t1176",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "hjhu6177",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "💡 Why Choose ",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Red Light Therapy?",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+                    "target": "BLANK",
+                    "rel": {
+                      "noreferrer": true
+                    }
+                  }
+                }
+              },
+              {
+                "type": "UNDERLINE"
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "dspm3179",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ht8tk181",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Ask about the red light equipment and session instructions used for your visit.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "h29oz183",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "04y41184",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "About Red Light Sessions:",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "tvl2q186",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "BULLETED_LIST",
+      "id": "m1bwn187",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "5dxov188",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "cnct1189",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "Light-based wellness sessions with device-specific instructions",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "h7njy191",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "p014p192",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "Research findings depend on the equipment, dose and outcome studied",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "90a5l194",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "xqxld195",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "Discuss your goals and relevant precautions before a session",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "xa6qz197",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "zx0b6198",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "Wellness care does not replace medical treatment or hormone management",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        }
+      ],
+      "bulletedListData": {
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "23n8p201",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "3cvbd202",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "🧠 It’s a client-favorite add-on — or book as part of your membership package for even more savings.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "owftl207",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "o4c7p208",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "🌿 Magnesium Soaks, Scrubs & Balms — Made In-House",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "rmkis211",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "kjiqq212",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Ask about our current magnesium soaks, scrubs and body-care products. Choose a product for its feel, ingredients and place in your relaxation routine; topical use should not be treated as a way to correct magnesium deficiency.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "3u3mb215",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "w75k2216",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "⭐ Client Favorites:",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ak84x219",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "BULLETED_LIST",
+      "id": "3eiau220",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "0pbt1221",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "suhzi222",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "Lavender + Chamomile Magnesium Soak – for an unhurried soaking ritual",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "fg8kb224",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "hs51g225",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "Mint + Citrus Magnesium Scrub – for a refreshing body-care routine",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "sihhk227",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "hoiff228",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "Muscle Balm – ask about ingredients and intended cosmetic use",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        }
+      ],
+      "bulletedListData": {
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "d37o0231",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "0mnhz232",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "🛁 Available for purchase in the studio or as part of your recovery session.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "riaiz237",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "5vnmh238",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "🕯️ Aromatherapy Soy Candles — Hand-Poured in Salem, WI",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "hnw5b240",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "5cvt0242",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Our candle collection adds scent and atmosphere to your space. Ask about current ingredients, sizes and availability, and follow the product’s use instructions.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "wh8gj245",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "judap246",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Matrix Signature Soy Candle Line:",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "jikvh249",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "BULLETED_LIST",
+      "id": "qaaz0250",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "pkinw251",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "r6v7w252",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "Salt Stillness – Oceanic calm for stress relief",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "o6fe7254",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "664kq255",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "Recover – Rosemary & Mint for a refreshing atmosphere",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "hw3ai257",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "0y8db258",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "Energize – Lime, Basil, Mandarin for an uplift",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "nz9gh260",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "uom9m261",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "Regenerate – Lavender & Sandalwood for balance",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "f6lmf263",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "m9jaq264",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "textData": {
+                    "text": "Breathe Easy – Eucalyptus & Spearmint scent",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "s0i7b266",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "tm3wg267",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "Rejuvenate – Lavender & Vanilla for cozy calm",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            },
+            {
+              "type": "PARAGRAPH",
+              "id": "52jxd270",
+              "nodes": [],
+              "paragraphData": {
+                "textStyle": {
+                  "textAlignment": "AUTO"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "bulletedListData": {
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "i3hk2271",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "🕯️ Gift yourself or a loved one — available in 8 oz jars, in-studio only.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "3vjce276",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "nhlaj277",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "💳 Matrix Massage Memberships",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "x92jl280",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "pr20j281",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Invest in your health and save every month with our three-tiered membership system:",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "vra7r284",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "o091y285",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "✨ Reset Membership (Basic)",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "BULLETED_LIST",
+      "id": "uqcyj289",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "iisdy290",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "yolgc291",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "1 massage or wellness session/month",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "szm3c293",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "1zqnk294",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "10% off all products and add-ons",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "h2syh296",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "k6ts2297",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "Priority booking",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "he4bf299",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "6f0o1300",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "Great for monthly maintenance",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        }
+      ],
+      "bulletedListData": {
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "7dimm306",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "zl73r307",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "✨ Restore Membership (Standard)",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "BULLETED_LIST",
+      "id": "bsln5311",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "eumfg312",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "hguiw313",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "2 sessions/month",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "jcnk0315",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "0dv4g316",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "15% off retail and services",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "xft5p318",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "wzc1h319",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "Free add-on of choice monthly",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "4mptf321",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "x961y322",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "Best for chronic pain or busy lives",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        }
+      ],
+      "bulletedListData": {
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "93763328",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "u5gnu329",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "✨ Elevate Membership (Premium)",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "BULLETED_LIST",
+      "id": "j8b0c333",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "48gdz334",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "4vtpp335",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "4 sessions/month",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "mnzkm337",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "pdr0g338",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "20% off everything",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "6uh97340",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "zci0m341",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "Includes red light therapy and magnesium foot scrub with every visit",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "hb9uh343",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "j3ftv344",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "Total body upgrade for biohackers + high-performers",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        }
+      ],
+      "bulletedListData": {
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "bodlc350",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "clvu9351",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "📍 Serving Salem, WI and Surrounding Areas",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "edu091879",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "yehl6355",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "We proudly welcome clients from:",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ngcbl357",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "BULLETED_LIST",
+      "id": "7p9vl358",
+      "nodes": [
+        {
+          "type": "LIST_ITEM",
+          "id": "a84zc359",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "5per5360",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "Pleasant Prairie, WI",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "wjb77362",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "39o1y363",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "Bristol, WI",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "m9h3k365",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "1vi3s366",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "Antioch, IL",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "q4v32368",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "ucy4s369",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "Paddock Lake, WI",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        },
+        {
+          "type": "LIST_ITEM",
+          "id": "ueywr371",
+          "nodes": [
+            {
+              "type": "PARAGRAPH",
+              "id": "av8ue372",
+              "nodes": [
+                {
+                  "type": "TEXT",
+                  "id": "",
+                  "nodes": [],
+                  "textData": {
+                    "text": "Silver Lake, WI",
+                    "decorations": []
+                  }
+                }
+              ],
+              "paragraphData": {}
+            }
+          ]
+        }
+      ],
+      "bulletedListData": {
+        "indentation": 0
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "1kguu375",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "36ozw376",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "If you’re searching for “massage near me” or “wellness studio in Salem, WI” — Matrix Massage & Bodywork is your top-rated destination.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "57vfm381",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "5zxaf382",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "🛎️ Ready to ",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Book",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              },
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/book-appointments-salem-wi",
+                    "target": "BLANK",
+                    "rel": {
+                      "noreferrer": true
+                    }
+                  }
+                }
+              },
+              {
+                "type": "UNDERLINE"
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "?",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "zgeuw386",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "✨ Your next-level wellness experience is just one session away.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ufrti388",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "7nzm2389",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "📍 24804 75th St, Salem, WI 53168",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "dtoe2391",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "📱 Text to Book: 262-939-9325",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "37vpm393",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "🔗 ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Book Online Here",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/book-appointments-salem-wi",
+                    "target": "BLANK"
+                  }
+                }
+              },
+              {
+                "type": "UNDERLINE"
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "atohd399",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "ztzg7400",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "🧠 Bonus Tip:",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "vn5tr404",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Subscribe to our newsletter or follow us on Instagram to get exclusive offers, last-minute openings, and health hacks every week!",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "mvpdt406",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "rxztn2139",
+      "nodes": [],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "7v3gg2243",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "Packages & Pricing may vary from time to time",
+            "decorations": [
+              {
+                "type": "BOLD",
+                "fontWeightValue": 700
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "* Check our ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": "booking page",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/book-appointments-salem-wi",
+                    "target": "BLANK",
+                    "rel": {
+                      "noreferrer": true
+                    }
+                  }
+                }
+              },
+              {
+                "type": "UNDERLINE"
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "id": "",
+          "nodes": [],
+          "textData": {
+            "text": " for current availability.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {
+        "textStyle": {
+          "textAlignment": "AUTO"
+        }
+      }
+    }
+  ],
+  "documentStyle": {}
+}

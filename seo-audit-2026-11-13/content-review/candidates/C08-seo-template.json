@@ -1,0 +1,63 @@
+{
+  "tags": [
+    {
+      "type": "meta",
+      "props": {
+        "name": "description",
+        "content": "Explore comfort-focused massage and red light questions when nerve symptoms are present, without promises of nerve regeneration or replacement medical care."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "blog-post-blog-posting-preset",
+        "displayName": "blog-post-blog-posting-preset",
+        "variants": [
+          {
+            "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+            "schemaType": "blog-post-news-article-preset",
+            "disabled": [
+              "{{blog-post.disable-schema}}"
+            ],
+            "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+          },
+          {
+            "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+            "schemaType": "blog-post-article-preset",
+            "disabled": [
+              "{{blog-post.disable-schema}}"
+            ],
+            "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+          }
+        ],
+        "selectedVariant": "blog-post-blog-posting-preset"
+      },
+      "children": "",
+      "custom": false,
+      "disabled": true
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "FCLmK0Qk",
+        "displayName": "Matrix Article Author"
+      },
+      "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"author\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/about-5\"},\"dateModified\":\"__ACTUAL_CONTENT_PUBLICATION_ISO__\",\"datePublished\":\"2025-07-16T23:45:37.000Z\",\"headline\":\"Massage, Red Light and Nerve Discomfort: Setting Useful Goals\",\"mainEntityOfPage\":{\"@id\":\"https://www.matrixmassage.net/post/relief-in-harmony-how-massage-and-red-light-therapy-support-nerve-pain-healing\",\"@type\":\"ItemPage\",\"url\":\"https://www.matrixmassage.net/post/relief-in-harmony-how-massage-and-red-light-therapy-support-nerve-pain-healing\"},\"description\":\"Explore comfort-focused massage and red light questions when nerve symptoms are present, without promises of nerve regeneration or replacement medical care.\",\"url\":\"https://www.matrixmassage.net/post/relief-in-harmony-how-massage-and-red-light-therapy-support-nerve-pain-healing\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wixstatic.com/media/e4cc43_49e08c5a51284768ba8368734f2bd8bf~mv2.jpg/v1/fill/w_1600,h_1600,al_c,q_90/e4cc43_49e08c5a51284768ba8368734f2bd8bf~mv2.jpg\",\"width\":\"1600\",\"height\":\"1600\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\"}}",
+      "custom": false,
+      "disabled": false
+    }
+  ],
+  "settings": {
+    "preventAutoRedirect": false,
+    "keywords": []
+  }
+}

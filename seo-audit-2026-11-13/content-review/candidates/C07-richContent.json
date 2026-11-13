@@ -1,0 +1,714 @@
+{
+  "nodes": [
+    {
+      "type": "PARAGRAPH",
+      "id": "c07n0",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Red and near-infrared light are often discussed together. The combination can sound like a guarantee of better results, but a useful decision starts with the goal, the equipment and the evidence for that particular use.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s1",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c07n1",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "1. What do red and near-infrared mean?",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s2",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07n2",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "They refer to different wavelength regions. Red light is visible; near-infrared is outside the visible red range. A wavelength label is one equipment characteristic, not a promise about a health outcome.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s3",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c07n3",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "2. Is a combination always better?",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s4",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07n4",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "No universal advantage is established. In one controlled skin study, the broader light spectrum did not outperform red-only light. More wavelengths do not automatically mean a better result.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s5",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c07n5",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "3. What is the goal?",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s6",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07n6",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Skin appearance, exercise recovery and relaxation are different goals. A study about one should not be presented as evidence for all three.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s7",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c07n7",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "4. What does the skin research support?",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s8",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07n8",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Some controlled research has reported improvements in skin appearance under specific treatment conditions. That is a useful research direction, rather than a guarantee that a session reverses aging or eliminates wrinkles.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s9",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c07n9",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "5. What about exercise recovery?",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s10",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07n10",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Small trials have explored light-based treatment around exercise, with results that vary by dose and outcome. A laboratory laser protocol cannot be copied into a general LED-panel schedule without supporting evidence.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s11",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c07n11",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "6. Does hair research apply to any panel?",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s12",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07n12",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Hair studies can use scalp-directed devices in selected forms of hair loss. They do not prove that a whole-body wellness session treats every cause of thinning hair. Matrix’s ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Japanese head spa",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": " is a separate service experience, not a promise of hair regrowth.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s13",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c07n13",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "7. Can a wavelength tell me an exact treatment depth?",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s14",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07n14",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "A wavelength alone does not establish a universal depth of effective treatment. Avoid choosing a session on the basis of a simple claim that light reaches a certain number of centimeters into every person’s muscles, nerves or organs.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s15",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c07n15",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "8. Which other device details matter?",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s16",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07n16",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Output, exposure area, distance and time all affect how light is delivered. The equipment instructions and evidence for its use matter more than a list of wavelength numbers alone.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s17",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c07n17",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "9. How should I choose a session?",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s18",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07n18",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Explain your goals and relevant precautions. Do not apply a generic online distance or time chart to unfamiliar equipment. Medical symptoms and treatment decisions belong with your healthcare team.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s19",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c07n19",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "10. What can I explore at Matrix?",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s20",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07n20",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Read about ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "red light therapy in Salem",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": ", ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "facial services",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": " and ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "massage therapy",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": " to compare the actual offerings. Our ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Skin Reset Blueprint page",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/skin-reset-blueprint-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": " provides another starting point for facial interests.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s21",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07n21",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "When you are ready, ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "view the current appointment menu",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/book-appointments-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": ". Choose a service for a clear, realistic goal rather than a promise that one wavelength combination does everything.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s22",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c07n22",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Research and references",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s23",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07n23",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Wunsch and Matuschka — controlled skin light study (2014)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/24286286/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s24",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07n24",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Vanin et al. — exercise photobiomodulation trial (2016)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/27575834/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07s25",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c07n25",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Lanzafame et al. — scalp light and male pattern hair loss trial (2013)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/24078483/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    }
+  ]
+}

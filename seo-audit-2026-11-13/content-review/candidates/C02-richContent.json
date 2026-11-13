@@ -1,0 +1,368 @@
+{
+  "nodes": [
+    {
+      "type": "PARAGRAPH",
+      "id": "c02n0",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "The right frequency for manual lymphatic drainage depends on why you are considering it. Routine relaxation, diagnosed lymphedema and recovery after a procedure are different situations and should not share one automatic treatment schedule.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02s1",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "IMAGE",
+      "id": "outpi4434",
+      "nodes": [
+        {
+          "type": "CAPTION",
+          "id": "l5ddt4437",
+          "nodes": [
+            {
+              "type": "TEXT",
+              "id": "",
+              "nodes": [],
+              "textData": {
+                "text": "Woman receiving a lymphatic drainage massage in Salem, WI ",
+                "decorations": []
+              }
+            }
+          ]
+        }
+      ],
+      "imageData": {
+        "containerData": {
+          "width": {
+            "size": "CONTENT"
+          },
+          "alignment": "CENTER",
+          "textWrap": true
+        },
+        "image": {
+          "src": {
+            "id": "e4cc43_d007615b643f4c6e85aafeba30c2cf4f~mv2.png"
+          },
+          "width": 937,
+          "height": 611
+        },
+        "altText": "woman receiving lymphatic drainage massage in Salem, WI",
+        "caption": "Woman receiving a lymphatic drainage massage in Salem, WI ",
+        "disableDownload": true
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02spoutpi4434",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c02n1",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Start with the reason for swelling",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02s2",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02n2",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Swelling has many possible causes. A massage booking is not a diagnosis. New, unexplained or worsening swelling needs medical assessment before a treatment plan is chosen. If you already have a diagnosis, bring the relevant instructions from your treating team.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02s3",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02n3",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Lymphedema management is an individualized clinical process. Manual techniques may be considered within that plan; a wellness session alone should not be presented as a complete replacement for the care your clinician recommends.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02s4",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c02n4",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "After a procedure",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02s5",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02n5",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Ask your surgeon or treating clinician whether manual lymphatic drainage is appropriate, who should provide it, which areas can be treated and when treatment may begin. There is no start time or number of weekly appointments that is right for every procedure.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02s6",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02n6",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Clearance should relate to your procedure and current recovery, rather than a generic statement that massage is always safe after a certain number of hours. Follow instructions about incisions, dressings, compression and positioning. Do not add cupping, heat or other services to a recovery plan without checking whether they are appropriate.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02s7",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c02n7",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "How frequency is decided",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02s8",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02n8",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "A useful plan states the goal, the initial appointment interval and when progress will be reviewed. The provider can then consider your comfort, skin condition, medical instructions and response. More appointments are not automatically better.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02s9",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02n9",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Ask: What are we trying to improve? How will we know whether the approach is helping? When should I contact my medical team? These questions are more useful than committing to a universal package before assessment.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02s10",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c02n10",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Planning a visit to Matrix",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02s11",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02n11",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Contact Matrix Massage & Bodywork in Salem, WI before booking post-procedure care so we can discuss your clearance and whether the requested service fits. Review our ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "manual lymphatic drainage services",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": " for the current service information.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02s12",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c02n12",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Research and references",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02s13",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c02n13",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "International Society of Lymphology — consensus (2023)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/39207406/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    }
+  ]
+}

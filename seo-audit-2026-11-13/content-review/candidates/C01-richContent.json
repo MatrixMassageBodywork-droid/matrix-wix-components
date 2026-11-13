@@ -1,0 +1,324 @@
+{
+  "nodes": [
+    {
+      "type": "PARAGRAPH",
+      "id": "c01n0",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "One client noticed a lower reading on their continuous glucose monitor after a massage. It was an interesting observation and a useful reason to ask questions about the relationship between stress, relaxation and everyday wellbeing.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01s1",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01n1",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "A single before-and-after reading cannot tell us why glucose changed. Meals, activity, medication, timing and normal variation can all matter. We cannot conclude from this experience that massage lowered the client’s blood sugar or that another person would have the same result.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01s2",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c01n2",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "What massage can offer",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01s3",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01n3",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "At Matrix Massage & Bodywork in Salem, WI, the focus is a comfortable session tailored to your goals: time to unwind, attention to tense muscles and an opportunity to slow down. Those are worthwhile reasons to choose massage without promising a change in a medical measurement.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01s4",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01n4",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Researchers have studied biological responses to massage, including short-term stress and immune markers. That research is different from demonstrating reliable glucose control or proving that massage treats diabetes.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01s5",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c01n5",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "If you use a glucose monitor",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01s6",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01n6",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Follow the monitoring and low-glucose plan provided by your healthcare team. A lower number is not automatically a better number. Do not change insulin, other medication or food intake because of this article or a massage appointment.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01s7",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01n7",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Tell your therapist about diabetes-related considerations that affect the session, including reduced sensation, areas of fragile skin or concerns about positioning. Share only what is relevant to making your massage comfortable and appropriate. Your medical team remains the source for glucose targets and treatment decisions.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01s8",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c01n8",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "A useful way to assess your session",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01s9",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01n9",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Notice how comfortable you felt, whether the pressure suited you and which areas you would like addressed next time. If you observe a repeated glucose pattern, discuss it with your clinician rather than treating the appointment as a blood-sugar intervention.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01s10",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01n10",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Explore our ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "massage therapy services in Salem",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": " or ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "view the current appointment menu",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/book-appointments-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": " to choose a session around relaxation and bodywork goals.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01s11",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c01n11",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Research and references",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01s12",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c01n12",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Rapaport et al. — preliminary massage biomarker study (2010)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/20809811/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "tags": [
+    {
+      "type": "meta",
+      "props": {
+        "name": "description",
+        "content": "Compare the evidence for red light therapy and grounding, and understand why using them together does not yet establish a proven combined effect."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "blog-post-blog-posting-preset",
+        "displayName": "blog-post-blog-posting-preset",
+        "variants": [
+          {
+            "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+            "schemaType": "blog-post-news-article-preset",
+            "disabled": [
+              "{{blog-post.disable-schema}}"
+            ],
+            "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"NewsArticle\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+          },
+          {
+            "schema": "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"author\":{\"@type\":\"Person\",\"name\":\"{{blog-post.author}}\",\"url\":\"{{blog-post.author.url}}\"},\"dateModified\":\"{{blog-post.modified.date}}\",\"datePublished\":\"{{blog-post.publish.date}}\",\"headline\":\"{{blog-post.headline}}\",\"mainEntityOfPage\":{\"@id\":\"{{blog-post.url}}\",\"@type\":\"ItemPage\",\"url\":\"{{blog-post.url}}\"},\"description\":\"{{blog-post.description}}\",\"url\":\"{{blog-post.url}}\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"{{blog-post.cover.image}}\",\"width\":\"{{blog-post.cover.image.width}}\",\"height\":\"{{blog-post.cover.image.height}}\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"{{site.name}}\",\"url\":\"{{site.url}}\"}}",
+            "schemaType": "blog-post-article-preset",
+            "disabled": [
+              "{{blog-post.disable-schema}}"
+            ],
+            "value": "{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"Article\",\n  \"author\": {\n    \"@type\": \"Person\",\n    \"name\": \"{{blog-post.author}}\",\n    \"url\": \"{{blog-post.author.url}}\"\n  },\n  \"dateModified\": \"{{blog-post.modified.date}}\",\n  \"datePublished\": \"{{blog-post.publish.date}}\",\n  \"headline\": \"{{blog-post.headline}}\",\n  \"mainEntityOfPage\": {\n    \"@id\": \"{{blog-post.url}}\",\n    \"@type\": \"ItemPage\",\n    \"url\": \"{{blog-post.url}}\"\n  },\n  \"description\": \"{{blog-post.description}}\",\n  \"url\": \"{{blog-post.url}}\",\n  \"image\": {\n    \"@type\": \"ImageObject\",\n    \"url\": \"{{blog-post.cover.image}}\",\n    \"width\": \"{{blog-post.cover.image.width}}\",\n    \"height\": \"{{blog-post.cover.image.height}}\"\n  },\n  \"publisher\": {\n    \"@type\": \"Organization\",\n    \"name\": \"{{site.name}}\",\n    \"url\": \"{{site.url}}\"\n  }\n}"
+          }
+        ],
+        "selectedVariant": "blog-post-blog-posting-preset"
+      },
+      "children": "",
+      "custom": false,
+      "disabled": true
+    },
+    {
+      "type": "script",
+      "props": {
+        "type": "application/ld+json"
+      },
+      "meta": {
+        "schemaType": "MWWl3ioU",
+        "displayName": "Matrix Article Author"
+      },
+      "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"author\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/about-5\"},\"dateModified\":\"__ACTUAL_CONTENT_PUBLICATION_ISO__\",\"datePublished\":\"2025-06-03T10:49:13.030Z\",\"headline\":\"Red Light Therapy and Grounding: Exploring the Research and the Experience\",\"mainEntityOfPage\":{\"@id\":\"https://www.matrixmassage.net/post/the-synergistic-power-of-red-light-therapy-and-grounding-mats-a-science-backed-wellness-boost\",\"@type\":\"ItemPage\",\"url\":\"https://www.matrixmassage.net/post/the-synergistic-power-of-red-light-therapy-and-grounding-mats-a-science-backed-wellness-boost\"},\"description\":\"Compare the evidence for red light therapy and grounding, and understand why using them together does not yet establish a proven combined effect.\",\"url\":\"https://www.matrixmassage.net/post/the-synergistic-power-of-red-light-therapy-and-grounding-mats-a-science-backed-wellness-boost\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://static.wixstatic.com/media/e4cc43_cdae26c8bf144d3683fe1f92ac298427~mv2.jpg\",\"width\":648,\"height\":364},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net\"}}",
+      "custom": false,
+      "disabled": false
+    }
+  ],
+  "settings": {
+    "preventAutoRedirect": false,
+    "keywords": []
+  }
+}

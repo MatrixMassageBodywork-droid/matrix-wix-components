@@ -1,0 +1,476 @@
+{
+  "nodes": [
+    {
+      "type": "PARAGRAPH",
+      "id": "c04n0",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Persistent tingling, burning or numbness deserves a clear explanation. Supplements can be useful when there is a specific nutritional need, but a collection of products is not a diagnosis or a universal plan for nerve symptoms.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s1",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c04n1",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Start with the cause",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s2",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04n2",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Bring a list of symptoms, medications and supplements to your healthcare professional. Include the amounts on each label: several products can contain the same nutrient. The important question is what explains the symptoms and whether a supplement has a defined role in that situation.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s3",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c04n3",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Vitamin B12: an important nutrient, not an automatic answer",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s4",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04n4",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "B12 supports normal nervous-system function, and deficiency can have neurological effects. A clinician may consider symptoms, risk factors and laboratory findings together, sometimes using additional testing. This does not mean everyone with tingling has a hidden deficiency or needs a high dose despite normal results.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s5",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04n5",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Ask what the result means for you, whether treatment is needed and how response would be reassessed.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s6",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c04n6",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Benfotiamine research has a specific context",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s7",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04n7",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "The BENDIP trial studied people with diabetic neuropathy. Results depended on the analysis used, and the findings do not prove that benfotiamine repairs nerves in everyone with discomfort. They also do not validate combining it with several other supplements as a standard stack.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s8",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c04n8",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "MTHFR does not automatically dictate a supplement form",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s9",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04n9",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "According to CDC guidance, people with common MTHFR variants can process folic acid. A variant alone does not establish a need for methylfolate, high-dose B vitamins or a particular branded protocol. Discuss genetic results in the context of your health rather than treating a single result as a shopping list.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s10",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c04n10",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "More is not always better",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s11",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04n11",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Excess supplemental vitamin B6 can itself cause sensory neuropathy. Check multivitamins, B-complex products and nerve-support formulas for overlapping B6. Ask a pharmacist or clinician about the complete combination rather than judging each bottle separately.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s12",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04n12",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "This article does not prescribe doses of B vitamins, alpha-lipoic acid, magnesium or curcumin. Suitability depends on the reason for use, other medicines and your clinical history.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s13",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c04n13",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Keep wellness goals separate from treatment claims",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s14",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04n14",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Massage can be considered for comfort and relaxation when appropriate for your condition; it should not be sold as proof of nerve regeneration. If you would like bodywork at Matrix Massage & Bodywork in Salem, ",
+            "decorations": []
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "view available massage appointments",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.matrixmassage.net/book-appointments-salem-wi",
+                    "target": "SELF"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": " and tell us about relevant precautions before the session.",
+            "decorations": []
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s15",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "HEADING",
+      "id": "c04n15",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Research and references",
+            "decorations": []
+          }
+        }
+      ],
+      "headingData": {
+        "level": 2
+      }
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s16",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04n16",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "Stracke et al. — BENDIP benfotiamine trial (2008)",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://pubmed.ncbi.nlm.nih.gov/18473286/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s17",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04n17",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "CDC — MTHFR gene variant and folic acid facts",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://www.cdc.gov/folic-acid/data-research/mthfr/index.html",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s18",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04n18",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "NIH Office of Dietary Supplements — vitamin B12",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04s19",
+      "nodes": [],
+      "paragraphData": {}
+    },
+    {
+      "type": "PARAGRAPH",
+      "id": "c04n19",
+      "nodes": [
+        {
+          "type": "TEXT",
+          "textData": {
+            "text": "NIH Office of Dietary Supplements — vitamin B6",
+            "decorations": [
+              {
+                "type": "LINK",
+                "linkData": {
+                  "link": {
+                    "url": "https://ods.od.nih.gov/factsheets/VitaminB6-HealthProfessional/",
+                    "target": "BLANK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "paragraphData": {}
+    }
+  ]
+}
