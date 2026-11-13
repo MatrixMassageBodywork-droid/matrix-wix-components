@@ -1,0 +1,61 @@
+{
+  "testType": "LOCAL MOCK ONLY; NO WIX OR NETWORK CALLS",
+  "javascriptSyntax": "PASS",
+  "nativeEvidenceBinding": "PASS",
+  "bulkDraftContract": "PASS",
+  "baselineDriftGuard": "PASS",
+  "realNetworkCalls": 0,
+  "published": false,
+  "cases": [
+    {
+      "drift": false,
+      "status": "DRAFT_SEO_SAVED_AND_RESPONSE_VERIFIED",
+      "getCalls": 2,
+      "postCalls": 1,
+      "published": false,
+      "mutationAttemptsInMock": true,
+      "outcomes": [
+        {
+          "itemId": "hfzq0",
+          "itemMetadata": {
+            "id": "hfzq0",
+            "originalIndex": 0,
+            "success": true
+          },
+          "validIdentity": true,
+          "accepted": true,
+          "returnedTagsMatch": true,
+          "protectedHeadUnchanged": true
+        },
+        {
+          "itemId": "nf4iw",
+          "itemMetadata": {
+            "id": "nf4iw",
+            "originalIndex": 1,
+            "success": true
+          },
+          "validIdentity": true,
+          "accepted": true,
+          "returnedTagsMatch": true,
+          "protectedHeadUnchanged": true
+        }
+      ],
+      "failures": null
+    },
+    {
+      "drift": true,
+      "status": "NOT_EXECUTED_BASELINE_GUARD_FAILED",
+      "getCalls": 2,
+      "postCalls": 0,
+      "published": false,
+      "mutationAttemptsInMock": false,
+      "outcomes": null,
+      "failures": [
+        {
+          "itemId": "hfzq0",
+          "reason": "BASELINE_TAGS_CHANGED_REVIEW_REQUIRED"
+        }
+      ]
+    }
+  ]
+}

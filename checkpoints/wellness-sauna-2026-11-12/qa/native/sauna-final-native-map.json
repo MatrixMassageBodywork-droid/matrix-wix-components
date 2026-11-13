@@ -1,0 +1,33 @@
+{
+  "custom": [
+    {
+      "id": "comp-muu96xx4",
+      "rect": {
+        "bottom": 2546,
+        "height": 4566,
+        "left": 0,
+        "right": 980,
+        "top": -2020,
+        "width": 980,
+        "x": 0,
+        "y": -2020
+      }
+    }
+  ],
+  "pageId": "nf4iw",
+  "sections": [
+    {
+      "id": "comp-muu92bbq",
+      "rect": {
+        "bottom": 2546,
+        "height": 4566,
+        "left": 0,
+        "right": 980,
+        "top": -2020,
+        "width": 980,
+        "x": 0,
+        "y": -2020
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "status": "SAVED / READBACK VERIFIED / NOT PUBLISHED",
+  "auditedAt": "2026-11-13T01:36:29.096573+00:00",
+  "writeCompletedAt": "2026-11-13T01:34:18.381Z",
+  "readbackCapturedAt": "2026-11-13T01:34:42.335Z",
+  "scope": "Independent local audit of retained native code/body, candidate, successful bulk draft response and subsequent read-only GET evidence. No network or Wix calls in this audit.",
+  "contract": {
+    "staticPagesOnly": true,
+    "twoEntries": true,
+    "publishFalse": true,
+    "returnEntityTrue": true,
+    "twoSuccessesZeroFailures": true,
+    "writeReportedNotPublished": true,
+    "readbackReportedNotPublished": true
+  },
+  "pages": [
+    {
+      "itemId": "hfzq0",
+      "pageUrl": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "checks": {
+        "identityMatches": true,
+        "responseCorrelationMatchesRequest": true,
+        "acceptedWithoutError": true,
+        "requestCompleteTagsMatchCandidate": true,
+        "acceptedTagsMatchCandidate": true,
+        "readbackTagsMatchCandidate": true,
+        "protectedResolvedHeadMatchesBaseline": true,
+        "nonScriptOverridesPreserved": true,
+        "focusKeywordsMatchOriginalBaseline": true,
+        "canonicalUnchanged": true,
+        "schemaIdentitiesPreserved": true,
+        "oneFAQPage": true,
+        "faqExactActualNativeBodyMatch": true,
+        "actualNativeBodyMatchesReviewedBody": true,
+        "actualNativeBodyHashMatchesPlan": true,
+        "actualNativeCodeHashMatchesEvidence": true,
+        "oneNativeH1": true,
+        "entryMaskOnlyTags": true
+      },
+      "allPassed": true,
+      "faqCount": 7,
+      "schemaTypes": [
+        "HealthAndBeautyBusiness",
+        "OfferCatalog",
+        "BreadcrumbList",
+        "CollectionPage",
+        "FAQPage"
+      ],
+      "acceptedResolvedTagsCount": 0,
+      "readbackResolvedTagsCount": 21,
+      "bodySha256": "44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820",
+      "nativeCodeSha256": "34b69ed14bafa6591d88e55c08e120e14e4180ed8100da56c65242b6e49edd86"
+    },
+    {
+      "itemId": "nf4iw",
+      "pageUrl": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "checks": {
+        "identityMatches": true,
+        "responseCorrelationMatchesRequest": true,
+        "acceptedWithoutError": true,
+        "requestCompleteTagsMatchCandidate": true,
+        "acceptedTagsMatchCandidate": true,
+        "readbackTagsMatchCandidate": true,
+        "protectedResolvedHeadMatchesBaseline": true,
+        "nonScriptOverridesPreserved": true,
+        "focusKeywordsMatchOriginalBaseline": true,
+        "canonicalUnchanged": true,
+        "schemaIdentitiesPreserved": true,
+        "oneFAQPage": true,
+        "faqExactActualNativeBodyMatch": true,
+        "actualNativeBodyMatchesReviewedBody": true,
+        "actualNativeBodyHashMatchesPlan": true,
+        "actualNativeCodeHashMatchesEvidence": true,
+        "oneNativeH1": true,
+        "entryMaskOnlyTags": true
+      },
+      "allPassed": true,
+      "faqCount": 8,
+      "schemaTypes": [
+        "Service",
+        "BreadcrumbList",
+        "WebPage",
+        "FAQPage"
+      ],
+      "acceptedResolvedTagsCount": 0,
+      "readbackResolvedTagsCount": 20,
+      "bodySha256": "a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e",
+      "nativeCodeSha256": "8bc82a35c12d06c23a05181029067cd526a4196a0428504a58fc2c439b1f8283"
+    }
+  ],
+  "reasonReadbackWasNecessary": "The successful bulk response returned empty resolvedTags arrays for both pages, so the later read-only GET records supplied the missing inherited/resolved head evidence. Initial protectedHeadUnchanged:false values represented unavailable evidence, not confirmed metadata drift.",
+  "evidenceHashes": {
+    "EXECUTE_DRAFT_SEO_CANDIDATE.js": "aa86872e2f81ba5c7a30add777c08cf0240c040bf2873d59218848a6e529e419",
+    "native-seo-draft-plan.json": "b98e419fbae4166d3aad9f6af05b06e890f48d7749d4228ab617f7676b3397fe",
+    "WIX_DRAFT_WRITE_RESULT.json": "44d7ca09a3966ff7a1608410678e592654a8edfc9f5790dda4ca90fc9ac7e47f",
+    "WIX_DRAFT_READBACK_RESULT.json": "f3c11c230c0df19f46477e739ee8f1c6b58dd75d95ade3d3725f4c623ac037ac",
+    "FINAL_DRAFT_SEO_VERIFICATION.json": "41a4e3e973ef71f32e55e2435f34fd4c99ec291a31bf08ea668d7007083724ae"
+  },
+  "published": false,
+  "auditMutations": false
+}

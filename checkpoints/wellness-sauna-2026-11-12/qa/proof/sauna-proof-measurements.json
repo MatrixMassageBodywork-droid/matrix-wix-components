@@ -1,0 +1,262 @@
+[
+  {
+    "target": 320,
+    "faq": 8,
+    "h1": 1,
+    "height": 7633.578125,
+    "images": [
+      {
+        "alt": "Matrix Massage & Bodywork",
+        "loaded": true
+      },
+      {
+        "alt": "Illustrative sauna interior with warm wood, soft lighting and folded towels",
+        "loaded": true
+      }
+    ],
+    "scrollWidth": 320,
+    "sections": [
+      {
+        "right": 320,
+        "x": 0
+      },
+      {
+        "right": 320,
+        "x": 0
+      },
+      {
+        "right": 320,
+        "x": 0
+      },
+      {
+        "right": 320,
+        "x": 0
+      },
+      {
+        "right": 320,
+        "x": 0
+      },
+      {
+        "right": 320,
+        "x": 0
+      },
+      {
+        "right": 320,
+        "x": 0
+      },
+      {
+        "right": 320,
+        "x": 0
+      }
+    ],
+    "width": 320
+  },
+  {
+    "target": 390,
+    "faq": 8,
+    "h1": 1,
+    "height": 6903.5,
+    "images": [
+      {
+        "alt": "Matrix Massage & Bodywork",
+        "loaded": true
+      },
+      {
+        "alt": "Illustrative sauna interior with warm wood, soft lighting and folded towels",
+        "loaded": true
+      }
+    ],
+    "scrollWidth": 390,
+    "sections": [
+      {
+        "right": 390,
+        "x": 0
+      },
+      {
+        "right": 390,
+        "x": 0
+      },
+      {
+        "right": 390,
+        "x": 0
+      },
+      {
+        "right": 390,
+        "x": 0
+      },
+      {
+        "right": 390,
+        "x": 0
+      },
+      {
+        "right": 390,
+        "x": 0
+      },
+      {
+        "right": 390,
+        "x": 0
+      },
+      {
+        "right": 390,
+        "x": 0
+      }
+    ],
+    "width": 390
+  },
+  {
+    "target": 1280,
+    "faq": 8,
+    "h1": 1,
+    "height": 4658.34375,
+    "images": [
+      {
+        "alt": "Matrix Massage & Bodywork",
+        "loaded": true
+      },
+      {
+        "alt": "Illustrative sauna interior with warm wood, soft lighting and folded towels",
+        "loaded": true
+      }
+    ],
+    "scrollWidth": 1280,
+    "sections": [
+      {
+        "right": 1280,
+        "x": 0
+      },
+      {
+        "right": 1280,
+        "x": 0
+      },
+      {
+        "right": 1280,
+        "x": 0
+      },
+      {
+        "right": 1280,
+        "x": 0
+      },
+      {
+        "right": 1280,
+        "x": 0
+      },
+      {
+        "right": 1280,
+        "x": 0
+      },
+      {
+        "right": 1280,
+        "x": 0
+      },
+      {
+        "right": 1280,
+        "x": 0
+      }
+    ],
+    "width": 1280
+  },
+  {
+    "target": 1440,
+    "faq": 8,
+    "h1": 1,
+    "height": 4669.6875,
+    "images": [
+      {
+        "alt": "Matrix Massage & Bodywork",
+        "loaded": true
+      },
+      {
+        "alt": "Illustrative sauna interior with warm wood, soft lighting and folded towels",
+        "loaded": true
+      }
+    ],
+    "scrollWidth": 1440,
+    "sections": [
+      {
+        "right": 1440,
+        "x": 0
+      },
+      {
+        "right": 1440,
+        "x": 0
+      },
+      {
+        "right": 1440,
+        "x": 0
+      },
+      {
+        "right": 1440,
+        "x": 0
+      },
+      {
+        "right": 1440,
+        "x": 0
+      },
+      {
+        "right": 1440,
+        "x": 0
+      },
+      {
+        "right": 1440,
+        "x": 0
+      },
+      {
+        "right": 1440,
+        "x": 0
+      }
+    ],
+    "width": 1440
+  },
+  {
+    "target": 1920,
+    "faq": 8,
+    "h1": 1,
+    "height": 4669.6875,
+    "images": [
+      {
+        "alt": "Matrix Massage & Bodywork",
+        "loaded": true
+      },
+      {
+        "alt": "Illustrative sauna interior with warm wood, soft lighting and folded towels",
+        "loaded": true
+      }
+    ],
+    "scrollWidth": 1920,
+    "sections": [
+      {
+        "right": 1920,
+        "x": 0
+      },
+      {
+        "right": 1920,
+        "x": 0
+      },
+      {
+        "right": 1920,
+        "x": 0
+      },
+      {
+        "right": 1920,
+        "x": 0
+      },
+      {
+        "right": 1920,
+        "x": 0
+      },
+      {
+        "right": 1920,
+        "x": 0
+      },
+      {
+        "right": 1920,
+        "x": 0
+      },
+      {
+        "right": 1920,
+        "x": 0
+      }
+    ],
+    "width": 1920
+  }
+]

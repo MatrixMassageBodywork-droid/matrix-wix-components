@@ -1,0 +1,36 @@
+{
+  "capturedAt": "2026-11-12T21:45:06.220895+00:00",
+  "sourceCommit": "eaac30097ff251d67dbb1507a9449feb5618e409",
+  "results": [
+    {
+      "page": "main",
+      "type": "renderer",
+      "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@eaac30097ff251d67dbb1507a9449feb5618e409/pages/wellness/main/review-2/renderer.js",
+      "status": 200,
+      "bytes": 23001,
+      "sha256": "d8ab1c6327ed0d69eb58f7c0fd4a7f1a1cca815268764751dca46869a56cbeb8",
+      "matchesLocal": true
+    },
+    {
+      "page": "main",
+      "type": "proof",
+      "url": "https://raw.githack.com/MatrixMassageBodywork-droid/matrix-wix-components/eaac30097ff251d67dbb1507a9449feb5618e409/pages/wellness/main/review-2/preview.html",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "page": "infrared-sauna",
+      "type": "renderer",
+      "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@eaac30097ff251d67dbb1507a9449feb5618e409/pages/wellness/infrared-sauna/review-2/renderer.js",
+      "status": 200,
+      "bytes": 26417,
+      "sha256": "9c8186c457fecc789da59b898518abc20191216c59b7ed64581162ac839943ca",
+      "matchesLocal": true
+    },
+    {
+      "page": "infrared-sauna",
+      "type": "proof",
+      "url": "https://raw.githack.com/MatrixMassageBodywork-droid/matrix-wix-components/eaac30097ff251d67dbb1507a9449feb5618e409/pages/wellness/infrared-sauna/review-2/preview.html",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
+}

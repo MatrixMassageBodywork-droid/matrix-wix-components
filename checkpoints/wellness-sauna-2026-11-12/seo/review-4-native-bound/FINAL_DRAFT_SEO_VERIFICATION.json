@@ -1,0 +1,74 @@
+{
+  "status": "DRAFT_SEO_SAVED_AND_READBACK_VERIFIED",
+  "capturedAt": "2026-11-13T01:34:42.335Z",
+  "reasonForReadback": "The successful bulk write returned exact accepted tags but omitted resolvedTags for both items, so two read-only GETs verified the missing protected head. The write was not repeated.",
+  "outcomes": [
+    {
+      "itemId": "hfzq0",
+      "identityMatches": true,
+      "savedTagsMatchCandidate": true,
+      "protectedResolvedHeadUnchanged": true,
+      "focusKeywordsMatchAcceptedEntity": true,
+      "canonical": [
+        "https://www.matrixmassage.net/wellness-biotech-services-salem-wi"
+      ],
+      "schemas": [
+        {
+          "schemaId": "clav5h85",
+          "type": "HealthAndBeautyBusiness"
+        },
+        {
+          "schemaId": "4rWCmYq6",
+          "type": "OfferCatalog"
+        },
+        {
+          "schemaId": null,
+          "type": "BreadcrumbList"
+        },
+        {
+          "schemaId": "matrixWellnessPage20261112",
+          "type": "CollectionPage"
+        },
+        {
+          "schemaId": "matrixWellnessFaq20261112",
+          "type": "FAQPage",
+          "faqCount": 7
+        }
+      ],
+      "savedAsDraft": true,
+      "published": false
+    },
+    {
+      "itemId": "nf4iw",
+      "identityMatches": true,
+      "savedTagsMatchCandidate": true,
+      "protectedResolvedHeadUnchanged": true,
+      "focusKeywordsMatchAcceptedEntity": true,
+      "canonical": [
+        "https://www.matrixmassage.net/infrared-sauna-salem-wi"
+      ],
+      "schemas": [
+        {
+          "schemaId": "6e4jQmZM",
+          "type": "Service"
+        },
+        {
+          "schemaId": "U6QYwSDN",
+          "type": "BreadcrumbList"
+        },
+        {
+          "schemaId": "matrixSaunaPage20261112",
+          "type": "WebPage"
+        },
+        {
+          "schemaId": "matrixSaunaFaq20261112",
+          "type": "FAQPage",
+          "faqCount": 8
+        }
+      ],
+      "savedAsDraft": true,
+      "published": false
+    }
+  ],
+  "published": false
+}

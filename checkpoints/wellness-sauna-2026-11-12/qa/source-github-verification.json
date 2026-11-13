@@ -1,0 +1,1196 @@
+{
+  "sourceCommit": "eaac30097ff251d67dbb1507a9449feb5618e409",
+  "branchHead": "eaac30097ff251d67dbb1507a9449feb5618e409",
+  "branchHeadMatches": true,
+  "treeTruncated": false,
+  "allManifestHashesMatch": true,
+  "manifestFiles": 97,
+  "criticalTextReadback": [
+    {
+      "path": "pages/wellness/main/review-2/renderer.js",
+      "ok": true,
+      "encoding": "utf-8"
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-2/renderer.js",
+      "ok": true,
+      "encoding": "utf-8"
+    },
+    {
+      "path": "pages/wellness/main/WIX_PAGE_CODE_MERGED_CANDIDATE.js",
+      "ok": true,
+      "encoding": "utf-8"
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/WIX_PAGE_CODE_CANDIDATE.js",
+      "ok": true,
+      "encoding": "utf-8"
+    },
+    {
+      "path": "pages/wellness/main/review-2/preview.html",
+      "ok": true,
+      "encoding": "utf-8"
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-2/preview.html",
+      "ok": true,
+      "encoding": "utf-8"
+    }
+  ],
+  "verifiedAt": "2026-11-12T21:45:51.828Z",
+  "status": "SOURCE SAVED AND REMOTE VERIFIED; NOT INSTALLED OR PUBLISHED",
+  "repository": "MatrixMassageBodywork-droid/matrix-wix-components",
+  "branch": "review/wellness-sauna-2026-11-12",
+  "baseHead": "34318faae01ef3416959b8f854fa9a88ee91f10b",
+  "baseTree": "a56690fca0d51ffabb050287e1d12255298a49b4",
+  "newTree": "4adf924dd5cf9db779744f3acf6dce39af5d3bf5",
+  "changedTextFiles": 95,
+  "allTextReadbackPassed": true,
+  "binaryAssets": [
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/main/assets/red-light-panel-original.jpg",
+      "path": "pages/wellness/main/assets/red-light-panel-original.jpg",
+      "bytes": 100108,
+      "sha256": "9c9b6e66bdeabb9e8e5f672ed7fd73b9cb3b673ce101659dacbbe91cec7251b3",
+      "gitSha": "a948cfe534f2e95d8e58a1d7400af56ddd80653b",
+      "binary": true
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/infrared-sauna/assets/sauna-stock-original.jpg",
+      "path": "pages/wellness/infrared-sauna/assets/sauna-stock-original.jpg",
+      "bytes": 732573,
+      "sha256": "b2038332c2f6f35ad286653e7ea0a9626f9911fd96ed56d346e26233e6ac7af5",
+      "gitSha": "8155c393e2e11016db457516a4c17bbc5727e6cb",
+      "binary": true
+    }
+  ],
+  "fileManifest": [
+    {
+      "path": "pages/wellness/main/WIX_PAGE_CODE_MERGED_CANDIDATE.js",
+      "bytes": 13518,
+      "sha256": "34b69ed14bafa6591d88e55c08e120e14e4180ed8100da56c65242b6e49edd86",
+      "gitSha": "a652b73cd5498f146dd9e2280d62d877b8dd50e0",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/page-config.json",
+      "bytes": 651,
+      "sha256": "44fc0b6ea24c23e53f977d5a40f6312056076ac4f524876f059e272d0bf6ce85",
+      "gitSha": "34a6e7cb02c7037760b72169168b9fe985e5c87c",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/style.css",
+      "bytes": 9426,
+      "sha256": "c2c1fc4430f70c182bbdeec82c3948526c38db6737ad97d64383980a315de8f5",
+      "gitSha": "bce047c38eb3c72f39cb6d03c4a09f39ea205e39",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/body.html",
+      "bytes": 12503,
+      "sha256": "44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820",
+      "gitSha": "dc8209d5a66e88b9b1d6691d6b30a218329d4bb2",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/proofs/viewport-1280.html",
+      "bytes": 410,
+      "sha256": "1a18a636a9efb057d7bf78d777b2c551b1a49e82cef85fe52281ef8febe9efd1",
+      "gitSha": "43938b18569fb08d30f95387c036846ac2a5e5ea",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/proofs/viewport-390.html",
+      "bytes": 407,
+      "sha256": "1cb1875c196eaebeec7e5d41c1953f01f30b97a16c1c1413a76d27139840b25e",
+      "gitSha": "838c19a97564c5c624f2de47ffb217077b68755b",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/proofs/viewport-1920.html",
+      "bytes": 410,
+      "sha256": "80cb6438ce17f9e03dcadf23ed5877f598e288df2f8cadb56b62b312f080e7bb",
+      "gitSha": "c653a425ddb0e6bdea5e37733f55d19ff1b41069",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/proofs/viewport-1440.html",
+      "bytes": 410,
+      "sha256": "33d0641ff854b710acac5d4832b035b3a2bf32feff7fb52629717a604a4724f8",
+      "gitSha": "18b5528cee394c66d947ef488a4964011fdf6bb5",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/proofs/viewport-320.html",
+      "bytes": 407,
+      "sha256": "83ac6868b533e0500c0f451b671a32e56388a2a373219f76918682f9ac30a175",
+      "gitSha": "cd2f4fc2935fe8037f51898d370aa5f0c95261ff",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/review-2/WIX_SEO_SNIPPET_CANDIDATE.js",
+      "bytes": 13060,
+      "sha256": "a73eca4dc06461aad95c008c52c7bc732da947697a2b8252cb18b2b97164559b",
+      "gitSha": "1f6e1c788d19abc80411d53b7f8da159b964fafb",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/review-2/preview.html",
+      "bytes": 22289,
+      "sha256": "1a570168e25e7b8be8111965d88b756d218196717d07f7bf64609fbab3041b57",
+      "gitSha": "0039e3e4145ee0aa0c29cf621f4bdbe6250a95b5",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/review-2/faq-schema.json",
+      "bytes": 3262,
+      "sha256": "6c8f1fe4b96970989511f9c82d62cb302ffb59051468a6ff6c29454232d59415",
+      "gitSha": "657be02fd50e6ab52d6e9ddbbbc9f9d252e61af1",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/review-2/renderer.js",
+      "bytes": 23001,
+      "sha256": "d8ab1c6327ed0d69eb58f7c0fd4a7f1a1cca815268764751dca46869a56cbeb8",
+      "gitSha": "204d0b2b89fd4903652eb51630a9382741874da7",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/review-2/build-manifest.json",
+      "bytes": 4401,
+      "sha256": "86b9d0d1c8791dd1c34dadaf90c99159c21c7a234d6b946368e82de95204db43",
+      "gitSha": "4417d5ed3489295def9b1c41e61bf917fc63b52f",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/review-2/style.css",
+      "bytes": 9426,
+      "sha256": "c2c1fc4430f70c182bbdeec82c3948526c38db6737ad97d64383980a315de8f5",
+      "gitSha": "bce047c38eb3c72f39cb6d03c4a09f39ea205e39",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/review-2/body.html",
+      "bytes": 12503,
+      "sha256": "44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820",
+      "gitSha": "dc8209d5a66e88b9b1d6691d6b30a218329d4bb2",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/review-1/WIX_SEO_SNIPPET_CANDIDATE.js",
+      "bytes": 13060,
+      "sha256": "4a507adbfa12bade5b86651dcde1aecc1b1bbc1d45b4b509efee31b8da39db30",
+      "gitSha": "e7570733377cc1efd87d80b7b799f6ddd3d42bc1",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/review-1/preview.html",
+      "bytes": 22289,
+      "sha256": "a5d25a49defbe9353a34f9443cb81a18dc2af686b5b921a62dc4349a9b3d763d",
+      "gitSha": "1ac79f73d338250ceab009710327c4fcd883fef5",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/review-1/faq-schema.json",
+      "bytes": 3263,
+      "sha256": "823812645283aadfe5377778cadf27baaf72811c20af1a5ed6b5d0918bb7355d",
+      "gitSha": "0e4b5baf33080cacbc2f8f902adf06ce488d929d",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/review-1/renderer.js",
+      "bytes": 23001,
+      "sha256": "23b463107ad0aa4759085089e989a53b2b7ebce29ecd0de595630ea47ead3050",
+      "gitSha": "8b82ff63a76e5feba79194720bb4028d093fa1e8",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/review-1/build-manifest.json",
+      "bytes": 4401,
+      "sha256": "faad9c493e21f594e544a45ffa9dab6e7c7e59fd7caec6903aa10ce89b3fd590",
+      "gitSha": "09f91ebea5b4d8e4cfc996a48caedafd3da673dd",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/review-1/style.css",
+      "bytes": 9426,
+      "sha256": "c2c1fc4430f70c182bbdeec82c3948526c38db6737ad97d64383980a315de8f5",
+      "gitSha": "bce047c38eb3c72f39cb6d03c4a09f39ea205e39",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/review-1/body.html",
+      "bytes": 12503,
+      "sha256": "0b2e5667910385c7f1a5505ad87d7eb29107b8e2b44cfc7180f77a0dfc8a1a4e",
+      "gitSha": "2e618d77a0756ade27cf3d47a301a5d222471372",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/main/assets/red-light-panel-original.jpg",
+      "bytes": 100108,
+      "sha256": "9c9b6e66bdeabb9e8e5f672ed7fd73b9cb3b673ce101659dacbbe91cec7251b3",
+      "gitSha": "a948cfe534f2e95d8e58a1d7400af56ddd80653b",
+      "binary": true
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/page-config.json",
+      "bytes": 773,
+      "sha256": "41f617dc1fb3964ac3b9a6eabc1b88dfb5c0175e9a0ee34ea47c0e54f5186955",
+      "gitSha": "65a09033373bee597e2bec9bfdadeb76c5a86551",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/style.css",
+      "bytes": 13428,
+      "sha256": "1174f57917a1d2768e9162445dc01382981f15d6991fc8f114236b27d299c930",
+      "gitSha": "bfbf581cb309dfdb6822b62a992bbf648c60221f",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/WIX_PAGE_CODE_CANDIDATE.js",
+      "bytes": 12694,
+      "sha256": "8bc82a35c12d06c23a05181029067cd526a4196a0428504a58fc2c439b1f8283",
+      "gitSha": "d1474bfd9b6ad25393a9c615090eaa37924a4576",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/COPY_DECISIONS.md",
+      "bytes": 5015,
+      "sha256": "7dda449a6a607eb971ff179cb7314d7d8896116a5608fc8cb05853bdacc59f0a",
+      "gitSha": "49cdeeda7a1803b9daf8ad58304d7943254ef21b",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/body.html",
+      "bytes": 11861,
+      "sha256": "a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e",
+      "gitSha": "4a68567c2bde760168bdbdd923aff7f1cfe413a4",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/proofs/viewport-1280.html",
+      "bytes": 430,
+      "sha256": "7785b4fb4f7871d6e0b3f93db571e8e9f3817d5620ef5cb0e04c96090b89bc8e",
+      "gitSha": "f8bea16ee80bf82243e3bd2be13d78318b8f763e",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/proofs/viewport-390.html",
+      "bytes": 427,
+      "sha256": "8c61174033d744e3a534de5ebe0c80bcc035023e302edf2ad5ccc97e7ae0ba53",
+      "gitSha": "f2c5b32cf01f1da3bd770ced06df6a822da8b714",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/proofs/viewport-1920.html",
+      "bytes": 430,
+      "sha256": "5d0ffede6203228b96c20f1eb77b8b60d82abed7739947a35dccfbf4a0d1ae83",
+      "gitSha": "ed2b1f729cda87433aae0d1a32387a394dcbdfb9",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/proofs/viewport-1440.html",
+      "bytes": 430,
+      "sha256": "89dfb160a7d5274afd671351f5ef7074f28d4cfc5570ef6497f9a017ed5bafcc",
+      "gitSha": "ece0ef53a5b2eed829a1a23c942a4b5c8d95e9f2",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/proofs/viewport-320.html",
+      "bytes": 427,
+      "sha256": "0f50e0b6b2e26be71e48cd12ad2cbd57833841587892c40d2dd9f8117242850b",
+      "gitSha": "6a56ab7fa1d3824af708a89a13c29d43d24f4d84",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-2/WIX_SEO_SNIPPET_CANDIDATE.js",
+      "bytes": 12389,
+      "sha256": "814110abc679d7653f06383f89c56f4437b531580e22e2c96ce017f506875be6",
+      "gitSha": "eb0f2d616b506ee533430ebaf324869b3785ec21",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-2/preview.html",
+      "bytes": 25634,
+      "sha256": "683e02310c1859fa2af13e0f5e10e3e406b1e8a39f2ecd604e914cb6ae2a3ac7",
+      "gitSha": "fe195c2e9158fd950590df12f63d5c84bc5d8687",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-2/faq-schema.json",
+      "bytes": 3267,
+      "sha256": "496ac9662172c0e270e6ee83e53a4186234d4d62421314ab0821ff9fff44e0f4",
+      "gitSha": "79aed5e14a5eae205033ca71644b84556dcec1a1",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-2/renderer.js",
+      "bytes": 26417,
+      "sha256": "9c8186c457fecc789da59b898518abc20191216c59b7ed64581162ac839943ca",
+      "gitSha": "f8c6dc5bf6e324bf27972727900ce33e8adccadd",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-2/build-manifest.json",
+      "bytes": 3901,
+      "sha256": "d094dd4f3d0d3287e47b2c7f05455e1dd79b3c95ac7bf51d0c993284ba45a820",
+      "gitSha": "b43c8b794f25bbbc0c4816929adaf7fde4055e3e",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-2/style.css",
+      "bytes": 13428,
+      "sha256": "1174f57917a1d2768e9162445dc01382981f15d6991fc8f114236b27d299c930",
+      "gitSha": "bfbf581cb309dfdb6822b62a992bbf648c60221f",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-2/body.html",
+      "bytes": 11861,
+      "sha256": "a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e",
+      "gitSha": "4a68567c2bde760168bdbdd923aff7f1cfe413a4",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-1/WIX_SEO_SNIPPET_CANDIDATE.js",
+      "bytes": 12299,
+      "sha256": "5f07b5029f8a0531c0772aa9a2a92ea8a494454c7ce88294a348c5c506827b11",
+      "gitSha": "d5fabd46985345f60914a113a936e5a6bf234080",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-1/preview.html",
+      "bytes": 25544,
+      "sha256": "cd3375d2b94f7aba3f663ab33977baa6be5cb95e484cfe9bf88c692a55cb8514",
+      "gitSha": "f1b2f3d61661d165d12f3efefc0639db5b2a3a97",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-1/faq-schema.json",
+      "bytes": 3267,
+      "sha256": "496ac9662172c0e270e6ee83e53a4186234d4d62421314ab0821ff9fff44e0f4",
+      "gitSha": "79aed5e14a5eae205033ca71644b84556dcec1a1",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-1/renderer.js",
+      "bytes": 26327,
+      "sha256": "afdd912a7005d00ed115080e10895728a55bbcc0dee2c3af3f5e1c8fb0a6a73e",
+      "gitSha": "c6493ce0ae4af89d8ff4aaaf1029886741d4353f",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-1/build-manifest.json",
+      "bytes": 3811,
+      "sha256": "0d47a658e38983e7e52e269c671eb76616f21a7da49f324dbfc9893325bf0766",
+      "gitSha": "bb878dae876a07b21d120ade72fd5b0858815804",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-1/style.css",
+      "bytes": 13428,
+      "sha256": "1174f57917a1d2768e9162445dc01382981f15d6991fc8f114236b27d299c930",
+      "gitSha": "bfbf581cb309dfdb6822b62a992bbf648c60221f",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-1/body.html",
+      "bytes": 11771,
+      "sha256": "aa7b7894edbdb8b1a3463e8405fa051d1929548068e3406167d7c5db42e7ae12",
+      "gitSha": "0bf04b7b7d20d3e93118555ee275134f827fecd9",
+      "binary": false
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/assets/sauna-stock-original.jpg",
+      "bytes": 732573,
+      "sha256": "b2038332c2f6f35ad286653e7ea0a9626f9911fd96ed56d346e26233e6ac7af5",
+      "gitSha": "8155c393e2e11016db457516a4c17bbc5727e6cb",
+      "binary": true
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/findings.json",
+      "bytes": 6637,
+      "sha256": "439b158a155355d523e00d6c0c346eeddf8d3e73654947a1746502e216c8bc12",
+      "gitSha": "d93d6b6772caa04c4b9acecdc291db2fe34a49ee",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/reuse.md",
+      "bytes": 7544,
+      "sha256": "f3a3c159510d75d67315e6996c585fffb62fa38302f736abc8fbd64f704c2505",
+      "gitSha": "1648eaaaf1526eb9b32dc89725af7c4a3ee291fb",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/saveB.md",
+      "bytes": 4398,
+      "sha256": "bb6900288bf4bdf040a988d5f3de163917269ffadebe22db45c74a8032b04f5d",
+      "gitSha": "71fd8892d8887862a47cd40ca45bf4bab7752fef",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/wellnessreadme.md",
+      "bytes": 168,
+      "sha256": "9c85eff9dc8af8bfd6052355110f0a5fd908fb5b2426f7c0aee09f32c2a05f5f",
+      "gitSha": "48e16c0a7693490bf02af32396be678327935d90",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/latestrelease.md",
+      "bytes": 2021,
+      "sha256": "aa240a5b72a2b8afcf7ad6d16902c15e7593327bdb255e5c19c5219120a3b3a7",
+      "gitSha": "86d73286cc52e8b7f64ce5cfd1bb54e9e675207e",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/seolive.md",
+      "bytes": 12260,
+      "sha256": "159e59c7ec987b7e5ea1adba67643b480b53418312e0747289dbcb77eecdd4ae",
+      "gitSha": "f4f674650e3d34a55ec24e9cb96e6c0d5b518f05",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/site-inventory-2026-11-06.json",
+      "bytes": 7000,
+      "sha256": "f7258a7db80643ebcaf52a1fe515af8db935734252b6a47433ab6e24491562b1",
+      "gitSha": "abe746e16fd40d870cd21adc49a68a39dce2e514",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/oldwellness.md",
+      "bytes": 4254,
+      "sha256": "62c920b6e6529f474bc46c155877f8ac5f9b787770b58d347f6e481218896a9f",
+      "gitSha": "f1b47882e08b2b241f26c47c8f8ddf4e39280a2c",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/recovery.md",
+      "bytes": 4983,
+      "sha256": "23bb5ba5f454ac398f00a947d63cdb75521fb9bc6ef322cd3fdd3b41e2561a5a",
+      "gitSha": "65d59dd9fe77ad4e6446f5270137272a458e9f6c",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/saunatag.md",
+      "bytes": 5038,
+      "sha256": "78336c1fde8241803f71bd2e993a35f9ba9740e6354a8e785f84900de4b55bc0",
+      "gitSha": "9101acb6ad97008aa6af674b868cfd97039b90cb",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/oldsauna.md",
+      "bytes": 3370,
+      "sha256": "2fa4e96263642a8023e97388bf17e0a3987a981cd7d0b0d23f9dc92c9c038b55",
+      "gitSha": "f765e989419d4b314e4d9bfbe57eedac533147f3",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/saunacode.md",
+      "bytes": 5929,
+      "sha256": "23268986f5d6e39c60fa22b7003b549369d96385855f6288fb579916488bd561",
+      "gitSha": "15246308ff3256c387c1e41346f62a8198aadf7b",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/native-baseline/wellness-native-baseline.json",
+      "bytes": 47547,
+      "sha256": "493e8c8e4e5b22976fceaaba7847a64f7ad6d1a9c4acc069d48418f42345a3d1",
+      "gitSha": "1bf53a80041d2f37da45a3c719258c584585d3e3",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/native-baseline/source-settings-before.json",
+      "bytes": 692,
+      "sha256": "fa0ba3d144dd9bbef2d55b1e4c7edb22b382e267fdd7e60c5fa652ae0073636b",
+      "gitSha": "639d660e3eb4c35db923a316aa10b8509086b665",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/native-baseline/sauna-code-before.js",
+      "bytes": 8806,
+      "sha256": "2a2580cb690f374cd3655a9c3e07f369658db84304b5ba704bb49ad191982166",
+      "gitSha": "13fcdc4f53d765e225717d1bc80481290ffd6770",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/native-baseline/wellness-code-before.js",
+      "bytes": 382,
+      "sha256": "8c4b9e448a92ffb860ed536bb58e9ecfdb7b877b3a7c60c0f28f5aeaf18f4355",
+      "gitSha": "cd5f974588db606e5823f923e1a0d19f62899cc1",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/native-baseline/sauna-native-baseline.json",
+      "bytes": 1676,
+      "sha256": "0daa707d60d833706d55b7ece23b7a144ac2f15dbef0020f96b72e4b833e6598",
+      "gitSha": "b30e6999b606f261856bbd045dd3e331b518f7f8",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo-baseline/generate_draft_patch.py",
+      "bytes": 15780,
+      "sha256": "8bd57523435c9913e1e65863126198220598169fca7d824827d9536ac545a187",
+      "gitSha": "715d5d58873c0d669631d7e70648f6a1b37a18cf",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo-baseline/README.md",
+      "bytes": 7037,
+      "sha256": "df03842d07eaa038d27db26823e249c5a666d64f34b802d17e3ab0aeb8545e62",
+      "gitSha": "c0e275d60ecdfb6e4363fa2aa3e0702b3657ffbe",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo-baseline/native-seo-baseline.json",
+      "bytes": 129976,
+      "sha256": "e3370f452af93f7ad6a4aedcbad61df0ea30a4c0e0cf008082d40fb4f1901523",
+      "gitSha": "a4cc9b523f2fa4c217816dc1e9642bd875792aeb",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo-baseline/infrared-sauna.json",
+      "bytes": 12344,
+      "sha256": "17764b7437bb3cb9054fa0ea73bfe58615f6789b17b18f2fe0c9e9e129d46198",
+      "gitSha": "b79fbb329689c44fde7257e99d815bf1626c33d3",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo-baseline/wellness.json",
+      "bytes": 15861,
+      "sha256": "9082d90aaaec26d75b0a46650135c6f43b364c377345386bb0e529235b50c34f",
+      "gitSha": "499b657df4c32496198e1e4d1292f337b434516e",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo-baseline/execute-draft-template.js",
+      "bytes": 7295,
+      "sha256": "500a38650af1b8d19d1d24aa7f3a3520b5cb1ae6453d6c818fbbb2109fdb8c5e",
+      "gitSha": "a6785de1ab8d5c80033b7788fff0675a8f82025d",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo-baseline/DRAFT_PATCH_INSTRUCTIONS.md",
+      "bytes": 3666,
+      "sha256": "a916891cabf961b6c99f3c403363c9d8ae9996727da4a9e7af63b76c69c431b4",
+      "gitSha": "72a3ddb193609006e29be59886063fc7752fd9bd",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-3-ready/preparation-qa.json",
+      "bytes": 1172,
+      "sha256": "b583d91d35e105ca7918a4b7ad7bfeea688148357c9ae67a82da2c4a0386f6a7",
+      "gitSha": "4eec10887f70ccbcbecf17fcbdd47b8f58cb35a0",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-3-ready/native-seo-draft-plan.json",
+      "bytes": 59407,
+      "sha256": "b98e419fbae4166d3aad9f6af05b06e890f48d7749d4228ab617f7676b3397fe",
+      "gitSha": "5442017f9cc1d590ec6b7f0477d3667767161d8e",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-3-ready/execution-gate-test.json",
+      "bytes": 180,
+      "sha256": "a775772b8aca8bb50ffdbb90a7a97983803bf68f26afe2a19dffdfa91dcdcc00",
+      "gitSha": "60c0538198e380c8388803716e059807598e1f9e",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-3-ready/infrared-sauna-candidate-tags.json",
+      "bytes": 7832,
+      "sha256": "9a8d93d01018e17670fb438aae7633716160e255a4240bf5c3a58277fcf64157",
+      "gitSha": "a4d0a85fe3ffc3795ee515987eed43e4892abcbb",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-3-ready/wellness-candidate-tags.json",
+      "bytes": 9132,
+      "sha256": "dc9d0921b45406726b45793cd7ee82fe3243b5ea492198e7304a585ffd271fa3",
+      "gitSha": "ca1061aa8bd953e40a711d315edd119ffad09485",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-3-ready/EXECUTE_DRAFT_SEO_CANDIDATE.js",
+      "bytes": 66713,
+      "sha256": "a40318cec2e23f15e72fe7fb058ac6011c4d11505b47c6cd79ba007cdcabe69a",
+      "gitSha": "2cf77853ae1c0dfbe9f36eab4bd2ac3dc99e4e77",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/README.md",
+      "bytes": 4189,
+      "sha256": "43969bc200961899bcc1d104c901279b82f18037f45e85b61ed44aabb652e04c",
+      "gitSha": "ad6bad543e02ce5d73690df458857329645699ec",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/asset-map.json",
+      "bytes": 2338,
+      "sha256": "e459c202fe0da2d66333bd2d4c901e5e27f9a2459312f65ea6dc0574d56aa48b",
+      "gitSha": "312369063923c9059363f6964f94f4c8f63838cc",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/README.md",
+      "bytes": 1559,
+      "sha256": "5abae971e988d598301da82afa7095a3f35c25ff83f052ea2aa026b6a63aaf28",
+      "gitSha": "8fcd8f9a0b0658b6a6ddb6d72cd7382b339f3ab1",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/source-static-qa.json",
+      "bytes": 1879,
+      "sha256": "ec79ad968e3954a1dde7ec4853a63a961b51ba17e542e2f6a22e7ce905d5cfc1",
+      "gitSha": "baae568711d5c417a36e7acfb75385575e27d795",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/destination-http-qa.json",
+      "bytes": 8687,
+      "sha256": "c9eacc9f46d1ccaeb7a2ee1b3661b6fd9e819af1698a9fcd562237f2b150d9f9",
+      "gitSha": "3f25805b105e4a59162891436bd1eed91bf6d616",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/validate_source.py",
+      "bytes": 4654,
+      "sha256": "309afa8857f4f181598f7cef6a9aa0371e9823db5b709b7fccc9d34930afaa6d",
+      "gitSha": "2473d972bcaca485f402b06a49a9817f7b31aee3",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/FINDINGS.md",
+      "bytes": 15366,
+      "sha256": "1c4d8fadc5c46169e5778e2d2d89a5878498489183f5d1b4fbb39aebdc52aa97",
+      "gitSha": "f83e31bc622749b1dea263d066c07965cf5a86a6",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/http-baseline.json",
+      "bytes": 529,
+      "sha256": "d9685e9a41e986d4dcc46b4bd75cb08dd5759b5abbf1bb937f51f4f788e79a18",
+      "gitSha": "a51b8acc9e4b5c1d16c26ad3435087bcc56f8364",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/http-secondary.json",
+      "bytes": 718,
+      "sha256": "28988c5ca415db461ff929a3a86c212ac54522d215b21670b0ecb01a9ebd65ab",
+      "gitSha": "22bee75bad3a489be3cb4387c1c4d7d661104415",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/wellness-parsed.json",
+      "bytes": 19701,
+      "sha256": "046ec36960f4b028f3105bed0e27e2e2ec8a42adf15b93ade53d55a32d75e204",
+      "gitSha": "08f6a829a96793fcab738ac3109e2f10508544c4",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/sauna-probe-parsed.json",
+      "bytes": 8502,
+      "sha256": "daaf56bd49c22d510c1562ab75aa206916720be008d2ac30f969af69a2503171",
+      "gitSha": "b9f345c8df8146f8bcf959cbc6f1387c84c5c093",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/sauna-probe-page-config-extract.json",
+      "bytes": 10047,
+      "sha256": "8844fff7642928aee752e292f4b4bcfd8d049a23cedeceb83e1a0368e35d3150",
+      "gitSha": "5fc63e854379ce636334c1cb933a497e950ad298",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/existing-contextual-links-and-images.json",
+      "bytes": 17290,
+      "sha256": "30ead442d53247eaf7c150a87184af78052284aa08eaea150b7785397483c197",
+      "gitSha": "0391b9e204d601dbb1df89e18640cbf3c8dd9056",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/image-assets.json",
+      "bytes": 1499,
+      "sha256": "f7d85f67e686600475d5e94fc0344392bdc2cfb149be854b8814d442b19e5ddf",
+      "gitSha": "b57281f49a9e1d7778ab9ff5e7f8dccf09cb3724",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/square-service-summaries.json",
+      "bytes": 42471,
+      "sha256": "ce1320748241c036ca59c8aecb95632b39a629bf5de983c951e9af26186e7c6c",
+      "gitSha": "8b205f9063ff71d94d8988d05bcb7101f7441592",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/robots.html",
+      "bytes": 495,
+      "sha256": "dfabe256b4a49f13d949ffa1009dc3fcb71b4ab68e503188a00fdb3be98c874f",
+      "gitSha": "f48ef22beb1bca38746a6b93c3fee67a730f3aa3",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/pages-sitemap.html",
+      "bytes": 3895,
+      "sha256": "b673ccf0ab4ed39da8dc71c6c672552dc431b68313c1386288ed49aaed5d2536",
+      "gitSha": "502aa15f4907f592a5489bfd31bf65713cc9a9e7",
+      "binary": false
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/tools/build_page.py",
+      "bytes": 9699,
+      "sha256": "07cb873aa33e6d50b374eda8dbc8695c77130e82aacab3b0ddecb8000b778805",
+      "gitSha": "f5486e5efc8f5096901b04023af9b53fb74c9128",
+      "binary": false
+    }
+  ],
+  "remainingReadback": [
+    {
+      "path": "pages/wellness/main/page-config.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/style.css",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/body.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/proofs/viewport-1280.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/proofs/viewport-390.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/proofs/viewport-1920.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/proofs/viewport-1440.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/proofs/viewport-320.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/review-2/WIX_SEO_SNIPPET_CANDIDATE.js",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/review-2/faq-schema.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/review-2/build-manifest.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/review-2/style.css",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/review-2/body.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/review-1/WIX_SEO_SNIPPET_CANDIDATE.js",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/review-1/preview.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/review-1/faq-schema.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/review-1/renderer.js",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/review-1/build-manifest.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/review-1/style.css",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/main/review-1/body.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/page-config.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/style.css",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/COPY_DECISIONS.md",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/body.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/proofs/viewport-1280.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/proofs/viewport-390.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/proofs/viewport-1920.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/proofs/viewport-1440.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/proofs/viewport-320.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-2/WIX_SEO_SNIPPET_CANDIDATE.js",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-2/faq-schema.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-2/build-manifest.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-2/style.css",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-2/body.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-1/WIX_SEO_SNIPPET_CANDIDATE.js",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-1/preview.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-1/faq-schema.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-1/renderer.js",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-1/build-manifest.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-1/style.css",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "pages/wellness/infrared-sauna/review-1/body.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/findings.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/reuse.md",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/saveB.md",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/wellnessreadme.md",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/latestrelease.md",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/seolive.md",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/site-inventory-2026-11-06.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/oldwellness.md",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/recovery.md",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/saunatag.md",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/oldsauna.md",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/continuity/saunacode.md",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/native-baseline/wellness-native-baseline.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/native-baseline/source-settings-before.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/native-baseline/sauna-code-before.js",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/native-baseline/wellness-code-before.js",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/native-baseline/sauna-native-baseline.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo-baseline/generate_draft_patch.py",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo-baseline/README.md",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo-baseline/native-seo-baseline.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo-baseline/infrared-sauna.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo-baseline/wellness.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo-baseline/execute-draft-template.js",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo-baseline/DRAFT_PATCH_INSTRUCTIONS.md",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-3-ready/preparation-qa.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-3-ready/native-seo-draft-plan.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-3-ready/execution-gate-test.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-3-ready/infrared-sauna-candidate-tags.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-3-ready/wellness-candidate-tags.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-3-ready/EXECUTE_DRAFT_SEO_CANDIDATE.js",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/README.md",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/asset-map.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/README.md",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/source-static-qa.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/destination-http-qa.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/validate_source.py",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/FINDINGS.md",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/http-baseline.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/http-secondary.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/wellness-parsed.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/sauna-probe-parsed.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/sauna-probe-page-config-extract.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/existing-contextual-links-and-images.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/image-assets.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/square-service-summaries.json",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/robots.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/public-audit/pages-sitemap.html",
+      "ok": true,
+      "error": null
+    },
+    {
+      "path": "checkpoints/wellness-sauna-2026-11-12/tools/build_page.py",
+      "ok": true,
+      "error": null
+    }
+  ],
+  "mainUpdated": false
+}

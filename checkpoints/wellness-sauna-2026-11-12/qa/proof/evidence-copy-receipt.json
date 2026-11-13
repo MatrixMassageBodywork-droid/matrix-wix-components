@@ -1,0 +1,47 @@
+{
+  "copiedAtUtc": "2026-11-13T01:31:08.398824+00:00",
+  "scope": "Earlier completed browser-rendered proof-width measurements supplied by root; no browser rerun or new screenshot claimed",
+  "excluded": [
+    "Blank wellness-proof-320.jpg screenshot"
+  ],
+  "files": [
+    {
+      "source": "/workspace/shared/wellness-proof-measurements.json",
+      "path": "wellness-proof-measurements.json",
+      "bytes": 4229,
+      "sha256": "68d422103f04b9980908443c1291a1de7a137c693092534be5a550900358bf05",
+      "copyByteExact": true,
+      "widths": [
+        320,
+        390,
+        1280,
+        1440,
+        1920
+      ],
+      "oneH1": true,
+      "faqCount": 7,
+      "allImagesLoaded": true,
+      "noMeasuredOverflow": true,
+      "sectionsWithinWidth": true
+    },
+    {
+      "source": "/workspace/shared/sauna-proof-measurements.json",
+      "path": "sauna-proof-measurements.json",
+      "bytes": 4120,
+      "sha256": "8101ff21c2a7c9d7f2632d4e4b3f230902dbd49b2f1015a11aa4361162faabbb",
+      "copyByteExact": true,
+      "widths": [
+        320,
+        390,
+        1280,
+        1440,
+        1920
+      ],
+      "oneH1": true,
+      "faqCount": 8,
+      "allImagesLoaded": true,
+      "noMeasuredOverflow": true,
+      "sectionsWithinWidth": true
+    }
+  ]
+}

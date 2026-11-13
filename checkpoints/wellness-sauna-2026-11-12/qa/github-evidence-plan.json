@@ -1,0 +1,420 @@
+{
+  "preparedAt": "2026-11-13T01:38:59.717690+00:00",
+  "repository": "MatrixMassageBodywork-droid/matrix-wix-components",
+  "branch": "review/wellness-sauna-2026-11-12",
+  "expectedParent": "eaac30097ff251d67dbb1507a9449feb5618e409",
+  "runtimeSourcePinUnchanged": "eaac30097ff251d67dbb1507a9449feb5618e409",
+  "scope": "Evidence and checkpoint documentation only; no Wix mutation; no source or runtime changes",
+  "files": [
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/README.md",
+      "path": "checkpoints/wellness-sauna-2026-11-12/README.md",
+      "bytes": 7728,
+      "sha256": "d16ab1f2af64d415a9c5e14779fba1d9f28a31666c025735af5dcc0a20b12639",
+      "gitSha": "5b14cd3bab6ce57efa1b92fba0a7c097547e6cb7",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/docs/FINAL_DRAFT_RECEIPT.md",
+      "path": "checkpoints/wellness-sauna-2026-11-12/docs/FINAL_DRAFT_RECEIPT.md",
+      "bytes": 12498,
+      "sha256": "8154cb0f677a6effaa98472d56a08efa9b22edbad7122e81fde6a10ebea7c2a9",
+      "gitSha": "198a04c86135092c586963c8f635b5f69ac251d5",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/docs/INSTALLATION_SPEC.md",
+      "path": "checkpoints/wellness-sauna-2026-11-12/docs/INSTALLATION_SPEC.md",
+      "bytes": 9884,
+      "sha256": "2a35d46c280ab4b2e4ab9af25a4c11616d5ea04c59176d41173de7e4c180300e",
+      "gitSha": "d0219a6dff520de186e44382c152a0d8b753c2d8",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/docs/SECONDARY_COPY_REVIEW.md",
+      "path": "checkpoints/wellness-sauna-2026-11-12/docs/SECONDARY_COPY_REVIEW.md",
+      "bytes": 2126,
+      "sha256": "e9251d3a5c24f645114df38004e22fc3ad37dff897112769014f466c1a3510e3",
+      "gitSha": "bcedd10233caafdc4834497979a9662b5caeff05",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/HEIGHT_REVIEW.md",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/HEIGHT_REVIEW.md",
+      "bytes": 14654,
+      "sha256": "b01f901d12fa917c5ec2906bd9237fd9c91f47ae09adaf8e0aa9102568f952cc",
+      "gitSha": "22127fb7eb1180a40cc5dd24bdb8f060970bd6d0",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/README.md",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/README.md",
+      "bytes": 3402,
+      "sha256": "5be13f7f64bbfd78229f329206c1ea0d60f99f537fd63690a7255d553a3251e7",
+      "gitSha": "79944f1365b803d01f41bce1b5ccc960dcc727ef",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/booking-destination-verified.txt",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/booking-destination-verified.txt",
+      "bytes": 32846,
+      "sha256": "e4d5239ac4b22bfc9200e956790ffcf20b5653f0e804f63a99456788fb10673d",
+      "gitSha": "d0b7ffb86a7fbb68ffaa9dd0e851bbb15de28d00",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/evidence-copy-receipt.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/evidence-copy-receipt.json",
+      "bytes": 9880,
+      "sha256": "7274d2723208f35f4b468a8bea1eb1d2323715601676b28ce8e554730d97d2aa",
+      "gitSha": "ca917d8194a86345f18fbe0dfcc45b69164856a3",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/final-native-save-confirmation.jpg",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/final-native-save-confirmation.jpg",
+      "bytes": 112413,
+      "sha256": "3aa5450a1eaf03eaa2a8c732b0b7ef9c32a1ef585896a7f77ca3d52493147ed6",
+      "gitSha": "78f39308a3df3850f6e80ba89f52c598f07923a4",
+      "binary": true
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/final-native-save-confirmation.txt",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/final-native-save-confirmation.txt",
+      "bytes": 1969,
+      "sha256": "378187ef969936e852c3ef07e28f36d9bcd166ffb14a236ced45dd40413ed29c",
+      "gitSha": "8448dd69a14c3474c291e033d8ead1417251b973",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/installation-evidence.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/installation-evidence.json",
+      "bytes": 1734,
+      "sha256": "70b8a249a0590530c3be120e3d1dd2ad1bc598128f1f4c4d7a8aef75dae04f21",
+      "gitSha": "a1eac3f0faf032e2ecfab574e2beb6cc376e6eac",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/sauna-code-buffer-readback.js",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/sauna-code-buffer-readback.js",
+      "bytes": 12694,
+      "sha256": "8bc82a35c12d06c23a05181029067cd526a4196a0428504a58fc2c439b1f8283",
+      "gitSha": "d1474bfd9b6ad25393a9c615090eaa37924a4576",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/sauna-code-final-saved-readback.js",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/sauna-code-final-saved-readback.js",
+      "bytes": 12694,
+      "sha256": "8bc82a35c12d06c23a05181029067cd526a4196a0428504a58fc2c439b1f8283",
+      "gitSha": "d1474bfd9b6ad25393a9c615090eaa37924a4576",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/sauna-desktop-qa.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/sauna-desktop-qa.json",
+      "bytes": 1572,
+      "sha256": "e5ece2d0d8dc76282ad2288aedc1ec84985bd1b32b671f5ef218139d847ee19f",
+      "gitSha": "dd2b738171bea687318e56ac7c6393fbc1fe126d",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/sauna-final-native-map.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/sauna-final-native-map.json",
+      "bytes": 529,
+      "sha256": "7644c900781e946229bd0fef269cb47182574ef22e87ebe928f5e3371f20f912",
+      "gitSha": "13899b7d74761eeb19fed7522ea6ca59270760b3",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/sauna-mobile-qa.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/sauna-mobile-qa.json",
+      "bytes": 4738,
+      "sha256": "ab92e18dcdb0a0e13a970fd6ce38ef11437ea102b3c2efbe44bef66383c4c63e",
+      "gitSha": "1f4282976d4eed838e0e454079fa861779a7ab6f",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/sauna-mounted-settings.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/sauna-mounted-settings.json",
+      "bytes": 515,
+      "sha256": "ec5d679ba03040367b9105a82574482372f0d024d2cfc7ddbd807bb867dc1026",
+      "gitSha": "fa9114486ff1bff46bafe7719f4a7c1597fc296b",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/sauna-native-desktop.jpg",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/sauna-native-desktop.jpg",
+      "bytes": 121499,
+      "sha256": "5c139f585e5694caeae0c014f46d482505ea6d8b1d71692cc369a223371d2e79",
+      "gitSha": "f7c663ada70dd4b917633036b665abe2af0c9c95",
+      "binary": true
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/sauna-native-mobile.jpg",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/sauna-native-mobile.jpg",
+      "bytes": 54442,
+      "sha256": "ab1510cbbdf093c3779ce4612219dd3bafbb46ba7d2e7fbca0aac3bfc90f8a75",
+      "gitSha": "2100df183848786ff0a312e00dfb8f06177ca527",
+      "binary": true
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/wellness-code-final-saved-readback.js",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/wellness-code-final-saved-readback.js",
+      "bytes": 13518,
+      "sha256": "34b69ed14bafa6591d88e55c08e120e14e4180ed8100da56c65242b6e49edd86",
+      "gitSha": "a652b73cd5498f146dd9e2280d62d877b8dd50e0",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/wellness-code-saved-readback.js",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/wellness-code-saved-readback.js",
+      "bytes": 13518,
+      "sha256": "34b69ed14bafa6591d88e55c08e120e14e4180ed8100da56c65242b6e49edd86",
+      "gitSha": "a652b73cd5498f146dd9e2280d62d877b8dd50e0",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/wellness-desktop-qa.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/wellness-desktop-qa.json",
+      "bytes": 2525,
+      "sha256": "e1ab132347bb7c709e8f3ff00efcf241e1912975284804c7cf06c6bbada55f19",
+      "gitSha": "1f6d345591e847ae68ba37ff0201d3e2b62ca311",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/wellness-mobile-images-final.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/wellness-mobile-images-final.json",
+      "bytes": 716,
+      "sha256": "1e37b880a8c93547883865b8a56075050f49f6273f20beb7df59459bdb0c23aa",
+      "gitSha": "e1355f84b4ac5396e6b1a6b5f89048c7ac53446f",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/wellness-mobile-qa.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/wellness-mobile-qa.json",
+      "bytes": 5396,
+      "sha256": "0352b47ed8ee9083e634ac4aca5dad2d3d68fbe1699356be347e7f0affa39d58",
+      "gitSha": "e509d20fbaa4c26619fb22fb3b37b46aaa26086d",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/wellness-mobile-red-light-card.jpg",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/wellness-mobile-red-light-card.jpg",
+      "bytes": 59519,
+      "sha256": "2556fd254bee79190871ed2df890f0f4459b498fcb3a05075c458de1ac91e642",
+      "gitSha": "0827243807239a5efc3d376f426b03ed7c2ca2de",
+      "binary": true
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/wellness-mobile-sauna-card.jpg",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/wellness-mobile-sauna-card.jpg",
+      "bytes": 58918,
+      "sha256": "28e102fd348d88e4a53a32d8564bc1b00ceccb33013af1a7152faaf408c923e7",
+      "gitSha": "a1453c2e91baaa39b85ed93e2a31c6c01368cd8e",
+      "binary": true
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/wellness-mounted-settings.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/wellness-mounted-settings.json",
+      "bytes": 512,
+      "sha256": "5d241babc78a8a1ca24ec0049ab05e12369e093063b7fa77eae09ea4aa170e85",
+      "gitSha": "fcf47ed890410fd7e195de95810c690842c45a7e",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/wellness-native-desktop.jpg",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/wellness-native-desktop.jpg",
+      "bytes": 111622,
+      "sha256": "e6e306bea501342f4a37f04c49a4af3cb135c8569238468ad84a19b24b535262",
+      "gitSha": "fe274f245eabf386620bc329f2907366fef46226",
+      "binary": true
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/wellness-native-goals-section.jpg",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/wellness-native-goals-section.jpg",
+      "bytes": 103688,
+      "sha256": "d9107846d65c6322cdbd2aa71b872c947eeebd89d293b8fe95d7afb22065676f",
+      "gitSha": "22a2c6b3aaf851de3f9f8b708b59f3bfbf64a63a",
+      "binary": true
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/wellness-native-mobile.jpg",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/wellness-native-mobile.jpg",
+      "bytes": 56787,
+      "sha256": "59473a8bd987d7526dcd56aa9bdb0c0d1140a37dd74457b43b33e9e8f5fee627",
+      "gitSha": "f148c96f0702bc46f266f9ad1aaa2d25af2a7d74",
+      "binary": true
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/native/wellness-native-reviews-join.jpg",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/native/wellness-native-reviews-join.jpg",
+      "bytes": 87188,
+      "sha256": "8fb51d006819f80bad1fb74a996a14482840531037c1e053d8d877df9c252a4d",
+      "gitSha": "b4a49ab74020d73796e4d55f416afb9717602156",
+      "binary": true
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/proof/evidence-copy-receipt.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/proof/evidence-copy-receipt.json",
+      "bytes": 1273,
+      "sha256": "6c0f1bc467ed9c0c29064627a6c1b3325d366ea60e31e907c7d0419a3e503e56",
+      "gitSha": "39998fe95eab5ac00f93bf013d929a17acd344ec",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/proof/sauna-proof-measurements.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/proof/sauna-proof-measurements.json",
+      "bytes": 4120,
+      "sha256": "8101ff21c2a7c9d7f2632d4e4b3f230902dbd49b2f1015a11aa4361162faabbb",
+      "gitSha": "399cdcaf2e99ca664408f3881f4c6e3374f4f182",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/proof/wellness-proof-measurements.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/proof/wellness-proof-measurements.json",
+      "bytes": 4229,
+      "sha256": "68d422103f04b9980908443c1291a1de7a137c693092534be5a550900358bf05",
+      "gitSha": "3f77669f798638ec7cc0b0d6290356263eddd867",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/proof-host-http-check.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/proof-host-http-check.json",
+      "bytes": 2082,
+      "sha256": "2342782b64e6960e89188c7c1b324df05f59305c809012336cdb7779e6088aa3",
+      "gitSha": "3570404c8d1b9dc60cdf5f6a483c7212bdb93931",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/source-cdn-verification.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/source-cdn-verification.json",
+      "bytes": 1505,
+      "sha256": "0b1900cdad0c9c1aa09d7e66690f7b5876120924e2e5f6b735fb1c6aeac084e1",
+      "gitSha": "6b73edb7ed1c14e447c277e2206bb8950a34d3a7",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/qa/source-github-verification.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/qa/source-github-verification.json",
+      "bytes": 40636,
+      "sha256": "99659fa32ffbb66ef0b9dbd57206e9e84c1fa9a7ab81c5c1d049edd877736072",
+      "gitSha": "cb960f2cc820293453c580a7215d7720e3cd3030",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/seo/README.md",
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/README.md",
+      "bytes": 3393,
+      "sha256": "0112ef8b3530917eb45acc9ba3ef3227bdca32942dc57270c29b19fe0f5d0d33",
+      "gitSha": "e4795e3e19dd432a829b74abd2aa3b3f752041db",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/seo/review-4-native-bound/API_CONTRACT.md",
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-4-native-bound/API_CONTRACT.md",
+      "bytes": 3284,
+      "sha256": "bd0ba73656026e073c907da3099978fca6b88d232ea58b017eac122047d0de39",
+      "gitSha": "053498e3b7a1fc1c7d04addd9c20da3b7354d4da",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/seo/review-4-native-bound/EXECUTE_DRAFT_SEO_CANDIDATE.js",
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-4-native-bound/EXECUTE_DRAFT_SEO_CANDIDATE.js",
+      "bytes": 68401,
+      "sha256": "aa86872e2f81ba5c7a30add777c08cf0240c040bf2873d59218848a6e529e419",
+      "gitSha": "eb0c68802e32d5ec53fca9173f3a6be97f7ea3e0",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/seo/review-4-native-bound/FINAL_DRAFT_SEO_VERIFICATION.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-4-native-bound/FINAL_DRAFT_SEO_VERIFICATION.json",
+      "bytes": 2011,
+      "sha256": "41a4e3e973ef71f32e55e2435f34fd4c99ec291a31bf08ea668d7007083724ae",
+      "gitSha": "482903b4fdaacf4f9aee5e8bcb884a834f9b203a",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/seo/review-4-native-bound/INDEPENDENT_DRAFT_VERIFICATION.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-4-native-bound/INDEPENDENT_DRAFT_VERIFICATION.json",
+      "bytes": 4320,
+      "sha256": "7b30dc4bd948ffae5ef4f1118f6c7e814518119e120fcb7e647e191585be9e34",
+      "gitSha": "b445874d98429096f56cb0a60c215b85eee60d3e",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/seo/review-4-native-bound/VERIFICATION.md",
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-4-native-bound/VERIFICATION.md",
+      "bytes": 3327,
+      "sha256": "9fec44b5c9b67888498909560932e843d2d8a618bfdd15653f0ac7d3387cc134",
+      "gitSha": "94f2bf23a90812679332f67af3f10ac7e5e6061e",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/seo/review-4-native-bound/WIX_DRAFT_READBACK_RESULT.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-4-native-bound/WIX_DRAFT_READBACK_RESULT.json",
+      "bytes": 51978,
+      "sha256": "f3c11c230c0df19f46477e739ee8f1c6b58dd75d95ade3d3725f4c623ac037ac",
+      "gitSha": "9ac3a2e4ad48a1373d39f1e8ee89dbbfd1236fa7",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/seo/review-4-native-bound/WIX_DRAFT_WRITE_RESULT.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-4-native-bound/WIX_DRAFT_WRITE_RESULT.json",
+      "bytes": 70088,
+      "sha256": "44d7ca09a3966ff7a1608410678e592654a8edfc9f5790dda4ca90fc9ac7e47f",
+      "gitSha": "25e02d2512695361a07a8762821f92147518ae36",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/seo/review-4-native-bound/execution-guard-test.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-4-native-bound/execution-guard-test.json",
+      "bytes": 1494,
+      "sha256": "35339353c73695da52f77b3eae9c9340e8c3c6c3d13047487a2611231f0fe563",
+      "gitSha": "80a0fca3156fc6e3cc940669b8ef8fdf5c680c45",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/seo/review-4-native-bound/infrared-sauna-candidate-tags.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-4-native-bound/infrared-sauna-candidate-tags.json",
+      "bytes": 7832,
+      "sha256": "9a8d93d01018e17670fb438aae7633716160e255a4240bf5c3a58277fcf64157",
+      "gitSha": "a4d0a85fe3ffc3795ee515987eed43e4892abcbb",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/seo/review-4-native-bound/native-evidence-check.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-4-native-bound/native-evidence-check.json",
+      "bytes": 1140,
+      "sha256": "6379218fc3724936f90d5a14873fd4975f76bf1503086c56e0ac9709da58af7a",
+      "gitSha": "05dd78bc6d9096104c74ad2e8d171f763e36c8d5",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/seo/review-4-native-bound/native-seo-draft-plan.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-4-native-bound/native-seo-draft-plan.json",
+      "bytes": 59407,
+      "sha256": "b98e419fbae4166d3aad9f6af05b06e890f48d7749d4228ab617f7676b3397fe",
+      "gitSha": "5442017f9cc1d590ec6b7f0477d3667767161d8e",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/seo/review-4-native-bound/preparation-qa.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-4-native-bound/preparation-qa.json",
+      "bytes": 1189,
+      "sha256": "ccc96822d5cc85a17d234e21302a8a9e5d9092964ea95c435adbdced54bf9fa3",
+      "gitSha": "5c30ae8b104911877702fc7d7629bfdb08796a88",
+      "binary": false
+    },
+    {
+      "local": "/workspace/scratch/6f987ab79794/matrix-wellness/seo/review-4-native-bound/wellness-candidate-tags.json",
+      "path": "checkpoints/wellness-sauna-2026-11-12/seo/review-4-native-bound/wellness-candidate-tags.json",
+      "bytes": 9132,
+      "sha256": "dc9d0921b45406726b45793cd7ee82fe3243b5ea492198e7304a585ffd271fa3",
+      "gitSha": "ca1061aa8bd953e40a711d315edd119ffad09485",
+      "binary": false
+    }
+  ],
+  "unchangedSkipped": [],
+  "sensitiveKeyScan": []
+}

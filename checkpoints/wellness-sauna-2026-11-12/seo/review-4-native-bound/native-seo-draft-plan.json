@@ -1,0 +1,846 @@
+{
+  "status": "PREPARED; NOT EXECUTED",
+  "publish": false,
+  "pages": [
+    {
+      "itemId": "hfzq0",
+      "pageUrl": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+      "sourceDirectory": "/workspace/scratch/6f987ab79794/matrix-wellness/main/review-2",
+      "bodySha256": "44137ce6a35d8487f4046e24444c5adeebdf862fd66fafd6ce0708f3093ca820",
+      "faqCount": 7,
+      "h1": "Wellness & Biotech Services in Salem, WI",
+      "expectedBaselineTags": [
+        {
+          "type": "title",
+          "children": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Explore wellness services in Salem, WI including infrared sauna, red light therapy, recovery enhancements and hands-off wellness at Matrix."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "clav5h85",
+            "displayName": "Wellness Biotech GEO Schema"
+          },
+          "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"HealthAndBeautyBusiness\",   \"name\": \"Matrix Wellness & Biotech\",   \"url\": \"https://www.matrixmassage.net/wellness-biotech-services-salem-wi\",   \"image\": \"https://www.matrixmassage.net\",   \"telephone\": \"+1-262-939-9325\",   \"priceRange\": \"$$\",   \"address\": {     \"@type\": \"PostalAddress\",     \"streetAddress\": \"24804 75th St\",     \"addressLocality\": \"Salem\",     \"addressRegion\": \"WI\",     \"postalCode\": \"53168\",     \"addressCountry\": \"US\"   },   \"areaServed\": [     \"Salem WI\",     \"Paddock Lake WI\",     \"Kenosha WI\",     \"Pleasant Prairie WI\",     \"Bristol WI\",     \"Twin Lakes WI\",     \"Antioch IL\",     \"Union Grove WI\"   ],   \"description\": \"Matrix Wellness & Biotech offers red light therapy, infrared sauna, recovery services, supplements, wellness memberships, and advanced wellness experiences in Salem, WI.\" }",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "4rWCmYq6",
+            "displayName": "Wellness Services Catalog Schema"
+          },
+          "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"OfferCatalog\",   \"name\": \"Wellness & Biotech Services\",   \"itemListElement\": [     {       \"@type\": \"Offer\",       \"itemOffered\": {         \"@type\": \"Service\",         \"name\": \"Red Light Therapy\",         \"description\": \"Advanced red and near-infrared light therapy sessions focused on wellness, relaxation, recovery, and rejuvenation.\"       }     },     {       \"@type\": \"Offer\",       \"itemOffered\": {         \"@type\": \"Service\",         \"name\": \"Infrared Sauna\",         \"description\": \"Infrared sauna sessions designed to support relaxation, warmth, and overall wellness.\"       }     },     {       \"@type\": \"Offer\",       \"itemOffered\": {         \"@type\": \"Service\",         \"name\": \"Recovery Services\",         \"description\": \"Recovery-focused wellness experiences designed to support relaxation and restoration.\"       }     },     {       \"@type\": \"Offer\",       \"itemOffered\": {         \"@type\": \"Service\",         \"name\": \"Supplements and Wellness Support\",         \"description\": \"Science-inspired wellness products and supplement support tailored to wellness goals.\"       }     },     {       \"@type\": \"Offer\",       \"itemOffered\": {         \"@type\": \"Service\",         \"name\": \"Wellness Labs and Testing\",         \"description\": \"Lifestyle-focused wellness testing and educational wellness support.\"       }     }   ] }",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "link",
+          "props": {
+            "rel": "canonical",
+            "href": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Wellness Services in Salem, WI\",\"item\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi\"}]}",
+          "custom": false,
+          "disabled": false
+        }
+      ],
+      "expectedProtectedHead": [
+        {
+          "type": "title",
+          "children": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Explore wellness services in Salem, WI including infrared sauna, red light therapy, recovery enhancements and hands-off wellness at Matrix."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "link",
+          "props": {
+            "rel": "canonical",
+            "href": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:title",
+            "content": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:description",
+            "content": "Explore wellness services in Salem, WI including infrared sauna, red light therapy, recovery enhancements and hands-off wellness at Matrix."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:image:width",
+            "content": "2500"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:image:height",
+            "content": "1330"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:url",
+            "content": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:site_name",
+            "content": "Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:type",
+            "content": "website"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "google-site-verification",
+            "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "twitter:card",
+            "content": "summary_large_image"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "twitter:title",
+            "content": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "twitter:description",
+            "content": "Explore wellness services in Salem, WI including infrared sauna, red light therapy, recovery enhancements and hands-off wellness at Matrix."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "twitter:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      ],
+      "replacements": [
+        {
+          "index": 2,
+          "before": {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "clav5h85",
+              "displayName": "Wellness Biotech GEO Schema"
+            },
+            "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"HealthAndBeautyBusiness\",   \"name\": \"Matrix Wellness & Biotech\",   \"url\": \"https://www.matrixmassage.net/wellness-biotech-services-salem-wi\",   \"image\": \"https://www.matrixmassage.net\",   \"telephone\": \"+1-262-939-9325\",   \"priceRange\": \"$$\",   \"address\": {     \"@type\": \"PostalAddress\",     \"streetAddress\": \"24804 75th St\",     \"addressLocality\": \"Salem\",     \"addressRegion\": \"WI\",     \"postalCode\": \"53168\",     \"addressCountry\": \"US\"   },   \"areaServed\": [     \"Salem WI\",     \"Paddock Lake WI\",     \"Kenosha WI\",     \"Pleasant Prairie WI\",     \"Bristol WI\",     \"Twin Lakes WI\",     \"Antioch IL\",     \"Union Grove WI\"   ],   \"description\": \"Matrix Wellness & Biotech offers red light therapy, infrared sauna, recovery services, supplements, wellness memberships, and advanced wellness experiences in Salem, WI.\" }",
+            "custom": false,
+            "disabled": false
+          },
+          "after": {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "clav5h85",
+              "displayName": "Wellness Biotech GEO Schema"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@type\":\"HealthAndBeautyBusiness\",\"@id\":\"https://www.matrixmassage.net/#business\",\"name\":\"Matrix Massage & Bodywork\",\"alternateName\":\"Matrix Wellness & Biotech\",\"url\":\"https://www.matrixmassage.net/\",\"image\":\"https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg\",\"logo\":\"https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg\",\"telephone\":\"+12629399325\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"},\"areaServed\":[\"Salem, Wisconsin\",\"Salem Lakes, Wisconsin\",\"Paddock Lake, Wisconsin\",\"Bristol, Wisconsin\",\"Pleasant Prairie, Wisconsin\",\"Twin Lakes, Wisconsin\",\"Kenosha County, Wisconsin\",\"Union Grove, Wisconsin\",\"Trevor, Wisconsin\",\"Genoa City, Wisconsin\",\"Antioch, Illinois\"],\"hasMap\":\"https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168\",\"sameAs\":[\"https://www.facebook.com/411300892070855\",\"https://www.instagram.com/matrixmassagewi/\"],\"description\":\"Matrix Wellness & Biotech at Matrix Massage & Bodywork offers infrared sauna, red light therapy, recovery enhancements, and supplement resources in Salem, Wisconsin.\"}",
+            "custom": false,
+            "disabled": false
+          },
+          "reason": "Use the shared business identity, correct the image URL, and describe verified visible offerings."
+        },
+        {
+          "index": 3,
+          "before": {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "4rWCmYq6",
+              "displayName": "Wellness Services Catalog Schema"
+            },
+            "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"OfferCatalog\",   \"name\": \"Wellness & Biotech Services\",   \"itemListElement\": [     {       \"@type\": \"Offer\",       \"itemOffered\": {         \"@type\": \"Service\",         \"name\": \"Red Light Therapy\",         \"description\": \"Advanced red and near-infrared light therapy sessions focused on wellness, relaxation, recovery, and rejuvenation.\"       }     },     {       \"@type\": \"Offer\",       \"itemOffered\": {         \"@type\": \"Service\",         \"name\": \"Infrared Sauna\",         \"description\": \"Infrared sauna sessions designed to support relaxation, warmth, and overall wellness.\"       }     },     {       \"@type\": \"Offer\",       \"itemOffered\": {         \"@type\": \"Service\",         \"name\": \"Recovery Services\",         \"description\": \"Recovery-focused wellness experiences designed to support relaxation and restoration.\"       }     },     {       \"@type\": \"Offer\",       \"itemOffered\": {         \"@type\": \"Service\",         \"name\": \"Supplements and Wellness Support\",         \"description\": \"Science-inspired wellness products and supplement support tailored to wellness goals.\"       }     },     {       \"@type\": \"Offer\",       \"itemOffered\": {         \"@type\": \"Service\",         \"name\": \"Wellness Labs and Testing\",         \"description\": \"Lifestyle-focused wellness testing and educational wellness support.\"       }     }   ] }",
+            "custom": false,
+            "disabled": false
+          },
+          "after": {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "4rWCmYq6",
+              "displayName": "Wellness Services Catalog Schema"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@type\":\"OfferCatalog\",\"@id\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi#services\",\"name\":\"Wellness & Biotech Services\",\"url\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi\",\"itemListElement\":[{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Red Light Therapy\",\"url\":\"https://www.matrixmassage.net/red-light-therapy-salem-wi\",\"description\":\"Explore red light therapy appointments and service information at Matrix in Salem, Wisconsin.\",\"provider\":{\"@id\":\"https://www.matrixmassage.net/#business\"}}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Infrared Sauna\",\"url\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi\",\"description\":\"Private infrared sauna appointments for comfortable warmth and quiet time, available as an add-on to an eligible visit.\",\"provider\":{\"@id\":\"https://www.matrixmassage.net/#business\"}}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Recovery Enhancements\",\"url\":\"https://www.matrixmassage.net/massage-therapy-services-salem-wi\",\"description\":\"Explore massage and eligible comfort-focused enhancements at Matrix Massage & Bodywork.\",\"provider\":{\"@id\":\"https://www.matrixmassage.net/#business\"}}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Supplements & Wellness\",\"url\":\"https://www.matrixmassage.net/supplements\",\"description\":\"Explore Matrix's existing supplements and wellness resources through its supplements page.\",\"provider\":{\"@id\":\"https://www.matrixmassage.net/#business\"}}}]}",
+            "custom": false,
+            "disabled": false
+          },
+          "reason": "Align catalog with four visible offerings and verified canonical service links; remove unlaunched labs/memberships."
+        },
+        {
+          "index": 5,
+          "before": {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Wellness Services in Salem, WI\",\"item\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi\"}]}",
+            "custom": false,
+            "disabled": false
+          },
+          "after": {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Wellness & Biotech\",\"item\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi\"}]}",
+            "custom": false,
+            "disabled": false
+          },
+          "reason": "Match the visible Home to Wellness breadcrumb and add its stable page identifier."
+        }
+      ],
+      "appendTags": [
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "matrixWellnessPage20261112",
+            "displayName": "Wellness Collection Page"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"CollectionPage\",\"@id\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi#webpage\",\"url\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi\",\"name\":\"Wellness Services in Salem, WI | Sauna, Red Light & Recovery\",\"description\":\"Explore wellness services in Salem, WI including infrared sauna, red light therapy, recovery enhancements and hands-off wellness at Matrix.\",\"inLanguage\":\"en-US\",\"about\":{\"@id\":\"https://www.matrixmassage.net/#business\"},\"mainEntity\":{\"@id\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi#services\"},\"breadcrumb\":{\"@id\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi#breadcrumb\"}}",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "matrixWellnessFaq20261112",
+            "displayName": "Wellness FAQs"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What wellness services does Matrix offer in Salem?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix offers infrared sauna, red light therapy and recovery enhancements alongside massage, facials and Japanese Head Spa at our Salem studio. You can also explore supplements through our wellness resources and Matrix Fullscript store. The booking menu shows current appointment options and availability.\"}},{\"@type\":\"Question\",\"name\":\"What is the difference between infrared sauna and red light therapy?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Infrared sauna is a heated experience centered on warmth and relaxation. Red light therapy uses red and near-infrared light during a separate light session. They are different services. Compare our infrared sauna guide and red light therapy guide to decide where to start.\"}},{\"@type\":\"Question\",\"name\":\"How much does an infrared sauna appointment cost?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The current Matrix booking menu lists Infrared Sauna (Add-On) at $35 for a 30-minute appointment. The sauna appointment is separate from hands-on treatment. Text 262-939-9325 if you want to confirm standalone availability or coordinate it with another service.\"}},{\"@type\":\"Question\",\"name\":\"Can I combine wellness with massage, a facial or Head Spa?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Ask us to coordinate your preferred services and their order. Availability, service eligibility, your comfort and suitability all matter. Sauna and other separate appointments need their own scheduled time; an enhancement does not automatically include another full service.\"}},{\"@type\":\"Question\",\"name\":\"Do I need to book a session to take the Glow Test?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. The free Glow Test is an optional way to explore your interests and personalized red light information. Taking it does not require you to purchase or book a session.\"}},{\"@type\":\"Question\",\"name\":\"How do I choose and book a wellness service?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Open the full booking menu to see current services, prices and times. If you are unsure, text 262-939-9325 with what you want from your visit. Tell us about heat sensitivity, pregnancy, relevant medical conditions or medications before choosing heat or light services so suitability can be discussed.\"}},{\"@type\":\"Question\",\"name\":\"Where is Matrix, and what areas do you serve?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix Massage & Bodywork is at 24804 75th St, Salem, WI 53168, near Paddock Lake and Salem Lakes. Our one Salem studio welcomes guests from Bristol, Trevor, Twin Lakes, Genoa City, Pleasant Prairie, Kenosha, Union Grove and Antioch, Illinois. Get directions to Matrix.\"}}],\"@id\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi#faq\"}",
+          "custom": false,
+          "disabled": false
+        }
+      ],
+      "candidateTags": [
+        {
+          "type": "title",
+          "children": "Wellness Services in Salem, WI | Sauna, Red Light & Recovery",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Explore wellness services in Salem, WI including infrared sauna, red light therapy, recovery enhancements and hands-off wellness at Matrix."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "clav5h85",
+            "displayName": "Wellness Biotech GEO Schema"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"HealthAndBeautyBusiness\",\"@id\":\"https://www.matrixmassage.net/#business\",\"name\":\"Matrix Massage & Bodywork\",\"alternateName\":\"Matrix Wellness & Biotech\",\"url\":\"https://www.matrixmassage.net/\",\"image\":\"https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg\",\"logo\":\"https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg\",\"telephone\":\"+12629399325\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"},\"areaServed\":[\"Salem, Wisconsin\",\"Salem Lakes, Wisconsin\",\"Paddock Lake, Wisconsin\",\"Bristol, Wisconsin\",\"Pleasant Prairie, Wisconsin\",\"Twin Lakes, Wisconsin\",\"Kenosha County, Wisconsin\",\"Union Grove, Wisconsin\",\"Trevor, Wisconsin\",\"Genoa City, Wisconsin\",\"Antioch, Illinois\"],\"hasMap\":\"https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168\",\"sameAs\":[\"https://www.facebook.com/411300892070855\",\"https://www.instagram.com/matrixmassagewi/\"],\"description\":\"Matrix Wellness & Biotech at Matrix Massage & Bodywork offers infrared sauna, red light therapy, recovery enhancements, and supplement resources in Salem, Wisconsin.\"}",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "4rWCmYq6",
+            "displayName": "Wellness Services Catalog Schema"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"OfferCatalog\",\"@id\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi#services\",\"name\":\"Wellness & Biotech Services\",\"url\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi\",\"itemListElement\":[{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Red Light Therapy\",\"url\":\"https://www.matrixmassage.net/red-light-therapy-salem-wi\",\"description\":\"Explore red light therapy appointments and service information at Matrix in Salem, Wisconsin.\",\"provider\":{\"@id\":\"https://www.matrixmassage.net/#business\"}}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Infrared Sauna\",\"url\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi\",\"description\":\"Private infrared sauna appointments for comfortable warmth and quiet time, available as an add-on to an eligible visit.\",\"provider\":{\"@id\":\"https://www.matrixmassage.net/#business\"}}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Recovery Enhancements\",\"url\":\"https://www.matrixmassage.net/massage-therapy-services-salem-wi\",\"description\":\"Explore massage and eligible comfort-focused enhancements at Matrix Massage & Bodywork.\",\"provider\":{\"@id\":\"https://www.matrixmassage.net/#business\"}}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Supplements & Wellness\",\"url\":\"https://www.matrixmassage.net/supplements\",\"description\":\"Explore Matrix's existing supplements and wellness resources through its supplements page.\",\"provider\":{\"@id\":\"https://www.matrixmassage.net/#business\"}}}]}",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "link",
+          "props": {
+            "rel": "canonical",
+            "href": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Wellness & Biotech\",\"item\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi\"}]}",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "matrixWellnessPage20261112",
+            "displayName": "Wellness Collection Page"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"CollectionPage\",\"@id\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi#webpage\",\"url\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi\",\"name\":\"Wellness Services in Salem, WI | Sauna, Red Light & Recovery\",\"description\":\"Explore wellness services in Salem, WI including infrared sauna, red light therapy, recovery enhancements and hands-off wellness at Matrix.\",\"inLanguage\":\"en-US\",\"about\":{\"@id\":\"https://www.matrixmassage.net/#business\"},\"mainEntity\":{\"@id\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi#services\"},\"breadcrumb\":{\"@id\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi#breadcrumb\"}}",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "matrixWellnessFaq20261112",
+            "displayName": "Wellness FAQs"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What wellness services does Matrix offer in Salem?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix offers infrared sauna, red light therapy and recovery enhancements alongside massage, facials and Japanese Head Spa at our Salem studio. You can also explore supplements through our wellness resources and Matrix Fullscript store. The booking menu shows current appointment options and availability.\"}},{\"@type\":\"Question\",\"name\":\"What is the difference between infrared sauna and red light therapy?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Infrared sauna is a heated experience centered on warmth and relaxation. Red light therapy uses red and near-infrared light during a separate light session. They are different services. Compare our infrared sauna guide and red light therapy guide to decide where to start.\"}},{\"@type\":\"Question\",\"name\":\"How much does an infrared sauna appointment cost?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The current Matrix booking menu lists Infrared Sauna (Add-On) at $35 for a 30-minute appointment. The sauna appointment is separate from hands-on treatment. Text 262-939-9325 if you want to confirm standalone availability or coordinate it with another service.\"}},{\"@type\":\"Question\",\"name\":\"Can I combine wellness with massage, a facial or Head Spa?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Ask us to coordinate your preferred services and their order. Availability, service eligibility, your comfort and suitability all matter. Sauna and other separate appointments need their own scheduled time; an enhancement does not automatically include another full service.\"}},{\"@type\":\"Question\",\"name\":\"Do I need to book a session to take the Glow Test?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"No. The free Glow Test is an optional way to explore your interests and personalized red light information. Taking it does not require you to purchase or book a session.\"}},{\"@type\":\"Question\",\"name\":\"How do I choose and book a wellness service?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Open the full booking menu to see current services, prices and times. If you are unsure, text 262-939-9325 with what you want from your visit. Tell us about heat sensitivity, pregnancy, relevant medical conditions or medications before choosing heat or light services so suitability can be discussed.\"}},{\"@type\":\"Question\",\"name\":\"Where is Matrix, and what areas do you serve?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix Massage & Bodywork is at 24804 75th St, Salem, WI 53168, near Paddock Lake and Salem Lakes. Our one Salem studio welcomes guests from Bristol, Trevor, Twin Lakes, Genoa City, Pleasant Prairie, Kenosha, Union Grove and Antioch, Illinois. Get directions to Matrix.\"}}],\"@id\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi#faq\"}",
+          "custom": false,
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "itemId": "nf4iw",
+      "pageUrl": "https://www.matrixmassage.net/infrared-sauna-salem-wi",
+      "sourceDirectory": "/workspace/scratch/6f987ab79794/matrix-wellness/infrared-sauna/review-2",
+      "bodySha256": "a5d3b42bcd4fe58c6169e64cef73740d299f8293013d3f060086b02d59f5ea7e",
+      "faqCount": 8,
+      "h1": "Infrared Sauna in Salem, WI",
+      "expectedBaselineTags": [
+        {
+          "type": "title",
+          "children": "Infrared Sauna in Salem, WI | Matrix Wellness & Recovery",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Book a private infrared sauna session in Salem, WI for warmth, relaxation and recovery-focused wellness at Matrix Massage & Bodywork."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "6e4jQmZM",
+            "displayName": "Sauna Service"
+          },
+          "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"Service\",   \"name\": \"Infrared Sauna in Salem, WI\",   \"url\": \"https://www.matrixmassage.net/infrared-sauna-salem-wi\",   \"serviceType\": \"Infrared sauna\",   \"provider\": {     \"@type\": \"HealthAndBeautyBusiness\",     \"name\": \"Matrix Massage & Bodywork\",     \"url\": \"https://www.matrixmassage.net/\",     \"telephone\": \"+1-262-939-9325\",     \"address\": {       \"@type\": \"PostalAddress\",       \"streetAddress\": \"24804 75th St\",       \"addressLocality\": \"Salem\",       \"addressRegion\": \"WI\",       \"postalCode\": \"53168\",       \"addressCountry\": \"US\"     }   },   \"areaServed\": [     \"Salem Lakes, Wisconsin\",     \"Paddock Lake, Wisconsin\",     \"Bristol, Wisconsin\",     \"Pleasant Prairie, Wisconsin\",     \"Twin Lakes, Wisconsin\",     \"Kenosha County, Wisconsin\",     \"Union Grove, Wisconsin\",     \"Antioch, Illinois\"   ],   \"description\": \"Private infrared sauna sessions offered for general wellness, warmth and relaxation at Matrix Massage & Bodywork in Salem, Wisconsin.\" }",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "U6QYwSDN",
+            "displayName": "Sauna BreadcrumbList"
+          },
+          "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"BreadcrumbList\",   \"itemListElement\": [     {       \"@type\": \"ListItem\",       \"position\": 1,       \"name\": \"Home\",       \"item\": \"https://www.matrixmassage.net/\"     },     {       \"@type\": \"ListItem\",       \"position\": 2,       \"name\": \"Infrared Sauna in Salem, WI\",       \"item\": \"https://www.matrixmassage.net/infrared-sauna-salem-wi\"     }   ] }",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:title",
+            "content": "Infrared Sauna in Salem, WI | Matrix"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:description",
+            "content": "Private infrared sauna sessions for relaxation and recovery-focused wellness at Matrix in Salem, Wisconsin."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      ],
+      "expectedProtectedHead": [
+        {
+          "type": "title",
+          "children": "Infrared Sauna in Salem, WI | Matrix Wellness & Recovery",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Book a private infrared sauna session in Salem, WI for warmth, relaxation and recovery-focused wellness at Matrix Massage & Bodywork."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "link",
+          "props": {
+            "rel": "canonical",
+            "href": "https://www.matrixmassage.net/infrared-sauna-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:title",
+            "content": "Infrared Sauna in Salem, WI | Matrix"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:description",
+            "content": "Private infrared sauna sessions for relaxation and recovery-focused wellness at Matrix in Salem, Wisconsin."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:image:width",
+            "content": "2500"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:image:height",
+            "content": "1330"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:url",
+            "content": "https://www.matrixmassage.net/infrared-sauna-salem-wi"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:site_name",
+            "content": "Matrix Massage & Bodywork"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:type",
+            "content": "website"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "google-site-verification",
+            "content": "pywae69E9SA7RcipJ6KY5LxJtTK_ediRnnDQ8XqFEac"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "twitter:card",
+            "content": "summary_large_image"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "twitter:title",
+            "content": "Infrared Sauna in Salem, WI | Matrix"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "twitter:description",
+            "content": "Private infrared sauna sessions for relaxation and recovery-focused wellness at Matrix in Salem, Wisconsin."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "twitter:image",
+            "content": "https://static.wixstatic.com/media/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/e4cc43_1f95ca8ef19e4c3bac37ea7c46af4134%7Emv2.jpg"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        }
+      ],
+      "replacements": [
+        {
+          "index": 2,
+          "before": {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "6e4jQmZM",
+              "displayName": "Sauna Service"
+            },
+            "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"Service\",   \"name\": \"Infrared Sauna in Salem, WI\",   \"url\": \"https://www.matrixmassage.net/infrared-sauna-salem-wi\",   \"serviceType\": \"Infrared sauna\",   \"provider\": {     \"@type\": \"HealthAndBeautyBusiness\",     \"name\": \"Matrix Massage & Bodywork\",     \"url\": \"https://www.matrixmassage.net/\",     \"telephone\": \"+1-262-939-9325\",     \"address\": {       \"@type\": \"PostalAddress\",       \"streetAddress\": \"24804 75th St\",       \"addressLocality\": \"Salem\",       \"addressRegion\": \"WI\",       \"postalCode\": \"53168\",       \"addressCountry\": \"US\"     }   },   \"areaServed\": [     \"Salem Lakes, Wisconsin\",     \"Paddock Lake, Wisconsin\",     \"Bristol, Wisconsin\",     \"Pleasant Prairie, Wisconsin\",     \"Twin Lakes, Wisconsin\",     \"Kenosha County, Wisconsin\",     \"Union Grove, Wisconsin\",     \"Antioch, Illinois\"   ],   \"description\": \"Private infrared sauna sessions offered for general wellness, warmth and relaxation at Matrix Massage & Bodywork in Salem, Wisconsin.\" }",
+            "custom": false,
+            "disabled": false
+          },
+          "after": {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "6e4jQmZM",
+              "displayName": "Sauna Service"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"name\":\"Infrared Sauna in Salem, WI\",\"url\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi\",\"serviceType\":\"Infrared sauna\",\"provider\":{\"@type\":\"HealthAndBeautyBusiness\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/\",\"telephone\":\"+1-262-939-9325\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"},\"@id\":\"https://www.matrixmassage.net/#business\",\"hasMap\":\"https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168\"},\"areaServed\":[\"Salem Lakes, Wisconsin\",\"Paddock Lake, Wisconsin\",\"Bristol, Wisconsin\",\"Pleasant Prairie, Wisconsin\",\"Twin Lakes, Wisconsin\",\"Kenosha County, Wisconsin\",\"Union Grove, Wisconsin\",\"Antioch, Illinois\"],\"description\":\"Private infrared sauna sessions offered for general wellness, warmth and relaxation at Matrix Massage & Bodywork in Salem, Wisconsin.\",\"@id\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi#service\",\"mainEntityOfPage\":{\"@id\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi#webpage\"},\"offers\":{\"@type\":\"Offer\",\"name\":\"Infrared Sauna (Add-On) — 30-minute appointment\",\"price\":\"35.00\",\"priceCurrency\":\"USD\",\"url\":\"https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services\",\"description\":\"A 30-minute appointment added to an eligible visit. Heat and actual sauna use time are adapted to comfort and equipment instructions.\"}}",
+            "custom": false,
+            "disabled": false
+          },
+          "reason": "Keep the existing Service schema and provider; add stable identity, map link, and a visible/current add-on Offer when supported."
+        },
+        {
+          "index": 3,
+          "before": {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "U6QYwSDN",
+              "displayName": "Sauna BreadcrumbList"
+            },
+            "children": "{   \"@context\": \"https://schema.org\",   \"@type\": \"BreadcrumbList\",   \"itemListElement\": [     {       \"@type\": \"ListItem\",       \"position\": 1,       \"name\": \"Home\",       \"item\": \"https://www.matrixmassage.net/\"     },     {       \"@type\": \"ListItem\",       \"position\": 2,       \"name\": \"Infrared Sauna in Salem, WI\",       \"item\": \"https://www.matrixmassage.net/infrared-sauna-salem-wi\"     }   ] }",
+            "custom": false,
+            "disabled": false
+          },
+          "after": {
+            "type": "script",
+            "props": {
+              "type": "application/ld+json"
+            },
+            "meta": {
+              "schemaType": "U6QYwSDN",
+              "displayName": "Sauna BreadcrumbList"
+            },
+            "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Wellness & Biotech\",\"item\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Infrared Sauna\",\"item\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi\"}]}",
+            "custom": false,
+            "disabled": false
+          },
+          "reason": "Match the visible Home to Wellness to Infrared Sauna trail."
+        }
+      ],
+      "appendTags": [
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "matrixSaunaPage20261112",
+            "displayName": "Infrared Sauna Web Page"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi#webpage\",\"url\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi\",\"name\":\"Infrared Sauna in Salem, WI | Matrix Wellness & Recovery\",\"description\":\"Book a private infrared sauna session in Salem, WI for warmth, relaxation and recovery-focused wellness at Matrix Massage & Bodywork.\",\"inLanguage\":\"en-US\",\"about\":{\"@id\":\"https://www.matrixmassage.net/#business\"},\"mainEntity\":{\"@id\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi#service\"},\"breadcrumb\":{\"@id\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi#breadcrumb\"}}",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "matrixSaunaFaq20261112",
+            "displayName": "Infrared Sauna FAQs"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"How much is infrared sauna at Matrix?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The current Infrared Sauna (Add-On) appointment is $35 for 30 minutes. It is booked separately from your hands-on treatment. Check the booking menu for current pricing and availability.\"}},{\"@type\":\"Question\",\"name\":\"Can I book a sauna session by itself?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The online option is listed as an add-on to an eligible visit. For a sauna-only appointment, text 262-939-9325 to ask about availability and confirm the booking details.\"}},{\"@type\":\"Question\",\"name\":\"What is an infrared sauna?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"An infrared sauna uses radiant heat to warm the body. Matrix offers the experience for general wellness, warmth and relaxation, with heat and use time adapted to individual tolerance and equipment instructions.\"}},{\"@type\":\"Question\",\"name\":\"Can I combine infrared sauna with massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Sauna can complement an eligible massage visit when scheduling and individual comfort allow. The sauna appointment is separate from hands-on treatment time. Contact Matrix to confirm the order and timing of your appointments.\"}},{\"@type\":\"Question\",\"name\":\"Is infrared sauna the same as red light therapy?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"They are different services. Infrared sauna centers on heat and relaxation. Red light therapy uses red and near-infrared light. See our red light therapy page for its session options, or ask Matrix which experience fits your preferences.\"}},{\"@type\":\"Question\",\"name\":\"How should I prepare for my sauna appointment?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Arrive hydrated and allow time to cool down afterward. Follow the studio’s instructions for clothing and sauna use; text us beforehand if you have questions. Leave the sauna and tell us if you feel dizzy, nauseated or unwell.\"}},{\"@type\":\"Question\",\"name\":\"Who should check with a healthcare professional first?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Ask your healthcare professional before sauna use if you are pregnant, have heart or blood-pressure concerns, take medication that affects heat tolerance, or have another health condition that may make heat unsuitable. Tell Matrix about relevant considerations before booking.\"}},{\"@type\":\"Question\",\"name\":\"Where is Matrix’s infrared sauna located?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix Massage & Bodywork is at 24804 75th St, Salem, WI 53168. Our Salem studio welcomes guests from Salem Lakes, Paddock Lake, Bristol, Pleasant Prairie, Twin Lakes, Kenosha County and nearby Antioch, Illinois.\"}}],\"@id\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi#faq\"}",
+          "custom": false,
+          "disabled": false
+        }
+      ],
+      "candidateTags": [
+        {
+          "type": "title",
+          "children": "Infrared Sauna in Salem, WI | Matrix Wellness & Recovery",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "name": "description",
+            "content": "Book a private infrared sauna session in Salem, WI for warmth, relaxation and recovery-focused wellness at Matrix Massage & Bodywork."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "6e4jQmZM",
+            "displayName": "Sauna Service"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"Service\",\"name\":\"Infrared Sauna in Salem, WI\",\"url\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi\",\"serviceType\":\"Infrared sauna\",\"provider\":{\"@type\":\"HealthAndBeautyBusiness\",\"name\":\"Matrix Massage & Bodywork\",\"url\":\"https://www.matrixmassage.net/\",\"telephone\":\"+1-262-939-9325\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"24804 75th St\",\"addressLocality\":\"Salem\",\"addressRegion\":\"WI\",\"postalCode\":\"53168\",\"addressCountry\":\"US\"},\"@id\":\"https://www.matrixmassage.net/#business\",\"hasMap\":\"https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168\"},\"areaServed\":[\"Salem Lakes, Wisconsin\",\"Paddock Lake, Wisconsin\",\"Bristol, Wisconsin\",\"Pleasant Prairie, Wisconsin\",\"Twin Lakes, Wisconsin\",\"Kenosha County, Wisconsin\",\"Union Grove, Wisconsin\",\"Antioch, Illinois\"],\"description\":\"Private infrared sauna sessions offered for general wellness, warmth and relaxation at Matrix Massage & Bodywork in Salem, Wisconsin.\",\"@id\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi#service\",\"mainEntityOfPage\":{\"@id\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi#webpage\"},\"offers\":{\"@type\":\"Offer\",\"name\":\"Infrared Sauna (Add-On) — 30-minute appointment\",\"price\":\"35.00\",\"priceCurrency\":\"USD\",\"url\":\"https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services\",\"description\":\"A 30-minute appointment added to an eligible visit. Heat and actual sauna use time are adapted to comfort and equipment instructions.\"}}",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "U6QYwSDN",
+            "displayName": "Sauna BreadcrumbList"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.matrixmassage.net/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Wellness & Biotech\",\"item\":\"https://www.matrixmassage.net/wellness-biotech-services-salem-wi\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Infrared Sauna\",\"item\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi\"}]}",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:title",
+            "content": "Infrared Sauna in Salem, WI | Matrix"
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "meta",
+          "props": {
+            "property": "og:description",
+            "content": "Private infrared sauna sessions for relaxation and recovery-focused wellness at Matrix in Salem, Wisconsin."
+          },
+          "children": "",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "matrixSaunaPage20261112",
+            "displayName": "Infrared Sauna Web Page"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"WebPage\",\"@id\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi#webpage\",\"url\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi\",\"name\":\"Infrared Sauna in Salem, WI | Matrix Wellness & Recovery\",\"description\":\"Book a private infrared sauna session in Salem, WI for warmth, relaxation and recovery-focused wellness at Matrix Massage & Bodywork.\",\"inLanguage\":\"en-US\",\"about\":{\"@id\":\"https://www.matrixmassage.net/#business\"},\"mainEntity\":{\"@id\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi#service\"},\"breadcrumb\":{\"@id\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi#breadcrumb\"}}",
+          "custom": false,
+          "disabled": false
+        },
+        {
+          "type": "script",
+          "props": {
+            "type": "application/ld+json"
+          },
+          "meta": {
+            "schemaType": "matrixSaunaFaq20261112",
+            "displayName": "Infrared Sauna FAQs"
+          },
+          "children": "{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"How much is infrared sauna at Matrix?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The current Infrared Sauna (Add-On) appointment is $35 for 30 minutes. It is booked separately from your hands-on treatment. Check the booking menu for current pricing and availability.\"}},{\"@type\":\"Question\",\"name\":\"Can I book a sauna session by itself?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"The online option is listed as an add-on to an eligible visit. For a sauna-only appointment, text 262-939-9325 to ask about availability and confirm the booking details.\"}},{\"@type\":\"Question\",\"name\":\"What is an infrared sauna?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"An infrared sauna uses radiant heat to warm the body. Matrix offers the experience for general wellness, warmth and relaxation, with heat and use time adapted to individual tolerance and equipment instructions.\"}},{\"@type\":\"Question\",\"name\":\"Can I combine infrared sauna with massage?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Sauna can complement an eligible massage visit when scheduling and individual comfort allow. The sauna appointment is separate from hands-on treatment time. Contact Matrix to confirm the order and timing of your appointments.\"}},{\"@type\":\"Question\",\"name\":\"Is infrared sauna the same as red light therapy?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"They are different services. Infrared sauna centers on heat and relaxation. Red light therapy uses red and near-infrared light. See our red light therapy page for its session options, or ask Matrix which experience fits your preferences.\"}},{\"@type\":\"Question\",\"name\":\"How should I prepare for my sauna appointment?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Arrive hydrated and allow time to cool down afterward. Follow the studio’s instructions for clothing and sauna use; text us beforehand if you have questions. Leave the sauna and tell us if you feel dizzy, nauseated or unwell.\"}},{\"@type\":\"Question\",\"name\":\"Who should check with a healthcare professional first?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Ask your healthcare professional before sauna use if you are pregnant, have heart or blood-pressure concerns, take medication that affects heat tolerance, or have another health condition that may make heat unsuitable. Tell Matrix about relevant considerations before booking.\"}},{\"@type\":\"Question\",\"name\":\"Where is Matrix’s infrared sauna located?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Matrix Massage & Bodywork is at 24804 75th St, Salem, WI 53168. Our Salem studio welcomes guests from Salem Lakes, Paddock Lake, Bristol, Pleasant Prairie, Twin Lakes, Kenosha County and nearby Antioch, Illinois.\"}}],\"@id\":\"https://www.matrixmassage.net/infrared-sauna-salem-wi#faq\"}",
+          "custom": false,
+          "disabled": false
+        }
+      ]
+    }
+  ]
+}

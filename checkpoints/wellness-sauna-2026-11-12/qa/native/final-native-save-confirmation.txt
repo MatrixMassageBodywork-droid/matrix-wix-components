@@ -1,0 +1,38 @@
+Browser tab: 4, Title: "Wix Website Editor | Matrix Massage & Bodywork", URL: "https://danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/edit/a276c9bf-bc17-4680-959b-a24ebe7370f6?metaSiteId=cdec8df6-d518-4859-9f1e-f06bf5346d41".
+The following is a diff from the previous accessibility tree with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 772-773, 1115-1130, 1311-1316
++						1311 container editingArea
++							1312 container
++								1313 container stageContainer
++									1314 container scrollableEditorStageContent
++										1315 container
++											1316 container
++												1317 container
++													1318 text 100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2000 2100 2200 2300 2400 2500 2600 2700 2800 2900 3000 3100 3200 3300 3400 3500 3600 3700 3800 3900 4000 4100 4200 4300 4400 4500 4600 4700 4800 4900 5000 5100 5200
++									1319 container
++										1320 text 0
++										1321 text 100
++										1322 text 200
++										1323 text 300
++										1324 text 400
++										1325 text 500
++										1326 text 600
++										1327 text 700
++										1328 text 800
++										1329 text 900
++							1330 container
++								1331 button
++									1332 image
++								1333 container
++									1334 text Your changes are saved
++									1335 text Publish to see your changes live at the following domain:
++									1336 image
++									1337 text field https://www.matrixmassage.net/
++									1338 button Edit
++										1339 text Edit
++								1340 image
++								1341 text Don't show this again
++								1342 button Publish Now
++								1343 button Done
++									1344 image
+The focused UI element is 0 AXWebArea Wix Website Editor | Matrix Massage & Bodywork, URL: danelleborglin-mysite.editor.wix.com/html/editor/web/renderer/edit/a276c9bf-bc17-4680-959b-a24ebe7370f6?metaSiteId=cdec8df6-d518-4859-9f1e-f06bf5346d41

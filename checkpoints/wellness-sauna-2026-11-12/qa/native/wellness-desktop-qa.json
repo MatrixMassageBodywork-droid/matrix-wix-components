@@ -1,0 +1,117 @@
+{
+  "closed": {
+    "inner": {
+      "faqCount": 7,
+      "h1Count": 1,
+      "height": 4912.765625,
+      "images": [
+        {
+          "loaded": true,
+          "src": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "https://static.wixstatic.com/media/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg/v1/fill/w_1000,h_750,al_c,q_80,enc_auto/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg"
+        },
+        {
+          "loaded": true,
+          "src": "https://static.wixstatic.com/media/e4cc43_6770ca078851428da084817f8912d7f8~mv2.jpg/v1/fill/w_1000,h_750,al_c,q_80,enc_auto/e4cc43_6770ca078851428da084817f8912d7f8~mv2.jpg"
+        }
+      ],
+      "openFaqs": 0,
+      "scrollWidth": 1348,
+      "width": 1348
+    },
+    "outer": {
+      "custom": {
+        "bottom": 2892,
+        "height": 4929,
+        "left": 0,
+        "right": 1348,
+        "top": -2037,
+        "width": 1348,
+        "x": 0,
+        "y": -2037
+      },
+      "footer": {
+        "bottom": 3833,
+        "height": 376,
+        "left": 0,
+        "right": 1348,
+        "top": 3457,
+        "width": 1348,
+        "x": 0,
+        "y": 3457
+      },
+      "reviews": {
+        "bottom": 3457,
+        "height": 565,
+        "left": 0,
+        "right": 1348,
+        "top": 2892,
+        "width": 1348,
+        "x": 0,
+        "y": 2892
+      },
+      "section": {
+        "bottom": 2892,
+        "height": 4929,
+        "left": 0,
+        "right": 1348,
+        "top": -2037,
+        "width": 1348,
+        "x": 0,
+        "y": -2037
+      }
+    }
+  },
+  "open": {
+    "inner": {
+      "height": 5648.765625,
+      "openFaqs": 7
+    },
+    "outer": {
+      "custom": {
+        "bottom": 3251,
+        "height": 5648,
+        "left": 0,
+        "right": 1348,
+        "top": -2397,
+        "width": 1348,
+        "x": 0,
+        "y": -2397
+      },
+      "reviews": {
+        "bottom": 3816,
+        "height": 565,
+        "left": 0,
+        "right": 1348,
+        "top": 3251,
+        "width": 1348,
+        "x": 0,
+        "y": 3251
+      },
+      "section": {
+        "bottom": 3251,
+        "height": 5648,
+        "left": 0,
+        "right": 1348,
+        "top": -2397,
+        "width": 1348,
+        "x": 0,
+        "y": -2397
+      }
+    }
+  },
+  "collapsedAgain": {
+    "inner": {
+      "height": 4912.765625,
+      "openFaqs": 0
+    },
+    "outer": {
+      "height": 4929,
+      "reviewGap": 0,
+      "sectionHeight": 4929
+    }
+  }
+}

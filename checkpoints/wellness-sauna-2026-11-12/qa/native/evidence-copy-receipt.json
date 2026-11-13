@@ -1,0 +1,244 @@
+{
+  "copiedAtUtc": "2026-11-13T01:23:56.575382+00:00",
+  "scope": "Native draft evidence supplied by browser operator; no Wix mutation or GitHub write by evidence reviewer",
+  "runtimeSourceCommit": "eaac30097ff251d67dbb1507a9449feb5618e409",
+  "files": [
+    {
+      "source": "/workspace/shared/wellness-desktop-qa.json",
+      "path": "wellness-desktop-qa.json",
+      "bytes": 2525,
+      "sha256": "e1ab132347bb7c709e8f3ff00efcf241e1912975284804c7cf06c6bbada55f19",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/wellness-mobile-qa.json",
+      "path": "wellness-mobile-qa.json",
+      "bytes": 5396,
+      "sha256": "0352b47ed8ee9083e634ac4aca5dad2d3d68fbe1699356be347e7f0affa39d58",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/wellness-native-desktop.jpg",
+      "path": "wellness-native-desktop.jpg",
+      "bytes": 111622,
+      "sha256": "e6e306bea501342f4a37f04c49a4af3cb135c8569238468ad84a19b24b535262",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/wellness-native-mobile.jpg",
+      "path": "wellness-native-mobile.jpg",
+      "bytes": 56787,
+      "sha256": "59473a8bd987d7526dcd56aa9bdb0c0d1140a37dd74457b43b33e9e8f5fee627",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/wellness-native-reviews-join.jpg",
+      "path": "wellness-native-reviews-join.jpg",
+      "bytes": 87188,
+      "sha256": "8fb51d006819f80bad1fb74a996a14482840531037c1e053d8d877df9c252a4d",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/wellness-native-services.jpg",
+      "path": "wellness-native-goals-section.jpg",
+      "bytes": 103688,
+      "sha256": "d9107846d65c6322cdbd2aa71b872c947eeebd89d293b8fe95d7afb22065676f",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/wellness-code-saved-readback.js",
+      "path": "wellness-code-saved-readback.js",
+      "bytes": 13518,
+      "sha256": "34b69ed14bafa6591d88e55c08e120e14e4180ed8100da56c65242b6e49edd86",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/sauna-code-buffer-readback.js",
+      "path": "sauna-code-buffer-readback.js",
+      "bytes": 12694,
+      "sha256": "8bc82a35c12d06c23a05181029067cd526a4196a0428504a58fc2c439b1f8283",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/wellness-mobile-images-final.json",
+      "path": "wellness-mobile-images-final.json",
+      "bytes": 716,
+      "sha256": "1e37b880a8c93547883865b8a56075050f49f6273f20beb7df59459bdb0c23aa",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/wellness-mobile-sauna-card.jpg",
+      "path": "wellness-mobile-sauna-card.jpg",
+      "bytes": 58918,
+      "sha256": "28e102fd348d88e4a53a32d8564bc1b00ceccb33013af1a7152faaf408c923e7",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/wellness-mobile-red-light-card.jpg",
+      "path": "wellness-mobile-red-light-card.jpg",
+      "bytes": 59519,
+      "sha256": "2556fd254bee79190871ed2df890f0f4459b498fcb3a05075c458de1ac91e642",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/sauna-native-desktop.jpg",
+      "path": "sauna-native-desktop.jpg",
+      "bytes": 121499,
+      "sha256": "5c139f585e5694caeae0c014f46d482505ea6d8b1d71692cc369a223371d2e79",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/sauna-native-mobile.jpg",
+      "path": "sauna-native-mobile.jpg",
+      "bytes": 54442,
+      "sha256": "ab1510cbbdf093c3779ce4612219dd3bafbb46ba7d2e7fbca0aac3bfc90f8a75",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/sauna-desktop-qa.json",
+      "path": "sauna-desktop-qa.json",
+      "bytes": 1572,
+      "sha256": "e5ece2d0d8dc76282ad2288aedc1ec84985bd1b32b671f5ef218139d847ee19f",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/sauna-mobile-qa.json",
+      "path": "sauna-mobile-qa.json",
+      "bytes": 4738,
+      "sha256": "ab92e18dcdb0a0e13a970fd6ce38ef11437ea102b3c2efbe44bef66383c4c63e",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/booking-destination-verified.txt",
+      "path": "booking-destination-verified.txt",
+      "bytes": 32846,
+      "sha256": "e4d5239ac4b22bfc9200e956790ffcf20b5653f0e804f63a99456788fb10673d",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/final-native-save-confirmation.txt",
+      "path": "final-native-save-confirmation.txt",
+      "bytes": 1969,
+      "sha256": "378187ef969936e852c3ef07e28f36d9bcd166ffb14a236ced45dd40413ed29c",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/final-native-save-confirmation.jpg",
+      "path": "final-native-save-confirmation.jpg",
+      "bytes": 112413,
+      "sha256": "3aa5450a1eaf03eaa2a8c732b0b7ef9c32a1ef585896a7f77ca3d52493147ed6",
+      "copyByteExact": true
+    },
+    {
+      "source": "/workspace/shared/sauna-final-native-map.json",
+      "path": "sauna-final-native-map.json",
+      "bytes": 529,
+      "sha256": "7644c900781e946229bd0fef269cb47182574ef22e87ebe928f5e3371f20f912",
+      "copyByteExact": true
+    },
+    {
+      "source": "native browser operator final readback captured directly in qa/native",
+      "path": "wellness-code-final-saved-readback.js",
+      "bytes": 13518,
+      "sha256": "34b69ed14bafa6591d88e55c08e120e14e4180ed8100da56c65242b6e49edd86",
+      "reviewed": true
+    },
+    {
+      "source": "native browser operator final readback captured directly in qa/native",
+      "path": "sauna-code-final-saved-readback.js",
+      "bytes": 12694,
+      "sha256": "8bc82a35c12d06c23a05181029067cd526a4196a0428504a58fc2c439b1f8283",
+      "reviewed": true
+    },
+    {
+      "source": "native browser operator final readback captured directly in qa/native",
+      "path": "wellness-mounted-settings.json",
+      "bytes": 512,
+      "sha256": "5d241babc78a8a1ca24ec0049ab05e12369e093063b7fa77eae09ea4aa170e85",
+      "reviewed": true
+    },
+    {
+      "source": "native browser operator final readback captured directly in qa/native",
+      "path": "sauna-mounted-settings.json",
+      "bytes": 515,
+      "sha256": "ec5d679ba03040367b9105a82574482372f0d024d2cfc7ddbd807bb867dc1026",
+      "reviewed": true
+    },
+    {
+      "source": "native browser operator final readback captured directly in qa/native",
+      "path": "installation-evidence.json",
+      "bytes": 1734,
+      "sha256": "70b8a249a0590530c3be120e3d1dd2ad1bc598128f1f4c4d7a8aef75dae04f21",
+      "reviewed": true
+    }
+  ],
+  "codeChecks": [
+    {
+      "readback": "wellness-code-saved-readback.js",
+      "candidate": "main/WIX_PAGE_CODE_MERGED_CANDIDATE.js",
+      "status": "saved native readback",
+      "bytes": 13518,
+      "sha256": "34b69ed14bafa6591d88e55c08e120e14e4180ed8100da56c65242b6e49edd86",
+      "byteExact": true
+    },
+    {
+      "readback": "sauna-code-buffer-readback.js",
+      "candidate": "infrared-sauna/WIX_PAGE_CODE_CANDIDATE.js",
+      "status": "native code buffer readback; saved readback pending",
+      "bytes": 12694,
+      "sha256": "8bc82a35c12d06c23a05181029067cd526a4196a0428504a58fc2c439b1f8283",
+      "byteExact": true
+    },
+    {
+      "readback": "wellness-code-final-saved-readback.js",
+      "candidate": "main/WIX_PAGE_CODE_MERGED_CANDIDATE.js",
+      "status": "final saved native readback",
+      "bytes": 13518,
+      "sha256": "34b69ed14bafa6591d88e55c08e120e14e4180ed8100da56c65242b6e49edd86",
+      "byteExact": true
+    },
+    {
+      "readback": "sauna-code-final-saved-readback.js",
+      "candidate": "infrared-sauna/WIX_PAGE_CODE_CANDIDATE.js",
+      "status": "final saved native readback",
+      "bytes": 12694,
+      "sha256": "8bc82a35c12d06c23a05181029067cd526a4196a0428504a58fc2c439b1f8283",
+      "byteExact": true
+    }
+  ],
+  "verified": [
+    "Wellness desktop/mobile native FAQ expansion and collapse; seven FAQs closed by keyboard Enter",
+    "Wellness one H1 and seven FAQs; native width/scrollWidth320 match",
+    "Wellness native review joins gap0 in every FAQ state",
+    "Wellness desktop and final mobile images all loaded; final mobile image evidence supersedes initial lazy-loading state",
+    "Wellness saved code exact",
+    "Sauna desktop/mobile native FAQ expansion and collapse; eight FAQs closed by keyboard Enter",
+    "Sauna one H1 and eight FAQs; native width/scrollWidth match1348 desktop and320 mobile",
+    "Sauna images all loaded on desktop and mobile",
+    "Sauna footer gap0 desktop and stable10px local mobile section spacing in every FAQ state",
+    "Sauna native code buffer exact",
+    "Both pages final saved code readback exact and mounted immutable renderer/tag verified",
+    "Native final Save confirmed by accessibility capture and screenshot",
+    "Booking destination is the Matrix Square service menu; no services added or submission",
+    "Both native SEO drafts saved with candidate tags matching and protected resolved head unchanged"
+  ],
+  "pending": [
+    "Final GitHub evidence commit",
+    "Canonical project checkpoint update"
+  ],
+  "excluded": [
+    "Blank wellness-proof-320.jpg; no proof image copied into native evidence"
+  ],
+  "publishStatus": "NOT PUBLISHED",
+  "updatedAtUtc": "2026-11-13T01:36:12.643370+00:00",
+  "supersededObservations": [
+    {
+      "observation": "wellness-mobile-qa.json collapsedAgain.images has two false/empty values from before service cards entered viewport",
+      "supersededBy": "wellness-mobile-images-final.json: all three loaded, with two supporting mobile service-card screenshots",
+      "rawEvidenceRetained": true
+    }
+  ],
+  "nativeRevisionNumber": null,
+  "nativeRevisionNote": "No native revision number obtained; do not infer one from prior live/saved baseline.",
+  "status": "NATIVE DRAFTS SAVED / VERIFIED / TESTED; SEO DRAFTS SAVED / READBACK VERIFIED"
+}

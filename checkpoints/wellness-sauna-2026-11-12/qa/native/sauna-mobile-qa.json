@@ -1,0 +1,173 @@
+{
+  "closed": {
+    "inner": {
+      "faqCount": 8,
+      "h1Count": 1,
+      "height": 7633.578125,
+      "images": [
+        {
+          "loaded": true,
+          "src": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg"
+        },
+        {
+          "loaded": true,
+          "src": "https://static.wixstatic.com/media/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg/v1/fill/w_1200,h_1000,al_c,q_80,enc_auto/11062b_193e92ed62cf4f3b9138cb8c733e06da~mv2.jpeg"
+        }
+      ],
+      "openFaqs": 0,
+      "scrollWidth": 320,
+      "width": 320
+    },
+    "outer": {
+      "custom": {
+        "bottom": 4101,
+        "height": 7634,
+        "left": 514,
+        "right": 834,
+        "top": -3533,
+        "width": 320,
+        "x": 514,
+        "y": -3533
+      },
+      "footerGap": 10,
+      "section": {
+        "bottom": 4111,
+        "height": 7644,
+        "left": 514,
+        "right": 834,
+        "top": -3533,
+        "width": 320,
+        "x": 514,
+        "y": -3533
+      }
+    }
+  },
+  "open": {
+    "inner": {
+      "height": 9185.328125,
+      "openFaqs": 8
+    },
+    "outer": {
+      "footerGap": 10,
+      "height": 9185,
+      "sectionHeight": 9195
+    }
+  },
+  "collapsedAgain": {
+    "inner": {
+      "height": 7633.578125,
+      "links": [
+        {
+          "href": "https://www.matrixmassage.net/",
+          "text": "Home"
+        },
+        {
+          "href": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+          "text": "Wellness & Biotech"
+        },
+        {
+          "href": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+          "text": "VIEW SAUNA BOOKING OPTIONS"
+        },
+        {
+          "href": "#ms-options",
+          "text": "Explore the session"
+        },
+        {
+          "href": "#ms-experience",
+          "text": "The experience"
+        },
+        {
+          "href": "#ms-options",
+          "text": "Options & price"
+        },
+        {
+          "href": "#ms-visit",
+          "text": "Plan your visit"
+        },
+        {
+          "href": "#ms-faq",
+          "text": "Questions"
+        },
+        {
+          "href": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+          "text": "massage appointment"
+        },
+        {
+          "href": "sms:+12629399325",
+          "text": "Text Matrix"
+        },
+        {
+          "href": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+          "text": "OPEN FULL BOOKING MENU"
+        },
+        {
+          "href": "https://www.matrixmassage.net/about-5",
+          "text": "Get to know Matrix"
+        },
+        {
+          "href": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi",
+          "text": "Wellness & Biotech collection"
+        },
+        {
+          "href": "#ms-options",
+          "text": "See the sauna option"
+        },
+        {
+          "href": "https://www.matrixmassage.net/red-light-therapy-salem-wi",
+          "text": "Explore red light therapy"
+        },
+        {
+          "href": "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+          "text": "custom therapeutic massage"
+        },
+        {
+          "href": "https://www.matrixmassage.net/japanese-head-spa-salem-wi",
+          "text": "Japanese Head Spa"
+        },
+        {
+          "href": "https://www.matrixmassage.net/spa-services-near-bristol-wi",
+          "text": "Bristol"
+        },
+        {
+          "href": "https://www.matrixmassage.net/spa-services-near-twin-lakes-genoa-city-wi",
+          "text": "Twin Lakes or Genoa City"
+        },
+        {
+          "href": "https://www.matrixmassage.net/massage-near-pleasant-prairie-wi",
+          "text": "Pleasant Prairie"
+        },
+        {
+          "href": "https://www.google.com/maps/dir/?api=1&destination=24804+75th+St%2C+Salem%2C+WI+53168",
+          "text": "Get directions to the studio"
+        },
+        {
+          "href": "sms:+12629399325",
+          "text": "Text 262-939-9325"
+        },
+        {
+          "href": "https://www.matrixmassage.net/book-appointments-salem-wi",
+          "text": "View appointment information"
+        },
+        {
+          "href": "sms:+12629399325",
+          "text": "Send us a text."
+        },
+        {
+          "href": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+          "text": "VIEW SAUNA BOOKING OPTIONS"
+        },
+        {
+          "href": "sms:+12629399325",
+          "text": "TEXT TO PLAN YOUR VISIT"
+        }
+      ],
+      "openFaqs": 0
+    },
+    "outer": {
+      "footerGap": 10,
+      "height": 7634,
+      "sectionHeight": 7644
+    }
+  }
+}
