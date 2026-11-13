@@ -1,0 +1,65 @@
+{
+  "spec": {
+    "time": "2026-11-13",
+    "authorization": "User: okay well fix it and publish it",
+    "baselineCommit": "56bfa1002760bad83dd00e23ec216f58c3bdef8b",
+    "paddock": {
+      "page": "i4qul",
+      "component": "comp-mvu242uh",
+      "nativeId": "text131",
+      "before": {
+        "x": 15,
+        "y": 548,
+        "w": 280,
+        "h": 53
+      },
+      "after": {
+        "x": 20,
+        "y": 422,
+        "w": 280,
+        "h": 53
+      },
+      "rationale": "H1 ends390.15, subtitle422–475, credential509–615, overview656. All non-overlapping without resizing hero.",
+      "preserve": "Desktop, content, links, fonts, H1, credential paragraph, overview, section/footer geometry."
+    },
+    "lash": {
+      "page": "xkw6l",
+      "component": "comp-mw5qnw5n",
+      "nativeId": "matrixLashExtensions",
+      "before": {
+        "mobileHeight": 15000,
+        "width": 320,
+        "x": 0,
+        "y": 62
+      },
+      "after": {
+        "mobileHeight": 11880,
+        "width": 320,
+        "x": 0,
+        "y": 62
+      },
+      "rationale": "Measured natural closed content11866.94px in current browser and11879.22px prior browser;11880 provides ≤14px margin. Public renderer min-height0!important andheightauto retained. FAQ growth must pass native Preview and Test Site.",
+      "preserve": "Renderer pin and seoMarkup, desktop dimensions, native section/footer, fonts, content, all links.",
+      "section": {
+        "id": "comp-mw5qf0n4",
+        "nativeId": "section1",
+        "beforeHeight": 15000,
+        "afterHeight": 11880,
+        "reason": "Section retained original blank height after element resized; match exact element height, preserve top62."
+      }
+    }
+  },
+  "testVersion": 1149,
+  "exposure": 0,
+  "checks": {
+    "paddockNative320": "Subtitle X20 Y422 H53; H1 bottom390.15, next credential Y509: no overlap; saved.",
+    "lashNative320": "Element and section H11880, Y62, W320; initial footer gap<0.001px. All12FAQ expand to14249px with footer following.",
+    "lashTestSiteDesktop": "All12 FAQ open/close7206.925→8339.925→7206.925px; footer gap<0.001px; one visible H1; reciprocal Paddock Lake anchor present.",
+    "mobileHttp": "All4 pages HTTP200 using iPhone user agent; Wix emits device-mobile-optimized and fixed320px layout viewport; exact saved CSS correction present.",
+    "limitations": [
+      "Connected browser supports viewport resizing but no mobile-user-agent override; narrow desktop view is not counted as mobile QA.",
+      "Native preview iframe retains expanded height after all12 FAQ close; actual Test Site desktop shrinks correctly. Renderer and production natural-height CSS unchanged."
+    ]
+  },
+  "status": "SAVED / TEST SITE VERIFIED WITH LISTED MOBILE LIMITATIONS / NOT YET PUBLISHED"
+}
