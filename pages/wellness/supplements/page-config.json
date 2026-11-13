@@ -1,0 +1,14 @@
+{
+  "serviceName": "Matrix Supplements",
+  "revision": "review-2-2026-11-13",
+  "tagName": "matrix-supplements-page",
+  "elementId": "matrixSupplementsPageV1",
+  "rootClass": "matrix-supplements",
+  "pageUrl": "https://www.matrixmassage.net/supplements",
+  "seoTitle": "Supplements & Fullscript Plans in Salem, WI | Matrix",
+  "seoDescription": "Explore Matrix supplement collections and existing Fullscript plans in Salem, Wisconsin. Compare monthly Matrix preorders with direct Fullscript ordering.",
+  "seoSource": "PROPOSED metadata only, do not change SEO without the exact newer native baseline; prior verified Supplements page Wix revision 1166 November 13 2026. No Fullscript API; Square invoice manual first; both feature slots remain inactive.",
+  "bodyFile": "body.html",
+  "cssFile": "style.css",
+  "expectedFaqCount": 6
+}

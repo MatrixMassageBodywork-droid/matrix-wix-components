@@ -1,0 +1,62 @@
+[
+  {
+    "id": "FS-BRIGHTEN",
+    "name": "Brighten & Smooth - Facial Pathway",
+    "summary": "Explore the existing facial-pathway selection and its product information in Fullscript.",
+    "url": "https://us.fullscript.com/s/matrix_massage_wellness/shop/plans/TXVsdGlQYXRpZW50UGxhbi0xNzUwMzY%3D?entry_point=StoreLandingPage",
+    "group": "Facial pathways",
+    "link_status": "CAPTURED FROM PUBLIC STOREFRONT; DESTINATION NOT INDEPENDENTLY LOADED",
+    "publish_status": "DRAFT",
+    "last_recheck": "2026-11-13: current web fetch unavailable; direct destination load NOT VERIFIED"
+  },
+  {
+    "id": "FS-HYDRATE",
+    "name": "Hydrate & Restore - Facial Pathway",
+    "summary": "Browse the existing hydration-focused facial-pathway collection and review its instructions.",
+    "url": "https://us.fullscript.com/s/matrix_massage_wellness/shop/plans/TXVsdGlQYXRpZW50UGxhbi0xNzUwMzA%3D?entry_point=StoreLandingPage",
+    "group": "Facial pathways",
+    "link_status": "CAPTURED FROM PUBLIC STOREFRONT; DESTINATION NOT INDEPENDENTLY LOADED",
+    "publish_status": "DRAFT",
+    "last_recheck": "2026-11-13: current web fetch unavailable; direct destination load NOT VERIFIED"
+  },
+  {
+    "id": "FS-RESET",
+    "name": "Matrix Nervous System | RESET",
+    "summary": "View the existing RESET selection and product directions. Review suitability before starting.",
+    "url": "https://us.fullscript.com/s/matrix_massage_wellness/shop/plans/TXVsdGlQYXRpZW50UGxhbi0xNDU0NzQ%3D?entry_point=StoreLandingPage",
+    "group": "Existing wellness plans",
+    "link_status": "CAPTURED FROM PUBLIC STOREFRONT; DESTINATION NOT INDEPENDENTLY LOADED",
+    "publish_status": "DRAFT",
+    "last_recheck": "2026-11-13: current web fetch unavailable; direct destination load NOT VERIFIED"
+  },
+  {
+    "id": "FS-RESTORE",
+    "name": "Matrix Nervous System | RESTORE",
+    "summary": "Explore the existing RESTORE selection and review its current products and instructions in Fullscript.",
+    "url": "https://us.fullscript.com/s/matrix_massage_wellness/shop/plans/TXVsdGlQYXRpZW50UGxhbi0xNDU0Nzc%3D?entry_point=StoreLandingPage",
+    "group": "Existing wellness plans",
+    "link_status": "CAPTURED FROM PUBLIC STOREFRONT; DESTINATION NOT INDEPENDENTLY LOADED",
+    "publish_status": "DRAFT",
+    "last_recheck": "2026-11-13: current web fetch unavailable; direct destination load NOT VERIFIED"
+  },
+  {
+    "id": "FS-ACTIVE",
+    "name": "Matrix Active Recovery",
+    "summary": "Browse the products already grouped in the Matrix Active Recovery plan.",
+    "url": "https://us.fullscript.com/s/matrix_massage_wellness/shop/plans/TXVsdGlQYXRpZW50UGxhbi0xNDU0Njg%3D?entry_point=StoreLandingPage",
+    "group": "Existing wellness plans",
+    "link_status": "CAPTURED FROM PUBLIC STOREFRONT; DESTINATION NOT INDEPENDENTLY LOADED",
+    "publish_status": "DRAFT",
+    "last_recheck": "2026-11-13: current web fetch unavailable; direct destination load NOT VERIFIED"
+  },
+  {
+    "id": "FS-CELLULAR",
+    "name": "The Cellular Antioxidant and Detox Protocol (3-step)",
+    "summary": "View this existing three-part protocol and review the products, directions and cautions with your healthcare professional.",
+    "url": "https://us.fullscript.com/s/matrix_massage_wellness/shop/plans/TXVsdGlQYXRpZW50UGxhbi0xNzI4NzQ%3D?entry_point=StoreLandingPage",
+    "group": "Existing wellness plans",
+    "link_status": "CAPTURED FROM PUBLIC STOREFRONT; DESTINATION NOT INDEPENDENTLY LOADED",
+    "publish_status": "DRAFT",
+    "last_recheck": "2026-11-13: current web fetch unavailable; direct destination load NOT VERIFIED"
+  }
+]
