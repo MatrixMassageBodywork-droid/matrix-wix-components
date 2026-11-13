@@ -1,0 +1,115 @@
+{
+  "status": "PREPARED_SOURCE_ONLY_NOT_INSTALLED_OR_PUBLISHED",
+  "created_at_utc": "2026-11-13T13:33:37.239169+00:00",
+  "change_ids": [
+    "B02.02",
+    "B07-01",
+    "B07-04"
+  ],
+  "repository": "MatrixMassageBodywork-droid/matrix-wix-components",
+  "branch": "improve/seo-b1-2026-11-13",
+  "parent_source_commit": "811a4009d73a279df0d2d51d1f7885d5b26061f1",
+  "source_observation": "Bounded public body snapshots and selected public component properties captured 2026-11-13. No current saved-editor state is represented.",
+  "original_body_and_candidate_bytes_preserved": true,
+  "paddock_diff_format": "Unified diff with explicit no-final-newline markers; body files are unmodified exact bytes.",
+  "preserved_prior_runtime_source_commit": "811a4009d73a279df0d2d51d1f7885d5b26061f1",
+  "prior_runtime_paths_unchanged": [
+    "pages/spa-beauty/lash-extensions/seo-b1-2026-11-13/renderer.js",
+    "pages/spa-beauty/head-spa/seo-b1-2026-11-13/renderer.js"
+  ],
+  "file_hash_scope": "UTF-8 bytes as committed; this manifest is excluded from its own file list.",
+  "files": [
+    {
+      "path": "checkpoints/seo-b1-2026-11-13/native-body-remainder/COMPONENT_MAP.json",
+      "bytes": 2493,
+      "sha256": "5ce5e7943f2f0221636e32eb5e0228cdd9ba0dfdd3c67a27c972a80d97e57c44",
+      "git_blob_sha1": "aee9dfa27ac27c096924ebfd5d4cd76496dcac67"
+    },
+    {
+      "path": "checkpoints/seo-b1-2026-11-13/native-body-remainder/EXECUTION_INSTRUCTIONS.md",
+      "bytes": 12939,
+      "sha256": "5811d075f1bc165b904700adf47f2655ac2dd79f107a00394ab1c0ce1b51f2af",
+      "git_blob_sha1": "44b1d50ab8e669db9ab50e547698617736e605c0"
+    },
+    {
+      "path": "pages/regional/paddock-lake/seo-b1-2026-11-13/PATCH_QA.json",
+      "bytes": 1327,
+      "sha256": "1de1287552bff0d07fa3fd329e9d2a70b352be3fd9e08333712a9756680974fa",
+      "git_blob_sha1": "2ce0d3492c9a24bf6619f678ed5dc5a8f79c0156"
+    },
+    {
+      "path": "pages/regional/paddock-lake/seo-b1-2026-11-13/README.md",
+      "bytes": 1204,
+      "sha256": "d7df9332d257b0930d97c3e7debd1fabffd646b1e80c721cd5a53294472d3f6a",
+      "git_blob_sha1": "1f223f9e2bb409aa7e56e69db45094f673f075cc"
+    },
+    {
+      "path": "pages/regional/paddock-lake/seo-b1-2026-11-13/body.before.html",
+      "bytes": 660,
+      "sha256": "e7ad7bff108abf2dba1de484b595c6285653df03e73e98af2952541ebc638327",
+      "git_blob_sha1": "877a0394635c79bd75fc730a443106850086205d"
+    },
+    {
+      "path": "pages/regional/paddock-lake/seo-b1-2026-11-13/body.html",
+      "bytes": 879,
+      "sha256": "a99832a2ede7c7b8b73486561f22a609e3290a1e28de83136d90199ad2ca60a0",
+      "git_blob_sha1": "2646921746f8a38a91f316c7584d93619558e32f"
+    },
+    {
+      "path": "pages/regional/paddock-lake/seo-b1-2026-11-13/protected-studio-link.before.html",
+      "bytes": 528,
+      "sha256": "632680558c5af31c1d3d9940ececb23490a4a3023ffb8018a984ef08607f2f37",
+      "git_blob_sha1": "c0b65510ca3bd9a479f3f438900dff7ec3f5cfbe"
+    },
+    {
+      "path": "pages/regional/paddock-lake/seo-b1-2026-11-13/source.diff",
+      "bytes": 1646,
+      "sha256": "37f7cd0bed09d78e59eab5e3031111d5c6962d0120901c8b8c1d4fcf377ff009",
+      "git_blob_sha1": "8595cc2e5e41a3959b5fa1574988fc15ef8c8472"
+    },
+    {
+      "path": "pages/skin-reset-blueprint/seo-b1-2026-11-13/PATCH_QA.json",
+      "bytes": 1686,
+      "sha256": "19620c326a79e028f66126fc56e0db6bea8e7935e8236580a0dea6f540d4c6e9",
+      "git_blob_sha1": "8b7c53e357c4ed6c78dc8fc205b22766cc2dec1d"
+    },
+    {
+      "path": "pages/skin-reset-blueprint/seo-b1-2026-11-13/README.md",
+      "bytes": 1543,
+      "sha256": "1ee075b37f3a6f6bd55cc53f66caae4f6b7013cde860f1f4a6aaa7f3e2bdca69",
+      "git_blob_sha1": "d49f191e052a6a7adbeb2618d9440d1fea430eca"
+    },
+    {
+      "path": "pages/skin-reset-blueprint/seo-b1-2026-11-13/iframe.before.html",
+      "bytes": 10584,
+      "sha256": "0b3205780c9fa8eb69198902fa2ffaeb384df5b1c55636b6e29d36f8242a8746",
+      "git_blob_sha1": "309fc63cc4f54c67fe1ca791e6594a84a40ad69b"
+    },
+    {
+      "path": "pages/skin-reset-blueprint/seo-b1-2026-11-13/iframe.diff",
+      "bytes": 2882,
+      "sha256": "93e47ba14768f00e98c65a5bafb27c40809c897d4b5d724a3ef46ef45ab9f03c",
+      "git_blob_sha1": "6459f0ce8c2257d69f9547c0c4a4ed7ba139f197"
+    },
+    {
+      "path": "pages/skin-reset-blueprint/seo-b1-2026-11-13/iframe.html",
+      "bytes": 10749,
+      "sha256": "c61b191c5d8cab9a3dba3e7623613ca6b88426278c20c10d88696bf22110ead7",
+      "git_blob_sha1": "32ab67d3bf9d2daff406ed31bf0cc620022ea0f1"
+    },
+    {
+      "path": "pages/skin-reset-blueprint/seo-b1-2026-11-13/native-companion.reference.html",
+      "bytes": 579,
+      "sha256": "ebe38949334addbfc15b1ef2a879422ca36b988959d54bf2afd20a5d207ec510",
+      "git_blob_sha1": "05b580baeb9e53c1177f0684c5ca8f2fc941b7b4"
+    },
+    {
+      "path": "pages/skin-reset-blueprint/seo-b1-2026-11-13/native-companion.visual-spec.json",
+      "bytes": 860,
+      "sha256": "d3affe06aabaec8dbe835cd0bdb1c79aa5550002d811f9f9560a0ace91b941a0",
+      "git_blob_sha1": "9e9f85149816af40f7d7f8f5d924a6d1adfc60cc"
+    }
+  ],
+  "wix_save_performed": false,
+  "wix_publication_performed": false
+}

@@ -1,0 +1,47 @@
+--- iframe.before.html
++++ iframe.html
+@@ -274,7 +274,7 @@
+ 
+     <div class="matrix-grid">
+       <div class="matrix-card">
+-        <h3><a href="https://www.matrixmassage.net/facials-salem-wi" target="_blank">Anti-Aging Facials</a></h3>
++        <h3><a href="https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi" target="_blank">Anti-Aging Facials</a></h3>
+         <p>
+           Learn why dullness, texture, dryness, fine lines, and loss of glow may be connected to
+           barrier stress, hydration loss, inflammation, and poor product tolerance.
+@@ -282,7 +282,7 @@
+       </div>
+ 
+       <div class="matrix-card">
+-        <h3><a href="https://www.matrixmassage.net/facials-salem-wi" target="_blank">Acne Control Facials</a></h3>
++        <h3><a href="https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi" target="_blank">Acne Control Facials</a></h3>
+         <p>
+           Understand how pH, oil imbalance, over-cleansing, stress, hormones, and the skin microbiome
+           can affect acne-prone skin and recurring breakouts.
+@@ -290,7 +290,7 @@
+       </div>
+ 
+       <div class="matrix-card">
+-        <h3><a href="https://www.matrixmassage.net/facials-salem-wi" target="_blank">Barrier Repair Facials</a></h3>
++        <h3><a href="https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi" target="_blank">Barrier Repair Facials</a></h3>
+         <p>
+           For sensitive, reactive, dry, flaky, or irritated skin that stings with products or feels tight
+           after cleansing. Start with calm, then rebuild.
+@@ -304,7 +304,7 @@
+ 
+     <p>
+       This free guide was created by Matrix Massage & Bodywork for clients looking for
+-      <a href="https://www.matrixmassage.net/facials-salem-wi" target="_blank">facials in Salem, WI</a>,
++      <a href="https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi" target="_blank">facials in Salem, WI</a>,
+       Kenosha County, Bristol, Pleasant Prairie, Paddock Lake, and Antioch, IL.
+       It explains why your skin may feel reactive, dry, acne-prone, aging, inflamed, or unpredictable —
+       and what to do before adding more products.
+@@ -329,7 +329,7 @@
+ 
+     <p>
+       Matrix Massage & Bodywork offers
+-      <a href="https://www.matrixmassage.net/facials-salem-wi" target="_blank">facial services in Salem, WI</a>
++      <a href="https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi" target="_blank">facial services in Salem, WI</a>
+       for clients looking for a more science-informed approach to skin care. Our facial services are ideal for clients searching for
+       anti-aging facials, acne facials, skin reset facials, barrier repair facials, hydration facials,
+       glow facials, and wellness-based facial treatments near Kenosha, Bristol, Pleasant Prairie,

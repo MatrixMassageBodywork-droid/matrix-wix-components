@@ -1,0 +1,47 @@
+{
+  "status": "PASS_PREPARED_SOURCE_ONLY",
+  "verified_at_utc": "2026-11-13T13:33:37.232916+00:00",
+  "baseline_observed_at_utc": "2026-11-13T13:20:25.429634+00:00",
+  "not_tested": [
+    "Current saved native editor state",
+    "Native draft save/readback",
+    "Native desktop/mobile placement and layout",
+    "Publication and final rendered link behavior"
+  ],
+  "wix_save_performed_by_this_package": false,
+  "publication_performed_by_this_package": false,
+  "change_ids": [
+    "B07-01",
+    "B07-04"
+  ],
+  "iframe_checks": {
+    "source_http": 200,
+    "source_bytes": 10584,
+    "source_sha256": "0b3205780c9fa8eb69198902fa2ffaeb384df5b1c55636b6e29d36f8242a8746",
+    "candidate_bytes": 10749,
+    "candidate_sha256": "c61b191c5d8cab9a3dba3e7623613ca6b88426278c20c10d88696bf22110ead7",
+    "exact_changed_href_count": 5,
+    "anchor_texts": [
+      "Anti-Aging Facials",
+      "Acne Control Facials",
+      "Barrier Repair Facials",
+      "facials in Salem, WI",
+      "facial services in Salem, WI"
+    ],
+    "all_other_bytes_preserved_by_inverse_exact_replacement": true,
+    "all_non_target_anchor_attrs_and_hrefs_unchanged": true,
+    "link_count_before": 10,
+    "link_count_after": 10,
+    "all_visible_text_unchanged": true,
+    "h1_unchanged": true,
+    "css_blocks_unchanged": true,
+    "script_blocks_unchanged": true,
+    "google_form_and_booking_links_unchanged": true
+  },
+  "native_companion_checks": {
+    "exact_visual_spec_copied": true,
+    "native_controls_required": true,
+    "iframe_and_footer_geometry_preserved_by_execution_requirement": true,
+    "exact_reference_html_sha256": "ebe38949334addbfc15b1ef2a879422ca36b988959d54bf2afd20a5d207ec510"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "placement": "New native section immediately below existing iframe section and above footer, outside iframe",
+  "content_max_width_px": 940,
+  "content_horizontal_alignment": "centered",
+  "background": "#F7F6F0",
+  "text_color": "#111111",
+  "font_family": "Arial",
+  "body_font_size_px": 16,
+  "body_line_height": 1.6,
+  "h2_font_size_desktop_px": 28,
+  "h2_font_size_mobile_px": 22,
+  "section_padding_desktop_px": 24,
+  "section_padding_mobile_px": 16,
+  "links": {
+    "color": "#805F25",
+    "text_decoration": "underline"
+  },
+  "responsive_qa_widths_px": [
+    320,
+    375,
+    "desktop"
+  ],
+  "preserve": "Existing iframe/form geometry and behavior remain intact; footer flows below the new section. No overlap or horizontal overflow.",
+  "design_basis": "Existing observed Skin page cream/black/gold styling; no global redesign or new copy."
+}

@@ -1,0 +1,50 @@
+{
+  "captured_at_utc": "2026-11-13T13:20:25.429497+00:00",
+  "source_scope": "Published native component properties and bounded public body content. This is not a current saved-editor readback.",
+  "paddock": {
+    "native_page_id": "i4qul",
+    "page_title": "SPA SERVICES NEAR PADDOCK LAKE WI",
+    "url": "https://www.matrixmassage.net/spa-services-near-paddock-lake-wi",
+    "overview_component_id": "comp-msbundsm",
+    "overview_component_type": "WRichText",
+    "parent_section_id": "comp-msbundsi",
+    "features_path": "$.props.render.compProps.comp-msbundsm.html",
+    "overview_html_sha256": "e7ad7bff108abf2dba1de484b595c6285653df03e73e98af2952541ebc638327",
+    "protected_studio_component_id": "comp-mvtzt5751",
+    "protected_studio_href": "https://www.matrixmassage.net/studio",
+    "protected_studio_anchor": "VIEW ALL SERVICES",
+    "protected_studio_html_sha256": "632680558c5af31c1d3d9940ececb23490a4a3023ffb8018a984ef08607f2f37",
+    "published_desktop_geometry": {
+      "width_px": 760,
+      "height": "auto",
+      "min_height_px": 50,
+      "grid_width_px": 980,
+      "left_px": 10,
+      "scope": "Observed public CSS, not current editor measurement."
+    }
+  },
+  "skin_reset": {
+    "native_page_id": "ltyp8",
+    "page_title": "SKIN RESET BLUEPRINT",
+    "url": "https://www.matrixmassage.net/skin-reset-blueprint-salem-wi",
+    "iframe_component_id": "comp-moqgyn3g",
+    "iframe_component_type": "HtmlComponent",
+    "existing_section_id": "comp-moqgwjg4",
+    "iframe_url": "https://www-matrixmassage-net.filesusr.com/html/e4cc43_fcbffb8da149890982419e0a4c443e66.html",
+    "current_iframe_source_sha256": "0b3205780c9fa8eb69198902fa2ffaeb384df5b1c55636b6e29d36f8242a8746",
+    "candidate_iframe_source_sha256": "c61b191c5d8cab9a3dba3e7623613ca6b88426278c20c10d88696bf22110ead7",
+    "new_companion_placement": "Immediately after comp-moqgwjg4, before SITE_FOOTER; native content outside iframe",
+    "new_component_ids": "Not yet created. Record assigned IDs after native save; do not invent IDs.",
+    "published_desktop_geometry": {
+      "width_px": 975,
+      "height_px": 3217,
+      "grid_width_px": 980,
+      "left_px": 5,
+      "bottom_margin_px": 25,
+      "scope": "Observed public CSS; preserve, do not rewrite as new settings."
+    },
+    "preserve_iframe_title": "Facials in Salem WI | Skin Reset Blueprint | Matrix Massage & Bodywork",
+    "preserve_iframe_consent_classification": "essential",
+    "preserve_iframe_allow": "fullscreen"
+  }
+}
