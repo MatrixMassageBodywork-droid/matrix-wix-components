@@ -1,0 +1,115 @@
+{
+  "type": "STATIC_LINK_SOURCE_CHECKPOINT",
+  "status": "SOURCE_SAVED_ONLY_NOT_INSTALLED_OR_PUBLISHED",
+  "scope": [
+    "B02.03 Lash existing Paddock Lake phrase to regional landing page",
+    "B02.05 Head Spa introductory reading sentence to its article"
+  ],
+  "repository_base_main": "34318faae01ef3416959b8f854fa9a88ee91f10b",
+  "branch": "improve/seo-b1-2026-11-13",
+  "files": [
+    {
+      "path": "pages/spa-beauty/lash-extensions/seo-b1-2026-11-13/PATCH_QA.json",
+      "bytes": 1851,
+      "sha256": "bdb4c5ca3330e7d450a3bddad9147dee57a22fc67dbd66d36ef640eb0e555dd5",
+      "git_blob_sha1": "87864ca2faa913b4a5644b1ab9cd9a96a5fd9d72"
+    },
+    {
+      "path": "pages/spa-beauty/lash-extensions/seo-b1-2026-11-13/README.md",
+      "bytes": 1866,
+      "sha256": "224c8fecb58dcf8357b61ec4e6eb6c70eac680afedfd415784239829c1577521",
+      "git_blob_sha1": "a62d9f9ff1745d9b0d5048b6d688f39e44d1de52"
+    },
+    {
+      "path": "pages/spa-beauty/lash-extensions/seo-b1-2026-11-13/WIX_SEOMARKUP_PATCH.json",
+      "bytes": 20833,
+      "sha256": "97a0ed4f5f43c979adc3bcb95b08ffd65b0a5afaff18ae34d213004104e241a3",
+      "git_blob_sha1": "9a9a305fc99c304f25a5268c786d0ee40739d0fb"
+    },
+    {
+      "path": "pages/spa-beauty/lash-extensions/seo-b1-2026-11-13/body.before.html",
+      "bytes": 18273,
+      "sha256": "576c75c4f4219f30f3a26cddeab842b53e0f4d192e84685ce9408a79ec824f75",
+      "git_blob_sha1": "e3ae946afe48a646c033b915bcd604c47b57e4de"
+    },
+    {
+      "path": "pages/spa-beauty/lash-extensions/seo-b1-2026-11-13/body.html",
+      "bytes": 18351,
+      "sha256": "230de75e59d271ccb9ad7a8020ad8d77763d00928f7b777839260896e04fee57",
+      "git_blob_sha1": "9322f7985d5450cb9cb1d4937272026ddb773a78"
+    },
+    {
+      "path": "pages/spa-beauty/lash-extensions/seo-b1-2026-11-13/renderer.before.js",
+      "bytes": 33219,
+      "sha256": "37439897a2a3cf6e476beebe4e08a0bb0308f7ad709b5272cf1a19d4ccadf02b",
+      "git_blob_sha1": "db3f41ebfcf5755e7a967f79ce6aaa883cd975e2"
+    },
+    {
+      "path": "pages/spa-beauty/lash-extensions/seo-b1-2026-11-13/renderer.js",
+      "bytes": 33299,
+      "sha256": "4dbd00d4eb0ad299e88daf78e7fee42370d0544d3a704cceb3d9abe4c9192421",
+      "git_blob_sha1": "4bf511a2d83ec7c9d56ca281aac72014426d23a8"
+    },
+    {
+      "path": "pages/spa-beauty/lash-extensions/seo-b1-2026-11-13/source.diff",
+      "bytes": 51687,
+      "sha256": "40c001fddc2553feb7995fe74e8078dd6b1739e8899505a0f3859adba7846418",
+      "git_blob_sha1": "44de01af1f73f27808259fcefb29a95d119b3d57"
+    },
+    {
+      "path": "pages/spa-beauty/head-spa/seo-b1-2026-11-13/PATCH_QA.json",
+      "bytes": 1848,
+      "sha256": "787bad1fbdad8e342050ee7588eac91c9b02959df1a01438c4285e1ffc40188e",
+      "git_blob_sha1": "f9951cb7c0dc8f63fd99c165c107ee69a6b9a372"
+    },
+    {
+      "path": "pages/spa-beauty/head-spa/seo-b1-2026-11-13/README.md",
+      "bytes": 1853,
+      "sha256": "131378029ff95c7ba9896c46f12f985099bee31cc6f598c0581ad1f23521b8ed",
+      "git_blob_sha1": "e4ef6f0c24102e3e92c4e673a361abf343e4c103"
+    },
+    {
+      "path": "pages/spa-beauty/head-spa/seo-b1-2026-11-13/WIX_SEOMARKUP_PATCH.json",
+      "bytes": 17146,
+      "sha256": "747c0394b4e51fa360262f70c87dab72de022a07406c4e73d4bcf4450692a8a3",
+      "git_blob_sha1": "3ca74ef65a64b16507ce046853b229104c4574de"
+    },
+    {
+      "path": "pages/spa-beauty/head-spa/seo-b1-2026-11-13/body.before.html",
+      "bytes": 14595,
+      "sha256": "f075f512eead89460abfdf4411e51875a2228bb2bf7fa5b54f255b420ed790d1",
+      "git_blob_sha1": "698c448001a305a14ab9f3810b7dd7732e3c3437"
+    },
+    {
+      "path": "pages/spa-beauty/head-spa/seo-b1-2026-11-13/body.html",
+      "bytes": 14705,
+      "sha256": "c9e95731bebefd798fde7f08c9f132650c41902c7521b33c54aae965d4b99529",
+      "git_blob_sha1": "3acae9e4559943690b3857276acf42db6962bf1b"
+    },
+    {
+      "path": "pages/spa-beauty/head-spa/seo-b1-2026-11-13/renderer.before.js",
+      "bytes": 29748,
+      "sha256": "e597b695c0dc88e9c07f5a1ab353bb8785218ae06a2d89b32410d163a1f89474",
+      "git_blob_sha1": "e7ded6888d3b96b12b1a38da0f447f6cfc5701ef"
+    },
+    {
+      "path": "pages/spa-beauty/head-spa/seo-b1-2026-11-13/renderer.js",
+      "bytes": 29860,
+      "sha256": "9ccec6b5ad343e0cab3f7869217e70f2cfc16c3e71f0131ff056c5ce8b750f23",
+      "git_blob_sha1": "23c06a3488cb3b4cc2240e5fef47da840fa0da01"
+    },
+    {
+      "path": "pages/spa-beauty/head-spa/seo-b1-2026-11-13/source.diff",
+      "bytes": 44446,
+      "sha256": "91a23cfce89bcbc646148f36aa9475fc1ce1562bb32daea0148b9acf85492fc8",
+      "git_blob_sha1": "95ea895d55d771c86cbfe30df4f4bc56819a8df3"
+    }
+  ],
+  "boundaries": [
+    "No Wix binding or native page-code save is performed by this source checkpoint.",
+    "Historical Lash page-code readback predates provider-name removal and must not be reinstalled.",
+    "Current native code must be read and only the intended seoMarkup value changed, preserving imports, handlers and unrelated work.",
+    "All prices, service IDs, booking destinations, FAQ pairs, styles and lifecycle logic remain unchanged."
+  ],
+  "private_data_included": false
+}
