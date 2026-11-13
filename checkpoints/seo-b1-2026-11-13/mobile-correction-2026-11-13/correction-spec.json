@@ -1,0 +1,50 @@
+{
+  "time": "2026-11-13",
+  "authorization": "User: okay well fix it and publish it",
+  "baselineCommit": "56bfa1002760bad83dd00e23ec216f58c3bdef8b",
+  "paddock": {
+    "page": "i4qul",
+    "component": "comp-mvu242uh",
+    "nativeId": "text131",
+    "before": {
+      "x": 15,
+      "y": 548,
+      "w": 280,
+      "h": 53
+    },
+    "after": {
+      "x": 20,
+      "y": 422,
+      "w": 280,
+      "h": 53
+    },
+    "rationale": "H1 ends390.15, subtitle422–475, credential509–615, overview656. All non-overlapping without resizing hero.",
+    "preserve": "Desktop, content, links, fonts, H1, credential paragraph, overview, section/footer geometry."
+  },
+  "lash": {
+    "page": "xkw6l",
+    "component": "comp-mw5qnw5n",
+    "nativeId": "matrixLashExtensions",
+    "before": {
+      "mobileHeight": 15000,
+      "width": 320,
+      "x": 0,
+      "y": 62
+    },
+    "after": {
+      "mobileHeight": 11880,
+      "width": 320,
+      "x": 0,
+      "y": 62
+    },
+    "rationale": "Measured natural closed content11866.94px in current browser and11879.22px prior browser;11880 provides ≤14px margin. Public renderer min-height0!important andheightauto retained. FAQ growth must pass native Preview and Test Site.",
+    "preserve": "Renderer pin and seoMarkup, desktop dimensions, native section/footer, fonts, content, all links.",
+    "section": {
+      "id": "comp-mw5qf0n4",
+      "nativeId": "section1",
+      "beforeHeight": 15000,
+      "afterHeight": 11880,
+      "reason": "Section retained original blank height after element resized; match exact element height, preserve top62."
+    }
+  }
+}
