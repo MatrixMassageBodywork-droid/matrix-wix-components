@@ -1,0 +1,329 @@
+{
+  "desktop": [
+    [
+      {
+        "key": "muscular",
+        "kicker": "Muscles + Fascia",
+        "notices": [
+          "Less perceived tightness or soreness",
+          "Temporary improvement in comfort or range of motion",
+          "A calmer or more connected body sensation"
+        ],
+        "pressed": [
+          "muscular",
+          "muscular"
+        ],
+        "sources": [
+          "https://bmjopensem.bmj.com/content/6/1/e000614",
+          "https://pubmed.ncbi.nlm.nih.gov/22301554/"
+        ],
+        "styles": [
+          "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+          "https://www.matrixmassage.net/swedish-massage-salem-wi",
+          "https://www.matrixmassage.net/massage-therapy-services-salem-wi"
+        ],
+        "title": "Mechanical input meets sensory change."
+      },
+      {
+        "key": "nervous",
+        "kicker": "Nervous System + Pain",
+        "notices": [
+          "Short-term reduction in pain intensity for some conditions",
+          "Less protective muscle guarding",
+          "Improved relaxation and body awareness"
+        ],
+        "pressed": [
+          "nervous",
+          "nervous"
+        ],
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/27165967/",
+          "https://pubmed.ncbi.nlm.nih.gov/39008297/",
+          "https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know"
+        ],
+        "styles": [
+          "https://www.matrixmassage.net/swedish-massage-salem-wi",
+          "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+          "https://www.matrixmassage.net/swedish-massage-salem-wi"
+        ],
+        "title": "Touch changes the information reaching the brain."
+      },
+      {
+        "key": "circulation",
+        "kicker": "Circulation",
+        "notices": [
+          "Temporary warmth or redness in the treated area",
+          "A subjective feeling of heaviness or lightness changing",
+          "No guaranteed whole-body circulatory effect"
+        ],
+        "pressed": [
+          "circulation",
+          "circulation"
+        ],
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/15114265/",
+          "https://pubmed.ncbi.nlm.nih.gov/9140896/"
+        ],
+        "styles": [
+          "https://www.matrixmassage.net/swedish-massage-salem-wi",
+          "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+          "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi"
+        ],
+        "title": "Local warmth is real. Whole-body claims need restraint."
+      },
+      {
+        "key": "lymphatic",
+        "kicker": "Lymphatic System",
+        "notices": [
+          "Gentle, rhythmic pressure rather than deep pressure",
+          "Possible short-term changes in swelling or comfort when appropriately indicated",
+          "A calming experience for many clients"
+        ],
+        "pressed": [
+          "lymphatic",
+          "lymphatic"
+        ],
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/32803533/",
+          "https://pubmed.ncbi.nlm.nih.gov/25994425/"
+        ],
+        "styles": [
+          "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+          "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+          "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi"
+        ],
+        "title": "Manual lymphatic drainage is specialized—not deep massage."
+      },
+      {
+        "key": "joints",
+        "kicker": "Joints + Movement",
+        "notices": [
+          "Easier-feeling movement",
+          "Temporary increase in range of motion",
+          "Short-term symptom relief in some joint conditions"
+        ],
+        "pressed": [
+          "joints",
+          "joints"
+        ],
+        "sources": [
+          "https://pubmed.ncbi.nlm.nih.gov/30543021/",
+          "https://pubmed.ncbi.nlm.nih.gov/39593614/"
+        ],
+        "styles": [
+          "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+          "https://www.matrixmassage.net/swedish-massage-salem-wi",
+          "https://www.matrixmassage.net/deep-tissue-massage-salem-wi"
+        ],
+        "title": "Massage works around joints—it does not realign bones."
+      },
+      {
+        "key": "stress",
+        "kicker": "Stress + Relaxation",
+        "notices": [
+          "A calmer mental state",
+          "Reduced perceived tension",
+          "Improved readiness for rest in some people"
+        ],
+        "pressed": [
+          "stress",
+          "stress"
+        ],
+        "sources": [
+          "https://www.nccih.nih.gov/health/providers/digest/massage-therapy-for-health-science",
+          "https://pubmed.ncbi.nlm.nih.gov/14717648/"
+        ],
+        "styles": [
+          "https://www.matrixmassage.net/swedish-massage-salem-wi",
+          "https://www.matrixmassage.net/all-services-listings",
+          "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi"
+        ],
+        "title": "The experience matters as much as the pressure."
+      },
+      {
+        "key": "skin",
+        "kicker": "Skin + Sensory Input",
+        "notices": [
+          "Warmth or temporary pinkness",
+          "Heightened awareness of pressure and texture",
+          "Comfort from safe, predictable touch"
+        ],
+        "pressed": [
+          "skin",
+          "skin"
+        ],
+        "sources": [
+          "https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know",
+          "https://pubmed.ncbi.nlm.nih.gov/30477852/"
+        ],
+        "styles": [
+          "https://www.matrixmassage.net/swedish-massage-salem-wi",
+          "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+          "https://www.matrixmassage.net/swedish-massage-salem-wi"
+        ],
+        "title": "The skin is an active sensory organ."
+      }
+    ]
+  ],
+  "mobile": [
+    [
+      {
+        "bodyScrollWidth": 320,
+        "bodyWidth": 320,
+        "key": "muscular",
+        "title": "Mechanical input meets sensory change."
+      },
+      {
+        "bodyScrollWidth": 320,
+        "bodyWidth": 320,
+        "key": "nervous",
+        "title": "Touch changes the information reaching the brain."
+      },
+      {
+        "bodyScrollWidth": 320,
+        "bodyWidth": 320,
+        "key": "circulation",
+        "title": "Local warmth is real. Whole-body claims need restraint."
+      },
+      {
+        "bodyScrollWidth": 320,
+        "bodyWidth": 320,
+        "key": "lymphatic",
+        "title": "Manual lymphatic drainage is specialized—not deep massage."
+      },
+      {
+        "bodyScrollWidth": 320,
+        "bodyWidth": 320,
+        "key": "joints",
+        "title": "Massage works around joints—it does not realign bones."
+      },
+      {
+        "bodyScrollWidth": 320,
+        "bodyWidth": 320,
+        "key": "stress",
+        "title": "The experience matters as much as the pressure."
+      },
+      {
+        "bodyScrollWidth": 320,
+        "bodyWidth": 320,
+        "key": "skin",
+        "title": "The skin is an active sensory organ."
+      }
+    ],
+    {
+      "faqs": [
+        {
+          "index": 0,
+          "opened": true,
+          "closed": true
+        },
+        {
+          "index": 1,
+          "opened": true,
+          "closed": true
+        },
+        {
+          "index": 2,
+          "opened": true,
+          "closed": true
+        },
+        {
+          "index": 3,
+          "opened": true,
+          "closed": true
+        },
+        {
+          "index": 4,
+          "opened": true,
+          "closed": true
+        },
+        {
+          "index": 5,
+          "opened": true,
+          "closed": true
+        }
+      ]
+    }
+  ],
+  "hotspots": [
+    {
+      "hotspots": [
+        {
+          "key": "muscular",
+          "title": "Mechanical input meets sensory change."
+        },
+        {
+          "key": "nervous",
+          "title": "Touch changes the information reaching the brain."
+        },
+        {
+          "key": "circulation",
+          "title": "Local warmth is real. Whole-body claims need restraint."
+        },
+        {
+          "key": "lymphatic",
+          "title": "Manual lymphatic drainage is specialized—not deep massage."
+        },
+        {
+          "key": "joints",
+          "title": "Massage works around joints—it does not realign bones."
+        },
+        {
+          "key": "stress",
+          "title": "The experience matters as much as the pressure."
+        },
+        {
+          "key": "skin",
+          "title": "The skin is an active sensory organ."
+        }
+      ],
+      "keyboardMuscles": "Mechanical input meets sensory change."
+    }
+  ],
+  "nativeMobile": [
+    {
+      "bodyScrollWidth": 320,
+      "bodyWidth": 320,
+      "buttons": [
+        {
+          "height": 44,
+          "text": "Muscles + Fascia",
+          "width": 242.40000915527344
+        },
+        {
+          "height": 44,
+          "text": "Nervous System + Pain",
+          "width": 242.40000915527344
+        },
+        {
+          "height": 44,
+          "text": "Circulation",
+          "width": 242.40000915527344
+        },
+        {
+          "height": 44,
+          "text": "Lymphatic System",
+          "width": 242.40000915527344
+        },
+        {
+          "height": 44,
+          "text": "Joints + Movement",
+          "width": 242.40000915527344
+        },
+        {
+          "height": 44,
+          "text": "Stress + Relaxation",
+          "width": 242.40000915527344
+        },
+        {
+          "height": 44,
+          "text": "Skin + Sensory Input",
+          "width": 242.40000915527344
+        }
+      ],
+      "mapDisplay": "none",
+      "scrollWidth": 320,
+      "width": 320
+    }
+  ]
+}
