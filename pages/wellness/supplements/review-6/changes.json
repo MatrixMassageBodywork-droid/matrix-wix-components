@@ -1,0 +1,54 @@
+{
+  "revision": "R6",
+  "baseR5Commit": "85268983295425756e71bcd0c33ff2878bbd949a",
+  "scope": "Customer-visible payment wording only: invoices will be emailed, no processor name.",
+  "url": "https://www.matrixmassage.net/supplements-vitamins-salem-wi",
+  "nativeStatus": "NOT INSTALLED, NOT PUBLISHED",
+  "publicPaymentProviderReferences": 0,
+  "monthlyFeaturesEnabled": false,
+  "faqCount": 8,
+  "exactReplacements": [
+    {
+      "before": "<h3>Request. Pay. Receive.</h3>",
+      "after": "<h3>Choose your bundle. We’ll send your invoice.</h3>"
+    },
+    {
+      "before": "When released, each collection will have its own request form, Square invoice and payment deadline. Matrix will purchase the confirmed paid orders in its scheduled wholesale batch.",
+      "after": "When monthly collections open, choose your bundle and submit a request. An invoice will be sent by email with your total and payment due date. Once paid, your selections will be included in our next scheduled supplement order."
+    },
+    {
+      "before": "Proposed purchasing days: the 1st and 15th. Fulfillment details will be stated on each offer.",
+      "after": "We plan to place supplement orders on the 1st and 15th. Each featured collection will show its order deadline and fulfillment details."
+    },
+    {
+      "before": "Submit your contact details and quantity. Your payment details follow after review.",
+      "after": "Submit your contact details and quantity. An invoice will be sent after we review your request."
+    },
+    {
+      "before": "<h3>Pay through Square</h3><p>Use your individual invoice link before the payment cutoff.</p>",
+      "after": "<h3>Receive your invoice</h3><p>Your invoice will be sent by email with a payment link and due date.</p>"
+    },
+    {
+      "before": "<h3>Join the paid batch</h3><p>Confirmed eligible payments are included in the scheduled purchasing cycle.</p>",
+      "after": "<h3>We place your order</h3><p>Once your invoice is paid by the deadline, we’ll include your selections in our next scheduled supplement order.</p>"
+    },
+    {
+      "before": "Our two upcoming featured bundles will offer a separate preorder option with clear contents, pricing, deadlines and Square payment instructions.",
+      "after": "Our two upcoming featured bundles will have their own product details, prices and preorder deadlines. An invoice will be sent by email after your request is reviewed."
+    },
+    {
+      "before": "We are planning two monthly ordering cycles around the 1st and 15th. Each featured bundle will show its upcoming ordering deadline, payment instructions and fulfillment choices. Confirmed, paid requests will be included in the scheduled purchasing batch.",
+      "after": "We plan to place supplement orders around the 1st and 15th. Each featured collection will show its ordering deadline and fulfillment choices. An invoice will be sent after your request is reviewed, and paid orders received by the deadline will be included in the upcoming order."
+    }
+  ],
+  "unchanged": [
+    "R3 approved logo and water visuals",
+    "R5 site geography and title",
+    "all third-party href destinations",
+    "all 6 collection names",
+    "both monthly feature IDs",
+    "8 FAQ question names",
+    "sauna menu patch",
+    "private sheet and payment routing"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "status": "R6 REVIEW / public copy invoices-by-email / NOT INSTALLED OR PUBLISHED",
+  "nativePageId": "aeh8h",
+  "nativeSchemaIdToReplace": "-XDVhoNa",
+  "nativeSchemaDisplayName": "Matrix Supplements",
+  "currentUrl": "https://www.matrixmassage.net/supplements",
+  "proposedUrl": "https://www.matrixmassage.net/supplements-vitamins-salem-wi",
+  "slug": "supplements-vitamins-salem-wi",
+  "title": "Health Supplements & Vitamins in Salem, WI | Matrix",
+  "description": "Explore vitamins, health supplements and curated wellness collections at Matrix in Salem, WI. Convenient online shopping for Paddock Lake, Twin Lakes, Burlington, Union Grove and Bristol.",
+  "canonical": "https://www.matrixmassage.net/supplements-vitamins-salem-wi",
+  "og:title": "Health Supplements & Vitamins in Salem, WI | Matrix",
+  "og:description": "Explore vitamins, health supplements and curated wellness collections at Matrix in Salem, WI. Convenient online shopping for Paddock Lake, Twin Lakes, Burlington, Union Grove and Bristol.",
+  "og:url": "https://www.matrixmassage.net/supplements-vitamins-salem-wi",
+  "twitter:title": "Health Supplements & Vitamins in Salem, WI | Matrix",
+  "twitter:description": "Explore vitamins, health supplements and curated wellness collections at Matrix in Salem, WI. Convenient online shopping for Paddock Lake, Twin Lakes, Burlington, Union Grove and Bristol.",
+  "robots": "Preserve indexable native settings; do not add proof noindex",
+  "og:image": "Preserve existing verified native image metadata unless a separate image revision is approved",
+  "focusKeywords": [
+    {
+      "term": "health supplements vitamins Salem WI",
+      "isMain": true
+    },
+    {
+      "term": "vitamins Salem WI",
+      "isMain": false
+    },
+    {
+      "term": "supplements Paddock Lake WI",
+      "isMain": false
+    },
+    {
+      "term": "health and wellness Salem WI",
+      "isMain": false
+    },
+    {
+      "term": "health and wellness Paddock Lake WI",
+      "isMain": false
+    }
+  ],
+  "schema": "Replace observed -XDVhoNa entry with structured-data-candidate.json; do not append a duplicate business or page identity",
+  "releaseDependency": "Do not point canonical or og:url at new URL until same-page native slug migration and successful public destination are coordinated. Preserve current Wix site menu; add Infrared Sauna under Wellness & Biotech in the existing shared menu only after current editor readback."
+}

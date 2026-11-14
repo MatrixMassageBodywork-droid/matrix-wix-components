@@ -1,0 +1,63 @@
+{
+  "status": "PASS",
+  "widths": [
+    {
+      "width": 320,
+      "overflow": 0,
+      "logoLoaded": true,
+      "faqCount": 8,
+      "jsErrors": 0
+    },
+    {
+      "width": 375,
+      "overflow": 0,
+      "logoLoaded": true,
+      "faqCount": 8,
+      "jsErrors": 0
+    },
+    {
+      "width": 390,
+      "overflow": 0,
+      "logoLoaded": true,
+      "faqCount": 8,
+      "jsErrors": 0
+    },
+    {
+      "width": 700,
+      "overflow": 0,
+      "logoLoaded": true,
+      "faqCount": 8,
+      "jsErrors": 0
+    },
+    {
+      "width": 1280,
+      "overflow": 0,
+      "logoLoaded": true,
+      "faqCount": 8,
+      "jsErrors": 0
+    },
+    {
+      "width": 1440,
+      "overflow": 0,
+      "logoLoaded": true,
+      "faqCount": 8,
+      "jsErrors": 0
+    },
+    {
+      "width": 1920,
+      "overflow": 0,
+      "logoLoaded": true,
+      "faqCount": 8,
+      "jsErrors": 0
+    }
+  ],
+  "checks": [
+    "No payment-provider name in visible page",
+    "Invoices will be sent stated plainly",
+    "Single H1",
+    "Eight FAQs",
+    "Two disabled feature buttons",
+    "No horizontal overflow",
+    "Logo and background present"
+  ]
+}

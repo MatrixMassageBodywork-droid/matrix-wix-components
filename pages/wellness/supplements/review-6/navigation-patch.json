@@ -1,0 +1,23 @@
+{
+  "siteId": "cdec8df6-d518-4859-9f1e-f06bf5346d41",
+  "editorType": "Classic",
+  "menu": "existing shared header navigation",
+  "parentItem": "WELLNESS & BIOTECH SERVICES",
+  "afterItem": "RED LIGHT THERAPY",
+  "beforeItem": "SUPPLEMENTS & WELLNESS",
+  "addExistingPage": "Infrared Sauna",
+  "targetPath": "/infrared-sauna-salem-wi",
+  "expectedLabel": "INFRARED SAUNA",
+  "newPage": false,
+  "doNotTouch": [
+    "other menu items",
+    "page visibility",
+    "SEO of sauna page",
+    "site header/footer styles",
+    "other pages",
+    "existing URLs",
+    "unrelated drafts"
+  ],
+  "state": "NOT INSTALLED \u2014 requires signed-in Wix Classic Editor",
+  "evidence": "live Wellness header / 2026-11-13; RED LIGHT and SUPPLEMENTS are existing children, sauna absent"
+}

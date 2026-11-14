@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where can I find health supplements and vitamins in Salem, WI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Explore the Matrix Supplement & Vitamin Dispensary online for curated vitamins, daily wellness essentials and supplement collections. Our wellness studio is located at 24804 75th St, Salem, WI 53168, near Paddock Lake."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I order from Paddock Lake, Twin Lakes, Burlington, Union Grove or Bristol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Our online supplement dispensary welcomes shoppers from Paddock Lake, Twin Lakes, Burlington, Union Grove, Bristol and nearby communities. Browse collections anytime and review product prices and delivery choices while ordering."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I shop Matrix collections and monthly bundles?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Shop existing collections anytime through the Matrix online dispensary. Our two upcoming featured bundles will have their own product details, prices and preorder deadlines. An invoice will be sent by email after your request is reviewed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I pick up vitamins or supplements at the Salem studio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our upcoming monthly bundle announcements will include the available pickup or delivery arrangements. For existing dispensary purchases, see the shipping choices during checkout. For pickup questions, text Matrix at 262-939-9325."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When will Matrix place its monthly supplement orders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We plan to place supplement orders around the 1st and 15th. Each featured collection will show its ordering deadline and fulfillment choices. An invoice will be sent after your request is reviewed, and paid orders received by the deadline will be included in the upcoming order."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I choose individual supplements from a Matrix collection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Open each Matrix collection to view the included supplements and current shopping options. Review ingredients and product guidance, and talk with your healthcare professional about selections that fit your needs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I choose supplements that are appropriate for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the product label, ingredients and suggested-use information. Your healthcare professional can help you choose products that work with your health history, medications and wellness goals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will requesting a bundle sign me up for weekly marketing emails?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Updates about monthly Matrix collections will be optional. You can choose whether to receive promotional emails, and every marketing message will offer a way to unsubscribe."
+      }
+    }
+  ]
+}
