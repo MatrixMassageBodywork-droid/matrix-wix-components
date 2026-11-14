@@ -1,0 +1,220 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "HealthAndBeautyBusiness",
+      "@id": "https://www.matrixmassage.net/#business",
+      "name": "Matrix Massage & Bodywork",
+      "alternateName": "Matrix Wellness & Biotech",
+      "url": "https://www.matrixmassage.net/",
+      "telephone": "+12629399325",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "24804 75th St",
+        "addressLocality": "Salem",
+        "addressRegion": "WI",
+        "postalCode": "53168",
+        "addressCountry": "US"
+      },
+      "areaServed": [
+        "Salem, WI",
+        "Salem Lakes, WI",
+        "Paddock Lake, WI",
+        "Twin Lakes, WI",
+        "Burlington, WI",
+        "Union Grove, WI",
+        "Bristol, WI",
+        "Trevor, WI",
+        "Genoa City, WI",
+        "Pleasant Prairie, WI",
+        "Kenosha, WI",
+        "Antioch, IL"
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://www.matrixmassage.net/supplements-vitamins-salem-wi#webpage",
+      "url": "https://www.matrixmassage.net/supplements-vitamins-salem-wi",
+      "name": "Health supplements & vitamins in Salem, WI.",
+      "description": "Explore vitamins, health supplements and curated wellness collections at Matrix in Salem, WI. Convenient online shopping for Paddock Lake, Twin Lakes, Burlington, Union Grove and Bristol.",
+      "inLanguage": "en-US",
+      "about": [
+        {
+          "@id": "https://www.matrixmassage.net/#business"
+        },
+        {
+          "@type": "Thing",
+          "name": "Health supplements and vitamins"
+        }
+      ],
+      "publisher": {
+        "@id": "https://www.matrixmassage.net/#business"
+      },
+      "mainEntity": {
+        "@id": "https://www.matrixmassage.net/supplements-vitamins-salem-wi#dispensary-collections"
+      },
+      "breadcrumb": {
+        "@id": "https://www.matrixmassage.net/supplements-vitamins-salem-wi#breadcrumb"
+      },
+      "hasPart": {
+        "@id": "https://www.matrixmassage.net/supplements-vitamins-salem-wi#faq"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.matrixmassage.net/supplements-vitamins-salem-wi#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.matrixmassage.net/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Wellness",
+          "item": "https://www.matrixmassage.net/wellness-biotech-services-salem-wi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Supplements & vitamins",
+          "item": "https://www.matrixmassage.net/supplements-vitamins-salem-wi"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://www.matrixmassage.net/supplements-vitamins-salem-wi#dispensary-collections",
+      "name": "Matrix Supplement & Vitamin Dispensary collections",
+      "numberOfItems": 6,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "WebPage",
+            "name": "Brighten & Smooth - Facial Pathway",
+            "url": "https://us.fullscript.com/s/matrix_massage_wellness/shop/plans/TXVsdGlQYXRpZW50UGxhbi0xNzUwMzY%3D?entry_point=StoreLandingPage"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "WebPage",
+            "name": "Hydrate & Restore - Facial Pathway",
+            "url": "https://us.fullscript.com/s/matrix_massage_wellness/shop/plans/TXVsdGlQYXRpZW50UGxhbi0xNzUwMzA%3D?entry_point=StoreLandingPage"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "WebPage",
+            "name": "Matrix Nervous System | RESET",
+            "url": "https://us.fullscript.com/s/matrix_massage_wellness/shop/plans/TXVsdGlQYXRpZW50UGxhbi0xNDU0NzQ%3D?entry_point=StoreLandingPage"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "WebPage",
+            "name": "Matrix Nervous System | RESTORE",
+            "url": "https://us.fullscript.com/s/matrix_massage_wellness/shop/plans/TXVsdGlQYXRpZW50UGxhbi0xNDU0Nzc%3D?entry_point=StoreLandingPage"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "WebPage",
+            "name": "Matrix Active Recovery",
+            "url": "https://us.fullscript.com/s/matrix_massage_wellness/shop/plans/TXVsdGlQYXRpZW50UGxhbi0xNDU0Njg%3D?entry_point=StoreLandingPage"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "WebPage",
+            "name": "The Cellular Antioxidant and Detox Protocol (3-step)",
+            "url": "https://us.fullscript.com/s/matrix_massage_wellness/shop/plans/TXVsdGlQYXRpZW50UGxhbi0xNzI4NzQ%3D?entry_point=StoreLandingPage"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Where can I find health supplements and vitamins in Salem, WI?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Explore the Matrix Supplement & Vitamin Dispensary online for curated vitamins, daily wellness essentials and supplement collections. Our wellness studio is located at 24804 75th St, Salem, WI 53168, near Paddock Lake."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I order from Paddock Lake, Twin Lakes, Burlington, Union Grove or Bristol?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Our online supplement dispensary welcomes shoppers from Paddock Lake, Twin Lakes, Burlington, Union Grove, Bristol and nearby communities. Browse collections anytime and review product prices and delivery choices while ordering."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I order a bundle or individual supplements?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Explore current products and collections through our online dispensary. When monthly ordering opens, you can request a curated bundle, individual vitamins or supplements, or both. We’ll email an invoice with your total and payment due date after reviewing your request."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I pick up vitamins or supplements at the Salem studio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our upcoming monthly supplement offers will include available pickup or delivery arrangements. For existing dispensary purchases, see the shipping choices during checkout. For pickup questions, text Matrix at 262-939-9325."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When will Matrix place its monthly supplement orders?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We plan to place supplement orders around the 1st and 15th. Available bundles and individual products will have clear ordering deadlines and fulfillment options. An invoice will be sent after your request is reviewed, and paid orders received by the deadline will be included in the upcoming order."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I select individual products instead of a bundle?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. You can browse individual products in our online dispensary. When monthly ordering opens, you can request individual supplements on their own or alongside a curated bundle. Review ingredients and product guidance before selecting."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I choose supplements that are appropriate for me?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Start with the product label, ingredients and suggested-use information. Your healthcare professional can help you choose products that work with your health history, medications and wellness goals."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will submitting a product request sign me up for marketing emails?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Updates about monthly Matrix collections will be optional. You can choose whether to receive promotional emails, and every marketing message will offer a way to unsubscribe."
+          }
+        }
+      ],
+      "@id": "https://www.matrixmassage.net/supplements-vitamins-salem-wi#faq"
+    }
+  ]
+}

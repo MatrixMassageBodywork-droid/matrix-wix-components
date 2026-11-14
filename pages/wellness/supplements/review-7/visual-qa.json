@@ -1,0 +1,71 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Bundle or individual products or both",
+    "Invoice-by-email wording",
+    "All eight FAQs",
+    "No supplier/payment vendor public text",
+    "Two Coming Soon slots",
+    "Approved logo and background load",
+    "No mobile overflow",
+    "Visible body/SEO parity"
+  ],
+  "widths": [
+    {
+      "width": 320,
+      "logoLoaded": true,
+      "overflow": 0,
+      "faqExpanded": 8,
+      "errors": 0,
+      "featureColumns": "280px"
+    },
+    {
+      "width": 375,
+      "logoLoaded": true,
+      "overflow": 0,
+      "faqExpanded": 8,
+      "errors": 0,
+      "featureColumns": "335px"
+    },
+    {
+      "width": 390,
+      "logoLoaded": true,
+      "overflow": 0,
+      "faqExpanded": 8,
+      "errors": 0,
+      "featureColumns": "350px"
+    },
+    {
+      "width": 700,
+      "logoLoaded": true,
+      "overflow": 0,
+      "faqExpanded": 8,
+      "errors": 0,
+      "featureColumns": "660px"
+    },
+    {
+      "width": 1280,
+      "logoLoaded": true,
+      "overflow": 0,
+      "faqExpanded": 8,
+      "errors": 0,
+      "featureColumns": "536px 536px"
+    },
+    {
+      "width": 1440,
+      "logoLoaded": true,
+      "overflow": 0,
+      "faqExpanded": 8,
+      "errors": 0,
+      "featureColumns": "536px 536px"
+    },
+    {
+      "width": 1920,
+      "logoLoaded": true,
+      "overflow": 0,
+      "faqExpanded": 8,
+      "errors": 0,
+      "featureColumns": "536px 536px"
+    }
+  ]
+}

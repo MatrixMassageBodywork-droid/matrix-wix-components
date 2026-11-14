@@ -1,0 +1,80 @@
+{
+  "revision": "R7",
+  "baseR6Commit": "aa32f9456108500c0f5a4f68d3c01a9bb8e1c7f9",
+  "scope": "Customer-facing wording change: allow upcoming preorders of curated bundles, individual products, or both; invoices emailed after request review",
+  "replacements": [
+    {
+      "before": "Shop our dispensary collections at your own pace. Two exclusive monthly Matrix supplement bundles are on the way.",
+      "after": "Explore our dispensary collections at your own pace. New monthly bundles and individual supplement options are on the way."
+    },
+    {
+      "before": "Our monthly bundle program is in development. Product selections, prices and order deadlines will appear here when each collection opens.",
+      "after": "Our upcoming monthly ordering program will offer curated bundles and individual supplement options. Product details, prices and order deadlines will appear when ordering opens."
+    },
+    {
+      "before": "Choose your bundle. We’ll send your invoice.",
+      "after": "Choose a bundle or individual products."
+    },
+    {
+      "before": "When monthly collections open, choose your bundle and submit a request. An invoice will be sent by email with your total and payment due date. Once paid, your selections will be included in our next scheduled supplement order.",
+      "after": "When monthly ordering opens, choose a curated bundle, individual vitamins or supplements, or both. Submit your request, and we’ll email an invoice with your total and payment due date. Once your invoice is paid, your selections will be included in our next scheduled supplement order."
+    },
+    {
+      "before": "<h3>Choose a collection</h3><p>Review the exact products, price, deadline and fulfillment terms.</p>",
+      "after": "<h3>Choose your supplements</h3><p>Select a curated bundle, individual products, or both. Review prices and order deadlines.</p>"
+    },
+    {
+      "before": "<h3>Request your bundle</h3><p>Submit your contact details and quantity. An invoice will be sent after we review your request.</p>",
+      "after": "<h3>Send your request</h3><p>Tell us which products you would like and their quantities. An invoice will be emailed after we review your request.</p>"
+    },
+    {
+      "before": "Our next monthly collections will feature product details, pricing and a convenient request form when they launch.",
+      "after": "Our upcoming monthly program will include curated bundles and individual supplements. Prices, order deadlines and the request form will be shown when ordering opens."
+    },
+    {
+      "before": "Browse our online supplement &amp; vitamin dispensary. Monthly bundle announcements are coming soon.",
+      "after": "Browse our online supplement &amp; vitamin dispensary. Monthly product and bundle selections are coming soon."
+    },
+    {
+      "before": "How do I shop Matrix collections and monthly bundles?",
+      "after": "Can I order a bundle or individual supplements?"
+    },
+    {
+      "before": "Shop existing collections anytime through the Matrix online dispensary. Our two upcoming featured bundles will have their own product details, prices and preorder deadlines. An invoice will be sent by email after your request is reviewed.",
+      "after": "Explore current products and collections through our online dispensary. When monthly ordering opens, you can request a curated bundle, individual vitamins or supplements, or both. We’ll email an invoice with your total and payment due date after reviewing your request."
+    },
+    {
+      "before": "Our upcoming monthly bundle announcements will include the available pickup or delivery arrangements.",
+      "after": "Our upcoming monthly supplement offers will include available pickup or delivery arrangements."
+    },
+    {
+      "before": "Each featured collection will show its ordering deadline and fulfillment choices.",
+      "after": "Available bundles and individual products will have clear ordering deadlines and fulfillment options."
+    },
+    {
+      "before": "Can I choose individual supplements from a Matrix collection?",
+      "after": "Can I select individual products instead of a bundle?"
+    },
+    {
+      "before": "Open each Matrix collection to view the included supplements and current shopping options. Review ingredients and product guidance, and talk with your healthcare professional about selections that fit your needs.",
+      "after": "Yes. You can browse individual products in our online dispensary. When monthly ordering opens, you can request individual supplements on their own or alongside a curated bundle. Review ingredients and product guidance before selecting."
+    },
+    {
+      "before": "Will requesting a bundle sign me up for weekly marketing emails?",
+      "after": "Will submitting a product request sign me up for marketing emails?"
+    }
+  ],
+  "faqCount": 8,
+  "publicProviderMentions": 0,
+  "preorderLive": false,
+  "wixInstalled": false,
+  "wixPublished": false,
+  "unchanged": [
+    "two coming-soon feature IDs",
+    "all links and destination URLs",
+    "logo and water styling",
+    "page SEO title, canonical proposal and geography",
+    "payment processor and integrations",
+    "pending Sauna menu patch"
+  ]
+}
