@@ -1,0 +1,802 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Matrix Science of Massage Explorer</title>
+<style>
+  :root{
+    --matrix-black:#171717;
+    --matrix-charcoal:#292726;
+    --matrix-cream:#eee8e1;
+    --matrix-paper:#f8f5f1;
+    --matrix-teal:#6f9897;
+    --matrix-teal-dark:#456b6a;
+    --matrix-gold:#c8ad73;
+    --matrix-plum:#20162f;
+    --matrix-white:#ffffff;
+    --matrix-muted:#6d6966;
+    --matrix-border:rgba(23,23,23,.14);
+    --shadow:0 18px 45px rgba(22,22,22,.13);
+  }
+
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0;
+    color:var(--matrix-black);
+    background:
+      radial-gradient(circle at 15% 12%, rgba(111,152,151,.14), transparent 28%),
+      radial-gradient(circle at 88% 84%, rgba(200,173,115,.12), transparent 30%),
+      linear-gradient(135deg, rgba(255,255,255,.60), rgba(238,232,225,.70)),
+      var(--matrix-cream);
+    font-family:Arial, Helvetica, sans-serif;
+  }
+
+  button, a{font:inherit}
+  a{color:inherit}
+
+  .science-widget{
+    width:min(1180px, 100%);
+    margin:0 auto;
+    padding:clamp(24px,4vw,56px);
+  }
+
+  .science-header{
+    text-align:center;
+    max-width:860px;
+    margin:0 auto 28px;
+  }
+
+  .eyebrow{
+    display:inline-flex;
+    align-items:center;
+    gap:10px;
+    margin:0 0 12px;
+    color:var(--matrix-teal-dark);
+    font-size:12px;
+    font-weight:800;
+    letter-spacing:.19em;
+    text-transform:uppercase;
+  }
+
+  .eyebrow:before,
+  .eyebrow:after{
+    content:"";
+    display:block;
+    width:34px;
+    height:1px;
+    background:var(--matrix-gold);
+  }
+
+  h2{
+    margin:0;
+    color:var(--matrix-plum);
+    font-size:clamp(28px,4vw,48px);
+    line-height:1.06;
+    letter-spacing:-.025em;
+  }
+
+  .science-header p{
+    margin:16px auto 0;
+    max-width:760px;
+    color:#474341;
+    font-size:clamp(16px,2vw,19px);
+    line-height:1.65;
+  }
+
+  .science-note{
+    display:inline-block;
+    margin-top:14px;
+    padding:9px 13px;
+    border:1px solid rgba(69,107,106,.30);
+    background:rgba(255,255,255,.55);
+    color:var(--matrix-teal-dark);
+    font-size:12px;
+    font-weight:800;
+    letter-spacing:.07em;
+    text-transform:uppercase;
+  }
+
+  .explorer{
+    display:grid;
+    grid-template-columns:minmax(300px,.82fr) minmax(410px,1.18fr);
+    gap:24px;
+    align-items:stretch;
+  }
+
+  .map-card,
+  .detail-card{
+    border:1px solid var(--matrix-border);
+    box-shadow:var(--shadow);
+  }
+
+  .map-card{
+    position:relative;
+    overflow:hidden;
+    min-height:650px;
+    background:
+      linear-gradient(rgba(23,23,23,.94), rgba(23,23,23,.94)),
+      radial-gradient(circle at center, rgba(111,152,151,.35), transparent 55%);
+    color:var(--matrix-white);
+  }
+
+  .map-card:before{
+    content:"";
+    position:absolute;
+    inset:0;
+    opacity:.24;
+    background-image:
+      linear-gradient(rgba(255,255,255,.035) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,255,255,.035) 1px, transparent 1px);
+    background-size:28px 28px;
+    pointer-events:none;
+  }
+
+  .map-title{
+    position:relative;
+    z-index:2;
+    padding:24px 24px 0;
+  }
+
+  .map-title strong{
+    display:block;
+    font-size:13px;
+    letter-spacing:.16em;
+    text-transform:uppercase;
+  }
+
+  .map-title span{
+    display:block;
+    margin-top:7px;
+    color:rgba(255,255,255,.70);
+    font-size:13px;
+    line-height:1.45;
+  }
+
+  .body-map{
+    position:relative;
+    height:455px;
+    margin:10px auto 0;
+    max-width:330px;
+  }
+
+  .body-map svg{
+    position:absolute;
+    inset:0;
+    width:100%;
+    height:100%;
+    filter:drop-shadow(0 0 24px rgba(111,152,151,.28));
+  }
+
+  .body-outline{
+    fill:rgba(111,152,151,.06);
+    stroke:rgba(255,255,255,.62);
+    stroke-width:2.2;
+  }
+
+  .body-line{
+    fill:none;
+    stroke:rgba(111,152,151,.62);
+    stroke-width:2;
+    stroke-linecap:round;
+  }
+
+  .hotspot{
+    position:absolute;
+    z-index:4;
+    width:29px;
+    height:29px;
+    border:1px solid rgba(255,255,255,.85);
+    border-radius:50%;
+    color:var(--matrix-white);
+    background:var(--matrix-teal-dark);
+    cursor:pointer;
+    box-shadow:0 0 0 7px rgba(111,152,151,.14);
+    transition:transform .2s ease, background .2s ease, box-shadow .2s ease;
+  }
+
+  .hotspot:hover,
+  .hotspot:focus-visible{
+    transform:scale(1.13);
+    outline:none;
+    background:var(--matrix-gold);
+    color:var(--matrix-black);
+  }
+
+  .hotspot[aria-pressed="true"]{
+    background:var(--matrix-gold);
+    color:var(--matrix-black);
+    box-shadow:0 0 0 8px rgba(200,173,115,.17), 0 0 25px rgba(200,173,115,.33);
+  }
+
+  .hotspot:after{
+    content:attr(data-label);
+    position:absolute;
+    left:37px;
+    top:50%;
+    transform:translateY(-50%);
+    width:max-content;
+    max-width:130px;
+    padding:6px 8px;
+    border:1px solid rgba(255,255,255,.15);
+    background:rgba(23,23,23,.92);
+    color:#fff;
+    font-size:10px;
+    font-weight:800;
+    letter-spacing:.08em;
+    text-transform:uppercase;
+    opacity:0;
+    pointer-events:none;
+    transition:opacity .2s ease;
+  }
+
+  .hotspot:hover:after,
+  .hotspot:focus-visible:after,
+  .hotspot[aria-pressed="true"]:after{opacity:1}
+
+  .hs-nervous{left:151px; top:54px}
+  .hs-stress{left:101px; top:105px}
+  .hs-circulation{left:168px; top:155px}
+  .hs-muscular{left:92px; top:188px}
+  .hs-lymphatic{left:169px; top:235px}
+  .hs-skin{left:244px; top:225px}
+  .hs-joints{left:145px; top:360px}
+
+  .system-list{
+    position:relative;
+    z-index:3;
+    display:grid;
+    grid-template-columns:repeat(2, minmax(0,1fr));
+    gap:8px;
+    padding:0 24px 24px;
+  }
+
+  .system-btn{
+    min-height:44px;
+    padding:10px 12px;
+    border:1px solid rgba(255,255,255,.18);
+    background:rgba(255,255,255,.035);
+    color:rgba(255,255,255,.83);
+    cursor:pointer;
+    text-align:left;
+    font-size:11px;
+    font-weight:800;
+    letter-spacing:.08em;
+    text-transform:uppercase;
+    transition:background .2s ease, border-color .2s ease, color .2s ease;
+  }
+
+  .system-btn:hover,
+  .system-btn:focus-visible{
+    outline:none;
+    border-color:var(--matrix-gold);
+    color:#fff;
+  }
+
+  .system-btn[aria-pressed="true"]{
+    border-color:var(--matrix-gold);
+    background:var(--matrix-gold);
+    color:var(--matrix-black);
+  }
+
+  .detail-card{
+    min-height:650px;
+    padding:clamp(26px,4vw,48px);
+    background:rgba(248,245,241,.94);
+  }
+
+  .detail-topline{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    gap:12px;
+    align-items:center;
+    padding-bottom:19px;
+    border-bottom:1px solid var(--matrix-border);
+  }
+
+  .system-kicker{
+    color:var(--matrix-teal-dark);
+    font-size:12px;
+    font-weight:900;
+    letter-spacing:.17em;
+    text-transform:uppercase;
+  }
+
+  .evidence-badge{
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
+    padding:8px 11px;
+    border:1px solid rgba(69,107,106,.25);
+    background:#fff;
+    color:#31302f;
+    font-size:11px;
+    font-weight:900;
+    letter-spacing:.06em;
+    text-transform:uppercase;
+  }
+
+  .evidence-dot{
+    width:9px;
+    height:9px;
+    border-radius:50%;
+    background:var(--matrix-gold);
+    box-shadow:0 0 0 4px rgba(200,173,115,.16);
+  }
+
+  .detail-title{
+    margin:24px 0 12px;
+    color:var(--matrix-plum);
+    font-size:clamp(27px,3.6vw,42px);
+    line-height:1.08;
+    letter-spacing:-.02em;
+  }
+
+  .detail-summary{
+    margin:0;
+    color:#45413f;
+    font-size:17px;
+    line-height:1.7;
+  }
+
+  .detail-grid{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:14px;
+    margin-top:24px;
+  }
+
+  .mini-card{
+    padding:18px;
+    border:1px solid var(--matrix-border);
+    background:#fff;
+  }
+
+  .mini-card h3{
+    margin:0 0 9px;
+    color:var(--matrix-black);
+    font-size:12px;
+    letter-spacing:.13em;
+    text-transform:uppercase;
+  }
+
+  .mini-card p{
+    margin:0;
+    color:#5b5653;
+    font-size:14px;
+    line-height:1.58;
+  }
+
+  .notice-list{
+    margin:8px 0 0;
+    padding-left:18px;
+    color:#5b5653;
+    font-size:14px;
+    line-height:1.55;
+  }
+
+  .notice-list li+li{margin-top:6px}
+
+  .research-box{
+    margin-top:14px;
+    padding:20px;
+    border-left:4px solid var(--matrix-teal);
+    background:rgba(111,152,151,.10);
+  }
+
+  .research-box strong{
+    display:block;
+    margin-bottom:7px;
+    color:var(--matrix-teal-dark);
+    font-size:12px;
+    letter-spacing:.13em;
+    text-transform:uppercase;
+  }
+
+  .research-box p{
+    margin:0;
+    color:#4f4a47;
+    font-size:14px;
+    line-height:1.62;
+  }
+
+  .style-row{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    margin-top:18px;
+  }
+
+  .style-chip{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    padding:8px 10px;
+    border:1px solid rgba(32,22,47,.17);
+    color:var(--matrix-plum);
+    background:#fff;
+    text-decoration:none;
+    font-size:10px;
+    font-weight:900;
+    letter-spacing:.08em;
+    text-transform:uppercase;
+    transition:background .2s ease, color .2s ease, border-color .2s ease;
+  }
+
+  .style-chip:hover,
+  .style-chip:focus-visible{
+    outline:none;
+    border-color:var(--matrix-teal-dark);
+    background:var(--matrix-teal-dark);
+    color:#fff;
+  }
+
+  .source-row{
+    display:flex;
+    flex-wrap:wrap;
+    gap:9px;
+    margin-top:20px;
+  }
+
+  .source-link{
+    display:inline-flex;
+    align-items:center;
+    min-height:42px;
+    padding:10px 13px;
+    border:1px solid var(--matrix-black);
+    color:var(--matrix-white);
+    background:var(--matrix-black);
+    text-decoration:none;
+    font-size:11px;
+    font-weight:900;
+    letter-spacing:.07em;
+    text-transform:uppercase;
+    transition:background .2s ease, color .2s ease;
+  }
+
+  .source-link:hover,
+  .source-link:focus-visible{
+    outline:none;
+    background:transparent;
+    color:var(--matrix-black);
+  }
+
+  .source-link.secondary{
+    background:transparent;
+    color:var(--matrix-black);
+  }
+
+  .source-link.secondary:hover,
+  .source-link.secondary:focus-visible{
+    background:var(--matrix-black);
+    color:#fff;
+  }
+
+  .legend{
+    display:grid;
+    grid-template-columns:repeat(4, minmax(0,1fr));
+    gap:10px;
+    margin-top:24px;
+  }
+
+  .legend-item{
+    padding:14px;
+    border:1px solid var(--matrix-border);
+    background:rgba(255,255,255,.66);
+  }
+
+  .legend-item b{
+    display:block;
+    margin-bottom:5px;
+    color:var(--matrix-plum);
+    font-size:11px;
+    letter-spacing:.08em;
+    text-transform:uppercase;
+  }
+
+  .legend-item span{
+    color:var(--matrix-muted);
+    font-size:12px;
+    line-height:1.45;
+  }
+
+  .disclaimer{
+    margin:15px 0 0;
+    color:#6f6a67;
+    font-size:11px;
+    line-height:1.5;
+    text-align:center;
+  }
+
+  @media (max-width:820px){
+    .science-widget{padding:24px 14px 32px}
+    .explorer{grid-template-columns:1fr}
+    .map-card{min-height:auto}
+    .body-map{display:none}
+    .map-title{padding-bottom:18px}
+    .system-list{grid-template-columns:1fr 1fr}
+    .detail-card{min-height:0}
+    .detail-grid{grid-template-columns:1fr}
+    .legend{grid-template-columns:1fr 1fr}
+  }
+
+  @media (max-width:480px){
+    .system-list{grid-template-columns:1fr}
+    .legend{grid-template-columns:1fr}
+    .source-link{width:100%; justify-content:center}
+  }
+
+  @media (prefers-reduced-motion:reduce){
+    *{scroll-behavior:auto!important; transition:none!important}
+  }
+</style>
+</head>
+<body>
+<main class="science-widget">
+  <header class="science-header">
+    <div class="eyebrow">Matrix Science Library</div>
+    <h2>Explore How Massage Interacts With the Body</h2>
+    <p>Choose a body system to see how Swedish massage, deep tissue massage and manual lymphatic drainage can support comfort, movement, recovery and relaxation—and what researchers have observed.</p>
+    <div class="science-note">Science-backed care • Real-world benefits • Honest expectations</div>
+  </header>
+
+  <section class="explorer" aria-label="Interactive massage science explorer">
+    <div class="map-card">
+      <div class="map-title">
+        <strong>Select a body system</strong>
+        <span>Tap a point on the map or use the buttons below.</span>
+      </div>
+
+      <div class="body-map" aria-hidden="true">
+        <svg viewBox="0 0 330 455" role="img" aria-label="Simplified human body outline">
+          <circle class="body-outline" cx="165" cy="52" r="31"/>
+          <path class="body-outline" d="M126 98 Q165 78 204 98 L215 236 Q206 274 194 302 L194 424 Q194 442 181 442 Q168 442 168 424 L165 315 L162 424 Q162 442 149 442 Q136 442 136 424 L136 302 Q124 274 115 236 Z"/>
+          <path class="body-outline" d="M127 111 Q102 126 87 166 L55 268 Q50 283 62 287 Q74 291 81 276 L118 191"/>
+          <path class="body-outline" d="M203 111 Q228 126 243 166 L275 268 Q280 283 268 287 Q256 291 249 276 L212 191"/>
+          <path class="body-line" d="M165 84 L165 301"/>
+          <path class="body-line" d="M135 167 Q165 183 195 167"/>
+          <path class="body-line" d="M132 225 Q165 241 198 225"/>
+          <circle cx="165" cy="52" r="12" fill="rgba(200,173,115,.18)"/>
+          <path d="M145 133 Q165 112 185 133 Q195 151 165 177 Q135 151 145 133Z" fill="rgba(200,173,115,.18)"/>
+        </svg>
+
+        <button class="hotspot hs-nervous" data-system="nervous" data-label="Nervous system" aria-label="Nervous system" aria-pressed="false"></button>
+        <button class="hotspot hs-stress" data-system="stress" data-label="Stress + relaxation" aria-label="Stress and relaxation" aria-pressed="false"></button>
+        <button class="hotspot hs-circulation" data-system="circulation" data-label="Circulation" aria-label="Circulation" aria-pressed="false"></button>
+        <button class="hotspot hs-muscular" data-system="muscular" data-label="Muscles + fascia" aria-label="Muscles and fascia" aria-pressed="true"></button>
+        <button class="hotspot hs-lymphatic" data-system="lymphatic" data-label="Lymphatic system" aria-label="Lymphatic system" aria-pressed="false"></button>
+        <button class="hotspot hs-skin" data-system="skin" data-label="Skin + touch" aria-label="Skin and touch" aria-pressed="false"></button>
+        <button class="hotspot hs-joints" data-system="joints" data-label="Joints + movement" aria-label="Joints and movement" aria-pressed="false"></button>
+      </div>
+
+      <div class="system-list">
+        <button class="system-btn" data-system="muscular" aria-pressed="true">Muscles + Fascia</button>
+        <button class="system-btn" data-system="nervous" aria-pressed="false">Nervous System + Pain</button>
+        <button class="system-btn" data-system="circulation" aria-pressed="false">Circulation</button>
+        <button class="system-btn" data-system="lymphatic" aria-pressed="false">Lymphatic System</button>
+        <button class="system-btn" data-system="joints" aria-pressed="false">Joints + Movement</button>
+        <button class="system-btn" data-system="stress" aria-pressed="false">Stress + Relaxation</button>
+        <button class="system-btn" data-system="skin" aria-pressed="false">Skin + Sensory Input</button>
+      </div>
+    </div>
+
+    <article class="detail-card" aria-live="polite">
+      <div class="detail-topline">
+        <span class="system-kicker" id="systemKicker"></span>
+        <span class="evidence-badge"><span class="evidence-dot"></span><span id="evidenceLevel"></span></span>
+      </div>
+
+      <h3 class="detail-title" id="detailTitle"></h3>
+      <p class="detail-summary" id="detailSummary"></p>
+
+      <div class="detail-grid">
+        <div class="mini-card">
+          <h3>What massage may influence</h3>
+          <p id="mechanismText"></p>
+        </div>
+        <div class="mini-card">
+          <h3>What a client may notice</h3>
+          <ul class="notice-list" id="noticeList"></ul>
+        </div>
+      </div>
+
+      <div class="research-box">
+        <strong>What the research says</strong>
+        <p id="researchText"></p>
+      </div>
+
+      <div class="style-row" id="styleRow" aria-label="Explore related massage services at Matrix Massage in Salem Wisconsin"></div>
+
+      <div class="source-row" id="sourceRow"></div>
+    </article>
+  </section>
+
+  <section class="legend" aria-label="Massage benefits supported by research">
+    <div class="legend-item"><b>Pain + Comfort</b><span>Massage has meaningful research support for short-term relief and improved function in several pain conditions.</span></div>
+    <div class="legend-item"><b>Soreness + Mobility</b><span>Research supports reduced post-exercise soreness and modest improvements in flexibility or movement comfort.</span></div>
+    <div class="legend-item"><b>Relaxation + Wellbeing</b><span>Studies report benefits for relaxation, anxiety, mood or quality of life in a number of specific populations.</span></div>
+    <div class="legend-item"><b>Specialized Lymphatic Care</b><span>Manual lymphatic drainage is used within broader swelling and lymphedema management when clinically appropriate.</span></div>
+  </section>
+
+  <p class="disclaimer">Research is most useful when massage is matched to a specific goal, condition and outcome. Educational information only; massage therapy does not replace medical diagnosis or treatment.</p>
+</main>
+
+<script>
+
+const serviceLinks = {
+  "Swedish Massage":"https://www.matrixmassage.net/swedish-massage-salem-wi",
+  "Deep Tissue Massage":"https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+  "Manual Lymphatic Drainage":"https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+  "Post-Surgical Support With Clearance":"https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+  "Gentle Facial Lymphatic Work":"https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+  "Recovery-Focused Massage":"https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+  "Localized Therapeutic Work":"https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+  "Gentle Therapeutic Massage":"https://www.matrixmassage.net/swedish-massage-salem-wi",
+  "Targeted Therapeutic Massage":"https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+  "Prenatal Massage":"https://www.matrixmassage.net/all-services-listings",
+  "Gentle Head + Facial Massage":"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+  "Facial + Head Massage":"https://www.matrixmassage.net/spa-and-beauty-services-salem-wi"
+};
+
+const systems = {
+  muscular:{
+    kicker:"Muscles + Fascia",
+    evidence:"Best supported for soreness + mobility",
+    title:"Mechanical input meets sensory change.",
+    summary:"Massage applies compression, gliding, kneading and sustained pressure to soft tissue while stimulating touch and pressure receptors. The result is often a change in how tight, sore or restricted an area feels—not a literal breaking apart of tissue.",
+    mechanism:"Short-term effects may include altered stretch tolerance, reduced perceived muscle tension and changes in local tissue temperature or sensitivity. Fascia is living connective tissue, but claims that massage permanently “releases adhesions” should be stated cautiously.",
+    notices:["Less perceived tightness or soreness","Temporary improvement in comfort or range of motion","A calmer or more connected body sensation"],
+    research:"Systematic reviews show that massage can reduce delayed-onset muscle soreness and modestly improve flexibility. These findings make massage a useful recovery and comfort tool, even though its primary value is not direct athletic performance enhancement.",
+    styles:["Deep Tissue Massage","Swedish Massage","Recovery-Focused Massage"],
+    sources:[
+      ["Sports massage review","https://bmjopensem.bmj.com/content/6/1/e000614"],
+      ["Mechanistic muscle study","https://pubmed.ncbi.nlm.nih.gov/22301554/"]
+    ]
+  },
+  nervous:{
+    kicker:"Nervous System + Pain",
+    evidence:"Best supported for pain + comfort",
+    title:"Touch changes the information reaching the brain.",
+    summary:"Pain is influenced by tissue signals, context, stress, expectations and the nervous system’s interpretation of threat. Skilled, tolerable touch can provide non-threatening sensory input and may change pain intensity or sensitivity for some people.",
+    mechanism:"Massage stimulates mechanoreceptors in the skin and soft tissue. That input may influence pain processing, muscle guarding, body awareness and relaxation. It is more accurate to say massage may support regulation than to promise a permanent “nervous system reset.”",
+    notices:["Short-term reduction in pain intensity for some conditions","Less protective muscle guarding","Improved relaxation and body awareness"],
+    research:"A 2024 evidence map found that every conclusion reaching moderate certainty favored massage for pain. Across musculoskeletal conditions, reviews also report short-term improvements in pain and function, making symptom relief one of massage therapy’s strongest research-supported roles.",
+    styles:["Swedish Massage","Deep Tissue Massage","Gentle Therapeutic Massage"],
+    sources:[
+      ["Pain + function review","https://pubmed.ncbi.nlm.nih.gov/27165967/"],
+      ["2024 evidence map","https://pubmed.ncbi.nlm.nih.gov/39008297/"],
+      ["NCCIH overview","https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know"]
+    ]
+  },
+  circulation:{
+    kicker:"Circulation",
+    evidence:"Supports local tissue response",
+    title:"Local warmth is real. Whole-body claims need restraint.",
+    summary:"Rubbing and pressure can make the skin look warmer or pinker and may temporarily affect local surface blood flow. That is different from proving that massage meaningfully increases deep-muscle or whole-body circulation.",
+    mechanism:"Mechanical pressure can shift fluid briefly and friction can increase skin temperature. Blood flow findings depend on the body area, measurement method, pressure and timing.",
+    notices:["Temporary warmth or redness in the treated area","A subjective feeling of heaviness or lightness changing","No guaranteed whole-body circulatory effect"],
+    research:"Research supports temporary local responses such as warmth, surface blood flow and fluid displacement in treated tissues. The most accurate message is that massage influences the area being worked rather than promising a dramatic whole-body circulation change.",
+    styles:["Swedish Massage","Localized Therapeutic Work","Manual Lymphatic Drainage"],
+    sources:[
+      ["Local blood-flow study","https://pubmed.ncbi.nlm.nih.gov/15114265/"],
+      ["Controlled blood-flow study","https://pubmed.ncbi.nlm.nih.gov/9140896/"]
+    ]
+  },
+  lymphatic:{
+    kicker:"Lymphatic System",
+    evidence:"Specialized swelling support",
+    title:"Manual lymphatic drainage is specialized—not deep massage.",
+    summary:"Manual lymphatic drainage uses very light, sequenced strokes intended to support superficial fluid movement. It should be separated from Swedish or deep tissue massage and should not be marketed as a general “detox.”",
+    mechanism:"MLD is commonly used within broader lymphedema care. Technique, timing, diagnosis, compression and medical oversight matter, especially after surgery or cancer treatment.",
+    notices:["Gentle, rhythmic pressure rather than deep pressure","Possible short-term changes in swelling or comfort when appropriately indicated","A calming experience for many clients"],
+    research:"Manual lymphatic drainage is widely used within lymphedema and swelling care and may provide benefit as part of a comprehensive plan. Outcomes depend on the condition, timing, compression and medical context, which is why specialized technique and appropriate clearance matter.",
+    styles:["Manual Lymphatic Drainage","Post-Surgical Support With Clearance","Gentle Facial Lymphatic Work"],
+    sources:[
+      ["MLD systematic review","https://pubmed.ncbi.nlm.nih.gov/32803533/"],
+      ["Cochrane lymphedema review","https://pubmed.ncbi.nlm.nih.gov/25994425/"]
+    ]
+  },
+  joints:{
+    kicker:"Joints + Movement",
+    evidence:"Best supported for movement comfort",
+    title:"Massage works around joints—it does not realign bones.",
+    summary:"Massage may influence movement by changing pain, muscle tone, stretch tolerance and the comfort of tissues surrounding a joint. It does not reposition bones or correct structural alignment.",
+    mechanism:"When discomfort and protective tension decrease, a person may move more freely. Benefits are often temporary and are strongest when massage is paired with appropriate movement, strengthening or medical care.",
+    notices:["Easier-feeling movement","Temporary increase in range of motion","Short-term symptom relief in some joint conditions"],
+    research:"Clinical trials and reviews report short-term improvements in pain, stiffness or function for some musculoskeletal and osteoarthritis populations. Massage can be especially useful when reduced discomfort helps a person move more comfortably.",
+    styles:["Deep Tissue Massage","Swedish Massage","Targeted Therapeutic Massage"],
+    sources:[
+      ["Knee osteoarthritis trial","https://pubmed.ncbi.nlm.nih.gov/30543021/"],
+      ["2024 neck-pain review","https://pubmed.ncbi.nlm.nih.gov/39593614/"]
+    ]
+  },
+  stress:{
+    kicker:"Stress + Relaxation",
+    evidence:"Supports relaxation + wellbeing",
+    title:"The experience matters as much as the pressure.",
+    summary:"A quiet environment, predictable touch, comfortable pressure and a sense of safety can support relaxation. Many clients report feeling calmer after massage, but individual responses differ.",
+    mechanism:"Relaxation may involve attention, expectation, reduced muscle guarding, slower breathing and changes in autonomic activity. Claims about permanently lowering cortisol or “switching on” one branch of the nervous system are often oversimplified.",
+    notices:["A calmer mental state","Reduced perceived tension","Improved readiness for rest in some people"],
+    research:"Research in selected populations reports improvements in relaxation, anxiety, mood and quality of life. The strongest client-facing message is that massage can create a structured period of safe, calming sensory input.",
+    styles:["Swedish Massage","Prenatal Massage","Gentle Head + Facial Massage"],
+    sources:[
+      ["NCCIH science digest","https://www.nccih.nih.gov/health/providers/digest/massage-therapy-for-health-science"],
+      ["Massage research meta-analysis","https://pubmed.ncbi.nlm.nih.gov/14717648/"]
+    ]
+  },
+  skin:{
+    kicker:"Skin + Sensory Input",
+    evidence:"Established sensory effects",
+    title:"The skin is an active sensory organ.",
+    summary:"Massage begins at the skin, where pressure, vibration, temperature and movement are detected by sensory receptors. Temporary redness or warmth can occur from friction and local vascular responses.",
+    mechanism:"The skin communicates continuously with the nervous system. Technique, lubricant choice, allergies, skin integrity and hygiene all affect safety and comfort.",
+    notices:["Warmth or temporary pinkness","Heightened awareness of pressure and texture","Comfort from safe, predictable touch"],
+    research:"The skin’s sensory role is well established, and massage can create measurable local responses such as warmth and temporary changes in surface blood flow. These effects help explain why touch can influence comfort and body awareness.",
+    styles:["Swedish Massage","Facial + Head Massage","Gentle Therapeutic Massage"],
+    sources:[
+      ["NCCIH massage overview","https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know"],
+      ["Local skin blood-flow study","https://pubmed.ncbi.nlm.nih.gov/30477852/"]
+    ]
+  }
+};
+
+const allButtons = [...document.querySelectorAll("[data-system]")];
+const els = {
+  kicker:document.getElementById("systemKicker"),
+  evidence:document.getElementById("evidenceLevel"),
+  title:document.getElementById("detailTitle"),
+  summary:document.getElementById("detailSummary"),
+  mechanism:document.getElementById("mechanismText"),
+  notices:document.getElementById("noticeList"),
+  research:document.getElementById("researchText"),
+  styles:document.getElementById("styleRow"),
+  sources:document.getElementById("sourceRow")
+};
+
+function selectSystem(key){
+  const item = systems[key];
+  if(!item) return;
+
+  allButtons.forEach(btn => btn.setAttribute("aria-pressed", String(btn.dataset.system === key)));
+
+  els.kicker.textContent = item.kicker;
+  els.evidence.textContent = item.evidence;
+  els.title.textContent = item.title;
+  els.summary.textContent = item.summary;
+  els.mechanism.textContent = item.mechanism;
+  els.research.textContent = item.research;
+
+  els.notices.replaceChildren(...item.notices.map(text => {
+    const li = document.createElement("li");
+    li.textContent = text;
+    return li;
+  }));
+
+  els.styles.replaceChildren(...item.styles.map(text => {
+    const a = document.createElement("a");
+    a.className = "style-chip";
+    a.href = serviceLinks[text] || "https://www.matrixmassage.net/massage-therapy-services-salem-wi";
+    a.target = "_top";
+    a.setAttribute("aria-label", "Learn more about " + text + " at Matrix Massage in Salem, Wisconsin");
+    a.textContent = text + " →";
+    return a;
+  }));
+
+  els.sources.replaceChildren(...item.sources.map((source, index) => {
+    const a = document.createElement("a");
+    a.className = "source-link" + (index ? " secondary" : "");
+    a.href = source[1];
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    a.textContent = source[0] + " ↗";
+    return a;
+  }));
+}
+
+allButtons.forEach(btn => btn.addEventListener("click", () => selectSystem(btn.dataset.system)));
+selectSystem("muscular");
+</script>
+</body>
+</html>
