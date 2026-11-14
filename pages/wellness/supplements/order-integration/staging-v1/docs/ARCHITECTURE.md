@@ -22,7 +22,7 @@
 2. Customer sees itemized price, order deadline and checkbox for terms; optional marketing opt-in is separate and unchecked.
 3. Frontend invokes a Wix backend web method; NEVER trust the price supplied by the browser.
 4. After bot protection and unique submission-key validation, backend writes one submission to owner-only `MatrixSupplementOrderIntakeV2` with `cartJson` containing ONLY IDs and quantities.
-5. Wix built-in Automations **CMS item added → Update Google Sheets** maps that collection's fields into `Cart Intake V2` A:O. This action requires signed-in Wix dashboard Google OAuth and must stay INACTIVE until mapped/tested.
+5. Wix built-in Automations **CMS item added → Update Google Sheets** maps that collection's fields to A–D, F–L and N in `Cart Intake V2`; leave E, M and O blank, reserved for optional phone and backend-generated fields. See exact mapping in `WORK_EXECUTION_ONLY.md`. This action requires signed-in Wix dashboard Google OAuth and must stay INACTIVE until mapped/tested.
 6. Private Apps Script, running as owner, validates approved catalog SKUs/quantities/policy, generates immutable order/line snapshots, and prepares an invoice request. The provided version is intentionally DRY RUN ONLY and writes no orders, invoices, emails or supplier purchases.
 
 ### Future invoice path — after explicit QA and release

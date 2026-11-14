@@ -1,12 +1,14 @@
 {
   "project": "FACIAL WEB SEO PW",
-  "package": "MATRIX Supplement Order Staging v1",
-  "status": "SOURCE_CREATED / LOCAL_QA_TESTED / SHEETS_EDITED / PRIVATE_WIX_CMS_CREATED / AUTHENTICATED_CONNECTIONS_NOT_INSTALLED / NO CUSTOMER ACTIONS",
-  "tests": {
-    "order_core": 17,
-    "apps_script_mock": 4
+  "package": "MATRIX Supplement Order Staging v1.1",
+  "status": "SHEETS_VERIFIED / PRIVATE_WIX_CMS_VERIFIED / SOURCE_TESTED / APPS_SCRIPT_AND_WIX_AUTOMATION_NOT_INSTALLED / NOT LIVE",
+  "qa": {
+    "core_unit_tests": 17,
+    "apps_script_mock_tests": 4,
+    "wix_catalog_staging_count": 0,
+    "wix_intake_staging_count": 0
   },
-  "source_files": {
+  "files": {
     "apps-script/Code.gs": {
       "sha256": "d2028f1aaf47606405b21c1600abb99986a91218a69efab1c61c94b28f233af2",
       "bytes": 7801
@@ -20,8 +22,8 @@
       "bytes": 174
     },
     "docs/ARCHITECTURE.md": {
-      "sha256": "a51fa1762354936e8df87651f809ca1015209235401757aade83b22d094c3189",
-      "bytes": 5747
+      "sha256": "8b48ef07f8802a29c029492a61653d9d3802b2becabb5c6c1139a0dc0399f1b2",
+      "bytes": 5892
     },
     "docs/PRODUCT_DATA_ENTRY.md": {
       "sha256": "bf6da69c509c0a2fed77df4ba1ca6572743a46c33718df08af39c980102dacc2",
@@ -32,8 +34,8 @@
       "bytes": 2117
     },
     "docs/WORK_EXECUTION_ONLY.md": {
-      "sha256": "7b1ba96b495e1849fe567574047d2c440ea776893f883ec7dca343832be5b86b",
-      "bytes": 6488
+      "sha256": "bafd5f1da16d2abc2e79dc979ec4ca656b553e823e45ae5ca90f82d43e84b299",
+      "bytes": 7835
     },
     "src/order-core.js": {
       "sha256": "fdd496c6a528883bfe2c2e48e5ac0755b0af43e2a92ffb3fa892f5acb47626b4",
