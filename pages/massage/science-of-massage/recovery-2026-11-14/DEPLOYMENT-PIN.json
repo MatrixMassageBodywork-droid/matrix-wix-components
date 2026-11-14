@@ -1,0 +1,7 @@
+{
+  "sourceCommit": "0037aa27f69f8c7df22b0325558b12e30a94a968",
+  "rendererUrl": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@0037aa27f69f8c7df22b0325558b12e30a94a968/pages/massage/science-of-massage/recovery-2026-11-14/renderer.js",
+  "sourceBlob": "7fe70d5f0bf3b9d300eac77cb238e73f1ae562ac",
+  "deliveryReason": "Current main tree exceeds jsDelivr 50MB package limit. Identical renderer saved on release branch from prior deployed source commit. HTTP200 and exact content match verified. This supersedes source URL in EXECUTION.md; no other files from older branch are installed.",
+  "httpVerified": true
+}
