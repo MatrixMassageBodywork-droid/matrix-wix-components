@@ -1,0 +1,124 @@
+{
+  "status": "PASS",
+  "viewports": [
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "overflow": 0,
+      "logoLoaded": true,
+      "logosize": [
+        2048,
+        1529
+      ],
+      "featureColumns": "280px",
+      "qualityColumns": "280px",
+      "faqExpanded": 8,
+      "hasBase64Water": true,
+      "hasFullscriptLabel": false,
+      "hasSquareLabel": false,
+      "errors": []
+    },
+    {
+      "width": 375,
+      "scrollWidth": 375,
+      "overflow": 0,
+      "logoLoaded": true,
+      "logosize": [
+        2048,
+        1529
+      ],
+      "featureColumns": "335px",
+      "qualityColumns": "335px",
+      "faqExpanded": 8,
+      "hasBase64Water": true,
+      "hasFullscriptLabel": false,
+      "hasSquareLabel": false,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "overflow": 0,
+      "logoLoaded": true,
+      "logosize": [
+        2048,
+        1529
+      ],
+      "featureColumns": "350px",
+      "qualityColumns": "350px",
+      "faqExpanded": 8,
+      "hasBase64Water": true,
+      "hasFullscriptLabel": false,
+      "hasSquareLabel": false,
+      "errors": []
+    },
+    {
+      "width": 700,
+      "scrollWidth": 700,
+      "overflow": 0,
+      "logoLoaded": true,
+      "logosize": [
+        2048,
+        1529
+      ],
+      "featureColumns": "660px",
+      "qualityColumns": "660px",
+      "faqExpanded": 8,
+      "hasBase64Water": true,
+      "hasFullscriptLabel": false,
+      "hasSquareLabel": false,
+      "errors": []
+    },
+    {
+      "width": 1280,
+      "scrollWidth": 1280,
+      "overflow": 0,
+      "logoLoaded": true,
+      "logosize": [
+        2048,
+        1529
+      ],
+      "featureColumns": "536px 536px",
+      "qualityColumns": "353.328px 353.328px 353.344px",
+      "faqExpanded": 8,
+      "hasBase64Water": true,
+      "hasFullscriptLabel": false,
+      "hasSquareLabel": false,
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "overflow": 0,
+      "logoLoaded": true,
+      "logosize": [
+        2048,
+        1529
+      ],
+      "featureColumns": "536px 536px",
+      "qualityColumns": "353.328px 353.328px 353.344px",
+      "faqExpanded": 8,
+      "hasBase64Water": true,
+      "hasFullscriptLabel": false,
+      "hasSquareLabel": false,
+      "errors": []
+    },
+    {
+      "width": 1920,
+      "scrollWidth": 1920,
+      "overflow": 0,
+      "logoLoaded": true,
+      "logosize": [
+        2048,
+        1529
+      ],
+      "featureColumns": "536px 536px",
+      "qualityColumns": "353.328px 353.328px 353.344px",
+      "faqExpanded": 8,
+      "hasBase64Water": true,
+      "hasFullscriptLabel": false,
+      "hasSquareLabel": false,
+      "errors": []
+    }
+  ]
+}

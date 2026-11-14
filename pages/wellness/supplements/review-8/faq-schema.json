@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where can I find health supplements and vitamins in Salem, WI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Explore the Matrix Supplement & Vitamin Dispensary online for curated vitamins, daily wellness essentials and supplement collections. Our wellness studio is located at 24804 75th St, Salem, WI 53168, near Paddock Lake."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I order from Paddock Lake, Twin Lakes, Burlington, Union Grove or Bristol?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Our online supplement dispensary welcomes shoppers from Paddock Lake, Twin Lakes, Burlington, Union Grove, Bristol and nearby communities. Browse collections anytime and review product prices and delivery choices while ordering."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I order a bundle or individual supplements?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Shop individual vitamins or supplements anytime through our everyday dispensary. For extra monthly savings, choose a curated bundle, individual products, or both during our featured event. We’ll email an invoice with your total and payment due date after reviewing your request."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I pick up vitamins or supplements at the Salem studio?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Each monthly savings event will feature clear order dates and available fulfillment choices. Everyday dispensary shoppers can see delivery options during checkout. For details, text Matrix at 262-939-9325."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When will Matrix place its monthly supplement orders?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our monthly savings events are planned around the 1st and 15th. Each event will feature its own ordering window, product selections, and special prices. After you submit your favorites, an invoice will be emailed with your total and due date."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes monthly savings events special?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our monthly savings events offer special preorder pricing on featured bundles and individual supplements when you plan ahead. Our everyday dispensary offers convenient shopping at your regular Matrix customer discount. Choose the option that fits your schedule and savings goals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What quality standards are behind Matrix supplement collections?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our dispensary features professional brands evaluated for manufacturing quality standards and documentation. Medical and quality teams review new catalog additions, while select products receive additional independent testing. Explore each collection to see ingredients and product details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will submitting a product request sign me up for marketing emails?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Updates about monthly Matrix collections will be optional. You can choose whether to receive promotional emails, and every marketing message will offer a way to unsubscribe."
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "version": "R8",
+  "source": "R7",
+  "publicCopy": "positive savings and expert quality proof",
+  "status": "LOCAL_TESTED_NOT_INSTALLED",
+  "files": {
+    "structured-data-candidate.json": "a8b6c9b00cef89ed98dd89c87af8b3c3106b24ba4938eada22b73f3f22c7fc82",
+    "WORK_EXECUTION.md": "0fd79913e3310f1ca94847d320af55045c00ed196bd70fc09de8d2a10260e149",
+    "body.html": "e5708895801f065f08bd69aeef1b98536b72168ed932120219a6f5b9ced0db9a",
+    "metadata-candidate.json": "ef855c6b9a0c79d2d010e170526ae7809802604bf7c31119d4468f2ce0ca4c32",
+    "style.css": "28566170b65fff4b10b7ee04a273e7aab196accef4afd52d112fcee5fb1757be",
+    "visual-qa.json": "9454f2c33e6d1de1a8f50a0971afafd8774ed4fc14589b8b2fea3bba0d5f008c",
+    "page-config.json": "2c43ff46703b97203097f38bb4e7a19e2f3274bbe663fddc5f23dbc1509d7286",
+    "WIX_SEO_SNIPPET_CANDIDATE.js": "39d5a79fd07640f6857acdc0fe98d79375d4de6badf6eb6a19389de8e8be10ed",
+    "renderer.js": "619f9b31edf5aa39401910fb829bbb9bf1c285ce229f1ea794cdb0e1170a880e",
+    "faq-schema.json": "a2a92ac3369345d160e4865b8aaa71323f514edd8d97c2ec20552b544ac03900",
+    "navigation-patch.json": "025ff705f3777e4feb2bc077ff8d65e6222aabbff97648355499718a4b98a025",
+    "preview.html": "4b7bd82543a3f628e9528ca703a8a6304f4bd51a2ed525ad389852eaa7f42f31",
+    "README.md": "ee949b28e6344639391c69f112830319773ac6d7a96ba92f080c36cb34168b7b"
+  },
+  "reviewedStandards": [
+    "https://fullscript.com/practice-management/fullscript-quality-assurance",
+    "https://fullscript.com/patient-education/how-fullscript-ensures-supplement-quality"
+  ],
+  "liveSiteMutations": false
+}
