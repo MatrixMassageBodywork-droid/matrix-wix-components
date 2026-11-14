@@ -1,0 +1,478 @@
+{
+  "status": "SAVED / VERIFIED / TESTED / PUBLISHED-RELEASED",
+  "date": "2026-11-14",
+  "siteRevision": 1182,
+  "testRevision": 1181,
+  "baselineRevision": 1177,
+  "url": "https://www.matrixmassage.net/the-science-of-massage-therapy#ms-explorer",
+  "rendererCommit": "0037aa27f69f8c7df22b0325558b12e30a94a968",
+  "rendererSha256": "bd9201841659a99173b5ceb201816300e1be722ca6cff25216452a386ee536b4",
+  "live": [
+    [
+      {
+        "key": "muscular",
+        "pressed": [
+          "muscular",
+          "muscular"
+        ],
+        "reviewGap": 0,
+        "title": "Mechanical input meets sensory change."
+      },
+      {
+        "key": "nervous",
+        "pressed": [
+          "nervous",
+          "nervous"
+        ],
+        "reviewGap": 0,
+        "title": "Touch changes the information reaching the brain."
+      },
+      {
+        "key": "circulation",
+        "pressed": [
+          "circulation",
+          "circulation"
+        ],
+        "reviewGap": 0,
+        "title": "Local warmth is real. Whole-body claims need restraint."
+      },
+      {
+        "key": "lymphatic",
+        "pressed": [
+          "lymphatic",
+          "lymphatic"
+        ],
+        "reviewGap": 0,
+        "title": "Manual lymphatic drainage is specialized—not deep massage."
+      },
+      {
+        "key": "joints",
+        "pressed": [
+          "joints",
+          "joints"
+        ],
+        "reviewGap": 0,
+        "title": "Massage works around joints—it does not realign bones."
+      },
+      {
+        "key": "stress",
+        "pressed": [
+          "stress",
+          "stress"
+        ],
+        "reviewGap": 0,
+        "title": "The experience matters as much as the pressure."
+      },
+      {
+        "key": "skin",
+        "pressed": [
+          "skin",
+          "skin"
+        ],
+        "reviewGap": 0.000244140625,
+        "title": "The skin is an active sensory organ."
+      }
+    ],
+    {
+      "liveHotspotTitle": "Touch changes the information reaching the brain."
+    }
+  ],
+  "liveSeo": [
+    {
+      "canonical": "https://www.matrixmassage.net/the-science-of-massage-therapy",
+      "description": "Explore the science and benefits of Swedish, deep tissue and lymphatic massage at Matrix Massage in Salem, WI, serving Paddock Lake and Kenosha County.",
+      "explorerButtons": 7,
+      "faqCount": 6,
+      "h1": [
+        "The Science of Massage Therapy"
+      ],
+      "renderer": [
+        "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@0037aa27f69f8c7df22b0325558b12e30a94a968/pages/massage/science-of-massage/recovery-2026-11-14/renderer.js"
+      ],
+      "robots": [],
+      "schemas": [
+        "FAQPage",
+        "HealthAndBeautyBusiness",
+        "Service"
+      ],
+      "scrollWidth": 1521,
+      "title": "Science of Massage Therapy in Salem WI | Matrix Massage",
+      "width": 1521
+    }
+  ],
+  "finalSelection": [
+    {
+      "pressed": [
+        "muscular",
+        "muscular"
+      ],
+      "title": "Mechanical input meets sensory change."
+    }
+  ],
+  "faqAndImages": [
+    {
+      "anchor": "#ms-explorer",
+      "faqExact": true,
+      "footerPresent": true,
+      "headerPresent": true,
+      "images": [
+        {
+          "alt": "Matrix Massage & Bodywork logo",
+          "loaded": true
+        },
+        {
+          "alt": "Massage therapy imagery already used on Matrix's Science of Massage page",
+          "loaded": true
+        }
+      ],
+      "reviewPresent": true
+    }
+  ],
+  "nativePreview": {
+    "desktop": [
+      [
+        {
+          "key": "muscular",
+          "kicker": "Muscles + Fascia",
+          "notices": [
+            "Less perceived tightness or soreness",
+            "Temporary improvement in comfort or range of motion",
+            "A calmer or more connected body sensation"
+          ],
+          "pressed": [
+            "muscular",
+            "muscular"
+          ],
+          "sources": [
+            "https://bmjopensem.bmj.com/content/6/1/e000614",
+            "https://pubmed.ncbi.nlm.nih.gov/22301554/"
+          ],
+          "styles": [
+            "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+            "https://www.matrixmassage.net/swedish-massage-salem-wi",
+            "https://www.matrixmassage.net/massage-therapy-services-salem-wi"
+          ],
+          "title": "Mechanical input meets sensory change."
+        },
+        {
+          "key": "nervous",
+          "kicker": "Nervous System + Pain",
+          "notices": [
+            "Short-term reduction in pain intensity for some conditions",
+            "Less protective muscle guarding",
+            "Improved relaxation and body awareness"
+          ],
+          "pressed": [
+            "nervous",
+            "nervous"
+          ],
+          "sources": [
+            "https://pubmed.ncbi.nlm.nih.gov/27165967/",
+            "https://pubmed.ncbi.nlm.nih.gov/39008297/",
+            "https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know"
+          ],
+          "styles": [
+            "https://www.matrixmassage.net/swedish-massage-salem-wi",
+            "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+            "https://www.matrixmassage.net/swedish-massage-salem-wi"
+          ],
+          "title": "Touch changes the information reaching the brain."
+        },
+        {
+          "key": "circulation",
+          "kicker": "Circulation",
+          "notices": [
+            "Temporary warmth or redness in the treated area",
+            "A subjective feeling of heaviness or lightness changing",
+            "No guaranteed whole-body circulatory effect"
+          ],
+          "pressed": [
+            "circulation",
+            "circulation"
+          ],
+          "sources": [
+            "https://pubmed.ncbi.nlm.nih.gov/15114265/",
+            "https://pubmed.ncbi.nlm.nih.gov/9140896/"
+          ],
+          "styles": [
+            "https://www.matrixmassage.net/swedish-massage-salem-wi",
+            "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+            "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi"
+          ],
+          "title": "Local warmth is real. Whole-body claims need restraint."
+        },
+        {
+          "key": "lymphatic",
+          "kicker": "Lymphatic System",
+          "notices": [
+            "Gentle, rhythmic pressure rather than deep pressure",
+            "Possible short-term changes in swelling or comfort when appropriately indicated",
+            "A calming experience for many clients"
+          ],
+          "pressed": [
+            "lymphatic",
+            "lymphatic"
+          ],
+          "sources": [
+            "https://pubmed.ncbi.nlm.nih.gov/32803533/",
+            "https://pubmed.ncbi.nlm.nih.gov/25994425/"
+          ],
+          "styles": [
+            "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+            "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+            "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi"
+          ],
+          "title": "Manual lymphatic drainage is specialized—not deep massage."
+        },
+        {
+          "key": "joints",
+          "kicker": "Joints + Movement",
+          "notices": [
+            "Easier-feeling movement",
+            "Temporary increase in range of motion",
+            "Short-term symptom relief in some joint conditions"
+          ],
+          "pressed": [
+            "joints",
+            "joints"
+          ],
+          "sources": [
+            "https://pubmed.ncbi.nlm.nih.gov/30543021/",
+            "https://pubmed.ncbi.nlm.nih.gov/39593614/"
+          ],
+          "styles": [
+            "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+            "https://www.matrixmassage.net/swedish-massage-salem-wi",
+            "https://www.matrixmassage.net/deep-tissue-massage-salem-wi"
+          ],
+          "title": "Massage works around joints—it does not realign bones."
+        },
+        {
+          "key": "stress",
+          "kicker": "Stress + Relaxation",
+          "notices": [
+            "A calmer mental state",
+            "Reduced perceived tension",
+            "Improved readiness for rest in some people"
+          ],
+          "pressed": [
+            "stress",
+            "stress"
+          ],
+          "sources": [
+            "https://www.nccih.nih.gov/health/providers/digest/massage-therapy-for-health-science",
+            "https://pubmed.ncbi.nlm.nih.gov/14717648/"
+          ],
+          "styles": [
+            "https://www.matrixmassage.net/swedish-massage-salem-wi",
+            "https://www.matrixmassage.net/all-services-listings",
+            "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi"
+          ],
+          "title": "The experience matters as much as the pressure."
+        },
+        {
+          "key": "skin",
+          "kicker": "Skin + Sensory Input",
+          "notices": [
+            "Warmth or temporary pinkness",
+            "Heightened awareness of pressure and texture",
+            "Comfort from safe, predictable touch"
+          ],
+          "pressed": [
+            "skin",
+            "skin"
+          ],
+          "sources": [
+            "https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know",
+            "https://pubmed.ncbi.nlm.nih.gov/30477852/"
+          ],
+          "styles": [
+            "https://www.matrixmassage.net/swedish-massage-salem-wi",
+            "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi",
+            "https://www.matrixmassage.net/swedish-massage-salem-wi"
+          ],
+          "title": "The skin is an active sensory organ."
+        }
+      ]
+    ],
+    "mobile": [
+      [
+        {
+          "bodyScrollWidth": 320,
+          "bodyWidth": 320,
+          "key": "muscular",
+          "title": "Mechanical input meets sensory change."
+        },
+        {
+          "bodyScrollWidth": 320,
+          "bodyWidth": 320,
+          "key": "nervous",
+          "title": "Touch changes the information reaching the brain."
+        },
+        {
+          "bodyScrollWidth": 320,
+          "bodyWidth": 320,
+          "key": "circulation",
+          "title": "Local warmth is real. Whole-body claims need restraint."
+        },
+        {
+          "bodyScrollWidth": 320,
+          "bodyWidth": 320,
+          "key": "lymphatic",
+          "title": "Manual lymphatic drainage is specialized—not deep massage."
+        },
+        {
+          "bodyScrollWidth": 320,
+          "bodyWidth": 320,
+          "key": "joints",
+          "title": "Massage works around joints—it does not realign bones."
+        },
+        {
+          "bodyScrollWidth": 320,
+          "bodyWidth": 320,
+          "key": "stress",
+          "title": "The experience matters as much as the pressure."
+        },
+        {
+          "bodyScrollWidth": 320,
+          "bodyWidth": 320,
+          "key": "skin",
+          "title": "The skin is an active sensory organ."
+        }
+      ],
+      {
+        "faqs": [
+          {
+            "index": 0,
+            "opened": true,
+            "closed": true
+          },
+          {
+            "index": 1,
+            "opened": true,
+            "closed": true
+          },
+          {
+            "index": 2,
+            "opened": true,
+            "closed": true
+          },
+          {
+            "index": 3,
+            "opened": true,
+            "closed": true
+          },
+          {
+            "index": 4,
+            "opened": true,
+            "closed": true
+          },
+          {
+            "index": 5,
+            "opened": true,
+            "closed": true
+          }
+        ]
+      }
+    ],
+    "hotspots": [
+      {
+        "hotspots": [
+          {
+            "key": "muscular",
+            "title": "Mechanical input meets sensory change."
+          },
+          {
+            "key": "nervous",
+            "title": "Touch changes the information reaching the brain."
+          },
+          {
+            "key": "circulation",
+            "title": "Local warmth is real. Whole-body claims need restraint."
+          },
+          {
+            "key": "lymphatic",
+            "title": "Manual lymphatic drainage is specialized—not deep massage."
+          },
+          {
+            "key": "joints",
+            "title": "Massage works around joints—it does not realign bones."
+          },
+          {
+            "key": "stress",
+            "title": "The experience matters as much as the pressure."
+          },
+          {
+            "key": "skin",
+            "title": "The skin is an active sensory organ."
+          }
+        ],
+        "keyboardMuscles": "Mechanical input meets sensory change."
+      }
+    ],
+    "nativeMobile": [
+      {
+        "bodyScrollWidth": 320,
+        "bodyWidth": 320,
+        "buttons": [
+          {
+            "height": 44,
+            "text": "Muscles + Fascia",
+            "width": 242.40000915527344
+          },
+          {
+            "height": 44,
+            "text": "Nervous System + Pain",
+            "width": 242.40000915527344
+          },
+          {
+            "height": 44,
+            "text": "Circulation",
+            "width": 242.40000915527344
+          },
+          {
+            "height": 44,
+            "text": "Lymphatic System",
+            "width": 242.40000915527344
+          },
+          {
+            "height": 44,
+            "text": "Joints + Movement",
+            "width": 242.40000915527344
+          },
+          {
+            "height": 44,
+            "text": "Stress + Relaxation",
+            "width": 242.40000915527344
+          },
+          {
+            "height": 44,
+            "text": "Skin + Sensory Input",
+            "width": 242.40000915527344
+          }
+        ],
+        "mapDisplay": "none",
+        "scrollWidth": 320,
+        "width": 320
+      }
+    ]
+  },
+  "scope": {
+    "baseline": 1177,
+    "test": 1181,
+    "entries": 41,
+    "unchangedFileNames": 38,
+    "changedFileNames": [
+      "plsho",
+      "masterPage",
+      "ghmgt"
+    ],
+    "actualNonScienceModuleChanges": 0,
+    "note": "HOME and masterPage compiled features/platform models compare equal; only Science content changed. Public1182 and test1181 page maps differ only for plsho."
+  },
+  "limitations": [
+    "Mobile QA used Wix native 320px mobile preview; no physical phone or independent 390px mobile session tested.",
+    "Research source links were retained; this restoration did not independently re-review all clinical claims or source destinations.",
+    "No Google indexing or ranking claim."
+  ]
+}
