@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does research actually say about massage therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Research suggests massage may offer short-term comfort for some pain conditions, and many people find it relaxing. Study quality, the size of the benefit and how long it lasts vary. Massage is a complementary option, not a cure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does massage release toxins or permanently break up knots?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is no reliable evidence that general massage flushes unspecified toxins out of the body or permanently breaks apart every felt muscle knot. Feeling less tense can still be a worthwhile result."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is deep tissue massage more effective than Swedish massage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Not necessarily. Deep tissue emphasizes slower, focused work, while Swedish massage typically uses broader flowing strokes. Research does not show that more pressure is automatically better. Choose based on your goals and comfort."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is lymphatic drainage different from ordinary massage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Manual lymphatic drainage uses very light, sequenced movements and has specialized roles in some swelling-related care. It is not the same as Swedish or deep tissue massage. New or unexplained swelling needs medical assessment first."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can massage improve posture or treat nerve problems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Massage may make movement feel more comfortable, but it has not been shown to correct structural alignment or diagnose or cure nerve conditions. Persistent numbness, weakness or unexplained pain should be evaluated by a healthcare professional."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often should I book a massage?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is no evidence-based universal schedule for every person. Your goals, response, budget and health history matter. Current service lengths, prices and availability are in the Matrix Square booking menu."
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "status": "SOURCE READY FOR REVIEW; NOT INSTALLED/PUBLISHED",
+  "date": "2026-11-13 America/Chicago",
+  "pageId": "plsho",
+  "pageUrl": "https://www.matrixmassage.net/the-science-of-massage-therapy",
+  "version": "review-2026-11-13",
+  "h1Count": 1,
+  "faqCount": 6,
+  "linkCount": 19,
+  "links": [
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "#ms-evidence",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know",
+    "https://my.clevelandclinic.org/health/treatments/21768-lymphatic-drainage-massage",
+    "https://www.matrixmassage.net/swedish-massage-salem-wi",
+    "https://www.matrixmassage.net/deep-tissue-massage-salem-wi",
+    "https://www.matrixmassage.net/manual-lymphatic-drainage-massage-salem-wi",
+    "https://www.matrixmassage.net/post/the-science-of-serenity-unpacking-the-proven-benefits-of-massage-therapy-in-salem-wi",
+    "https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know",
+    "sms:+12629399325",
+    "https://www.nccih.nih.gov/health/massage-therapy-what-you-need-to-know",
+    "https://www.nccih.nih.gov/health/providers/digest/massage-therapy-for-health-science",
+    "https://my.clevelandclinic.org/health/treatments/21768-lymphatic-drainage-massage",
+    "https://pubmed.ncbi.nlm.nih.gov/39008297/",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+    "https://maps.google.com/maps?cid=13922054554836148682",
+    "sms:+12629399325"
+  ],
+  "images": [
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_c35a32fb07bc4445bb822ed185350e25~mv2.jpg",
+      "provenance": "Owner-approved Matrix subpage logo"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/e4cc43_5e5bd35f00a64d7687d191463da17906~mv2.png",
+      "provenance": "Existing live Science page asset, verify exact visual in Wix editor"
+    },
+    {
+      "src": "https://static.wixstatic.com/media/11062b_2413040bb0e142369d76f3878b966792~mv2.jpeg",
+      "provenance": "Shared approved dark teal water asset"
+    }
+  ],
+  "seoPreserved": {
+    "title": "Science of Massage Therapy in Salem WI | Matrix Massage",
+    "description": "Explore the science and benefits of Swedish, deep tissue and lymphatic massage at Matrix Massage in Salem, WI, serving Paddock Lake and Kenosha County.",
+    "canonical": "https://www.matrixmassage.net/the-science-of-massage-therapy",
+    "schemaIds": [
+      "WdT45PpE",
+      "iLHDoFD_"
+    ]
+  },
+  "tests": [
+    "one-h1",
+    "six-faqs",
+    "valid-link-shapes",
+    "scoped-css",
+    "no-MassageBook"
+  ],
+  "notTested": [
+    "Wix editor save",
+    "actual mobile viewport",
+    "source CDN",
+    "live publish",
+    "image visual inspection",
+    "published HTML head"
+  ]
+}
