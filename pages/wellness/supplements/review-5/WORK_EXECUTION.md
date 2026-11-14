@@ -1,0 +1,45 @@
+# Matrix Supplements R5 — exact Wix Classic execution (pending)
+
+Date: 2026-11-13 CT. Project: FACIAL WEB SEO PW. Existing Wix Classic site ID `cdec8df6-d518-4859-9f1e-f06bf5346d41`. Existing Supplements page ID `aeh8h`. Existing Infrared Sauna page ID `nf4iw`, canonical `https://www.matrixmassage.net/infrared-sauna-salem-wi` (read-only Wix SEO result HTTP 200 on 2026-11-13). Do not create a new Wix site, page, sauna page, or menu.
+
+## Authority and exact scope
+- Most recent Supplements R4 draft source commit: `d1f4f37f174efe9a4a97cf6edc3fc77f2ae31102`; R5 builds from that version only. R3 approved logo and teal water unchanged.
+- Latest verified live site content release preceding this work: Wix 1166 on November 13; do not mistake it for current saved editor state.
+- User specifically approved two corrections: (1) remove the highlighted negative geographic sentence and ALL visible Fullscript references from the Supplements page, including on-page FAQs, button labels, SEO description, social copy and JSON-LD names/descriptions; (2) add existing Infrared Sauna as a child of the Wellness & Biotech Services site menu, after Red Light Therapy and before Supplements & Wellness. No provider/API integration or paid service.
+- Proposed existing-page URL from prior user instruction: `/supplements-vitamins-salem-wi`, to be coordinated with its one-hop 301 from `/supplements` and with current site-wide SEO rollout; never independently point an existing canonical at an unpublished slug.
+- Preserve Matrix public dispensary links exactly as current: six individual plan URLs plus two storefront URLs; the external host names remain in `href` as technical destinations. DO NOT remove them, create proxies, promise local stock, fake checkout, or change provider account settings.
+
+## Step 0 — fresh readback, no change
+1. Read latest project checkpoint at `https://drive.google.com/file/d/1fQuDHDCRSVp3r0tpS5NGcn2ClKoej6NC/view` plus this R5 receipt and GitHub source commit; capture actual current saved editor state of Wix Classic site `cdec8df6-d518-4859-9f1e-f06bf5346d41`, page `aeh8h`, and current shared navigation.
+2. Capture current full target page DOM/native section map, page Velo handlers, SEO title/description/canonical/indexability, structured data entry IDs, source/tag/ID, page slug and site-wide draft/publish status. Read Wix Site History and pending unrelated changes. Preserve current 0%-exposure Test Site state; do not create, discard, or change an unknown test.
+3. If current Wix source differs materially from expected R4/page baseline or carries newer work, STOP mutation for that affected component and return exact before-state evidence; do not overwrite or restore. Determine whether R5 is first custom-element installation or revision of already installed custom element.
+4. Confirm current menu submenu has `RED LIGHT THERAPY`, `SUPPLEMENTS & WELLNESS` and lacks `INFRARED SAUNA`, and existing sauna page ID `nf4iw` is available. If already correctly present, verify and do not duplicate.
+
+## Step 1 — install R5 page content as saved draft
+1. Take exact verified R5 production `renderer.js`, `body.html`, `style.css`, and `WIX_SEO_SNIPPET_CANDIDATE.js` from the R5 package. Merge content into observed page architecture; NEVER wholesale replace unknown page code. Keep all header/footer/reviews, social links, forms and analytics. The new renderer source must be pinned to the verified immutable GitHub commit (not `main`), with exact bytes/hash readback.
+2. Use native custom element tag `matrix-supplements-page`, ID `matrixSupplementsPageV1` only if unused or already mapped correctly to Supplements page `aeh8h`. If the component is not installed, use an observed suitable blank/native section; do not copy an ID from another page. Preserve native stretch/full width and 0 side margins. Ensure height grows with full body and FAQs.
+3. Remove only confirmed obsolete local Supplements body sections after new content renders correctly, avoiding duplicate H1, duplicate old supplier copy, duplicate plan cards, or fake-old discounts.
+4. Merge `seoMarkup` as the complete visible R5 body HTML into actual page Velo code. Keep correct non-Supplements code intact. Save, reopen and read back exact source, tag, ID and native dimensions before proceeding.
+5. Update native Supplements title/description and replace existing structured-data entry ID `-XDVhoNa` with R5 approved metadata/schema *only within the coordinated page release*, preserving site identity, canonical and inherited unrelated tags. Do not append duplicate `FAQPage`, `Business` or `CollectionPage` entities. Align new slug with explicit migration requirements (see Step 3). Keep prior native social share image unless a separate user-approved image change.
+
+## Step 2 — add Infrared Sauna to existing shared menu
+1. Open existing Wix Classic Editor site and existing shared header menu. Identify whether it is the built-in Site Menu or an Advanced Menu; DO NOT convert menu type. First inspect if Sauna already exists hidden.
+2. For built-in Site Menu, go `Pages & Menu` → `Site Menu` (as available), locate existing `Infrared Sauna` page and `Show in Menu` if hidden. If an item is absent, use the existing site page in the menu (not Add Page). Nest beneath `WELLNESS & BIOTECH SERVICES` using drag/subpage controls. Position after `RED LIGHT THERAPY` and before `SUPPLEMENTS & WELLNESS`.
+3. For Advanced Menu, click the existing header menu → `Manage Menu` → `+ Add Menu Item` → `Site Pages` → select existing `Infrared Sauna` (`nf4iw`). Nest item under `WELLNESS & BIOTECH SERVICES` and order between existing Red Light and Supplements entries. If already in menu but hidden/wrong level, correct existing entry instead. Do not add URL-only duplicates when existing-page menu item can be used.
+4. Exact label `INFRARED SAUNA` (match existing upper-case style); target `https://www.matrixmassage.net/infrared-sauna-salem-wi`; preserve parent clickable behavior and every other menu item/order. Do not edit Sauna page body/SEO, or the header's appearance.
+5. Save small checkpoint, reopen shared menu and verify the three siblings are in order. Verify desktop dropdown and mobile navigation both show exactly one working Infrared Sauna link. Check other top-level/dropdown links unchanged.
+
+## Step 3 — coordinated URL/SEO release gates
+- Previous R4 proposal is change `/supplements` → `/supplements-vitamins-salem-wi`. Only execute slug migration and publication together with stable 301 redirect, new self-canonical/og:url, updated related Wellness schema ID `4rWCmYq6` and direct internal links, and verified sitemap. Do not create duplicate page. Confirm no conflicting redirect already exists, no circular/chain rule, and no unknown pending site drafts. If this cannot be isolated, keep old public route and report the new route as pending; do not publish inconsistent SEO URLs.
+- Do not change Fullscript vendor account/technical href URLs. Leave all future preorders disabled and actual Square/Google Sheets transactions untouched.
+
+## Step 4 — QA and evidence
+- In saved Wix Preview and native mobile branch (320, 375, 390 px) plus 1440 desktop: correct logo in black border, visible teal water, full-width sections, two non-orderable monthly feature cards, six existing collections, 8 readable expandable FAQs, no duplicate old page sections, original reviews and global header/footer intact, no horizontal overflow, and no broken links.
+- On rendered visible `innerText`/text nodes, title, description, SEO/social description, and JSON-LD human-readable names/descriptions, the case-insensitive word `Fullscript` must have zero matches; external `href` hostnames intentionally continue to contain that supplier name.
+- Sentence `These are communities we serve—not additional Matrix locations.` and similar `not a separate location` wording must be absent. Confirm positive area text at 390px near the location card.
+- Confirm menu siblings under `WELLNESS & BIOTECH SERVICES`: `RED LIGHT THERAPY`, `INFRARED SAUNA`, `SUPPLEMENTS & WELLNESS`, each exactly once, links correct on desktop/mobile.
+- No actual test customer submit, payment, invoice, email, wholesale order, app install, permissions change or Fullscript API.
+- Publish only if this entire scoped release is already explicitly authorized, all unrelated saved drafts are reconciled, and native QA passes. Otherwise retain saved draft and return the exact draft receipt rather than broad site publication.
+- After any publish, record Wix revision/time, public page URL+HTTP, canonical, redirect, Sitemap, static SEO readback and screenshots, menu link click verification and final QA. Save receipt in existing project folder and GitHub, with statuses `SAVED`, `VERIFIED`, `TESTED`, `PUBLISHED` or `NOT TESTED` separately. If Wix editor becomes inaccessible, stop affected native step safely and report that exact blocker only; do not repeat other completed work.
+
+Official Wix editor guidance: `https://support.wix.com/en/article/wix-editor-adding-a-new-item-to-your-site-menu` and `https://support.wix.com/en/article/wix-editor-managing-advanced-menus`.
