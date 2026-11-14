@@ -1,0 +1,58 @@
+{
+  "beforeRevision": 1166,
+  "testRevision": 1176,
+  "publishedRevision": 1177,
+  "pageCount": 41,
+  "identicalPageHashes": 38,
+  "changedFileIds": [
+    {
+      "ghmgt": [
+        "e4cc43_09dfe9457ba98ba31165644aba56c1b2_1152.json",
+        "e4cc43_80ca114cbcfd37a960dba9e64d594e1a_1176.json"
+      ]
+    },
+    {
+      "plsho": [
+        "e4cc43_bf43ff6fa55fb5fdf22521c249afb54c_1036.json",
+        "e4cc43_d2397c996f6a3cfd743c498baca30e2e_1176.json"
+      ]
+    },
+    {
+      "masterPage": [
+        "e4cc43_f310700e1d97ed5fb41ed8e15374efe1_1166.json",
+        "e4cc43_0b71596a4aeb24ea9b411e7f50e024dd_1176.json"
+      ]
+    }
+  ],
+  "publishedPageFilesMatchTest": true,
+  "compiledModuleComparison": [
+    {
+      "page": "master",
+      "module": "thunderbolt-features",
+      "jsonEqual": true,
+      "beforeSha256": "fcce2d21f6b7679cfdfbf59f9e636c2b6a14d2e44484d599052a21e8f7008e2f",
+      "afterSha256": "fcce2d21f6b7679cfdfbf59f9e636c2b6a14d2e44484d599052a21e8f7008e2f"
+    },
+    {
+      "page": "master",
+      "module": "thunderbolt-platform",
+      "jsonEqual": true,
+      "beforeSha256": "19767e1cf1f12c0dc41e9e8c0de9ba776bfb376c0353c6575e6d2c97ba3df216",
+      "afterSha256": "19767e1cf1f12c0dc41e9e8c0de9ba776bfb376c0353c6575e6d2c97ba3df216"
+    },
+    {
+      "page": "home",
+      "module": "thunderbolt-features",
+      "jsonEqual": true,
+      "beforeSha256": "3cf61ed0dd729d923ac14f4d7d1040cf433f05efe751fee9e9f07cac6ad9dd82",
+      "afterSha256": "3cf61ed0dd729d923ac14f4d7d1040cf433f05efe751fee9e9f07cac6ad9dd82"
+    },
+    {
+      "page": "home",
+      "module": "thunderbolt-platform",
+      "jsonEqual": true,
+      "beforeSha256": "4395427a7967a72a41f17b54843bdbaaf32e7834d100f302ef6a8989daff49af",
+      "afterSha256": "4395427a7967a72a41f17b54843bdbaaf32e7834d100f302ef6a8989daff49af"
+    }
+  ]
+}
