@@ -87,3 +87,23 @@ test('Square rejects original oversized reference; adapter supplies accepted ref
  p.io.call=(method,path,body)=>{if(path==='/v2/orders')contract(body);return call(method,path,body);};
  assert.equal(stage.createDraft(j,p.io).invoiceStatus,'DRAFT');
 });
+
+test('paid Sandbox projection respects the existing sheet enum and stays ineligible on replay',()=>{
+ const ctx=vm.createContext({});
+ vm.runInContext(fs.readFileSync(require.resolve('../apps-script/RuntimeV2.gs'),'utf8'),ctx);
+ const projected=new Map(),allowed=new Set(['REQUESTED','VALIDATED','AWAITING_INVOICE','AWAITING_PAYMENT','PAID_VERIFIED','HOLD','CANCELLED']);
+ ctx.matrixStageV2Upsert_=(name,header,row,keys)=>{
+  if(name==='Orders V2') assert.ok(allowed.has(row[14]),'existing Orders V2 validation');
+  projected.set(name+keys.map(k=>row[k]).join('|'),JSON.parse(JSON.stringify(row)));
+ };
+ const j=Object.assign(job(),{state:'SANDBOX_PAID_VERIFIED',invoiceStatus:'PAID',invoiceId:'invoice-1'});
+ ctx.matrixStageV2Project_(j);ctx.matrixStageV2Project_(j);
+ assert.equal(j.state,'SANDBOX_PAID_VERIFIED');assert.equal(j.paymentEligible,false);
+ assert.equal(projected.size,4);
+ const o=projected.get('Orders V2'+j.orderId),q=projected.get('Invoice Queue V2'+j.orderId);
+ assert.equal(o[14],'PAID_VERIFIED');assert.equal(o[23],'NOT_APPROVED');
+ assert.equal(q[1],'SANDBOX');assert.equal(q[2],'OFF');assert.equal(q[3],'OFF');assert.equal(q[8],false);
+ j.state='HOLD';j.refundOrDisputeHold=true;ctx.matrixStageV2Project_(j);
+ assert.equal(projected.get('Orders V2'+j.orderId)[14],'HOLD');
+ assert.equal(projected.get('Invoice Queue V2'+j.orderId)[9],true);
+});

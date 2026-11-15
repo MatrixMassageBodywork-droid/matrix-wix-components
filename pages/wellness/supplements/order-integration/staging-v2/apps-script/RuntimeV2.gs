@@ -152,7 +152,10 @@ function matrixStageV2Upsert_(name, header, row, keys) {
 }
 function matrixStageV2Project_(j) {
   var q = j.quote;
-  matrixStageV2Upsert_('Orders V2', 5, [j.orderId, j.submissionId, j.createdUtc, j.request.customerName, j.request.email, j.request.fulfillment, q.cycleId, j.dueDate + 'T23:59:59Z', q.subtotalCents, q.taxCents, q.fulfillmentFeeCents, q.totalCents, q.currency, q.priceVersion, j.state, j.invoiceStatus || 'NOT_CREATED', j.invoiceId || '', j.invoiceVersion === undefined ? '' : j.invoiceVersion, j.invoiceUrl || '', '', '', j.refundOrDisputeHold ? 'HOLD' : '', '', 'NOT_APPROVED'], [0]);
+  // The existing sheet enum uses PAID_VERIFIED. Preserve the explicit Sandbox
+  // state in the journal; queue environment/gates still exclude purchasing.
+  var sheetState = j.state === 'SANDBOX_PAID_VERIFIED' ? 'PAID_VERIFIED' : j.state;
+  matrixStageV2Upsert_('Orders V2', 5, [j.orderId, j.submissionId, j.createdUtc, j.request.customerName, j.request.email, j.request.fulfillment, q.cycleId, j.dueDate + 'T23:59:59Z', q.subtotalCents, q.taxCents, q.fulfillmentFeeCents, q.totalCents, q.currency, q.priceVersion, sheetState, j.invoiceStatus || 'NOT_CREATED', j.invoiceId || '', j.invoiceVersion === undefined ? '' : j.invoiceVersion, j.invoiceUrl || '', '', '', j.refundOrDisputeHold ? 'HOLD' : '', '', 'NOT_APPROVED'], [0]);
   q.lines.forEach(function (l) {
     matrixStageV2Upsert_('Order Lines V2', 5, [j.orderId, l.lineId, l.kind, l.itemId, l.nameSnapshot, l.variantSnapshot, l.quantity, l.unitPriceCents, l.lineSubtotalCents, l.catalogRevision, 'TEST_MONTHLY', 'TEST_ONLY', 'SYNTHETIC_FIXTURE', 'Not approved for purchasing', JSON.stringify(l.componentSnapshot), l.kind === 'BUNDLE' ? l.catalogRevision : ''], [0, 1]);
   });
