@@ -34,7 +34,7 @@ function matrixStageV2LifecycleRead_(j) {
   matrixStageV2SandboxAssert_(o && o.id === j.squareOrderId && o.reference_id === MatrixStageV2.squareReference(j) && o.location_id === j.locationId && o.total_money.amount === j.quote.totalCents && o.total_money.currency === 'USD', 'ORDER_READBACK_MISMATCH');
   matrixStageV2SandboxAssert_(i.delivery_method === 'SHARE_MANUALLY' && i.store_payment_method_enabled === false && i.primary_recipient.customer_id === j.customerId && i.primary_recipient.email_address === j.request.email, 'INVOICE_SAFETY_MISMATCH');
   matrixStageV2SandboxAssert_(i.payment_requests.length === 1 && i.payment_requests[0].automatic_payment_source === 'NONE' && i.payment_requests[0].computed_amount_money.amount === j.quote.totalCents && i.payment_requests[0].computed_amount_money.currency === 'USD', 'PAYMENT_REQUEST_MISMATCH');
-  if (i.public_url) matrixStageV2SandboxAssert_(/^https:\/\/squareupsandbox\.com\//.test(i.public_url), 'NON_SANDBOX_INVOICE_URL');
+  if (i.public_url) matrixStageV2SandboxAssert_(/^https:\/\/(app\.)?squareupsandbox\.com\//.test(i.public_url), 'NON_SANDBOX_INVOICE_URL');
   var tenders = o.tenders || [];
   matrixStageV2SandboxAssert_(tenders.length <= 20, 'TENDER_LIMIT');
   var payments = tenders.map(function (t) {

@@ -32,3 +32,8 @@ test('repeated dispute cursor fails closed',()=>{const x=fixture();x.disputes(()
 test('unpaid cannot be refunded',()=>{const x=fixture();assert.throws(()=>x.ctx.matrixStageV2RefundSandboxPayment(),/PAID_TEST_REQUIRED/);assert.equal(x.posts.length,0);});
 test('full refund uses bounded key and replay makes no additional refund',()=>{const x=fixture();x.paid();x.ctx.matrixStageV2RefundSandboxPayment();x.ctx.matrixStageV2RefundSandboxPayment();assert.equal(x.posts.length,1);assert.ok(x.posts[0].body.idempotency_key.length<=45);assert.equal(x.saved().state,'HOLD');assert.equal(x.saved().paymentEligible,false);});
 test('refund timeout reuses frozen body/key, preserves HOLD',()=>{const x=fixture();x.paid();x.loseRefund();assert.throws(()=>x.ctx.matrixStageV2RefundSandboxPayment(),/LOST_RESPONSE/);assert.equal(x.saved().state,'HOLD');x.ctx.matrixStageV2RefundSandboxPayment();assert.deepEqual(x.posts[0].body,x.posts[1].body);assert.equal(x.saved().refundId,'R1');assert.equal(x.props.MATRIX_SANDBOX_API_ENABLED,'false');});
+
+test('accepts observed app.squareupsandbox host but rejects lookalikes/production',()=>{
+ const good=fixture();good.paid();good.invoice.public_url='https://app.squareupsandbox.com/pay-invoice/test';assert.equal(good.ctx.matrixStageV2ReconcileSandboxInvoice().state,'SANDBOX_PAID_VERIFIED');
+ for(const url of ['https://squareup.com/pay-invoice/test','https://squareupsandbox.com.evil.example/test','https://evil.example/?squareupsandbox.com/']){const x=fixture();x.invoice.public_url=url;assert.throws(()=>x.ctx.matrixStageV2ReconcileSandboxInvoice(),/NON_SANDBOX_INVOICE_URL/);}
+});

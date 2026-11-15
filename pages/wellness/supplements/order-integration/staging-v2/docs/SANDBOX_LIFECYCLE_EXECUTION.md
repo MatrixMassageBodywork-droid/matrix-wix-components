@@ -23,3 +23,6 @@ Save, reload, copy back and compare exact after CRLF normalization before runnin
 - https://developer.squareup.com/reference/square/disputes-api/ListDisputes — location filter, cursor pagination.
 - https://developer.squareup.com/reference/square/refunds/refund-payment — POST/v2/refunds, payment_id,amount_money,idempotency maximum45; no location_id for linkedrefund.
 - https://developer.squareup.com/reference/square/refunds-api/GetPaymentRefund — GET/v2/refunds/id.
+
+## Observed sandbox URL compatibility correction
+First publication succeeded HTTP200 at 20:02:13 Chicago, invoice UNPAID version1. Square returned https://app.squareupsandbox.com/pay-invoice/... rather than the root-host URL shown in its walkthrough. The code stopped before opening this URL and closed the Sandbox flag. After inspecting the actual provider response in the existing Sandbox API log, the allowlist now permits only root squareupsandbox.com and app.squareupsandbox.com; production/lookalike hosts still fail. A new regression test covers both accepted and rejected domains. Resume by rerunning publication function: GET detects existing UNPAID and skips POST, then reconciles the same invoice. Do not create or republish it.
