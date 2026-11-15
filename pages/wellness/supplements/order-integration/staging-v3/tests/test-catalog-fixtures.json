@@ -1,0 +1,29 @@
+[
+  {
+    "itemId": "TEST-PRODUCT-A",
+    "kind": "PRODUCT",
+    "publicName": "TEST ONLY \u2014 Vitamin sample",
+    "shortDescription": "Synthetic product. A quality-focused example selection, not for sale.",
+    "monthlyPriceCents": 1200,
+    "everydayPriceCents": 1800,
+    "releaseState": "TEST_ONLY_NEVER_PUBLIC"
+  },
+  {
+    "itemId": "TEST-PRODUCT-B",
+    "kind": "PRODUCT",
+    "publicName": "TEST ONLY \u2014 Wellness sample",
+    "shortDescription": "Synthetic individual product. A placeholder for future approved SKUs.",
+    "monthlyPriceCents": 800,
+    "everydayPriceCents": 1200,
+    "releaseState": "TEST_ONLY_NEVER_PUBLIC"
+  },
+  {
+    "itemId": "TEST-BUNDLE-AB",
+    "kind": "BUNDLE",
+    "publicName": "TEST ONLY \u2014 Curated duo",
+    "shortDescription": "Synthetic bundle containing two test products. Not available for purchase.",
+    "monthlyPriceCents": 1800,
+    "everydayPriceCents": 2600,
+    "releaseState": "TEST_ONLY_NEVER_PUBLIC"
+  }
+]

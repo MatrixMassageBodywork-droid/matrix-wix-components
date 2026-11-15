@@ -1,0 +1,36 @@
+{
+  "project": "FACIAL WEB SEO PW",
+  "phase": "Supplement Orders Phase 3",
+  "mode": "SYNTHETIC_STAGING_ONLY",
+  "created": "2026-11-14",
+  "siteId": "cdec8df6-d518-4859-9f1e-f06bf5346d41",
+  "parentSourceCommit": "d78bbba2a94601aab583acb81d5f07917a00bdbb",
+  "status": {
+    "wixPrivateSyntheticCatalog": "VERIFIED",
+    "uiPreview": "TESTED",
+    "automaticSync": "NOT_INSTALLED",
+    "publicOrders": "OFF",
+    "invoices": "OFF"
+  },
+  "sha256": {
+    "catalog-sync/CatalogRulesV3.gs": "919759a9430e177ae12fdd42372618598f25d19ebb742dd805bd5ab6271523c9",
+    "catalog-sync/CatalogSyncV3.gs": "87c26189fcabd0cbe774dc52575fcd8d3f1a584046c214f082983bb517ea4399",
+    "catalog-sync/catalog-core.js": "a8fea254d94c667fa9e3d5d3c755d86125ea97e8b284d82bc5e8a7f56d178b66",
+    "demo-preview.html": "6b7eccf3ad8100179f9f604c686420beb59741a929250414c0280d4c5e3da62f",
+    "docs/ARCHITECTURE.md": "2016db5ee0efae6aa2114141f510906e32b508ea2f0961ba643111571f1b5828",
+    "docs/STATUS.md": "b61222833b394aff39f3fc9411333972c313bd7f6d054c4bb890829c5856c9fa",
+    "docs/WORK_EXECUTION_PHASE3.md": "5b6b7bd54e5b63e6e41f636b242a639544c95a9e386d1040cef35dd568e0599c",
+    "evidence/order-demo-1440.png": "5a918c61aacfb6314aaf62b39d3e4be34daab89f7e259b9152e4adb2613009c4",
+    "evidence/order-demo-390.png": "00cbed16306cdcf271a89cf8550b5101b30e9d88f886cb850c575fc9a940d9e0",
+    "evidence/order-demo-selected-1440.png": "47cb3355a83a338ec6d57ccbdb5bf50d261978a0910935076dda136307bf5cbd",
+    "evidence/visual-qa.json": "2ee6e0dff61ad551ef754501c392faeb5e6c76995af95e4aff86aacb6a5deace",
+    "tests/apps-script-safety.test.js": "5ca07e9a1917ac4c970543de0bb71236cd1589c344dda0c7a604f7467d32a00a",
+    "tests/catalog-core.test.js": "77276d009d04394cf86489b7c1a240940fe8d20684ceb5f23ebbcf1109889e76",
+    "tests/render_demo.py": "9ada76c8fb303d43da10818be0b68b3914745a423698edc7188f7318d9a19bd4",
+    "tests/test-catalog-fixtures.json": "50f66cc5ea5932782473dde464dff8a953078b0c41a1d782cd7ec1b2992e3a45",
+    "tests/visual_qa.py": "a9df613ec2b8da07fb906af506e89f3fee87f492ad567e8bb19abecb740d92ef",
+    "ui/monthly-order-selector.js": "ecfce8b78239433e705d2544bfd985402a2eb2ef00314ace8cd65827a6f28d1f",
+    "wix/VELO_PAGE_MERGE_CANDIDATE.js": "e817d09c2513e39df1723150b3a4e4d4c9c5e237270773a5f20f55b50a08596d",
+    "wix/supplementCatalogV3.web.js": "5571c3b50f35ee633cbf0bae60217b17990e679f7ce972b373f4ff23a84536fc"
+  }
+}

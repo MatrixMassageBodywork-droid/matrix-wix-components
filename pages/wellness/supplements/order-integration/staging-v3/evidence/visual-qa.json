@@ -1,0 +1,96 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "viewWidth": 320,
+      "logoLoaded": true,
+      "choices": 3,
+      "closed": true,
+      "cards": 2,
+      "faqs": 8,
+      "vendorVisible": false,
+      "pageErrors": []
+    },
+    {
+      "width": 375,
+      "scrollWidth": 375,
+      "viewWidth": 375,
+      "logoLoaded": true,
+      "choices": 3,
+      "closed": true,
+      "cards": 2,
+      "faqs": 8,
+      "vendorVisible": false,
+      "pageErrors": []
+    },
+    {
+      "width": 390,
+      "scrollWidth": 390,
+      "viewWidth": 390,
+      "logoLoaded": true,
+      "choices": 3,
+      "closed": true,
+      "cards": 2,
+      "faqs": 8,
+      "vendorVisible": false,
+      "pageErrors": []
+    },
+    {
+      "width": 700,
+      "scrollWidth": 700,
+      "viewWidth": 700,
+      "logoLoaded": true,
+      "choices": 3,
+      "closed": true,
+      "cards": 2,
+      "faqs": 8,
+      "vendorVisible": false,
+      "pageErrors": []
+    },
+    {
+      "width": 1280,
+      "scrollWidth": 1280,
+      "viewWidth": 1280,
+      "logoLoaded": true,
+      "choices": 3,
+      "closed": true,
+      "cards": 2,
+      "faqs": 8,
+      "vendorVisible": false,
+      "pageErrors": []
+    },
+    {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "viewWidth": 1440,
+      "logoLoaded": true,
+      "choices": 3,
+      "closed": true,
+      "cards": 2,
+      "faqs": 8,
+      "vendorVisible": false,
+      "pageErrors": []
+    },
+    {
+      "interaction": "2\u00d7Vitamin + 1\u00d7bundle",
+      "monthlyCents": 4200,
+      "everydayCents": 6200,
+      "savingsCents": 2000,
+      "requestSent": false
+    },
+    {
+      "width": 1920,
+      "scrollWidth": 1920,
+      "viewWidth": 1920,
+      "logoLoaded": true,
+      "choices": 3,
+      "closed": true,
+      "cards": 2,
+      "faqs": 8,
+      "vendorVisible": false,
+      "pageErrors": []
+    }
+  ]
+}
