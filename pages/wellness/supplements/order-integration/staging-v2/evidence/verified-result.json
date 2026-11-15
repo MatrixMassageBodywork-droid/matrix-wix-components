@@ -1,0 +1,66 @@
+{
+  "verifiedAtUtc": "2026-11-15T00:36:21Z",
+  "sourceCommit": "b1059fb2180a46ef8714cc73ac30e253c43275dd",
+  "runtimeCommit": "cea19fdb8a81228e60ffa4987379c9566ff93668",
+  "offlineTests": {
+    "v1": 21,
+    "v2": 31,
+    "total": 52
+  },
+  "sheetQa": {
+    "startLocal": "2026-11-14T18:22:58-06:00",
+    "endLocal": "2026-11-14T18:23:06-06:00",
+    "directSheetFixture": "TEST-STAGE2-SHEETQA-001",
+    "orderCount": 1,
+    "lineCount": 2,
+    "totalCents": 4200
+  },
+  "transport": {
+    "mechanism": "Inactive Wix automation draft, Test Automation with synthetic event data",
+    "firstSubmission": "TEST-STAGE2-TRANSPORT-001",
+    "firstDateResult": "blank; retained as evidence",
+    "correctedSubmission": "TEST-STAGE2-TRANSPORT-002",
+    "correctedDate": "2026-11-15T00:40:00.000Z",
+    "inputDateIsSynthetic": true,
+    "receivedUtcIsoVerified": true,
+    "automationActivated": false,
+    "customerFormTested": false
+  },
+  "processor": {
+    "startUtc": "2026-11-15T00:34:55Z",
+    "processed": 2,
+    "duplicates": 1,
+    "rejected": 0,
+    "replayUtc": "2026-11-15T00:35:45Z",
+    "replayProcessed": 0,
+    "replayDuplicates": 3,
+    "totalTestOrders": 3,
+    "totalLines": 6,
+    "totalCents": 12600,
+    "emailsSent": 0,
+    "externalCalls": 0
+  },
+  "wixBackend": {
+    "file": "backend/supplementStaging.web.js",
+    "sourceReadback": "exact after CRLF normalization",
+    "firstResult": "CREATED",
+    "secondResult": "ALREADY_EXISTS",
+    "testId": "TEST-STAGE2-TRANSPORT-001",
+    "collection": "MatrixSupplementOrderIntakeV2",
+    "methodPermission": "Admin",
+    "publicOrdering": false
+  },
+  "fieldSchema": {
+    "id": "receivedUtcIso",
+    "type": "TEXT",
+    "collectionRevision": "2",
+    "previousFieldsPreserved": true,
+    "permissionsUnchanged": true
+  },
+  "publication": false,
+  "scopeUnchanged": true,
+  "credentialsConfigured": false,
+  "triggersInstalled": false,
+  "sandboxInvoiceApiTested": false,
+  "paymentLifecycleTested": false
+}
