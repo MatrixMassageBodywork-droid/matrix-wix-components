@@ -1,8 +1,8 @@
-# CURRENT — MATRIX Supplement Order System — Staging V2 intake tested
+# CURRENT — MATRIX Supplement Order System — Staging V2 — Square sign-in complete; Google consent pending
 Project: FACIAL WEB SEO PW. Verified 2026-11-15 UTC / November 14, 2026 America/Chicago.
 
 ## What is implemented and verified
-SAVED / VERIFIED: RuntimeV2.gs and StageV2QA.gs were added to the existing tracker-bound Apps Script project. Existing Code.gs, Core.gs, QA.gs and the spreadsheet-only manifest remain intact. Both new files were reloaded and copied back; exact matches after Windows CRLF normalization.
+SAVED / VERIFIED: RuntimeV2.gs and StageV2QA.gs were added to the existing tracker-bound Apps Script project. Existing Code.gs, Core.gs and QA.gs remain intact. The manifest now additionally requests script.external_request for the authorized Sandbox connection; Google consent is still pending. Both new files were reloaded and copied back; exact matches after Windows CRLF normalization.
 
 SAVED / VERIFIED / TESTED: backend/supplementStaging.web.js is installed in the existing Wix Classic Editor draft. The Admin-only synthetic submission method returned CREATED, then ALREADY_EXISTS on replay. Public ordering reports false. The final module was saved, reloaded and copied back exactly. No website publication occurred.
 
@@ -10,18 +10,20 @@ TESTED: The existing inactive Wix automation draft delivered synthetic data to t
 
 TESTED: The installed Google processor validated the Wix-delivered carts, journaled immutable quote snapshots, projected Orders V2 / Order Lines V2 / Invoice Queue V2, and recognized replays without duplicate orders. Final state: 3 synthetic orders, 6 lines, 3 queue entries, each order $42.00 (aggregate $126.00), owner NOT_APPROVED, invoice create/email OFF, invoices NOT_CREATED. No real customer record was changed.
 
-TESTED LOCALLY: 52 local test cases (21 prior checks plus 31 new tests), including mixed carts, unapproved/expired bundle components, client-price tampering, immutable snapshots, duplicate payload conflict, provider-timeout replay, exact provider totals/identity, refunds/disputes and exclusion of sandbox orders from purchasing eligibility. These are not 52 provider/live end-to-end tests.
+TESTED LOCALLY: 59 local test cases (21 original checks, 31 V2 checks and 7 provider-verification checks), including mixed carts, unapproved/expired bundle components, client-price tampering, immutable snapshots, duplicate payload conflict, provider-timeout replay, exact provider totals/identity, refunds/disputes and exclusion of sandbox orders from purchasing eligibility. These are local tests, not provider/live end-to-end tests.
 
 ## Still unfinished
 NOT CONNECTED / NOT TESTED: The customer-facing order form/CAPTCHA and approved-catalog synchronization are not implemented. The current Wix endpoint submits a fixed Admin-only fixture, not arbitrary customer orders. The processor remains manual and accepts synthetic TEST-* orders only. No recurring processor trigger was installed.
 
-SAVED / NOT REMOTELY TESTED: The sandbox-only Square customer/order/DRAFT-invoice adapter is installed but disabled. Square Developer Console is at sign-in. No token/location is configured; no external-request scope or new consent was added. The code cannot call production, publish an invoice, email a customer, or charge a card. Sandbox publish/payment/refund testing, provider reconciliation polling, production invoice email, approved tax/fulfillment/cycle configuration and final public release remain unfinished. Adding final products/prices alone will NOT complete the current implementation.
+SAVED / VERIFIED / BLOCKED ON CONSENT: Square sign-in completed in the existing Matrix Clinical OS application, with Sandbox and Default Test Account selected. Script Properties were entered and saved for the Sandbox token, location LNP57TAA5YGP0, selected existing fixture TEST-STAGE2-TRANSPORT-002, and MATRIX_SANDBOX_API_ENABLED=false. Runtime credential presence/API validity remain unverified because Google execution has not started. The token was transferred directly through the UI; clipboard and browser variable were cleared. SandboxV2QA.gs and the updated manifest were saved, reloaded and copied back exactly after CRLF normalization. Running matrixStageV2TestSandboxDraft opened Google consent for the additional scope “Connect to an external service.” The owner has been asked to click Continue; that action is pending. No Square API result or invoice ID exists from this attempt. The code cannot call production, publish an invoice, email a customer, or charge a card. Sandbox publish/payment/refund testing, provider reconciliation polling, production invoice email, approved tax/fulfillment/cycle configuration and final public release remain unfinished. Adding final products/prices alone will NOT complete the current implementation.
 
 No products, prices, tax rules, fulfillment terms or order windows have been approved by this pass. The $42 quote and zero tax/fee are synthetic test fixtures, not business pricing or tax decisions.
 
 NOT PUBLISHED / RELEASED: Website and automation remain unpublished/inactive for this integration. All production/public gates remain OFF. No real invoice, email, payment, wholesale order or subscription purchase was initiated.
 
 ## Evidence
+- Sandbox connection code/spec/tests source commit: a57ca51a73db36688d58524476c03d54f8d81e7f. Seven new local tests passed, including incorrect provider total/recipient, email or automatic charging settings, network failure, and wrong location. Source read-back results: manifestExact=true, qaExact=true. All 59 local cases passed in the combined run.
+- Google consent observed for the exact existing Matrix Supplement Orders STAGING v1 project and MatrixMassage.Bodywork@matrixmassage.net account. Only the additional external-service permission is requested; the existing spreadsheet access is listed separately. No grant was performed by the agent.
 - Direct Google QA ran November 14 18:22:58–18:23:06 America/Chicago. One order/two lines remained after replay.
 - Wix draft tests: TEST-STAGE2-TRANSPORT-001 (initial blank timestamp) and TEST-STAGE2-TRANSPORT-002 (corrected ISO mapping). The supplied timestamp 2026-11-15T00:40:00.000Z is deliberately synthetic.
 - Processor ran 18:34:55–18:35:01 Chicago: processed=2, duplicates=1, rejected=0. Replay 18:35:45–18:35:51: processed=0, duplicates=3, rejected=0.
@@ -40,9 +42,9 @@ NOT PUBLISHED / RELEASED: Website and automation remain unpublished/inactive for
 - Source branch: review/supplements-no-api-2026-11-13.
 - Runtime source commit: cea19fdb8a81228e60ffa4987379c9566ff93668.
 - Final backend correction commit: b1059fb2180a46ef8714cc73ac30e253c43275dd.
-- Source package: https://github.com/MatrixMassageBodywork-droid/matrix-wix-components/tree/b1059fb2180a46ef8714cc73ac30e253c43275dd/pages/wellness/supplements/order-integration/staging-v2
+- Source package: https://github.com/MatrixMassageBodywork-droid/matrix-wix-components/tree/a57ca51a73db36688d58524476c03d54f8d81e7f/pages/wellness/supplements/order-integration/staging-v2
 - Previous verified checkpoint is preserved in staging-v1/docs/CURRENT_INSTALLATION_2026-11-14.md at 191d206c1576f82747cb3ffc291bda59f541d0aa. Original staging source remains at 42ff5b9a796c284abc5cbf600efb11cf52a0eca9.
 
 ## Safe continuation
-Continue from this checkpoint; do not recreate the sheets, collections, bound project, files or automation. Read docs/EXECUTION.md and docs/TIMESTAMP_CORRECTION.md with this receipt as the latest outcome. Use the existing Square sign-in tab for Sandbox access; never put credentials in chat, source, Sheets, logs or GitHub. Implement and verify the remaining customer UI, policy/catalog configuration, activation strategy and full sandbox lifecycle before describing products/prices as the final setup step. Public publication and production sending remain separately gated.
+Continue from this checkpoint; do not recreate the sheets, collections, bound project, files or automation. Read docs/EXECUTION.md and docs/TIMESTAMP_CORRECTION.md with this receipt as the latest outcome. Read docs/SANDBOX_CONNECTION_EXECUTION.md for the current Sandbox step. Resume the existing Google consent window; after the owner clicks Continue, inspect the execution log before rerunning anything. Expected draft test: status DRAFT, totalCents 4200, paidCents 0, SHARE_MANUALLY, duplicateReplay SAME_INVOICE, then MATRIX_SANDBOX_API_ENABLED false. If authorization completes without resuming execution, run the already selected matrixStageV2TestSandboxDraft once. If the execution failed, inspect journal persistence before retry. Do not reinstall, replace the token, recreate fixtures or recreate provider objects merely because this handoff occurred. Square sign-in is already complete; never put credentials in chat, source, Sheets, logs or GitHub. Implement and verify the remaining customer UI, policy/catalog configuration, activation strategy and full sandbox lifecycle before describing products/prices as the final setup step. Public publication and production sending remain separately gated.
 
