@@ -1,0 +1,184 @@
+[
+  {
+    "width": 320,
+    "h1s": 1,
+    "faqCount": 8,
+    "planCount": 6,
+    "features": 2,
+    "hosts": 1,
+    "nested": 1,
+    "closed": true,
+    "closedCopy": true,
+    "noSubmit": true,
+    "testPricesVisible": false,
+    "logoLoaded": true,
+    "imgs": [
+      {
+        "ok": true,
+        "alt": "Matrix Massage & Bodywork"
+      }
+    ],
+    "overflow": 0,
+    "order": true,
+    "slotHeight": 595.390625,
+    "totalHeight": 14944,
+    "topWidth": 320,
+    "jsErrors": []
+  },
+  {
+    "width": 375,
+    "h1s": 1,
+    "faqCount": 8,
+    "planCount": 6,
+    "features": 2,
+    "hosts": 1,
+    "nested": 1,
+    "closed": true,
+    "closedCopy": true,
+    "noSubmit": true,
+    "testPricesVisible": false,
+    "logoLoaded": true,
+    "imgs": [
+      {
+        "ok": true,
+        "alt": "Matrix Massage & Bodywork"
+      }
+    ],
+    "overflow": 0,
+    "order": true,
+    "slotHeight": 548.90625,
+    "totalHeight": 13503,
+    "topWidth": 375,
+    "jsErrors": []
+  },
+  {
+    "width": 390,
+    "h1s": 1,
+    "faqCount": 8,
+    "planCount": 6,
+    "features": 2,
+    "hosts": 1,
+    "nested": 1,
+    "closed": true,
+    "closedCopy": true,
+    "noSubmit": true,
+    "testPricesVisible": false,
+    "logoLoaded": true,
+    "imgs": [
+      {
+        "ok": true,
+        "alt": "Matrix Massage & Bodywork"
+      }
+    ],
+    "overflow": 0,
+    "order": true,
+    "slotHeight": 503.71875,
+    "totalHeight": 13283,
+    "topWidth": 390,
+    "jsErrors": []
+  },
+  {
+    "width": 700,
+    "h1s": 1,
+    "faqCount": 8,
+    "planCount": 6,
+    "features": 2,
+    "hosts": 1,
+    "nested": 1,
+    "closed": true,
+    "closedCopy": true,
+    "noSubmit": true,
+    "testPricesVisible": false,
+    "logoLoaded": true,
+    "imgs": [
+      {
+        "ok": true,
+        "alt": "Matrix Massage & Bodywork"
+      }
+    ],
+    "overflow": 0,
+    "order": true,
+    "slotHeight": 377.953125,
+    "totalHeight": 10769,
+    "topWidth": 700,
+    "jsErrors": []
+  },
+  {
+    "width": 1280,
+    "h1s": 1,
+    "faqCount": 8,
+    "planCount": 6,
+    "features": 2,
+    "hosts": 1,
+    "nested": 1,
+    "closed": true,
+    "closedCopy": true,
+    "noSubmit": true,
+    "testPricesVisible": false,
+    "logoLoaded": true,
+    "imgs": [
+      {
+        "ok": true,
+        "alt": "Matrix Massage & Bodywork"
+      }
+    ],
+    "overflow": 0,
+    "order": true,
+    "slotHeight": 342.46875,
+    "totalHeight": 8760,
+    "topWidth": 1280,
+    "jsErrors": []
+  },
+  {
+    "width": 1440,
+    "h1s": 1,
+    "faqCount": 8,
+    "planCount": 6,
+    "features": 2,
+    "hosts": 1,
+    "nested": 1,
+    "closed": true,
+    "closedCopy": true,
+    "noSubmit": true,
+    "testPricesVisible": false,
+    "logoLoaded": true,
+    "imgs": [
+      {
+        "ok": true,
+        "alt": "Matrix Massage & Bodywork"
+      }
+    ],
+    "overflow": 0,
+    "order": true,
+    "slotHeight": 342.46875,
+    "totalHeight": 8824,
+    "topWidth": 1440,
+    "jsErrors": []
+  },
+  {
+    "width": 1920,
+    "h1s": 1,
+    "faqCount": 8,
+    "planCount": 6,
+    "features": 2,
+    "hosts": 1,
+    "nested": 1,
+    "closed": true,
+    "closedCopy": true,
+    "noSubmit": true,
+    "testPricesVisible": false,
+    "logoLoaded": true,
+    "imgs": [
+      {
+        "ok": true,
+        "alt": "Matrix Massage & Bodywork"
+      }
+    ],
+    "overflow": 0,
+    "order": true,
+    "slotHeight": 342.46875,
+    "totalHeight": 8824,
+    "topWidth": 1920,
+    "jsErrors": []
+  }
+]

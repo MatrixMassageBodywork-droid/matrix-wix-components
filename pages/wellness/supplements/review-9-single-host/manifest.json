@@ -1,0 +1,33 @@
+{
+  "r8_body_sha256": "e5708895801f065f08bd69aeef1b98536b72168ed932120219a6f5b9ced0db9a",
+  "r9_body_sha256": "504a77df99cd0f1c3e386fe8ffa402cb124947db3814c342059f76bee742e9c8",
+  "r8_style_sha256": "28566170b65fff4b10b7ee04a273e7aab196accef4afd52d112fcee5fb1757be",
+  "r9_style_sha256": "e0d645dbc4dffb42cda7f9823123c1134c0516d9316db5471849a46172615873",
+  "r9_renderer_sha256": "63f0f0f35c3968b1855f20eae09244c02bf690c4fae55c6cc86bbc97518b6706",
+  "r9_wix_seo_code_sha256": "43d0c664a1cf751fb4cb44a19d11ec0ae600cd9e83970cdc428031c184e0a185",
+  "r9_preview_sha256": "84b6e9137ce5db27ac086efc2a00cb38ca340be8317310d85608c973a703ea62",
+  "r8_urls_preserved": true,
+  "r8_faqs_preserved": true,
+  "single_r8_host": true,
+  "nested_selector_closed": true,
+  "one_h1": true,
+  "faq_count": 8,
+  "dispensary_collections": 6,
+  "two_feature_ids": true,
+  "source_R8_commit": "28c2eaa357db7c698290f4d0f8cbea0fb12919e6",
+  "source_V3_commit": "3731bc69f5fd164c784764dededcea57290cffad",
+  "tested_viewports": [
+    320,
+    375,
+    390,
+    700,
+    1280,
+    1440,
+    1920
+  ],
+  "local_visual_tests_passed": 7,
+  "local_syntax_verified": true,
+  "public_submission_enabled": false,
+  "wix_installed": false,
+  "wix_published": false
+}
