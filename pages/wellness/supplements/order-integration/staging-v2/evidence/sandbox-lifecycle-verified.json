@@ -1,0 +1,802 @@
+{
+  "paidProviderLog": [
+    {
+      "type": "text",
+      "text": "\n  - generic: Execution log\n  - button \"Hide execution log\" [expanded]:\n    - generic: collapse_content\n  - tooltip: Hide execution log\n  - list \"Logs\":\n    - listitem \"Log 1. 8:10:12 PM. Notice. Execution started.\":\n      - generic: 8:10:12 PM\n      - generic: Notice\n      - generic: Execution started\n    - 'listitem \"Log 2. 8:10:12 PM. Info. MATRIX_STAGE_V2_VERIFY {\\\"runtime\\\":\\\"STAGING_V2\\\",\\\"testOrders\\\":3,\\\"totalCents\\\":12600,\\\"productionEnabled\\\":false,\\\"publicOffers\\\":false,\\\"emailsSentByRuntime\\\":0,\\\"externalCalls\\\":0}.\"':\n      - generic: 8:10:12 PM\n      - generic: Info\n      - generic: \"MATRIX_STAGE_V2_VERIFY {\\\"runtime\\\":\\\"STAGING_V2\\\",\\\"testOrders\\\":3,\\\"totalCents\\\":12600,\\\"productionEnabled\\\":false,\\\"publicOffers\\\":false,\\\"emailsSentByRuntime\\\":0,\\\"externalCalls\\\":0}\"\n    - 'listitem \"Log 3. 8:10:16 PM. Info. MATRIX_SANDBOX_LIFECYCLE {\\\"environment\\\":\\\"SANDBOX\\\",\\\"invoiceId\\\":\\\"inv:0-ChBvEd2_INMsq2DAPxPhNm2cELIN\\\",\\\"orderId\\\":\\\"TEST-ORDER-67b5d53207aaf384c57d3941fa14b082\\\",\\\"invoiceStatus\\\":\\\"PAID\\\",\\\"state\\\":\\\"SANDBOX_PAID_VERIFIED\\\",\\\"totalCents\\\":4200,\\\"providerPaidCents\\\":4200,\\\"paymentCount\\\":1,\\\"refundOrDisputeHold\\\":false,\\\"paymentEligible\\\":false,\\\"productionEnabled\\\":false,\\\"invoiceEmailsSent\\\":0,\\\"publicUrl\\\":\\\"https://app.squareupsandbox.com/pay-invoice/invtmp:410ce34b-ced0-4040-8e5b-12b8c831878f\\\"}.\"':\n      - generic: 8:10:16 PM\n      - generic: Info\n      - generic: \"MATRIX_SANDBOX_LIFECYCLE {\\\"environment\\\":\\\"SANDBOX\\\",\\\"invoiceId\\\":\\\"inv:0-ChBvEd2_INMsq2DAPxPhNm2cELIN\\\",\\\"orderId\\\":\\\"TEST-ORDER-67b5d53207aaf384c57d3941fa14b082\\\",\\\"invoiceStatus\\\":\\\"PAID\\\",\\\"state\\\":\\\"SANDBOX_PAID_VERIFIED\\\",\\\"totalCents\\\":4200,\\\"providerPaidCents\\\":4200,\\\"paymentCount\\\":1,\\\"refundOrDisputeHold\\\":false,\\\"paymentEligible\\\":false,\\\"productionEnabled\\\":false,\\\"invoiceEmailsSent\\\":0,\\\"publicUrl\\\":\\\"https://app.squareupsandbox.com/pay-invoice/invtmp:410ce34b-ced0-4040-8e5b-12b8c831878f\\\"}\"\n    - listitem \"Log 4. 8:10:16 PM. Info. MATRIX_SANDBOX_API_ENABLED false.\":\n      - generic: 8:10:16 PM\n      - generic: Info\n      - generic: MATRIX_SANDBOX_API_ENABLED false\n    - listitem \"Log 5. 8:10:18 PM. Notice. Execution completed.\":\n      - generic: 8:10:18 PM\n      - generic: Notice\n      - generic: Execution completed\n- button \"Close execution logs pane\":\n  - generic: close\n- tooltip: Close execution log\n- text: \"* * * * * * *\"\n- alert\n- alert\n- complementary\n- complementary\n- generic: Run the selected function"
+    }
+  ],
+  "paidSheetReadback": {
+    "spreadsheetId": "16hwNkp_gobTw2wHyb6N6_aTzmtOgIIPLPa5tIPdnxUY",
+    "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/16hwNkp_gobTw2wHyb6N6_aTzmtOgIIPLPa5tIPdnxUY/edit?ouid=115582173124288192131",
+    "properties": {
+      "title": "Matrix Supplement Preorders — Private Order Tracker",
+      "locale": "en_US",
+      "timeZone": "America/Chicago"
+    },
+    "sheets": [
+      {
+        "properties": {
+          "sheetId": 212,
+          "title": "Orders V2",
+          "index": 12,
+          "sheetType": "GRID",
+          "gridProperties": {
+            "rowCount": 500,
+            "columnCount": 24,
+            "frozenRowCount": 5,
+            "hideGridlines": true
+          }
+        },
+        "data": [
+          {
+            "startRow": 7,
+            "startColumn": 14,
+            "rowData": [
+              {
+                "values": [
+                  {
+                    "formattedValue": "PAID_VERIFIED"
+                  },
+                  {
+                    "formattedValue": "PAID"
+                  },
+                  {
+                    "formattedValue": "inv:0-ChBvEd2_INMsq2DAPxPhNm2cELIN"
+                  },
+                  {
+                    "formattedValue": "2"
+                  },
+                  {
+                    "formattedValue": "https://app.squareupsandbox.com/pay-invoice/invtmp:410ce34b-ced0-4040-8e5b-12b8c831878f"
+                  },
+                  {},
+                  {},
+                  {},
+                  {},
+                  {
+                    "formattedValue": "NOT_APPROVED"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "properties": {
+          "sheetId": 214,
+          "title": "Invoice Queue V2",
+          "index": 14,
+          "sheetType": "GRID",
+          "gridProperties": {
+            "rowCount": 500,
+            "columnCount": 13,
+            "frozenRowCount": 5,
+            "hideGridlines": true
+          }
+        },
+        "data": [
+          {
+            "startRow": 7,
+            "rowData": [
+              {
+                "values": [
+                  {
+                    "formattedValue": "TEST-ORDER-67b5d53207aaf384c57d3941fa14b082"
+                  },
+                  {
+                    "formattedValue": "SANDBOX"
+                  },
+                  {
+                    "formattedValue": "OFF"
+                  },
+                  {
+                    "formattedValue": "OFF"
+                  },
+                  {
+                    "formattedValue": "TEST-ORDER-67b5d53207aaf384c57d3941fa14b082-invoice"
+                  },
+                  {
+                    "formattedValue": "inv:0-ChBvEd2_INMsq2DAPxPhNm2cELIN"
+                  },
+                  {
+                    "formattedValue": "PAID"
+                  },
+                  {
+                    "formattedValue": "2026-11-15T02:10:16.286Z"
+                  },
+                  {
+                    "formattedValue": "FALSE"
+                  },
+                  {
+                    "formattedValue": "FALSE"
+                  },
+                  {
+                    "formattedValue": "0"
+                  },
+                  {},
+                  {
+                    "formattedValue": "MATRIX_STAGE_V2_STATE"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "refundProviderLog": [
+    {
+      "type": "text",
+      "text": "\n  - generic: Execution log\n  - button \"Hide execution log\" [expanded]:\n    - generic: collapse_content\n  - tooltip: Hide execution log\n  - list \"Logs\":\n    - listitem \"Log 1. 8:10:30 PM. Notice. Execution started.\":\n      - generic: 8:10:30 PM\n      - generic: Notice\n      - generic: Execution started\n    - 'listitem \"Log 2. 8:10:31 PM. Info. MATRIX_STAGE_V2_VERIFY {\\\"runtime\\\":\\\"STAGING_V2\\\",\\\"testOrders\\\":3,\\\"totalCents\\\":12600,\\\"productionEnabled\\\":false,\\\"publicOffers\\\":false,\\\"emailsSentByRuntime\\\":0,\\\"externalCalls\\\":0}.\"':\n      - generic: 8:10:31 PM\n      - generic: Info\n      - generic: \"MATRIX_STAGE_V2_VERIFY {\\\"runtime\\\":\\\"STAGING_V2\\\",\\\"testOrders\\\":3,\\\"totalCents\\\":12600,\\\"productionEnabled\\\":false,\\\"publicOffers\\\":false,\\\"emailsSentByRuntime\\\":0,\\\"externalCalls\\\":0}\"\n    - 'listitem \"Log 3. 8:10:40 PM. Info. MATRIX_SANDBOX_LIFECYCLE {\\\"environment\\\":\\\"SANDBOX\\\",\\\"invoiceId\\\":\\\"inv:0-ChBvEd2_INMsq2DAPxPhNm2cELIN\\\",\\\"orderId\\\":\\\"TEST-ORDER-67b5d53207aaf384c57d3941fa14b082\\\",\\\"invoiceStatus\\\":\\\"PAID\\\",\\\"state\\\":\\\"HOLD\\\",\\\"totalCents\\\":4200,\\\"providerPaidCents\\\":4200,\\\"paymentCount\\\":1,\\\"refundOrDisputeHold\\\":true,\\\"paymentEligible\\\":false,\\\"productionEnabled\\\":false,\\\"invoiceEmailsSent\\\":0,\\\"publicUrl\\\":\\\"https://app.squareupsandbox.com/pay-invoice/invtmp:410ce34b-ced0-4040-8e5b-12b8c831878f\\\"}.\"':\n      - generic: 8:10:40 PM\n      - generic: Info\n      - generic: \"MATRIX_SANDBOX_LIFECYCLE {\\\"environment\\\":\\\"SANDBOX\\\",\\\"invoiceId\\\":\\\"inv:0-ChBvEd2_INMsq2DAPxPhNm2cELIN\\\",\\\"orderId\\\":\\\"TEST-ORDER-67b5d53207aaf384c57d3941fa14b082\\\",\\\"invoiceStatus\\\":\\\"PAID\\\",\\\"state\\\":\\\"HOLD\\\",\\\"totalCents\\\":4200,\\\"providerPaidCents\\\":4200,\\\"paymentCount\\\":1,\\\"refundOrDisputeHold\\\":true,\\\"paymentEligible\\\":false,\\\"productionEnabled\\\":false,\\\"invoiceEmailsSent\\\":0,\\\"publicUrl\\\":\\\"https://app.squareupsandbox.com/pay-invoice/invtmp:410ce34b-ced0-4040-8e5b-12b8c831878f\\\"}\"\n    - 'listitem \"Log 4. 8:10:40 PM. Info. MATRIX_SANDBOX_REFUND {\\\"refundId\\\":\\\"E5IoVc878Qoh0twHCSBOKQKvMELZY_DXvehY3OIsbHAPwMmcTh5A4NC0rO6p8x2EFRXXyPs9D\\\",\\\"status\\\":\\\"PENDING\\\",\\\"amountCents\\\":4200,\\\"paymentEligible\\\":false}.\"':\n      - generic: 8:10:40 PM\n      - generic: Info\n      - generic: \"MATRIX_SANDBOX_REFUND {\\\"refundId\\\":\\\"E5IoVc878Qoh0twHCSBOKQKvMELZY_DXvehY3OIsbHAPwMmcTh5A4NC0rO6p8x2EFRXXyPs9D\\\",\\\"status\\\":\\\"PENDING\\\",\\\"amountCents\\\":4200,\\\"paymentEligible\\\":false}\"\n    - listitem \"Log 5. 8:10:40 PM. Info. MATRIX_SANDBOX_API_ENABLED false.\":\n      - generic: 8:10:40 PM\n      - generic: Info\n      - generic: MATRIX_SANDBOX_API_ENABLED false\n    - listitem \"Log 6. 8:10:42 PM. Notice. Execution completed.\":\n      - generic: 8:10:42 PM\n      - generic: Notice\n      - generic: Execution completed\n- button \"Close execution logs pane\":\n  - generic: close\n- tooltip: Close execution log\n- text: \"* * * * * * *\"\n- alert\n- alert\n- complementary\n- complementary"
+    }
+  ],
+  "refundReplayLog": [
+    {
+      "type": "text",
+      "text": "\n  - generic: Execution log\n  - button \"Hide execution log\" [expanded]:\n    - generic: collapse_content\n  - tooltip: Hide execution log\n  - list \"Logs\":\n    - listitem \"Log 1. 8:11:01 PM. Notice. Execution started.\":\n      - generic: 8:11:01 PM\n      - generic: Notice\n      - generic: Execution started\n    - 'listitem \"Log 2. 8:11:00 PM. Info. MATRIX_STAGE_V2_VERIFY {\\\"runtime\\\":\\\"STAGING_V2\\\",\\\"testOrders\\\":3,\\\"totalCents\\\":12600,\\\"productionEnabled\\\":false,\\\"publicOffers\\\":false,\\\"emailsSentByRuntime\\\":0,\\\"externalCalls\\\":0}.\"':\n      - generic: 8:11:00 PM\n      - generic: Info\n      - generic: \"MATRIX_STAGE_V2_VERIFY {\\\"runtime\\\":\\\"STAGING_V2\\\",\\\"testOrders\\\":3,\\\"totalCents\\\":12600,\\\"productionEnabled\\\":false,\\\"publicOffers\\\":false,\\\"emailsSentByRuntime\\\":0,\\\"externalCalls\\\":0}\"\n    - 'listitem \"Log 3. 8:11:05 PM. Info. MATRIX_SANDBOX_LIFECYCLE {\\\"environment\\\":\\\"SANDBOX\\\",\\\"invoiceId\\\":\\\"inv:0-ChBvEd2_INMsq2DAPxPhNm2cELIN\\\",\\\"orderId\\\":\\\"TEST-ORDER-67b5d53207aaf384c57d3941fa14b082\\\",\\\"invoiceStatus\\\":\\\"PAID\\\",\\\"state\\\":\\\"HOLD\\\",\\\"totalCents\\\":4200,\\\"providerPaidCents\\\":4200,\\\"paymentCount\\\":1,\\\"refundOrDisputeHold\\\":true,\\\"paymentEligible\\\":false,\\\"productionEnabled\\\":false,\\\"invoiceEmailsSent\\\":0,\\\"publicUrl\\\":\\\"https://app.squareupsandbox.com/pay-invoice/invtmp:410ce34b-ced0-4040-8e5b-12b8c831878f\\\"}.\"':\n      - generic: 8:11:05 PM\n      - generic: Info\n      - generic: \"MATRIX_SANDBOX_LIFECYCLE {\\\"environment\\\":\\\"SANDBOX\\\",\\\"invoiceId\\\":\\\"inv:0-ChBvEd2_INMsq2DAPxPhNm2cELIN\\\",\\\"orderId\\\":\\\"TEST-ORDER-67b5d53207aaf384c57d3941fa14b082\\\",\\\"invoiceStatus\\\":\\\"PAID\\\",\\\"state\\\":\\\"HOLD\\\",\\\"totalCents\\\":4200,\\\"providerPaidCents\\\":4200,\\\"paymentCount\\\":1,\\\"refundOrDisputeHold\\\":true,\\\"paymentEligible\\\":false,\\\"productionEnabled\\\":false,\\\"invoiceEmailsSent\\\":0,\\\"publicUrl\\\":\\\"https://app.squareupsandbox.com/pay-invoice/invtmp:410ce34b-ced0-4040-8e5b-12b8c831878f\\\"}\"\n    - 'listitem \"Log 4. 8:11:05 PM. Info. MATRIX_SANDBOX_REFUND {\\\"refundId\\\":\\\"E5IoVc878Qoh0twHCSBOKQKvMELZY_DXvehY3OIsbHAPwMmcTh5A4NC0rO6p8x2EFRXXyPs9D\\\",\\\"status\\\":\\\"COMPLETED\\\",\\\"amountCents\\\":4200,\\\"paymentEligible\\\":false}.\"':\n      - generic: 8:11:05 PM\n      - generic: Info\n      - generic: \"MATRIX_SANDBOX_REFUND {\\\"refundId\\\":\\\"E5IoVc878Qoh0twHCSBOKQKvMELZY_DXvehY3OIsbHAPwMmcTh5A4NC0rO6p8x2EFRXXyPs9D\\\",\\\"status\\\":\\\"COMPLETED\\\",\\\"amountCents\\\":4200,\\\"paymentEligible\\\":false}\"\n    - listitem \"Log 5. 8:11:05 PM. Info. MATRIX_SANDBOX_API_ENABLED false.\":\n      - generic: 8:11:05 PM\n      - generic: Info\n      - generic: MATRIX_SANDBOX_API_ENABLED false\n    - listitem \"Log 6. 8:11:06 PM. Notice. Execution completed.\":\n      - generic: 8:11:06 PM\n      - generic: Notice\n      - generic: Execution completed\n- button \"Close execution logs pane\":\n  - generic: close\n- tooltip: Close execution log\n- text: \"* * * * * * *\"\n- alert\n- alert\n- complementary\n- complementary"
+    }
+  ],
+  "finalSheets": {
+    "spreadsheetId": "16hwNkp_gobTw2wHyb6N6_aTzmtOgIIPLPa5tIPdnxUY",
+    "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/16hwNkp_gobTw2wHyb6N6_aTzmtOgIIPLPa5tIPdnxUY/edit?ouid=115582173124288192131",
+    "properties": {
+      "title": "Matrix Supplement Preorders — Private Order Tracker",
+      "locale": "en_US",
+      "timeZone": "America/Chicago"
+    },
+    "sheets": [
+      {
+        "properties": {
+          "sheetId": 209,
+          "title": "Event Log",
+          "index": 10,
+          "sheetType": "GRID",
+          "gridProperties": {
+            "rowCount": 200,
+            "columnCount": 9,
+            "frozenRowCount": 5,
+            "hideGridlines": true
+          }
+        },
+        "data": [
+          {
+            "startRow": 16,
+            "rowData": [
+              {
+                "values": [
+                  {
+                    "formattedValue": "248b99e2-d3e2-42e3-9f62-04e8246b1df7"
+                  },
+                  {
+                    "formattedValue": "TEST-ORDER-67b5d53207aaf384c57d3941fa14b082"
+                  },
+                  {
+                    "formattedValue": "MATRIX_STAGING_V2"
+                  },
+                  {
+                    "formattedValue": "MATRIX_STAGE_V2_STATE"
+                  },
+                  {
+                    "formattedValue": "2026-11-15T02:10:14.887Z"
+                  },
+                  {
+                    "formattedValue": "SANDBOX_PAID_VERIFIED"
+                  },
+                  {
+                    "formattedValue": "FALSE"
+                  },
+                  {
+                    "formattedValue": "SANDBOX_ONLY"
+                  },
+                  {
+                    "formattedValue": "{\"schema\":2,\"environment\":\"SANDBOX\",\"orderId\":\"TEST-ORDER-67b5d53207aaf384c57d3941fa14b082\",\"submissionId\":\"TEST-STAGE2-TRANSPORT-002\",\"fingerprint\":\"99b25601a78bda1eba218c5239dac8e1d1be75905d2cd3e660b965601872510c\",\"request\":{\"submissionId\":\"TEST-STAGE2-TRANSPORT-002\",\"customerName\":\"Matrix synthetic test\",\"email\":\"matrix.stage2@example.invalid\",\"cart\":[{\"itemId\":\"TEST-BUNDLE-AB\",\"quantity\":1},{\"itemId\":\"TEST-PRODUCT-A\",\"quantity\":2}],\"cycleId\":\"TEST-CYCLE-V2\",\"fulfillment\":\"TEST_PICKUP\",\"termsAccepted\":true,\"marketingOptIn\":false},\"createdUtc\":\"2026-11-15T00:34:58.323Z\",\"dueDate\":\"2026-11-22\",\"quote\":{\"currency\":\"USD\",\"priceVersion\":\"TEST-V2-1\",\"cycleId\":\"TEST-CYCLE-V2\",\"subtotalCents\":4200,\"taxCents\":0,\"fulfillmentFeeCents\":0,\"totalCents\":4200,\"lines\":[{\"lineId\":\"LINE-01\",\"itemId\":\"TEST-BUNDLE-AB\",\"kind\":\"BUNDLE\",\"nameSnapshot\":\"TEST ONLY — sample bundle\",\"variantSnapshot\":\"Synthetic fixture\",\"quantity\":1,\"unitPriceCents\":1800,\"lineSubtotalCents\":1800,\"catalogRevision\":\"TEST-V2-1\",\"componentSnapshot\":[{\"productSku\":\"TEST-PRODUCT-A\",\"quantityPerBundle\":1},{\"productSku\":\"TEST-PRODUCT-B\",\"quantityPerBundle\":1}]},{\"lineId\":\"LINE-02\",\"itemId\":\"TEST-PRODUCT-A\",\"kind\":\"PRODUCT\",\"nameSnapshot\":\"TEST ONLY — sample product\",\"variantSnapshot\":\"Synthetic fixture\",\"quantity\":2,\"unitPriceCents\":1200,\"lineSubtotalCents\":2400,\"catalogRevision\":\"TEST-V2-1\",\"componentSnapshot\":[{\"productSku\":\"TEST-PRODUCT-A\",\"quantityPerBundle\":1}]}]},\"state\":\"SANDBOX_PAID_VERIFIED\",\"ownerRelease\":\"NOT_APPROVED\",\"paymentEligible\":false,\"locationId\":\"LNP57TAA5YGP0\",\"customerId\":\"AQSJ3T62RK7MMGEFGDKBAA8598\",\"squareOrderId\":\"CnfTXiQJla29bpSccU6V2PUvta4F\",\"invoiceId\":\"inv:0-ChBvEd2_INMsq2DAPxPhNm2cELIN\",\"invoiceVersion\":2,\"invoiceStatus\":\"PAID\",\"publishVersion\":0,\"invoiceUrl\":\"https://app.squareupsandbox.com/pay-invoice/invtmp:410ce34b-ced0-4040-8e5b-12b8c831878f\",\"refundOrDisputeHold\":false,\"lastProviderCheckedUtc\":\"2026-11-15T02:10:14.823Z\",\"paymentEvidence\":[{\"id\":\"E5IoVc878Qoh0twHCSBOKQKvMELZY\",\"status\":\"COMPLETED\",\"amountCents\":4200,\"refundedCents\":0,\"refundIds\":[]}]}"
+                  }
+                ]
+              },
+              {
+                "values": [
+                  {
+                    "formattedValue": "e2a0441f-ddb6-4328-a742-cb27a0032733"
+                  },
+                  {
+                    "formattedValue": "TEST-ORDER-67b5d53207aaf384c57d3941fa14b082"
+                  },
+                  {
+                    "formattedValue": "MATRIX_STAGING_V2"
+                  },
+                  {
+                    "formattedValue": "MATRIX_STAGE_V2_STATE"
+                  },
+                  {
+                    "formattedValue": "2026-11-15T02:10:33.501Z"
+                  },
+                  {
+                    "formattedValue": "HOLD"
+                  },
+                  {
+                    "formattedValue": "FALSE"
+                  },
+                  {
+                    "formattedValue": "SANDBOX_ONLY"
+                  },
+                  {
+                    "formattedValue": "{\"schema\":2,\"environment\":\"SANDBOX\",\"orderId\":\"TEST-ORDER-67b5d53207aaf384c57d3941fa14b082\",\"submissionId\":\"TEST-STAGE2-TRANSPORT-002\",\"fingerprint\":\"99b25601a78bda1eba218c5239dac8e1d1be75905d2cd3e660b965601872510c\",\"request\":{\"submissionId\":\"TEST-STAGE2-TRANSPORT-002\",\"customerName\":\"Matrix synthetic test\",\"email\":\"matrix.stage2@example.invalid\",\"cart\":[{\"itemId\":\"TEST-BUNDLE-AB\",\"quantity\":1},{\"itemId\":\"TEST-PRODUCT-A\",\"quantity\":2}],\"cycleId\":\"TEST-CYCLE-V2\",\"fulfillment\":\"TEST_PICKUP\",\"termsAccepted\":true,\"marketingOptIn\":false},\"createdUtc\":\"2026-11-15T00:34:58.323Z\",\"dueDate\":\"2026-11-22\",\"quote\":{\"currency\":\"USD\",\"priceVersion\":\"TEST-V2-1\",\"cycleId\":\"TEST-CYCLE-V2\",\"subtotalCents\":4200,\"taxCents\":0,\"fulfillmentFeeCents\":0,\"totalCents\":4200,\"lines\":[{\"lineId\":\"LINE-01\",\"itemId\":\"TEST-BUNDLE-AB\",\"kind\":\"BUNDLE\",\"nameSnapshot\":\"TEST ONLY — sample bundle\",\"variantSnapshot\":\"Synthetic fixture\",\"quantity\":1,\"unitPriceCents\":1800,\"lineSubtotalCents\":1800,\"catalogRevision\":\"TEST-V2-1\",\"componentSnapshot\":[{\"productSku\":\"TEST-PRODUCT-A\",\"quantityPerBundle\":1},{\"productSku\":\"TEST-PRODUCT-B\",\"quantityPerBundle\":1}]},{\"lineId\":\"LINE-02\",\"itemId\":\"TEST-PRODUCT-A\",\"kind\":\"PRODUCT\",\"nameSnapshot\":\"TEST ONLY — sample product\",\"variantSnapshot\":\"Synthetic fixture\",\"quantity\":2,\"unitPriceCents\":1200,\"lineSubtotalCents\":2400,\"catalogRevision\":\"TEST-V2-1\",\"componentSnapshot\":[{\"productSku\":\"TEST-PRODUCT-A\",\"quantityPerBundle\":1}]}]},\"state\":\"HOLD\",\"ownerRelease\":\"NOT_APPROVED\",\"paymentEligible\":false,\"locationId\":\"LNP57TAA5YGP0\",\"customerId\":\"AQSJ3T62RK7MMGEFGDKBAA8598\",\"squareOrderId\":\"CnfTXiQJla29bpSccU6V2PUvta4F\",\"invoiceId\":\"inv:0-ChBvEd2_INMsq2DAPxPhNm2cELIN\",\"invoiceVersion\":2,\"invoiceStatus\":\"PAID\",\"publishVersion\":0,\"invoiceUrl\":\"https://app.squareupsandbox.com/pay-invoice/invtmp:410ce34b-ced0-4040-8e5b-12b8c831878f\",\"refundOrDisputeHold\":true,\"lastProviderCheckedUtc\":\"2026-11-15T02:10:14.823Z\",\"paymentEvidence\":[{\"id\":\"E5IoVc878Qoh0twHCSBOKQKvMELZY\",\"status\":\"COMPLETED\",\"amountCents\":4200,\"refundedCents\":0,\"refundIds\":[]}],\"refundIntent\":{\"idempotency_key\":\"RF-2ddd1301da9f82a31821cca05ccb54ea\",\"payment_id\":\"E5IoVc878Qoh0twHCSBOKQKvMELZY\",\"amount_money\":{\"amount\":4200,\"currency\":\"USD\"},\"reason\":\"TEST ONLY - Matrix staging refund validation\"}}"
+                  }
+                ]
+              },
+              {
+                "values": [
+                  {
+                    "formattedValue": "04f93f8a-565b-417a-a42a-552f0e1d3d24"
+                  },
+                  {
+                    "formattedValue": "TEST-ORDER-67b5d53207aaf384c57d3941fa14b082"
+                  },
+                  {
+                    "formattedValue": "MATRIX_STAGING_V2"
+                  },
+                  {
+                    "formattedValue": "MATRIX_STAGE_V2_STATE"
+                  },
+                  {
+                    "formattedValue": "2026-11-15T02:10:36.094Z"
+                  },
+                  {
+                    "formattedValue": "HOLD"
+                  },
+                  {
+                    "formattedValue": "FALSE"
+                  },
+                  {
+                    "formattedValue": "SANDBOX_ONLY"
+                  },
+                  {
+                    "formattedValue": "{\"schema\":2,\"environment\":\"SANDBOX\",\"orderId\":\"TEST-ORDER-67b5d53207aaf384c57d3941fa14b082\",\"submissionId\":\"TEST-STAGE2-TRANSPORT-002\",\"fingerprint\":\"99b25601a78bda1eba218c5239dac8e1d1be75905d2cd3e660b965601872510c\",\"request\":{\"submissionId\":\"TEST-STAGE2-TRANSPORT-002\",\"customerName\":\"Matrix synthetic test\",\"email\":\"matrix.stage2@example.invalid\",\"cart\":[{\"itemId\":\"TEST-BUNDLE-AB\",\"quantity\":1},{\"itemId\":\"TEST-PRODUCT-A\",\"quantity\":2}],\"cycleId\":\"TEST-CYCLE-V2\",\"fulfillment\":\"TEST_PICKUP\",\"termsAccepted\":true,\"marketingOptIn\":false},\"createdUtc\":\"2026-11-15T00:34:58.323Z\",\"dueDate\":\"2026-11-22\",\"quote\":{\"currency\":\"USD\",\"priceVersion\":\"TEST-V2-1\",\"cycleId\":\"TEST-CYCLE-V2\",\"subtotalCents\":4200,\"taxCents\":0,\"fulfillmentFeeCents\":0,\"totalCents\":4200,\"lines\":[{\"lineId\":\"LINE-01\",\"itemId\":\"TEST-BUNDLE-AB\",\"kind\":\"BUNDLE\",\"nameSnapshot\":\"TEST ONLY — sample bundle\",\"variantSnapshot\":\"Synthetic fixture\",\"quantity\":1,\"unitPriceCents\":1800,\"lineSubtotalCents\":1800,\"catalogRevision\":\"TEST-V2-1\",\"componentSnapshot\":[{\"productSku\":\"TEST-PRODUCT-A\",\"quantityPerBundle\":1},{\"productSku\":\"TEST-PRODUCT-B\",\"quantityPerBundle\":1}]},{\"lineId\":\"LINE-02\",\"itemId\":\"TEST-PRODUCT-A\",\"kind\":\"PRODUCT\",\"nameSnapshot\":\"TEST ONLY — sample product\",\"variantSnapshot\":\"Synthetic fixture\",\"quantity\":2,\"unitPriceCents\":1200,\"lineSubtotalCents\":2400,\"catalogRevision\":\"TEST-V2-1\",\"componentSnapshot\":[{\"productSku\":\"TEST-PRODUCT-A\",\"quantityPerBundle\":1}]}]},\"state\":\"HOLD\",\"ownerRelease\":\"NOT_APPROVED\",\"paymentEligible\":false,\"locationId\":\"LNP57TAA5YGP0\",\"customerId\":\"AQSJ3T62RK7MMGEFGDKBAA8598\",\"squareOrderId\":\"CnfTXiQJla29bpSccU6V2PUvta4F\",\"invoiceId\":\"inv:0-ChBvEd2_INMsq2DAPxPhNm2cELIN\",\"invoiceVersion\":2,\"invoiceStatus\":\"PAID\",\"publishVersion\":0,\"invoiceUrl\":\"https://app.squareupsandbox.com/pay-invoice/invtmp:410ce34b-ced0-4040-8e5b-12b8c831878f\",\"refundOrDisputeHold\":true,\"lastProviderCheckedUtc\":\"2026-11-15T02:10:14.823Z\",\"paymentEvidence\":[{\"id\":\"E5IoVc878Qoh0twHCSBOKQKvMELZY\",\"status\":\"COMPLETED\",\"amountCents\":4200,\"refundedCents\":0,\"refundIds\":[]}],\"refundIntent\":{\"idempotency_key\":\"RF-2ddd1301da9f82a31821cca05ccb54ea\",\"payment_id\":\"E5IoVc878Qoh0twHCSBOKQKvMELZY\",\"amount_money\":{\"amount\":4200,\"currency\":\"USD\"},\"reason\":\"TEST ONLY - Matrix staging refund validation\"},\"refundId\":\"E5IoVc878Qoh0twHCSBOKQKvMELZY_DXvehY3OIsbHAPwMmcTh5A4NC0rO6p8x2EFRXXyPs9D\"}"
+                  }
+                ]
+              },
+              {
+                "values": [
+                  {
+                    "formattedValue": "0073b2ab-a910-4a75-a188-c197fcd55e30"
+                  },
+                  {
+                    "formattedValue": "TEST-ORDER-67b5d53207aaf384c57d3941fa14b082"
+                  },
+                  {
+                    "formattedValue": "MATRIX_STAGING_V2"
+                  },
+                  {
+                    "formattedValue": "MATRIX_STAGE_V2_STATE"
+                  },
+                  {
+                    "formattedValue": "2026-11-15T02:10:38.329Z"
+                  },
+                  {
+                    "formattedValue": "HOLD"
+                  },
+                  {
+                    "formattedValue": "FALSE"
+                  },
+                  {
+                    "formattedValue": "SANDBOX_ONLY"
+                  },
+                  {
+                    "formattedValue": "{\"schema\":2,\"environment\":\"SANDBOX\",\"orderId\":\"TEST-ORDER-67b5d53207aaf384c57d3941fa14b082\",\"submissionId\":\"TEST-STAGE2-TRANSPORT-002\",\"fingerprint\":\"99b25601a78bda1eba218c5239dac8e1d1be75905d2cd3e660b965601872510c\",\"request\":{\"submissionId\":\"TEST-STAGE2-TRANSPORT-002\",\"customerName\":\"Matrix synthetic test\",\"email\":\"matrix.stage2@example.invalid\",\"cart\":[{\"itemId\":\"TEST-BUNDLE-AB\",\"quantity\":1},{\"itemId\":\"TEST-PRODUCT-A\",\"quantity\":2}],\"cycleId\":\"TEST-CYCLE-V2\",\"fulfillment\":\"TEST_PICKUP\",\"termsAccepted\":true,\"marketingOptIn\":false},\"createdUtc\":\"2026-11-15T00:34:58.323Z\",\"dueDate\":\"2026-11-22\",\"quote\":{\"currency\":\"USD\",\"priceVersion\":\"TEST-V2-1\",\"cycleId\":\"TEST-CYCLE-V2\",\"subtotalCents\":4200,\"taxCents\":0,\"fulfillmentFeeCents\":0,\"totalCents\":4200,\"lines\":[{\"lineId\":\"LINE-01\",\"itemId\":\"TEST-BUNDLE-AB\",\"kind\":\"BUNDLE\",\"nameSnapshot\":\"TEST ONLY — sample bundle\",\"variantSnapshot\":\"Synthetic fixture\",\"quantity\":1,\"unitPriceCents\":1800,\"lineSubtotalCents\":1800,\"catalogRevision\":\"TEST-V2-1\",\"componentSnapshot\":[{\"productSku\":\"TEST-PRODUCT-A\",\"quantityPerBundle\":1},{\"productSku\":\"TEST-PRODUCT-B\",\"quantityPerBundle\":1}]},{\"lineId\":\"LINE-02\",\"itemId\":\"TEST-PRODUCT-A\",\"kind\":\"PRODUCT\",\"nameSnapshot\":\"TEST ONLY — sample product\",\"variantSnapshot\":\"Synthetic fixture\",\"quantity\":2,\"unitPriceCents\":1200,\"lineSubtotalCents\":2400,\"catalogRevision\":\"TEST-V2-1\",\"componentSnapshot\":[{\"productSku\":\"TEST-PRODUCT-A\",\"quantityPerBundle\":1}]}]},\"state\":\"HOLD\",\"ownerRelease\":\"NOT_APPROVED\",\"paymentEligible\":false,\"locationId\":\"LNP57TAA5YGP0\",\"customerId\":\"AQSJ3T62RK7MMGEFGDKBAA8598\",\"squareOrderId\":\"CnfTXiQJla29bpSccU6V2PUvta4F\",\"invoiceId\":\"inv:0-ChBvEd2_INMsq2DAPxPhNm2cELIN\",\"invoiceVersion\":2,\"invoiceStatus\":\"PAID\",\"publishVersion\":0,\"invoiceUrl\":\"https://app.squareupsandbox.com/pay-invoice/invtmp:410ce34b-ced0-4040-8e5b-12b8c831878f\",\"refundOrDisputeHold\":true,\"lastProviderCheckedUtc\":\"2026-11-15T02:10:38.096Z\",\"paymentEvidence\":[{\"id\":\"E5IoVc878Qoh0twHCSBOKQKvMELZY\",\"status\":\"COMPLETED\",\"amountCents\":4200,\"refundedCents\":4200,\"refundIds\":[\"E5IoVc878Qoh0twHCSBOKQKvMELZY_DXvehY3OIsbHAPwMmcTh5A4NC0rO6p8x2EFRXXyPs9D\"]}],\"refundIntent\":{\"idempotency_key\":\"RF-2ddd1301da9f82a31821cca05ccb54ea\",\"payment_id\":\"E5IoVc878Qoh0twHCSBOKQKvMELZY\",\"amount_money\":{\"amount\":4200,\"currency\":\"USD\"},\"reason\":\"TEST ONLY - Matrix staging refund validation\"},\"refundId\":\"E5IoVc878Qoh0twHCSBOKQKvMELZY_DXvehY3OIsbHAPwMmcTh5A4NC0rO6p8x2EFRXXyPs9D\",\"refundStatus\":\"PENDING\"}"
+                  }
+                ]
+              },
+              {
+                "values": [
+                  {
+                    "formattedValue": "de19dc21-bdd2-4a75-92b9-c4d3be880535"
+                  },
+                  {
+                    "formattedValue": "TEST-ORDER-67b5d53207aaf384c57d3941fa14b082"
+                  },
+                  {
+                    "formattedValue": "MATRIX_STAGING_V2"
+                  },
+                  {
+                    "formattedValue": "MATRIX_STAGE_V2_STATE"
+                  },
+                  {
+                    "formattedValue": "2026-11-15T02:11:04.016Z"
+                  },
+                  {
+                    "formattedValue": "HOLD"
+                  },
+                  {
+                    "formattedValue": "FALSE"
+                  },
+                  {
+                    "formattedValue": "SANDBOX_ONLY"
+                  },
+                  {
+                    "formattedValue": "{\"schema\":2,\"environment\":\"SANDBOX\",\"orderId\":\"TEST-ORDER-67b5d53207aaf384c57d3941fa14b082\",\"submissionId\":\"TEST-STAGE2-TRANSPORT-002\",\"fingerprint\":\"99b25601a78bda1eba218c5239dac8e1d1be75905d2cd3e660b965601872510c\",\"request\":{\"submissionId\":\"TEST-STAGE2-TRANSPORT-002\",\"customerName\":\"Matrix synthetic test\",\"email\":\"matrix.stage2@example.invalid\",\"cart\":[{\"itemId\":\"TEST-BUNDLE-AB\",\"quantity\":1},{\"itemId\":\"TEST-PRODUCT-A\",\"quantity\":2}],\"cycleId\":\"TEST-CYCLE-V2\",\"fulfillment\":\"TEST_PICKUP\",\"termsAccepted\":true,\"marketingOptIn\":false},\"createdUtc\":\"2026-11-15T00:34:58.323Z\",\"dueDate\":\"2026-11-22\",\"quote\":{\"currency\":\"USD\",\"priceVersion\":\"TEST-V2-1\",\"cycleId\":\"TEST-CYCLE-V2\",\"subtotalCents\":4200,\"taxCents\":0,\"fulfillmentFeeCents\":0,\"totalCents\":4200,\"lines\":[{\"lineId\":\"LINE-01\",\"itemId\":\"TEST-BUNDLE-AB\",\"kind\":\"BUNDLE\",\"nameSnapshot\":\"TEST ONLY — sample bundle\",\"variantSnapshot\":\"Synthetic fixture\",\"quantity\":1,\"unitPriceCents\":1800,\"lineSubtotalCents\":1800,\"catalogRevision\":\"TEST-V2-1\",\"componentSnapshot\":[{\"productSku\":\"TEST-PRODUCT-A\",\"quantityPerBundle\":1},{\"productSku\":\"TEST-PRODUCT-B\",\"quantityPerBundle\":1}]},{\"lineId\":\"LINE-02\",\"itemId\":\"TEST-PRODUCT-A\",\"kind\":\"PRODUCT\",\"nameSnapshot\":\"TEST ONLY — sample product\",\"variantSnapshot\":\"Synthetic fixture\",\"quantity\":2,\"unitPriceCents\":1200,\"lineSubtotalCents\":2400,\"catalogRevision\":\"TEST-V2-1\",\"componentSnapshot\":[{\"productSku\":\"TEST-PRODUCT-A\",\"quantityPerBundle\":1}]}]},\"state\":\"HOLD\",\"ownerRelease\":\"NOT_APPROVED\",\"paymentEligible\":false,\"locationId\":\"LNP57TAA5YGP0\",\"customerId\":\"AQSJ3T62RK7MMGEFGDKBAA8598\",\"squareOrderId\":\"CnfTXiQJla29bpSccU6V2PUvta4F\",\"invoiceId\":\"inv:0-ChBvEd2_INMsq2DAPxPhNm2cELIN\",\"invoiceVersion\":2,\"invoiceStatus\":\"PAID\",\"publishVersion\":0,\"invoiceUrl\":\"https://app.squareupsandbox.com/pay-invoice/invtmp:410ce34b-ced0-4040-8e5b-12b8c831878f\",\"refundOrDisputeHold\":true,\"lastProviderCheckedUtc\":\"2026-11-15T02:11:03.944Z\",\"paymentEvidence\":[{\"id\":\"E5IoVc878Qoh0twHCSBOKQKvMELZY\",\"status\":\"COMPLETED\",\"amountCents\":4200,\"refundedCents\":4200,\"refundIds\":[\"E5IoVc878Qoh0twHCSBOKQKvMELZY_DXvehY3OIsbHAPwMmcTh5A4NC0rO6p8x2EFRXXyPs9D\"]}],\"refundIntent\":{\"idempotency_key\":\"RF-2ddd1301da9f82a31821cca05ccb54ea\",\"payment_id\":\"E5IoVc878Qoh0twHCSBOKQKvMELZY\",\"amount_money\":{\"amount\":4200,\"currency\":\"USD\"},\"reason\":\"TEST ONLY - Matrix staging refund validation\"},\"refundId\":\"E5IoVc878Qoh0twHCSBOKQKvMELZY_DXvehY3OIsbHAPwMmcTh5A4NC0rO6p8x2EFRXXyPs9D\",\"refundStatus\":\"COMPLETED\"}"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "properties": {
+          "sheetId": 212,
+          "title": "Orders V2",
+          "index": 12,
+          "sheetType": "GRID",
+          "gridProperties": {
+            "rowCount": 500,
+            "columnCount": 24,
+            "frozenRowCount": 5,
+            "hideGridlines": true
+          }
+        },
+        "data": [
+          {
+            "startRow": 4,
+            "rowData": [
+              {
+                "values": [
+                  {
+                    "formattedValue": "Order ID"
+                  },
+                  {
+                    "formattedValue": "Submission ID"
+                  },
+                  {
+                    "formattedValue": "Created UTC"
+                  },
+                  {
+                    "formattedValue": "Customer name"
+                  },
+                  {
+                    "formattedValue": "Email"
+                  },
+                  {
+                    "formattedValue": "Fulfillment"
+                  },
+                  {
+                    "formattedValue": "Cycle ID"
+                  },
+                  {
+                    "formattedValue": "Expires UTC"
+                  },
+                  {
+                    "formattedValue": "Subtotal cents"
+                  },
+                  {
+                    "formattedValue": "Tax cents"
+                  },
+                  {
+                    "formattedValue": "Fulfillment fee cents"
+                  },
+                  {
+                    "formattedValue": "Total cents"
+                  },
+                  {
+                    "formattedValue": "Currency"
+                  },
+                  {
+                    "formattedValue": "Price version"
+                  },
+                  {
+                    "formattedValue": "Order state"
+                  },
+                  {
+                    "formattedValue": "Invoice state"
+                  },
+                  {
+                    "formattedValue": "Invoice ID"
+                  },
+                  {
+                    "formattedValue": "Invoice version"
+                  },
+                  {
+                    "formattedValue": "Invoice URL"
+                  },
+                  {
+                    "formattedValue": "Invoice sent UTC"
+                  },
+                  {
+                    "formattedValue": "Paid UTC"
+                  },
+                  {
+                    "formattedValue": "Refund/dispute hold"
+                  },
+                  {
+                    "formattedValue": "Batch ID"
+                  },
+                  {
+                    "formattedValue": "Owner release"
+                  }
+                ]
+              },
+              {
+                "values": [
+                  {
+                    "formattedValue": "TEST-ORDER-07f7561c5dc3bf9e4f2c0d3486b2eabb"
+                  },
+                  {
+                    "formattedValue": "TEST-STAGE2-SHEETQA-001"
+                  },
+                  {
+                    "formattedValue": "2026-11-15T00:22:59.096Z"
+                  },
+                  {
+                    "formattedValue": "Matrix synthetic test"
+                  },
+                  {
+                    "formattedValue": "matrix.stage2@example.invalid"
+                  },
+                  {
+                    "formattedValue": "TEST_PICKUP"
+                  },
+                  {
+                    "formattedValue": "TEST-CYCLE-V2"
+                  },
+                  {
+                    "formattedValue": "2026-11-22T23:59:59Z"
+                  },
+                  {
+                    "formattedValue": "4200"
+                  },
+                  {
+                    "formattedValue": "0"
+                  },
+                  {
+                    "formattedValue": "0"
+                  },
+                  {
+                    "formattedValue": "4200"
+                  },
+                  {
+                    "formattedValue": "USD"
+                  },
+                  {
+                    "formattedValue": "TEST-V2-1"
+                  },
+                  {
+                    "formattedValue": "VALIDATED"
+                  },
+                  {
+                    "formattedValue": "NOT_CREATED"
+                  },
+                  {},
+                  {},
+                  {},
+                  {},
+                  {},
+                  {},
+                  {},
+                  {
+                    "formattedValue": "NOT_APPROVED"
+                  }
+                ]
+              },
+              {
+                "values": [
+                  {
+                    "formattedValue": "TEST-ORDER-b7e600333597341e54a180b594119696"
+                  },
+                  {
+                    "formattedValue": "TEST-STAGE2-TRANSPORT-001"
+                  },
+                  {
+                    "formattedValue": "2026-11-15T00:34:56.171Z"
+                  },
+                  {
+                    "formattedValue": "Matrix synthetic test"
+                  },
+                  {
+                    "formattedValue": "matrix.stage2@example.invalid"
+                  },
+                  {
+                    "formattedValue": "TEST_PICKUP"
+                  },
+                  {
+                    "formattedValue": "TEST-CYCLE-V2"
+                  },
+                  {
+                    "formattedValue": "2026-11-22T23:59:59Z"
+                  },
+                  {
+                    "formattedValue": "4200"
+                  },
+                  {
+                    "formattedValue": "0"
+                  },
+                  {
+                    "formattedValue": "0"
+                  },
+                  {
+                    "formattedValue": "4200"
+                  },
+                  {
+                    "formattedValue": "USD"
+                  },
+                  {
+                    "formattedValue": "TEST-V2-1"
+                  },
+                  {
+                    "formattedValue": "VALIDATED"
+                  },
+                  {
+                    "formattedValue": "NOT_CREATED"
+                  },
+                  {},
+                  {},
+                  {},
+                  {},
+                  {},
+                  {},
+                  {},
+                  {
+                    "formattedValue": "NOT_APPROVED"
+                  }
+                ]
+              },
+              {
+                "values": [
+                  {
+                    "formattedValue": "TEST-ORDER-67b5d53207aaf384c57d3941fa14b082"
+                  },
+                  {
+                    "formattedValue": "TEST-STAGE2-TRANSPORT-002"
+                  },
+                  {
+                    "formattedValue": "2026-11-15T00:34:58.323Z"
+                  },
+                  {
+                    "formattedValue": "Matrix synthetic test"
+                  },
+                  {
+                    "formattedValue": "matrix.stage2@example.invalid"
+                  },
+                  {
+                    "formattedValue": "TEST_PICKUP"
+                  },
+                  {
+                    "formattedValue": "TEST-CYCLE-V2"
+                  },
+                  {
+                    "formattedValue": "2026-11-22T23:59:59Z"
+                  },
+                  {
+                    "formattedValue": "4200"
+                  },
+                  {
+                    "formattedValue": "0"
+                  },
+                  {
+                    "formattedValue": "0"
+                  },
+                  {
+                    "formattedValue": "4200"
+                  },
+                  {
+                    "formattedValue": "USD"
+                  },
+                  {
+                    "formattedValue": "TEST-V2-1"
+                  },
+                  {
+                    "formattedValue": "HOLD"
+                  },
+                  {
+                    "formattedValue": "PAID"
+                  },
+                  {
+                    "formattedValue": "inv:0-ChBvEd2_INMsq2DAPxPhNm2cELIN"
+                  },
+                  {
+                    "formattedValue": "2"
+                  },
+                  {
+                    "formattedValue": "https://app.squareupsandbox.com/pay-invoice/invtmp:410ce34b-ced0-4040-8e5b-12b8c831878f"
+                  },
+                  {},
+                  {},
+                  {
+                    "formattedValue": "HOLD"
+                  },
+                  {},
+                  {
+                    "formattedValue": "NOT_APPROVED"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "properties": {
+          "sheetId": 214,
+          "title": "Invoice Queue V2",
+          "index": 14,
+          "sheetType": "GRID",
+          "gridProperties": {
+            "rowCount": 500,
+            "columnCount": 13,
+            "frozenRowCount": 5,
+            "hideGridlines": true
+          }
+        },
+        "data": [
+          {
+            "startRow": 4,
+            "rowData": [
+              {
+                "values": [
+                  {
+                    "formattedValue": "Order ID"
+                  },
+                  {
+                    "formattedValue": "Environment"
+                  },
+                  {
+                    "formattedValue": "Create gate"
+                  },
+                  {
+                    "formattedValue": "Email gate"
+                  },
+                  {
+                    "formattedValue": "Idempotency key"
+                  },
+                  {
+                    "formattedValue": "Invoice ID"
+                  },
+                  {
+                    "formattedValue": "Invoice status"
+                  },
+                  {
+                    "formattedValue": "Last checked UTC"
+                  },
+                  {
+                    "formattedValue": "Payment confirmed"
+                  },
+                  {
+                    "formattedValue": "Refund/dispute hold"
+                  },
+                  {
+                    "formattedValue": "Retry count"
+                  },
+                  {
+                    "formattedValue": "Error code"
+                  },
+                  {
+                    "formattedValue": "Evidence reference"
+                  }
+                ]
+              },
+              {
+                "values": [
+                  {
+                    "formattedValue": "TEST-ORDER-07f7561c5dc3bf9e4f2c0d3486b2eabb"
+                  },
+                  {
+                    "formattedValue": "SANDBOX"
+                  },
+                  {
+                    "formattedValue": "OFF"
+                  },
+                  {
+                    "formattedValue": "OFF"
+                  },
+                  {
+                    "formattedValue": "TEST-ORDER-07f7561c5dc3bf9e4f2c0d3486b2eabb-invoice"
+                  },
+                  {},
+                  {
+                    "formattedValue": "NOT_CREATED"
+                  },
+                  {
+                    "formattedValue": "2026-11-15T00:35:46.369Z"
+                  },
+                  {
+                    "formattedValue": "FALSE"
+                  },
+                  {
+                    "formattedValue": "FALSE"
+                  },
+                  {
+                    "formattedValue": "0"
+                  },
+                  {},
+                  {
+                    "formattedValue": "MATRIX_STAGE_V2_STATE"
+                  }
+                ]
+              },
+              {
+                "values": [
+                  {
+                    "formattedValue": "TEST-ORDER-b7e600333597341e54a180b594119696"
+                  },
+                  {
+                    "formattedValue": "SANDBOX"
+                  },
+                  {
+                    "formattedValue": "OFF"
+                  },
+                  {
+                    "formattedValue": "OFF"
+                  },
+                  {
+                    "formattedValue": "TEST-ORDER-b7e600333597341e54a180b594119696-invoice"
+                  },
+                  {},
+                  {
+                    "formattedValue": "NOT_CREATED"
+                  },
+                  {
+                    "formattedValue": "2026-11-15T00:35:47.574Z"
+                  },
+                  {
+                    "formattedValue": "FALSE"
+                  },
+                  {
+                    "formattedValue": "FALSE"
+                  },
+                  {
+                    "formattedValue": "0"
+                  },
+                  {},
+                  {
+                    "formattedValue": "MATRIX_STAGE_V2_STATE"
+                  }
+                ]
+              },
+              {
+                "values": [
+                  {
+                    "formattedValue": "TEST-ORDER-67b5d53207aaf384c57d3941fa14b082"
+                  },
+                  {
+                    "formattedValue": "SANDBOX"
+                  },
+                  {
+                    "formattedValue": "OFF"
+                  },
+                  {
+                    "formattedValue": "OFF"
+                  },
+                  {
+                    "formattedValue": "TEST-ORDER-67b5d53207aaf384c57d3941fa14b082-invoice"
+                  },
+                  {
+                    "formattedValue": "inv:0-ChBvEd2_INMsq2DAPxPhNm2cELIN"
+                  },
+                  {
+                    "formattedValue": "PAID"
+                  },
+                  {
+                    "formattedValue": "2026-11-15T02:11:04.845Z"
+                  },
+                  {
+                    "formattedValue": "FALSE"
+                  },
+                  {
+                    "formattedValue": "TRUE"
+                  },
+                  {
+                    "formattedValue": "0"
+                  },
+                  {},
+                  {
+                    "formattedValue": "MATRIX_STAGE_V2_STATE"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,4 +1,4 @@
-# CURRENT — MATRIX Supplement Order System — Staging V2 — Sandbox draft verified
+# CURRENT — MATRIX Supplement Order System — Sandbox payment and refund verified
 Project: FACIAL WEB SEO PW. Verified 2026-11-15 UTC / November 14, 2026 America/Chicago.
 
 ## What is implemented and verified
@@ -10,7 +10,7 @@ TESTED: The existing inactive Wix automation draft delivered synthetic data to t
 
 TESTED: The installed Google processor validated the Wix-delivered carts, journaled immutable quote snapshots, projected Orders V2 / Order Lines V2 / Invoice Queue V2, and recognized replays without duplicate orders. Final state: 3 synthetic orders, 6 lines, 3 queue entries, each order $42.00 (aggregate $126.00), owner NOT_APPROVED, invoice create/email OFF, invoices NOT_CREATED. No real customer record was changed.
 
-TESTED LOCALLY: 59 local test cases (21 original checks, 31 V2 checks and 7 provider-verification checks), including mixed carts, unapproved/expired bundle components, client-price tampering, immutable snapshots, duplicate payload conflict, provider-timeout replay, exact provider totals/identity, refunds/disputes and exclusion of sandbox orders from purchasing eligibility. These are local tests, not provider/live end-to-end tests.
+TESTED LOCALLY: 73 cases passed in the combined run: 21 original, 34 runtime, 7 provider draft checks, 11 lifecycle checks. These include price tampering, immutable mixed-cart quotes, timeout/replay recovery, provider identity and exact amounts, paginated disputes, refund exclusion and the existing strict sheet-state enum. Local tests are separate from the actual Sandbox tests below.
 
 ## Still unfinished
 NOT CONNECTED / NOT TESTED: The customer-facing order form/CAPTCHA and approved-catalog synchronization are not implemented. The current Wix endpoint submits a fixed Admin-only fixture, not arbitrary customer orders. The processor remains manual and accepts synthetic TEST-* orders only. No recurring processor trigger was installed.
@@ -19,7 +19,13 @@ SAVED / VERIFIED / TESTED: Square Sandbox draft creation and duplicate replay pa
 
 The owner's screenshot showed an earlier HTTP 400. Square logs confirmed VALUE_TOO_LONG at order.reference_id (40 maximum); the correction maps internal 43-character ID to a 37-character reference without changing digest bits, internal IDs or retry keys. Existing customer reused. Correction source 3f1498caf0dc4236cb48258c0dc13b2fb3a8a196. Both affected files were reloaded and copied back exactly; 40 V2 local tests passed, plus 21 prior V1 cases. The initial 59-test count above predates these two regression tests.
 
-NOT TESTED / UNFINISHED: Sandbox invoice publication/payment/refund, provider reconciliation polling, production invoice email, approved tax/fulfillment/cycle configuration and final public release remain unfinished. The current code cannot call production, publish an invoice, email a customer, or charge a card. Adding final products/prices alone will NOT complete the current implementation.
+SAVED / VERIFIED / TESTED: Existing Sandbox invoice published SHARE_MANUALLY and received one simulated $42 payment on Square's hosted Sandbox page. Authenticated invoice/order/payment read-backs passed 20:10:12–18 Chicago; sheet projection read-back matched. Full $42 refund was created once at20:10:35 and read back COMPLETED at20:11:05; retry reused the same refundID. Payment refunded_money=4200, orderHOLD, refund holdTRUE, purchasing eligibilityFALSE, all owner/create/email gatesclosed. The other two fixtures remainunchanged. APIenable flagclosed aftereveryrun. See SANDBOX_LIFECYCLE_VERIFIED_2026-11-15.md for full IDs and objective evidence.
+
+LIMITATION: Square Sandbox invoice itself remainsPAID/version2 despite COMPLETED refund and fullyrefundedpayment. Square's developerforum documents this paritygap. The tracker correctly relies on refund/payment evidence and holds theorder; invoiceREFUNDED transition has NOT beenverified. We didnot alterproviderstatus, retrya secondrefund, createanotherinvoice or useproduction.
+
+SAVED / VERIFIED: Added SandboxLifecycleV2.gs with selectedfixture-only publication, reconciliation and fullrefund helpers. RuntimeV2.gs additionally maps journal SANDBOX_PAID_VERIFIED to existing sheetenum PAID_VERIFIED, preserving all purchasingexclusions. Latestcode correction32cd1654b3aa4b6e8863dbd8461d94265263015d. Savedsource reloadedandcopiedbackexactly. No newtrigger, deployment or permissionchange.
+
+NOT IMPLEMENTED / NOT TESTED: Customer-facing cart/CAPTCHA, approved-catalog synchronization, generic approved-product processor, recurring reconciliation, production invoice email, approved tax/fulfillment/cycle configuration and final publicrelease remainunfinished. Current code accepts only syntheticTEST fixtures and hardcodes the Sandboxhost. Adding final products/prices alone will NOT complete the implementation.
 
 No products, prices, tax rules, fulfillment terms or order windows have been approved by this pass. The $42 quote and zero tax/fee are synthetic test fixtures, not business pricing or tax decisions.
 
@@ -50,4 +56,4 @@ NOT PUBLISHED / RELEASED: Website and automation remain unpublished/inactive for
 - Previous verified checkpoint is preserved in staging-v1/docs/CURRENT_INSTALLATION_2026-11-14.md at 191d206c1576f82747cb3ffc291bda59f541d0aa. Original staging source remains at 42ff5b9a796c284abc5cbf600efb11cf52a0eca9.
 
 ## Safe continuation
-Continue from the verified draft; do not recreate any sheets, project, fixtures, credentials, provider objects or Wix automation. Read SQUARE_DRAFT_VERIFIED_2026-11-15.md and SQUARE_REFERENCE_CORRECTION.md. The existing draft test expects DRAFT and should not be rerun after the upcoming lifecycle test publishes that same test invoice. Build and validate the sandbox lifecycle with hardcoded Sandbox host, selected synthetic fixture, SHARE_MANUALLY and purchase eligibility always false. Payment must use Square's sandbox-hosted invoice page and official test card; APIs cannot pay invoice-linked orders directly. Production/public gates remain separately closed.
+Read SANDBOX_LIFECYCLE_VERIFIED_2026-11-15.md and current source before execution. The selected invoice is fully refunded at payment/refund level andheld; do not recreate, repay, republish or refund it again. Earlier DRAFT-only QA is historical and will correctly fail afterpublication. Continue the remaining customerUI/catalog/processor work as a separate specified phase with gatesclosed, preserving the existing R8design, six dispensarylinks, sheets, collections and inactiveautomation. No products/policies or publicrelease are approved by this checkpoint. Production lifecycleverification remains a separate authorized launchrequirement.
