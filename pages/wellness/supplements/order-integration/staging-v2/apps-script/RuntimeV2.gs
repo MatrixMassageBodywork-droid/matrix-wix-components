@@ -52,12 +52,18 @@ var MatrixStageV2 = (function () {
     var now = deps.now;
     return { schema: 2, environment: 'SANDBOX', orderId: 'TEST-ORDER-' + deps.hash(normalized.submissionId).slice(0, 32), submissionId: normalized.submissionId, fingerprint: fingerprint, request: normalized, createdUtc: now, dueDate: new Date(Date.parse(now) + 7 * 86400000).toISOString().slice(0, 10), quote: quoted(normalized, deps.catalog, deps.components, deps.core, now), state: 'VALIDATED', ownerRelease: 'NOT_APPROVED', paymentEligible: false };
   }
+  // Square Order.reference_id allows 40 characters. Preserve all 128 digest bits,
+  // while keeping the existing internal order ID and provider idempotency keys.
+  function squareReference(job) {
+    requireValue(/^TEST-ORDER-[a-f0-9]{32}$/.test(job.orderId || ''), 'INVALID_ORDER_ID');
+    return job.orderId.replace(/^TEST-ORDER-/, 'TEST-');
+  }
   function invoiceBodies(job, locationId) {
     requireValue(job.environment === 'SANDBOX' && job.orderId.startsWith('TEST-ORDER-'), 'SANDBOX_ONLY');
     requireValue(job.quote.taxCents === 0 && job.quote.fulfillmentFeeCents === 0, 'TEST_ZERO_TAX_FEE_ONLY');
     return {
       customer: { idempotency_key: job.orderId + '-customer', given_name: 'Matrix synthetic test', email_address: job.request.email, reference_id: job.orderId },
-      order: { idempotency_key: job.orderId + '-order', order: { location_id: locationId, reference_id: job.orderId, line_items: job.quote.lines.map(function (line) { return { name: line.nameSnapshot, quantity: String(line.quantity), base_price_money: { amount: line.unitPriceCents, currency: 'USD' } }; }) } },
+      order: { idempotency_key: job.orderId + '-order', order: { location_id: locationId, reference_id: squareReference(job), line_items: job.quote.lines.map(function (line) { return { name: line.nameSnapshot, quantity: String(line.quantity), base_price_money: { amount: line.unitPriceCents, currency: 'USD' } }; }) } },
       invoice: { idempotency_key: job.orderId + '-invoice', invoice: { location_id: locationId, order_id: job.squareOrderId, primary_recipient: { customer_id: job.customerId }, delivery_method: 'SHARE_MANUALLY', title: 'TEST ONLY — Matrix supplement order', payment_requests: [{ request_type: 'BALANCE', due_date: job.dueDate, tipping_enabled: false, automatic_payment_source: 'NONE' }], accepted_payment_methods: { card: true, square_gift_card: false, bank_account: false, buy_now_pay_later: false, cash_app_pay: false }, store_payment_method_enabled: false } }
     };
   }
@@ -75,7 +81,7 @@ var MatrixStageV2 = (function () {
     }
     if (!job.squareOrderId) {
       var o = io.call('POST', '/v2/orders', invoiceBodies(job, io.locationId).order).order;
-      requireValue(o && o.id && o.location_id === io.locationId && o.reference_id === job.orderId && o.total_money && o.total_money.amount === job.quote.totalCents && o.total_money.currency === 'USD', 'ORDER_RESPONSE_MISMATCH');
+      requireValue(o && o.id && o.location_id === io.locationId && o.reference_id === squareReference(job) && o.total_money && o.total_money.amount === job.quote.totalCents && o.total_money.currency === 'USD', 'ORDER_RESPONSE_MISMATCH');
       job.squareOrderId = o.id; io.save(job);
     }
     if (!job.invoiceId) {
@@ -88,7 +94,7 @@ var MatrixStageV2 = (function () {
   // Purchase eligibility deliberately remains false in all sandbox states.
   function inspectPayment(job, invoice, order, payments, disputes) {
     requireValue(invoice && invoice.id === job.invoiceId && invoice.order_id === job.squareOrderId && invoice.location_id === job.locationId, 'INVOICE_IDENTITY_MISMATCH');
-    requireValue(order && order.id === job.squareOrderId && order.reference_id === job.orderId && order.location_id === job.locationId, 'ORDER_IDENTITY_MISMATCH');
+    requireValue(order && order.id === job.squareOrderId && order.reference_id === squareReference(job) && order.location_id === job.locationId, 'ORDER_IDENTITY_MISMATCH');
     requireValue(Array.isArray(payments) && Array.isArray(disputes), 'PROVIDER_EVIDENCE_REQUIRED');
     var hold = false, paid = 0, seen = new Set();
     payments.forEach(function (p) {
@@ -102,7 +108,7 @@ var MatrixStageV2 = (function () {
     if (/REFUND|CANCEL/.test(invoice.status || '')) hold = true;
     return { state: hold ? 'HOLD' : invoice.status === 'PAID' && paid === job.quote.totalCents ? 'SANDBOX_PAID_VERIFIED' : 'AWAITING_PAYMENT', refundOrDisputeHold: hold, paidCents: paid, paymentEligible: false };
   }
-  return { request: request, prepare: prepare, fixtureCatalog: fixtureCatalog, fixtureComponents: fixtureComponents, invoiceBodies: invoiceBodies, createDraft: createDraft, inspectPayment: inspectPayment };
+  return { squareReference: squareReference, request: request, prepare: prepare, fixtureCatalog: fixtureCatalog, fixtureComponents: fixtureComponents, invoiceBodies: invoiceBodies, createDraft: createDraft, inspectPayment: inspectPayment };
 })();
 
 function matrixStageV2Hash_(text) {
@@ -185,7 +191,18 @@ function matrixStageV2SandboxCall_(method, path, body) {
   var options = { method: method.toLowerCase(), headers: { Authorization: 'Bearer ' + token, 'Square-Version': '2026-09-16' }, contentType: 'application/json', muteHttpExceptions: true, followRedirects: false };
   if (body) options.payload = JSON.stringify(body);
   var response = UrlFetchApp.fetch('https://connect.squareupsandbox.com' + path, options);
-  if (response.getResponseCode() < 200 || response.getResponseCode() >= 300) throw new Error('SQUARE_SANDBOX_HTTP_' + response.getResponseCode());
+  if (response.getResponseCode() < 200 || response.getResponseCode() >= 300) {
+    // Keep only provider machine codes and field paths. Never log detail text,
+    // response bodies, customer values, headers or credentials.
+    var errors = [];
+    try { errors = JSON.parse(response.getContentText()).errors || []; } catch (ignored) {}
+    var safe = errors.slice(0, 3).map(function (e) {
+      var code = /^[A-Z0-9_]{1,80}$/.test(e.code || '') ? e.code : 'UNKNOWN';
+      var field = /^[a-zA-Z0-9_.\[\]-]{1,120}$/.test(e.field || '') ? ':' + e.field : '';
+      return code + field;
+    }).join(',');
+    throw new Error('SQUARE_SANDBOX_HTTP_' + response.getResponseCode() + (safe ? ' ' + safe : ''));
+  }
   return JSON.parse(response.getContentText());
 }
 /** Manual, sandbox DRAFT only; credential and external-request scope required. */

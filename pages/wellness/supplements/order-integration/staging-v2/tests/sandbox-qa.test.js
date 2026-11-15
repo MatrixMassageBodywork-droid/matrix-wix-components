@@ -5,7 +5,7 @@ function context(mutator){
  const invoice={id:'inv-1',order_id:'order-1',location_id:job.locationId,status:'DRAFT',delivery_method:'SHARE_MANUALLY',store_payment_method_enabled:false,primary_recipient:{customer_id:'customer-1',email_address:job.request.email},payment_requests:[{automatic_payment_source:'NONE',computed_amount_money:{amount:4200,currency:'USD'},total_completed_amount_money:{amount:0,currency:'USD'}}]};
  const order={id:'order-1',location_id:job.locationId,reference_id:job.orderId,total_money:{amount:4200,currency:'USD'}};
  let created=0;
- const ctx=vm.createContext({PropertiesService:{getScriptProperties:()=>({getProperty:k=>props[k],setProperty:(k,v)=>props[k]=v})},matrixStageV2States_:()=>({[props.MATRIX_SANDBOX_SUBMISSION_ID]:job}),matrixStageV2Verify:()=>{},matrixStageV2CreateSandboxDraft:()=>{created++;return{invoiceId:'inv-1'};},matrixStageV2SandboxCall_:(m,p)=>p.includes('/invoices/')?{invoice}:{order},console:{log:()=>{}}});
+ const ctx=vm.createContext({MatrixStageV2:{squareReference:j=>j.orderId},PropertiesService:{getScriptProperties:()=>({getProperty:k=>props[k],setProperty:(k,v)=>props[k]=v})},matrixStageV2States_:()=>({[props.MATRIX_SANDBOX_SUBMISSION_ID]:job}),matrixStageV2Verify:()=>{},matrixStageV2CreateSandboxDraft:()=>{created++;return{invoiceId:'inv-1'};},matrixStageV2SandboxCall_:(m,p)=>p.includes('/invoices/')?{invoice}:{order},console:{log:()=>{}}});
  if(mutator)mutator({props,job,invoice,order,ctx});
  vm.runInContext(fs.readFileSync(require.resolve('../apps-script/SandboxV2QA.gs'),'utf8'),ctx);
  return {ctx,props,created:()=>created};

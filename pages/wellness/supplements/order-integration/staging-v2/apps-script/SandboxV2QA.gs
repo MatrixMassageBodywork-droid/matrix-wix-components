@@ -16,7 +16,7 @@ function matrixStageV2ReadDraft_() {
   var i = matrixStageV2SandboxCall_('GET', '/v2/invoices/' + encodeURIComponent(j.invoiceId)).invoice;
   var o = matrixStageV2SandboxCall_('GET', '/v2/orders/' + encodeURIComponent(j.squareOrderId)).order;
   matrixStageV2SandboxAssert_(i && i.id === j.invoiceId && i.order_id === j.squareOrderId && i.location_id === j.locationId, 'INVOICE_IDENTITY_MISMATCH');
-  matrixStageV2SandboxAssert_(o && o.id === j.squareOrderId && o.reference_id === j.orderId && o.location_id === j.locationId && o.total_money.amount === 4200 && o.total_money.currency === 'USD', 'ORDER_READBACK_MISMATCH');
+  matrixStageV2SandboxAssert_(o && o.id === j.squareOrderId && o.reference_id === MatrixStageV2.squareReference(j) && o.location_id === j.locationId && o.total_money.amount === 4200 && o.total_money.currency === 'USD', 'ORDER_READBACK_MISMATCH');
   matrixStageV2SandboxAssert_(i.status === 'DRAFT' && i.delivery_method === 'SHARE_MANUALLY' && i.store_payment_method_enabled === false, 'INVOICE_SAFETY_MISMATCH');
   matrixStageV2SandboxAssert_(i.primary_recipient.customer_id === j.customerId && i.primary_recipient.email_address === j.request.email, 'RECIPIENT_MISMATCH');
   matrixStageV2SandboxAssert_(i.payment_requests.length === 1 && i.payment_requests[0].automatic_payment_source === 'NONE' && i.payment_requests[0].computed_amount_money.amount === 4200 && i.payment_requests[0].computed_amount_money.currency === 'USD' && i.payment_requests[0].total_completed_amount_money.amount === 0, 'PAYMENT_REQUEST_MISMATCH');

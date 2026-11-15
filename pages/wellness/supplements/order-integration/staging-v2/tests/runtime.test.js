@@ -37,7 +37,7 @@ function provider() {
     requests.push({method, path, body});
     if (!cache.has(body.idempotency_key)) {
       count++;
-      const value = path === '/v2/customers' ? {customer:{id:'customer-1'}} : path === '/v2/orders' ? {order:{id:'order-1', location_id:io.locationId, reference_id:job().orderId, total_money:{amount:4200,currency:'USD'}}} : {invoice:{id:'invoice-1', order_id:'order-1', location_id:io.locationId, status:'DRAFT',version:0}};
+      const value = path === '/v2/customers' ? {customer:{id:'customer-1'}} : path === '/v2/orders' ? {order:{id:'order-1', location_id:io.locationId, reference_id:stage.squareReference(job()), total_money:{amount:4200,currency:'USD'}}} : {invoice:{id:'invoice-1', order_id:'order-1', location_id:io.locationId, status:'DRAFT',version:0}};
       cache.set(body.idempotency_key, value);
     }
     return cache.get(body.idempotency_key);
@@ -50,7 +50,7 @@ test('provider success then lost response reuses idempotency key', () => { const
 test('sandbox disabled makes zero calls', () => { const p=provider(); p.io.enabled=false; assert.throws(()=>stage.createDraft(job(),p.io),/SANDBOX_API_DISABLED/); assert.equal(p.requests.length,0); });
 test('wrong provider amount stops before invoice creation', () => { const p=provider(),call=p.io.call; p.io.call=(...args)=>{const x=call(...args); if(x.order)x.order.total_money.amount=1;return x;}; assert.throws(()=>stage.createDraft(job(),p.io),/ORDER_RESPONSE_MISMATCH/); assert.equal(p.requests.length,2); });
 test('location change stops replay',()=>{const p=provider(),j=stage.createDraft(job(),p.io);p.io.locationId='other';assert.throws(()=>stage.createDraft(j,p.io),/LOCATION_CHANGED/);});
-function evidence(){const j=Object.assign(job(),{invoiceId:'invoice-1',squareOrderId:'order-1',locationId:'location-1'});return {j,i:{id:'invoice-1',order_id:'order-1',location_id:'location-1',status:'PAID'},o:{id:'order-1',reference_id:j.orderId,location_id:'location-1'},p:[{id:'payment-1',order_id:'order-1',location_id:'location-1',status:'COMPLETED',amount_money:{amount:4200,currency:'USD'}}]};}
+function evidence(){const j=Object.assign(job(),{invoiceId:'invoice-1',squareOrderId:'order-1',locationId:'location-1'});return {j,i:{id:'invoice-1',order_id:'order-1',location_id:'location-1',status:'PAID'},o:{id:'order-1',reference_id:stage.squareReference(j),location_id:'location-1'},p:[{id:'payment-1',order_id:'order-1',location_id:'location-1',status:'COMPLETED',amount_money:{amount:4200,currency:'USD'}}]};}
 test('paid sandbox never becomes purchase eligible',()=>{const e=evidence(),r=stage.inspectPayment(e.j,e.i,e.o,e.p,[]);assert.equal(r.state,'SANDBOX_PAID_VERIFIED');assert.equal(r.paymentEligible,false);});
 test('refund excludes paid order',()=>{const e=evidence();e.p[0].refunded_money={amount:1,currency:'USD'};assert.equal(stage.inspectPayment(e.j,e.i,e.o,e.p,[]).state,'HOLD');});
 test('dispute excludes paid order',()=>{const e=evidence();assert.equal(stage.inspectPayment(e.j,e.i,e.o,e.p,[{disputed_payment:{payment_id:'payment-1'}}]).state,'HOLD');});
@@ -71,4 +71,19 @@ test('sheet runtime replays one order/two lines and skips real rows',()=>{
   assert.equal(tables['Orders V2'].length,6);assert.equal(tables['Order Lines V2'].length,7);assert.equal(tables['Event Log'].length,6);assert.equal(external,0);
   assert.equal(tables['Cart Intake V2'][3][0],'REAL-UNCHANGED');assert.equal(tables['Orders V2'][5][23],'NOT_APPROVED');
   assert.equal(ctx.matrixStageV2Verify().totalCents,4200);
+});
+
+test('Square reference fits provider limit while preserving digest and retry keys',()=>{
+ const j=job(),b=stage.invoiceBodies(j,'LOCATION_SANDBOX');
+ assert.equal(b.order.order.reference_id.length,37);
+ assert.equal(b.order.order.reference_id,'TEST-'+j.orderId.slice('TEST-ORDER-'.length));
+ assert.equal(b.order.idempotency_key,j.orderId+'-order');
+ assert.equal(b.customer.reference_id,j.orderId);
+});
+test('Square rejects original oversized reference; adapter supplies accepted reference',()=>{
+ const j=job(),p=provider(),call=p.io.call;
+ const contract=body=>{assert.ok(body.order.reference_id.length<=40,'reference_id max 40');};
+ assert.throws(()=>contract({order:{reference_id:j.orderId}}),/max 40/);
+ p.io.call=(method,path,body)=>{if(path==='/v2/orders')contract(body);return call(method,path,body);};
+ assert.equal(stage.createDraft(j,p.io).invoiceStatus,'DRAFT');
 });
