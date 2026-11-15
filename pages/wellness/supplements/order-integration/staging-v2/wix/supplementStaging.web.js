@@ -14,11 +14,13 @@ export const submitMatrixStagingFixture = webMethod(Permissions.Admin, async () 
     if (old.cartJson !== FIXTURE_CART || old.customerEmail !== 'matrix.stage2@example.invalid') throw new Error('STAGING_FIXTURE_CONFLICT');
     return { state: 'ALREADY_EXISTS', submissionId: FIXTURE_ID, orderRef: old.orderRef };
   }
+  const received = new Date();
   const record = {
     _id: FIXTURE_ID,
     submissionId: FIXTURE_ID,
     orderRef: 'TEST-REF-STAGE2-001',
-    createdUtc: new Date(),
+    createdUtc: received,
+    receivedUtcIso: received.toISOString(),
     customerName: 'Matrix synthetic test',
     customerEmail: 'matrix.stage2@example.invalid',
     fulfillment: 'TEST_PICKUP',
