@@ -1,0 +1,8 @@
+{
+  "source": "src/MasterInvoiceBridgeV4.gs",
+  "sha256": "2ae1dafdf2d1446588dc497943d76cd84923dd3ad69b9ca39162421c6046157e",
+  "bytes": 14040,
+  "localTests": 36,
+  "runtimeInstalled": false,
+  "baseCommit": "5fa4e85c59bb6df006a1529dd6b145bf7b694f73"
+}
