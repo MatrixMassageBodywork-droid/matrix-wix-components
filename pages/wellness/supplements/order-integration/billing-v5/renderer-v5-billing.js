@@ -1,7 +1,7 @@
 /* Matrix monthly-special billing policy, 2026-11-16. Pure arithmetic only. */
 var MatrixSupplementBillingV5 = (function () {
   'use strict';
-  var VERSION = 'MATRIX-PICKUP-20261116-V5';
+  var VERSION = 'MATRIX-PICKUP-20261116-V5.1';
   function need(ok, code) { if (!ok) throw new Error(code); }
   function rate(cents, basisPoints) {
     var numerator = cents * basisPoints;
@@ -14,15 +14,16 @@ var MatrixSupplementBillingV5 = (function () {
     need(fulfillment === 'PICKUP', 'MATRIX_PICKUP_ONLY');
     need(Number.isSafeInteger(subtotalCents) && subtotalCents >= 0 && subtotalCents <= 100000000, 'INVALID_SUBTOTAL');
     var convenience = subtotalCents ? 200 : 0;
-    var taxable = subtotalCents + convenience;
+    // Owner-directed: the separate order handling fee is not taxed.
+    var taxable = subtotalCents;
     var tax = rate(taxable, 550);
-    var base = taxable + tax;
+    var base = subtotalCents + convenience + tax;
     // This is an estimate, not a universal invoice line: Square must identify credit cards.
     var creditEstimate = rate(base, 300);
     var creditTaxEstimate = rate(creditEstimate, 550);
     return {
       billingPolicyVersion: VERSION, currency: 'USD', subtotalCents: subtotalCents,
-      convenienceFeeCents: convenience, taxableSubtotalCents: taxable,
+      convenienceFeeCents: convenience, handlingFeeCents: convenience, handlingFeeTaxCents: 0, taxableSubtotalCents: taxable,
       taxRateBasisPoints: 550, taxCents: tax, totalCents: base,
       fulfillment: 'PICKUP', fulfillmentFeeCents: 0, shippingCents: 0, shippingAvailable: false,
       pickupAddress: '24804 75th St, Salem, WI 53168',
@@ -47,13 +48,13 @@ var MatrixSupplementBillingV5 = (function () {
       need(Number.isSafeInteger(line.unitPriceCents) && line.unitPriceCents > 0, 'INVALID_PRICE');
       need(typeof line.nameSnapshot === 'string' && line.nameSnapshot.length > 0, 'INVALID_NAME');
       subtotal += line.unitPriceCents * line.quantity;
-      return {name: line.nameSnapshot, quantity: String(line.quantity), base_price_money: {amount: line.unitPriceCents, currency: 'USD'}};
+      return {name: line.nameSnapshot, quantity: String(line.quantity), base_price_money: {amount: line.unitPriceCents, currency: 'USD'}, applied_taxes: [{tax_uid:'WI_KENOSHA_55'}]};
     });
     var q = quote(subtotal, 'PICKUP');
-    items.push({name: 'Convenience fee', quantity: '1', base_price_money: {amount: 200, currency: 'USD'}});
+    items.push({name: 'Supplement order handling fee', quantity: '1', base_price_money: {amount: 200, currency: 'USD'}, applied_taxes: []});
     return {quote: q, orderPreview: {line_items: items,
-      taxes: [{uid: 'WI_KENOSHA_55', name: 'WI + Kenosha County sales tax', percentage: '5.5', type: 'ADDITIVE', scope: 'ORDER'}]},
-      invoiceDescription: 'Free pickup at Matrix only: 24804 75th St, Salem, WI 53168. No shipping for monthly specials. Includes a $2 convenience fee and applicable sales tax. A 3% credit-card fee applies to eligible credit-card payments.',
+      taxes: [{uid: 'WI_KENOSHA_55', name: 'WI + Kenosha County sales tax', percentage: '5.5', type: 'ADDITIVE', scope: 'LINE_ITEM'}]},
+      invoiceDescription: 'Free pickup at Matrix only: 24804 75th St, Salem, WI 53168. No shipping for monthly specials. Includes one $2 non-taxable supplement order handling fee regardless of payment method, with 5.5% sales tax on supplements. A separate 3% credit-card fee applies to eligible credit-card payments.',
       productionEnabled: false, invoiceCreated: false, emailsSent: 0};
   }
   function assertInvoiceRoute(route) {
@@ -159,7 +160,7 @@ var MatrixSupplementBillingV5 = (function () {
           <h2>Choose bundles, individual favorites—or both.</h2>
           <p>Our upcoming monthly events will make it easy to select your wellness favorites and review one combined request.</p></header>
           <div class="ms3-status" role="status"><p>New product selections and exclusive monthly savings are on the way.</p>
-          <p>Monthly specials are free pickup at Matrix only. Each combined order includes a $2 convenience fee and 5.5% sales tax. A 3% credit-card fee applies to eligible credit-card payments. No shipping for these specials.</p>
+          <p>Monthly specials are free pickup at Matrix only. Each combined order includes a $2 non-taxable order handling fee and 5.5% tax on supplements. A 3% credit-card fee applies to eligible credit-card payments. No shipping for these specials.</p>
           <button class="ms3-btn" type="button" disabled aria-label="Monthly ordering will open with the next savings event">Explore upcoming offers soon</button></div>
         </section>`;
         return;
@@ -191,7 +192,7 @@ var MatrixSupplementBillingV5 = (function () {
           <div><dt>Everyday comparison</dt><dd data-everyday>${format(totals.everyday)}</dd></div>
           <div class="ms3-savings"><dt>Potential monthly savings</dt><dd data-savings>${format(totals.everyday-totals.monthly)}</dd></div>
           <div><dt>Product subtotal</dt><dd data-monthly>${format(totals.monthly)}</dd></div>
-          <div><dt>Convenience fee</dt><dd>${format(billing.convenienceFeeCents)}</dd></div>
+          <div><dt>Supplement order handling fee</dt><dd>${format(billing.convenienceFeeCents)}</dd></div>
           <div><dt>Sales tax (5.5%)</dt><dd>${format(billing.taxCents)}</dd></div>
           <div><dt>Matrix pickup</dt><dd>FREE</dd></div>
           <div class="ms3-total"><dt>Total before credit-card fee</dt><dd>${format(billing.totalCents)}</dd></div>
@@ -199,7 +200,7 @@ var MatrixSupplementBillingV5 = (function () {
           <div><dt>Estimated credit-card total</dt><dd>${format(billing.creditCardTotalEstimateCents)}</dd></div></dl>
           <p class="ms3-note">Credit-card estimate includes tax on the fee; the final charge appears on your invoice payment screen.</p>
           <button class="ms3-btn" type="button" id="preview" ${totals.qty===0?'disabled':''}>Preview my selections</button>
-          <p class="ms3-note">Monthly specials are free pickup at Matrix only: 24804 75th St, Salem, WI 53168. No shipping. Each order includes a $2 convenience fee, 5.5% sales tax, and a 3% fee for eligible credit-card payments.</p>
+          <p class="ms3-note">Monthly specials are free pickup at Matrix only: 24804 75th St, Salem, WI 53168. No shipping. Each order includes a $2 non-taxable order handling fee, 5.5% tax on supplements, and a 3% fee for eligible credit-card payments.</p>
           <details class="ms3-field-preview"><summary>Preview the short request form</summary>
           <fieldset disabled><label>Your name<input type="text" autocomplete="name" placeholder="Full name" maxlength="120"></label>
           <label>Email for your invoice<input type="email" autocomplete="email" placeholder="Email address" maxlength="200"></label>
@@ -222,7 +223,7 @@ var MatrixSupplementBillingV5 = (function () {
         const choices=this.items.filter(x=>(this.qty.get(x.itemId)||0)>0).map(x=>({itemId:x.itemId,quantity:this.qty.get(x.itemId)}));
         const details=this.total();
         const charges=MatrixSupplementBillingV5.quote(details.monthly,'PICKUP');
-        const text=`${choices.map(c=>`${c.quantity} × ${this.items.find(p=>p.itemId===c.itemId).name}`).join('\n')}\nProduct subtotal: ${format(details.monthly)}\nConvenience fee: ${format(charges.convenienceFeeCents)}\nSales tax (5.5%): ${format(charges.taxCents)}\nFree pickup at Matrix only\nTotal before credit-card fee: ${format(charges.totalCents)}\nCredit-card fee: 3% when applicable\nEstimated credit-card total: ${format(charges.creditCardTotalEstimateCents)}\nSample savings: ${format(details.everyday-details.monthly)}\nNo request was sent.`;
+        const text=`${choices.map(c=>`${c.quantity} × ${this.items.find(p=>p.itemId===c.itemId).name}`).join('\n')}\nProduct subtotal: ${format(details.monthly)}\nSupplement order handling fee: ${format(charges.convenienceFeeCents)}\nSales tax (5.5%): ${format(charges.taxCents)}\nFree pickup at Matrix only\nTotal before credit-card fee: ${format(charges.totalCents)}\nCredit-card fee: 3% when applicable\nEstimated credit-card total: ${format(charges.creditCardTotalEstimateCents)}\nSample savings: ${format(details.everyday-details.monthly)}\nNo request was sent.`;
         const output=this.shadowRoot.querySelector('#summary');output.textContent=text;output.hidden=false;
         this.dispatchEvent(new CustomEvent('matrix-cart-preview',{bubbles:true,composed:true,detail:{cart:choices,previewOnly:true,requestSent:false}}));
       });

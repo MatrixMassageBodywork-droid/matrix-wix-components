@@ -1,7 +1,7 @@
 /* Matrix monthly-special billing policy, 2026-11-16. Pure arithmetic only. */
 var MatrixSupplementBillingV5 = (function () {
   'use strict';
-  var VERSION = 'MATRIX-PICKUP-20261116-V5';
+  var VERSION = 'MATRIX-PICKUP-20261116-V5.1';
   function need(ok, code) { if (!ok) throw new Error(code); }
   function rate(cents, basisPoints) {
     var numerator = cents * basisPoints;
@@ -14,15 +14,16 @@ var MatrixSupplementBillingV5 = (function () {
     need(fulfillment === 'PICKUP', 'MATRIX_PICKUP_ONLY');
     need(Number.isSafeInteger(subtotalCents) && subtotalCents >= 0 && subtotalCents <= 100000000, 'INVALID_SUBTOTAL');
     var convenience = subtotalCents ? 200 : 0;
-    var taxable = subtotalCents + convenience;
+    // Owner-directed: the separate order handling fee is not taxed.
+    var taxable = subtotalCents;
     var tax = rate(taxable, 550);
-    var base = taxable + tax;
+    var base = subtotalCents + convenience + tax;
     // This is an estimate, not a universal invoice line: Square must identify credit cards.
     var creditEstimate = rate(base, 300);
     var creditTaxEstimate = rate(creditEstimate, 550);
     return {
       billingPolicyVersion: VERSION, currency: 'USD', subtotalCents: subtotalCents,
-      convenienceFeeCents: convenience, taxableSubtotalCents: taxable,
+      convenienceFeeCents: convenience, handlingFeeCents: convenience, handlingFeeTaxCents: 0, taxableSubtotalCents: taxable,
       taxRateBasisPoints: 550, taxCents: tax, totalCents: base,
       fulfillment: 'PICKUP', fulfillmentFeeCents: 0, shippingCents: 0, shippingAvailable: false,
       pickupAddress: '24804 75th St, Salem, WI 53168',
@@ -47,13 +48,13 @@ var MatrixSupplementBillingV5 = (function () {
       need(Number.isSafeInteger(line.unitPriceCents) && line.unitPriceCents > 0, 'INVALID_PRICE');
       need(typeof line.nameSnapshot === 'string' && line.nameSnapshot.length > 0, 'INVALID_NAME');
       subtotal += line.unitPriceCents * line.quantity;
-      return {name: line.nameSnapshot, quantity: String(line.quantity), base_price_money: {amount: line.unitPriceCents, currency: 'USD'}};
+      return {name: line.nameSnapshot, quantity: String(line.quantity), base_price_money: {amount: line.unitPriceCents, currency: 'USD'}, applied_taxes: [{tax_uid:'WI_KENOSHA_55'}]};
     });
     var q = quote(subtotal, 'PICKUP');
-    items.push({name: 'Convenience fee', quantity: '1', base_price_money: {amount: 200, currency: 'USD'}});
+    items.push({name: 'Supplement order handling fee', quantity: '1', base_price_money: {amount: 200, currency: 'USD'}, applied_taxes: []});
     return {quote: q, orderPreview: {line_items: items,
-      taxes: [{uid: 'WI_KENOSHA_55', name: 'WI + Kenosha County sales tax', percentage: '5.5', type: 'ADDITIVE', scope: 'ORDER'}]},
-      invoiceDescription: 'Free pickup at Matrix only: 24804 75th St, Salem, WI 53168. No shipping for monthly specials. Includes a $2 convenience fee and applicable sales tax. A 3% credit-card fee applies to eligible credit-card payments.',
+      taxes: [{uid: 'WI_KENOSHA_55', name: 'WI + Kenosha County sales tax', percentage: '5.5', type: 'ADDITIVE', scope: 'LINE_ITEM'}]},
+      invoiceDescription: 'Free pickup at Matrix only: 24804 75th St, Salem, WI 53168. No shipping for monthly specials. Includes one $2 non-taxable supplement order handling fee regardless of payment method, with 5.5% sales tax on supplements. A separate 3% credit-card fee applies to eligible credit-card payments.',
       productionEnabled: false, invoiceCreated: false, emailsSent: 0};
   }
   function assertInvoiceRoute(route) {
