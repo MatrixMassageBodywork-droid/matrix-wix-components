@@ -11,6 +11,7 @@ backend += '\n' + embedded
 (p/'supplementRequestsV4.web.js').write_text(backend)
 renderer=(p/'renderer.js').read_text()
 renderer=embedded+'\n'+renderer
+renderer=renderer.replace('.ms3-total dt,.ms3-total dd{', '.ms3-total dd{white-space:nowrap;flex-shrink:0}\n.ms3-total dt,.ms3-total dd{')
 renderer=renderer.replace('const totals=this.total();',"const totals=this.total();\n      const billing=MatrixSupplementBillingV5.quote(totals.monthly,'PICKUP');")
 renderer=renderer.replace('<div class="ms3-total"><dt>Monthly event total</dt><dd data-monthly>${format(totals.monthly)}</dd></div></dl>', '''<div><dt>Product subtotal</dt><dd data-monthly>${format(totals.monthly)}</dd></div>
           <div><dt>Convenience fee</dt><dd>${format(billing.convenienceFeeCents)}</dd></div>

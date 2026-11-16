@@ -100,6 +100,7 @@ var MatrixSupplementBillingV5 = (function () {
 .ms3-savings{border-top:1px solid #d7e4dc;padding-top:15px}
 .ms3-savings dt,.ms3-savings dd{font-weight:700!important;color:#087776!important}
 .ms3-summary .ms3-total{border-top:2px solid #123d40;padding-top:13px;margin:12px 0 20px}
+.ms3-total dd{white-space:nowrap;flex-shrink:0}
 .ms3-total dt,.ms3-total dd{color:#123d40;font-size:18px!important;font-weight:700}
 .ms3-btn{min-height:48px;width:100%;background:#123d40;color:#fff;font-weight:700;border:1px solid #123d40;border-radius:3px;cursor:pointer;padding:12px}
 .ms3-btn:hover{background:#087776}
