@@ -35,7 +35,7 @@ Do not derive, approximate or manually rewrite source. If a source URL is inacce
 1. Open Wix Classic Editor exact site and page; inspect Site History; confirm latest saved draft 1213 (or newer saved only if documented and reconciled), and current source still the old pinned R9 URL. Do not restore any history item.
 2. In code panel read existing page Velo; normalize CRLF to LF and verify baseline hash; if different, stop and capture source/diff rather than overwrite.
 3. Confirm old V2 and V3 web backend modules exist and record exact file names, do not edit them.
-4. Confirm Wix CMS private catalog contains exactly 3 TEST_ONLY_NEVER_PUBLIC/NONE and intake exactly 1 synthetic record; both collections ADMIN-only. The preflight may use the connected Wix API read-only. Confirm no approval / release gates opened.
+4. The latest Chat live connected API read already established Wix catalog 3 TEST-only items, intake 1 synthetic, both ADMIN-only. Do not repeat those API reads in Work. If the editor itself shows unexpected live records or active ordering, stop with evidence.
 5. Record before-change saved revision, exact host ID/tag/URL, page-code hash and all protecting boundaries, then begin.
 
 ## Checkpoint 1 — additive V4 Wix backend
@@ -45,7 +45,7 @@ Do not derive, approximate or manually rewrite source. If a source URL is inacce
 4. Run `matrixAdminCatalogPreviewV4()`. EXPECT `staged.length=0,synthetic.length=3,orderingEnabled=false`.
 5. Run `matrixAdminQuotePreviewV4([{itemId:'TEST-PRODUCT-A',quantity:2},{itemId:'TEST-BUNDLE-AB',quantity:1}],'TEST')`. EXPECT `totalCents=4200,comparisonCents=6200,savingsCents=2000,previewOnly=true,requestSaved=false`.
 6. In visitor context run `matrixMonthlyCatalogStatusV4()`. EXPECT `orderingEnabled=false,items=[]`. Run `matrixSubmitOrderRequestV4({requestId:'not-a-valid-request'})` in visitor test context. EXPECT `state=CLOSED,requestSaved=false,invoiceCreated=false`. It must not reach validation/CMS. Do not input real customer data or create records.
-7. Recheck CMS and tracker record counts unchanged. If any new data/write/email/API call appears, stop with evidence.
+7. Check actual Wix editor execution results for zero customer writes/emails/real invoice calls; preserve screenshots/logs. Chat will independently re-read CMS and tracker counts through connected tools after Work execution. Stop if runtime reports any unexpected write.
 
 ## Checkpoint 2 — patch existing R9 host as SAVED DRAFT only
 Perform only after Checkpoint 1 SAVED/VERIFIED and critical tests pass.
@@ -57,12 +57,11 @@ Perform only after Checkpoint 1 SAVED/VERIFIED and critical tests pass.
 6. SAVE/reload/reopen the page and source one more time. Verify no changes to other site pages, links, SEO or the R9 layout.
 7. If the new host fails to mount/fit, revert ONLY the source URL and page Velo back to the exact previously captured R9 values, save/reload/verify, and report `V4_FRONTEND_INSTALL_BLOCKED, R9_RESTORED`. Do not restore whole site or redo the previously completed R9 installation.
 
-## Checkpoint 3 — safety readback / receipt
-1. Confirm Master `Orderable Items V2` still zero approved real rows; release `Public Release V2` remains OFF/INACTIVE/HOLD; no product or bundle changed.
-2. Confirm catalog 3 test-only + private intake 1 synthetic unchanged and ADMIN permissions exact; existing Wix-to-Sheets automation `e0b16020-55b5-46d0-a890-645d277b0c86` still INACTIVE.
-3. Confirm Apps Script property `MATRIX_CATALOG_V3_PUSH_ENABLED` not ALLOW_PRIVATE_ONLY, `MATRIX_MASTER_BRIDGE_V4_ENABLED` absent/disabled, and triggers 0; no old script or property changed. Current code does **not** sync approved products because zero exist.
-4. Confirm no Square invoice, customer email, customer payment, wholesale order, new real customer record, site publication or scheduled run.
-5. In canonical Drive FACIAL WEB SEO PW folder create dated execution receipt with: site/page/host identities, original/new URL and exact saved Wix revision, source paths/hashes before+after, module tests actual outputs/timestamps, desktop and mobile screenshots, CMS counts and permissions, gate readbacks, `SAVED / VERIFIED / TESTED / NOT TESTED / NOT PUBLISHED` separately, any blocked operation and remediation evidence. No credentials or personal info.
+## Checkpoint 3 — Wix editor evidence/receipt only
+1. In the Wix editor, confirm the site still has a saved draft rather than an agent-initiated publication. No Publish, Test Site, automation, payment, email or trigger controls should have been used.
+2. Reopen the three new editor artifacts, capture exact saved-source readbacks, run timestamps and every supported desktop/mobile/visitor QA check above. Capture screenshots and concise execution logs without customer or secret data.
+3. Save the dated **Wix editor execution receipt and screenshots** in the canonical FACIAL WEB SEO PW Drive folder. Include site/page/host IDs, old and new source URL, saved revision, source exactness evidence, actual QA outputs, the rollback state if any, and distinct `SAVED / VERIFIED / TESTED / NOT TESTED / NOT PUBLISHED` labels.
+4. **Return execution evidence to Chat.** Chat will use the connected Wix and Google Sheets APIs to independently re-check the CMS counts, admin permissions, master release gates, inactive automation, Apps Script triggers/properties and existing order/invoice integrity. Work must not spend access time on those API and spreadsheet reads.
 
 ## Stop conditions
 - Newer unverified Wix code, unknown host/changed site/page identity, source mismatch, backend compile error, test nonzero writes, permissions change request, new consent prompts, save readback failure, unsafe public ordering, active automation/gates, unexpected real CMS records or charges: **STOP affected step immediately**. Inspect a timed-out save before retry.
