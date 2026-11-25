@@ -1,0 +1,44 @@
+{
+  "currentH1": [
+    "Massage & Spa Gift Cards in Salem, WI"
+  ],
+  "candidateH1": [
+    "Massage & Spa Gift Cards in Salem, WI"
+  ],
+  "h1UnchangedAndSingle": true,
+  "oldLinkCount": 18,
+  "newLinkCount": 19,
+  "allExistingLinksTextHrefTargetAndOrderPreserved": true,
+  "addedLinks": [
+    {
+      "href": "https://www.matrixmassage.net/black-friday-deals-salem-wi",
+      "target": "_top",
+      "text": "View Black Friday spa offers"
+    }
+  ],
+  "protectedRouteCounts": {
+    "https://app.squareup.com/gift/MLJ7B3VJVPBSS/order": {
+      "before": 5,
+      "candidate": 5
+    },
+    "https://app.squareup.com/gift/MLJ7B3VJVPBSS/check-balance": {
+      "before": 1,
+      "candidate": 1
+    },
+    "https://app.squareup.com/gift/MLJ7B3VJVPBSS/reload": {
+      "before": 1,
+      "candidate": 1
+    }
+  },
+  "faqCount": 11,
+  "allFaqTextUnchanged": true,
+  "imagesAndAttributesUnchanged": true,
+  "allIdsUnchanged": true,
+  "uniqueIds": true,
+  "validInternalAnchors": true,
+  "oneExactParagraphAdditionOnly": true,
+  "cssUnchanged": true,
+  "metadataSchema": "No head/SEO/schema edits proposed. Current title/canonical/meta/FAQPage+WebPage/Breadcrumb baseline captured in before/public-extraction.json.",
+  "namesQuotesReviews": "No removal, replacement or new claim; removing only the appended paragraph recovers the exact existing body.",
+  "nativeBrowserQa": "NOT TESTED by this subagent; root to check holiday-note wrapping, pointer/keyboard navigation, all purchase/utility destinations and footer/FAQ flow after install."
+}

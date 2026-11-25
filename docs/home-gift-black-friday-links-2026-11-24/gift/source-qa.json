@@ -1,0 +1,11 @@
+{
+  "syntaxAndIsolatedVm": "PASS",
+  "registeredTag": "matrix-gift-cards",
+  "renderedExactlyStylePlusCandidateBody": true,
+  "seoMarkupExactlyCandidateBody": true,
+  "readyEvents": 1,
+  "mountFlag": "true",
+  "display": "block",
+  "height": "auto",
+  "limitations": "Isolated source checks only; no browser layout/visual/navigation QA or remote write."
+}

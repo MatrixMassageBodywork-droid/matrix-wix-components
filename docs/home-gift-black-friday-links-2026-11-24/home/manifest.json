@@ -1,0 +1,133 @@
+{
+  "status": "PREPARED / STATIC VERIFIED / NOT INSTALLED / NOT PUBLISHED",
+  "scope": "One contextual Black Friday link paragraph in Home CURRENT MATRIX SPECIALS; every existing byte of body and all other renderer/page-code source preserved",
+  "publicRevisionAtBaseline": 1309,
+  "pageId": "ghmgt",
+  "elementId": "comp-mw5v2dtc",
+  "veloId": "matrixHomePage",
+  "tag": "matrix-home-page",
+  "sectionId": "comp-mw5v1iyj",
+  "baselineRendererUrl": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@14f2c29fb90895f5ed83a045c5c547414b5bcf3f/pages/home/performance-2026-11-09/renderer-complete.js",
+  "baselineCommit": "14f2c29fb90895f5ed83a045c5c547414b5bcf3f",
+  "repositoryRendererPath": "pages/home/performance-2026-11-09/renderer-complete.js",
+  "repositoryPageCodePath": "pages/home/performance-2026-11-09/WIX_PAGE_CODE_COMPLETE.js",
+  "pageCodeSourceMap": "https://bundler.wix-code.com/cdec8df6-d518-4859-9f1e-f06bf5346d41/undefined/8d0d9564-9f35-455b-84ca-ef85c6dce020/pages/ghmgt.js.map",
+  "newLink": {
+    "text": "View Black Friday spa offers",
+    "href": "https://www.matrixmassage.net/black-friday-deals-salem-wi",
+    "target": "_top",
+    "markup": "<p class=\"hm-copy\"><a class=\"hm-link\" href=\"https://www.matrixmassage.net/black-friday-deals-salem-wi\" target=\"_top\">View Black Friday spa offers</a></p>"
+  },
+  "checks": {
+    "baselineRendererMatchesActiveGitHubFile": true,
+    "baselinePageCodeMatchesRepositoryCompleteAfterOnlyCrLfNormalization": true,
+    "baselineVisibleBodyEqualsLiveSeoMirror": true,
+    "candidateVisibleBodyEqualsCompleteSeoMirror": true,
+    "onlyExactAdditionChangesBody": true,
+    "newLinkOccursExactlyOnce": true,
+    "newLinkExactLabelAndTopTarget": true,
+    "newLinkInsideCurrentSpecials": true,
+    "allOriginalLinkAttributesAndTextPreservedInOrder": true,
+    "oneAdditionalLinkOnly": true,
+    "h1ExactlyOneAndUnchanged": true,
+    "faqCountUnchanged": true,
+    "allImageAttributesUnchanged": true,
+    "allIdsUnchangedAndUnique": true,
+    "cssExactUnchanged": true,
+    "rendererOutsideBodyLiteralExactUnchanged": true,
+    "pageCodeOutsideSeoLiteralExactUnchanged": true,
+    "namesQuotesFounderAboutEligibilityAndAllOtherCopyExactUnchanged": true,
+    "metadataSchemaHeadersFootersNotEdited": true
+  },
+  "syntax": {
+    "renderer.js": {
+      "passed": true,
+      "output": ""
+    },
+    "WIX_PAGE_CODE.js": {
+      "passed": true,
+      "output": ""
+    }
+  },
+  "files": {
+    "baseline/renderer.js": {
+      "bytes": 38395,
+      "sha256": "29456a91fb2b165178020e792fff13686bb78c08de9fdb078022c98f7b25c811",
+      "sha256LfNormalized": "288c8a3d3b674feac0666e927fd04386c10254c948b5e7403ec67102c458dcaf"
+    },
+    "baseline/WIX_PAGE_CODE.js": {
+      "bytes": 25314,
+      "sha256": "1826d867815a28a2c3a1673a50cb78418145807dabacaa5c3218b03dc239a165",
+      "sha256LfNormalized": "1826d867815a28a2c3a1673a50cb78418145807dabacaa5c3218b03dc239a165"
+    },
+    "baseline/body.html": {
+      "bytes": 23327,
+      "sha256": "abb3069b9579dee11365400bde9ed17f332108880435c26d097e0bd12d519c63",
+      "sha256LfNormalized": "abb3069b9579dee11365400bde9ed17f332108880435c26d097e0bd12d519c63"
+    },
+    "candidate/renderer.js": {
+      "bytes": 38556,
+      "sha256": "3180efff9d1595d30c3551c8e1e01199f97911c75c2dd4c0a2cf723f9022b1ca",
+      "sha256LfNormalized": "0553de3e1460ac032b9e5a24d32a5cde1a29a85591fad9fe0a2b2601df2f5b01"
+    },
+    "candidate/WIX_PAGE_CODE.js": {
+      "bytes": 25475,
+      "sha256": "c430696ba6464596e2e77619ba4bf76f845219c59c57b3c552a03ccae670f806",
+      "sha256LfNormalized": "c430696ba6464596e2e77619ba4bf76f845219c59c57b3c552a03ccae670f806"
+    },
+    "candidate/body.html": {
+      "bytes": 23480,
+      "sha256": "8be11bec8b2dc5cff98c2b51e29c01b33e4034427eaa3c8304029ffff1913864",
+      "sha256LfNormalized": "8be11bec8b2dc5cff98c2b51e29c01b33e4034427eaa3c8304029ffff1913864"
+    },
+    "candidate/seoMarkup.html": {
+      "bytes": 23480,
+      "sha256": "8be11bec8b2dc5cff98c2b51e29c01b33e4034427eaa3c8304029ffff1913864",
+      "sha256LfNormalized": "8be11bec8b2dc5cff98c2b51e29c01b33e4034427eaa3c8304029ffff1913864"
+    },
+    "candidate/style.css": {
+      "bytes": 13577,
+      "sha256": "43270e0f6eadfa692993194292fab5ff8ea7cddf0832e255c91bcb702c31ab7d",
+      "sha256LfNormalized": "43270e0f6eadfa692993194292fab5ff8ea7cddf0832e255c91bcb702c31ab7d"
+    }
+  },
+  "counts": {
+    "linksBefore": 37,
+    "linksAfter": 38,
+    "h1": 1,
+    "faqs": 11,
+    "images": 9
+  },
+  "nativeReadbackRequired": [
+    "Fresh source URL/tag/page ID and complete page-code hash",
+    "Current saved/published revision and pending scope",
+    "Existing native section identity/stretch and desktop/mobile flow"
+  ],
+  "limits": [
+    "No browser, native edit, remote source write, installation or publication performed",
+    "No visual or mobile test of this candidate performed",
+    "Public source proves published body and page code; root must reconcile current native draft before install",
+    "Existing metadata/schema remain captured as baseline; recheck after release"
+  ],
+  "baselineSectionVerifiedFromCurrentPublicStructure": true,
+  "newDestinationHttpCheck": {
+    "requestedUrl": "https://www.matrixmassage.net/black-friday-deals-salem-wi",
+    "finalUrl": "https://www.matrixmassage.net/black-friday-deals-salem-wi",
+    "httpStatus": 200,
+    "retrievedAtUtc": "2026-11-25T01:53:13.783450+00:00",
+    "bytes": 828506,
+    "sha256": "9819a94b94d06b68b05b35c117b754262f519519052b52845bf23945676b96e2",
+    "title": [
+      "Black Friday Spa Deals in Salem, WI | Matrix"
+    ],
+    "canonical": [
+      {
+        "rel": "canonical",
+        "href": "https://www.matrixmassage.net/black-friday-deals-salem-wi"
+      }
+    ],
+    "matrixBlackFridayTagPresent": true,
+    "testType": "Anonymous destination HTTP/source check; no browser navigation or offer changes"
+  },
+  "userScope": "Leave provider names, reviews and About as-is; add Home Black Friday route only."
+}

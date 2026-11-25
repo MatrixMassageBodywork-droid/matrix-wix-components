@@ -1,0 +1,65 @@
+{
+  "status": "PREPARED_NOT_INSTALLED",
+  "baseProductionRevision": 1309,
+  "repository": "MatrixMassageBodywork-droid/matrix-wix-components",
+  "repositoryMainHead": "f4dea83c23a60cf3dd817e7604460b062ac9b8f8",
+  "baselineRendererPin": "31efcebfba63781e29d53f2eebc4471b6065bec9",
+  "baselineRendererPath": "pages/gift-cards/review-4/renderer.js",
+  "baselineRendererSha256": "295f8f8d0373697d66e1f382c2810783b05b6959632acecb6e7478c0eabcfe7b",
+  "baselinePageCodePath": "pages/gift-cards/WIX_PAGE_CODE.js",
+  "baselinePageCodeSha256": "0353e054468ffa9d7eefa61f6935c3baa72bb198885d2123d8066d0b79b53477",
+  "baselinePageCodeGitBlob": "bbe0dd884eef4f1fc378d62fd82db60116a45cef",
+  "baselineRendererGitBlob": "74dc57213692a476f031e7f6b9fd81a3f3b501dd",
+  "siteId": "cdec8df6-d518-4859-9f1e-f06bf5346d41",
+  "editorDocumentId": "a276c9bf-bc17-4680-959b-a24ebe7370f6",
+  "pageId": "t538a",
+  "pageName": "GIFT CARDS",
+  "elementId": "matrixGiftCards",
+  "componentId": "comp-mw59f0pm",
+  "tag": "matrix-gift-cards",
+  "sectionId": "section1",
+  "sectionComponentId": "comp-mw598r48",
+  "change": {
+    "placement": "Append exactly one paragraph in existing #gc-holidays .gc-holiday-note immediately after its existing gc-small offer note",
+    "existingParagraph": "<p class=\"gc-small\">Looking for gift-card deals? Ask about current offers before you buy. Only active promotions apply.</p>",
+    "addedHTML": "<p class=\"gc-small\"><a target=\"_top\" href=\"https://www.matrixmassage.net/black-friday-deals-salem-wi\">View Black Friday spa offers</a>. Regular dollar-value gift cards are purchased separately using the gift-card buttons on this page.</p>",
+    "addedVisibleText": "View Black Friday spa offers. Regular dollar-value gift cards are purchased separately using the gift-card buttons on this page.",
+    "newHref": "https://www.matrixmassage.net/black-friday-deals-salem-wi",
+    "newLinkCount": 1,
+    "newTarget": "_top",
+    "newCSSRules": 0
+  },
+  "verifiedPreservation": {
+    "deployedRendererMatchesGitHubBaseline": true,
+    "currentBodyMatchesArchivedPageCodeAndPublicSeo": true,
+    "rendererOnlyOneExactBodyInsertion": true,
+    "pageCodeOnlySameExactBodyInsertion": true,
+    "candidateBodyMatchesCandidateSeo": true,
+    "cssByteForByteSame": true,
+    "allExistingSourceRecoverableByRemovingOnlyAddedHTML": true
+  },
+  "candidateFiles": [
+    {
+      "path": "/workspace/scratch/813614799d50/home_gift_bf_links_20261124/gift/candidate/renderer.js",
+      "bytes": 25585,
+      "sha256": "67138b7b4ae05a4cd29bb1c4e50df6ee40fe01a93b56f3f925c2210028bfc3cd"
+    },
+    {
+      "path": "/workspace/scratch/813614799d50/home_gift_bf_links_20261124/gift/candidate/WIX_PAGE_CODE.js",
+      "bytes": 14841,
+      "sha256": "d48245955008bffe3956849a7573ef594a6f5cb0b600cc54810f71f09906e098"
+    },
+    {
+      "path": "/workspace/scratch/813614799d50/home_gift_bf_links_20261124/gift/candidate/body.html",
+      "bytes": 13995,
+      "sha256": "46cbec2256ff5db6df0dee7c9c210adb587c3e402b485ee7c39a110f28c5b319"
+    },
+    {
+      "path": "/workspace/scratch/813614799d50/home_gift_bf_links_20261124/gift/candidate/style.css",
+      "bytes": 10409,
+      "sha256": "9f9189ab5ca5a55f3f5d6700a09677e8e9559cbbd4f37a2ea915b7a0d6e8e889"
+    }
+  ],
+  "remoteMutation": false,
+  "nativeReadbackStatus": "NOT PERFORMED by this subagent; root must compare the current saved page code and source binding before installing."
+}
