@@ -1,3 +1,21 @@
+# Facial offer consistency — published and verified
+
+**Current status: PUBLISHED / VERIFIED / TESTED.** Production revision **1309**, published November 24, 2026 at **6:32 PM CST** after explicit owner approval.
+
+Preflight confirmed no later save after tested revision 1308, with production 1304 and Test Site 1308 at 0% exposure. One native Publish completed successfully. Site History and anonymous permanent-URL retrieval independently confirmed production 1309.
+
+The published renderer and SEO markup exactly match the tested candidates. The full 5,004-character semantic text and nine ordered links agree; one H1; three $110 comparisons; zero $100; MATRIX-neutral authored copy. Canonical, title, description, OG and structured data are preserved, including the $79 USD offer. Source checks completed at 6:33:27 PM CST.
+
+The permanent page rendered in browser QA at 1,348px: all three images loaded; all five FAQs expanded then collapsed; no horizontal overflow; footer followed the expanded component by 10px. The prior native 320px mobile check applies to the identical tested source. No physical-phone claim.
+
+No additional source or CMS edit was made during publication. The nested CMS correction was already live. No appointment, payment, customer communication or Google indexing request was created. Wider audit tasks remain pending.
+
+See QA_RECEIPT.json and production-verification.json. The former approval block below is historical and resolved; do not rerun completed publication.
+
+---
+
+## Historical saved/tested checkpoint
+
 # Facial offer consistency — saved and tested, release held
 
 Status on November 24, 2026 (America/Chicago): **nested CMS live and verified; flat source saved1307 and tested1308 at0% exposure; production remains1304.**

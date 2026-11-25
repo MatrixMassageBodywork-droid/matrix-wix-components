@@ -1,0 +1,131 @@
+{
+  "status": "PUBLISHED_SOURCE_VERIFIED",
+  "url": "https://www.matrixmassage.net/new-client-facial-deal-salem-wi",
+  "siteRevision": 1309,
+  "publicHtmlFetchedAtUTC": "2026-11-25T00:33:19.139771+00:00",
+  "sourceVerificationCompletedAtUTC": "2026-11-25T00:33:27.354749+00:00",
+  "checks": {
+    "titlePreserved": true,
+    "canonicalPreserved": true,
+    "metaPreserved": true,
+    "allStructuredDataPreserved": true,
+    "rendererSourceExactlyCandidate": true,
+    "seoMirrorExactlyCandidate": true,
+    "old100Count": 0,
+    "new110Count": 3,
+    "rendererSource100Count": 0,
+    "rendererSource110ConfigCount": 2
+  },
+  "rendererSourceSha256": "747481bb5cee7f9f71976e6aaebaf5b1b6b7cdf875f52453528956ebf1f6044a",
+  "seoMirrorSha256": "6ed34e3d8a12eed3fcebfc388b33562b9cd0c478f49a4fb3fe2e16071aefb777",
+  "seoMirrorPath": "wix-warmup-data/platform/ssrPropsUpdates/0/comp-mup1ck15/seoMarkup",
+  "head": {
+    "title": "New Client Facial Deal in Salem, WI | $79 Facial at Matrix",
+    "canonical": [
+      "https://www.matrixmassage.net/new-client-facial-deal-salem-wi"
+    ],
+    "meta": [
+      {
+        "name": "description",
+        "content": "New to Matrix facials? Book a personalized 45-minute facial for $79 in Salem, WI. Reserve an $85 60-minute follow-up before leaving your first visit."
+      },
+      {
+        "property": "og:title",
+        "content": "New Client Facial Deal in Salem, WI | $79 Facial at Matrix"
+      },
+      {
+        "property": "og:description",
+        "content": "New to Matrix facials? Book a personalized 45-minute facial for $79 in Salem, WI. Reserve an $85 60-minute follow-up before leaving your first visit."
+      },
+      {
+        "property": "og:url",
+        "content": "https://www.matrixmassage.net/new-client-facial-deal-salem-wi"
+      }
+    ],
+    "ldjson": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "@id": "https://www.matrixmassage.net/new-client-facial-deal-salem-wi#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.matrixmassage.net/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Facials",
+            "item": "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "New Client Facial Deal",
+            "item": "https://www.matrixmassage.net/new-client-facial-deal-salem-wi"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "@id": "https://www.matrixmassage.net/new-client-facial-deal-salem-wi#service",
+        "name": "New Client Facial Deal",
+        "serviceType": "Personalized facial skincare",
+        "url": "https://www.matrixmassage.net/new-client-facial-deal-salem-wi",
+        "provider": {
+          "@type": "HealthAndBeautyBusiness",
+          "name": "Matrix Massage & Bodywork",
+          "url": "https://www.matrixmassage.net/",
+          "telephone": "+1-262-939-9325",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24804 75th St",
+            "addressLocality": "Salem",
+            "addressRegion": "WI",
+            "postalCode": "53168",
+            "addressCountry": "US"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "79",
+          "priceCurrency": "USD",
+          "url": "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+          "description": "45-minute new-client facial; $85 60-minute follow-up when reserved before leaving the first appointment."
+        }
+      }
+    ]
+  },
+  "requestCount": 3,
+  "requestReceipt": "/workspace/scratch/813614799d50/facial_renderer_diagnosis_20261124/production-published-verification/requests.json",
+  "limits": "Independent anonymous permanent-URL HTML, compiled renderer and source-map fetches; no mutation, indexing request, or browser interaction. Root separately verifies browser rendering.",
+  "semanticParity": {
+    "basis": "Actual production SEO mirror compared to preserved candidate renderer output; independently fetched deployed renderer source is byte-for-byte equal to that candidate. Visual browser rendering is checked separately by root.",
+    "semanticTextEqual": true,
+    "textCharacters": 5004,
+    "orderedLinksEqual": true,
+    "links": [
+      "https://www.matrixmassage.net/",
+      "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+      "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+      "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+      "https://www.matrixmassage.net/spa-and-beauty-services-salem-wi/facials-salem-wi",
+      "https://www.matrixmassage.net/circadia-luxe-lift-facial-near-antioch",
+      "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services",
+      "tel:+12629399325",
+      "sms:+12629399325"
+    ],
+    "linkCount": 9,
+    "semanticImagesEqual": true,
+    "h1Count": 1,
+    "bodyCandidateH1Count": 1,
+    "new110Count": 3,
+    "old100Count": 0,
+    "authoredProviderNameMatches": []
+  },
+  "robotsMeta": "Absent, unchanged from pre-edit baseline",
+  "xRobotsTag": null
+}
