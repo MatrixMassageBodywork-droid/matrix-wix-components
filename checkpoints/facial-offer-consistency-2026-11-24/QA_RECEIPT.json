@@ -1,0 +1,112 @@
+{
+  "status": "SAVED_VERIFIED_TESTED_PRODUCTION_PUBLICATION_BLOCKED",
+  "dateCentral": "2026-11-24",
+  "cms": {
+    "savedAtUTC": "2026-11-24T23:52:41.092Z",
+    "publicSourceVerified": true,
+    "changes": 5
+  },
+  "nativeSave": {
+    "revision": 1307,
+    "timeCentral": "2026-11-24 18:00"
+  },
+  "testRelease": {
+    "revision": 1308,
+    "timeCentral": "2026-11-24 18:09",
+    "exposureBefore": 0,
+    "exposureAfter": 0
+  },
+  "testSource": {
+    "status": "TEST_SITE_SOURCE_VERIFIED_NOT_PRODUCTION_RELEASE",
+    "url": "https://www.matrixmassage.net/new-client-facial-deal-salem-wi?rc=test-site",
+    "revision": 1308,
+    "htmlRetrievedAtUTC": "2026-11-25T00:12:18.441636+00:00",
+    "rendererSourceRetrievedAtUTC": "2026-11-25T00:13:51.242698+00:00",
+    "httpStatus": 200,
+    "htmlSha256": "cb624e9f43ae78e9418fbdd36f1be87bc72c027176efc6fb14697c7e77d3f82b",
+    "headPreservationChecks": {
+      "title": true,
+      "canonical": true,
+      "meta": true,
+      "ldjson": true
+    },
+    "title": "New Client Facial Deal in Salem, WI | $79 Facial at Matrix",
+    "canonical": "https://www.matrixmassage.net/new-client-facial-deal-salem-wi",
+    "robotsMeta": "Absent in both preserved public baseline and Test Site; no new noindex directive observed",
+    "xRobotsTag": null,
+    "schemaTypes": [
+      "BreadcrumbList",
+      "Service"
+    ],
+    "offerPriceUSD": "79",
+    "rendererSourceExactlyEqualsCandidate": true,
+    "rendererCandidateSha256": "747481bb5cee7f9f71976e6aaebaf5b1b6b7cdf875f52453528956ebf1f6044a",
+    "seoAndBodyParity": {
+      "testSeoExactlyEqualsPreparedCandidate": true,
+      "testSeoEqualsPreparedCandidateOnlyLFNormalized": true,
+      "testSeoSemanticTextEqualsPreparedSeoCandidate": true,
+      "testSeoSemanticTextEqualsRendererCandidate": true,
+      "testSeoOrderedLinksEqualRendererCandidate": true,
+      "testSeoH1Count": 1,
+      "old100Count": 0,
+      "new110Count": 3,
+      "authoredProviderNameMatches": [],
+      "textCharacters": 5004,
+      "testSeoSha256": "6ed34e3d8a12eed3fcebfc388b33562b9cd0c478f49a4fb3fe2e16071aefb777",
+      "candidateSeoSha256": "6ed34e3d8a12eed3fcebfc388b33562b9cd0c478f49a4fb3fe2e16071aefb777"
+    },
+    "evidence": {
+      "html": "/workspace/scratch/813614799d50/facial_renderer_diagnosis_20261124/test-site-1308-verification/public-test.html",
+      "headComparison": "/workspace/scratch/813614799d50/facial_renderer_diagnosis_20261124/test-site-1308-verification/extraction.json",
+      "seoMarkup": "/workspace/scratch/813614799d50/facial_renderer_diagnosis_20261124/test-site-1308-verification/test-seoMarkup.html",
+      "rendererSource": "/workspace/scratch/813614799d50/facial_renderer_diagnosis_20261124/test-site-1308-verification/test-original-renderer.js",
+      "sourceRetrievalReceipt": "/workspace/scratch/813614799d50/facial_renderer_diagnosis_20261124/test-site-1308-verification/test-renderer-receipt.json"
+    },
+    "limits": "Read-only unauthenticated public Test Site source verification. No independent browser/visual/interactive QA performed in this subtask. Root separately reports visible render, loaded assets, nine links, five FAQ toggles and no desktop overflow. Permanent production URL has not been claimed released here. No indexing request, publication or application mutation."
+  },
+  "desktop": {
+    "viewport": 1348,
+    "documentWidth": 1348,
+    "h1": 1,
+    "imagesLoaded": 3,
+    "links": 9,
+    "faqsExpandCollapse": 5,
+    "footerGapPx": 10
+  },
+  "mobile": {
+    "surface": "native Wix mobile preview",
+    "siteCanvasWidth": 320,
+    "componentWidth": 280,
+    "componentScrollWidth": 280,
+    "h1": 1,
+    "imagesLoaded": 3,
+    "allFaqsExpandedThenCollapsed": 5,
+    "expandedHostHeight": 7031.390625,
+    "iframeHeight": 7031,
+    "footerGapPx": 40
+  },
+  "pendingReview": {
+    "revisions": [
+      1304,
+      1305
+    ],
+    "scope": "Home plus shared header/footer accessible text, heading, link labels, image labels and button sequence",
+    "exactMatch": true,
+    "characters": 9606,
+    "sha256": "45d57fbe6bcdb71c41c0044d0c47524a253704c778981a85a320c3f11305d348",
+    "limits": "Excludes href values; not a complete site or configuration diff."
+  },
+  "productionAfterBlockedPublish": {
+    "httpStatus": 200,
+    "revision": 1304,
+    "completedAtUTC": "2026-11-25T00:15:55.445852+00:00",
+    "seoOld100": 3,
+    "seoNew110": 0,
+    "rendererUrlMatchesPrior": true
+  },
+  "approvalBlock": {
+    "action": "Wix Publish",
+    "reason": "Automatic approval review requires explicit user-authored authorization for this specific facial-offer release; general continuation was insufficient.",
+    "retries": 0
+  }
+}

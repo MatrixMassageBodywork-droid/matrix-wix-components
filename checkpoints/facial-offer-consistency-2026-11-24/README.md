@@ -1,20 +1,34 @@
-# Facial offer consistency — November 24, 2026
+# Facial offer consistency — saved and tested, release held
 
-Source package; deployment status is recorded separately.
+Status on November 24, 2026 (America/Chicago): **nested CMS live and verified; flat source saved1307 and tested1308 at0% exposure; production remains1304.**
 
-## Verified baseline and exact correction
+This checkpoint supersedes the earlier preparation-only status on this branch. It does not claim a general production publication. Automatic approval review blocked the Wix Publish action because the user's general continuation instruction was not accepted as explicit authorization for this specific facial-offer release. No retry or alternative publication route was used.
 
-Native page m8kla / #matrixNewClientFacial, existing file public/custom-elements/atrix-new-client-facial.js and tag matrix-new-client-facial. Native complete renderer matches current published source-map original exactly: SHA256 49e3b94629fef1f23382d0cb9d30b24c1f63a8f1220df6660b168820bca5a7d4 (26,081 bytes). Native page code matches archived baseline exactly: SHA256 5b46c6094d03c1f2bea416c5e168780561179619f07988686f0fb8138e5fa3d2 (9,037 bytes).
+## Scope
 
-- Renderer candidate: fourteen CONFIG value corrections only—twelve approved neutral-copy values and two $100-to-$110 comparison values. All code after END CONFIGURATION, current links/assets, styling, lifecycle, registration and markup remain unchanged. Candidate SHA256 747481bb5cee7f9f71976e6aaebaf5b1b6b7cdf875f52453528956ebf1f6044a.
-- Flat page-code candidate: exactly three $100-to-$110 comparison replacements. Candidate SHA256 90feddd274599e5d9e9933f1524b48ca97ea625e2e38d9d4b6567f4c55cbcdff.
-- Full normalized visible text, ordered nine links and semantic image/alt agree between renderer and SEO candidate. One H1, five FAQs and three rendered $110 comparisons; offer amounts remain $79 and $85; Express comparison remains $95.
-- Nested CMS correction is separately saved and API-readback verified at 2026-11-24T23:52:41.092Z. Only pageConfig.rebooking, pageConfig.secondRegular and seoMarkup changed. All other record fields remain unchanged, including active:false and the flat canonical. Existing nested noindex,nofollow remains outside this patch.
+- Existing `public/custom-elements/atrix-new-client-facial.js`:14 CONFIG value changes for neutral wording and the $110 regular comparison; all styling/render/lifecycle code unchanged.
+- Existing page m8kla / #matrixNewClientFacial:three $100→$110 substitutions in complete SEO HTML.
+- Existing nested CMS item:five price-reference substitutions; saved/read back/public-source verified. Do not repeat the mutation.
+- Preserve $79 first visit,45 minutes,$85 follow-up,60 minutes,$95 Express comparison,eligibility/checkout terms,URLs,images,canonical,title,description,OG and structured data.
 
-## Display observation correction
+## Exact source
 
-The initial public browser view showed a blank body. A subsequent recovered-browser read loaded the same active script and displayed its shadow content at full height. This does not establish a missing page or persistent binding/registration defect. No lifecycle, filename, tag or page rebuild is included. The actual current visible renderer has older provider wording that the CONFIG-only candidate corrects.
+| File | SHA256 |
+| --- | --- |
+| Current renderer before | 49e3b94629fef1f23382d0cb9d30b24c1f63a8f1220df6660b168820bca5a7d4 |
+| Tested renderer | 747481bb5cee7f9f71976e6aaebaf5b1b6b7cdf875f52453528956ebf1f6044a |
+| Flat page code before | 5b46c6094d03c1f2bea416c5e168780561179619f07988686f0fb8138e5fa3d2 |
+| Tested flat page code | 90feddd274599e5d9e9933f1524b48ca97ea625e2e38d9d4b6567f4c55cbcdff |
+| Test SEO mirror | 6ed34e3d8a12eed3fcebfc388b33562b9cd0c478f49a4fb3fe2e16071aefb777 |
 
-## Release safeguards
+Test1308 source map exactly matches the renderer candidate. Renderer and SEO have the same complete5,004-character semantic text and9 ordered links,oneH1,three$110 andzero$100. Independent permanent-URL check at6:15:55PM CST still identified1304 and the old three$100 comparisons.
 
-Current native history before edits: saved 1305-editor, November 24 2:06 PM Central; published 1304-editor, 12:30 PM Central. The pending scope must be reviewed before sitewide publication. Preserve existing site/page identity, all offer terms, shared layout, unrelated pages and operational/customer/staff data. Current November 24 MATRIX-neutral rule supersedes historical exceptions. Source backups and full CMS guard/readback are retained privately in project evidence. Save/readback, desktop and native mobile QA, and public verification are still required before a completed-release claim.
+Desktop QA passed at1348px. Native Wix mobile preview passed at320px canvas/280px existing component:all5FAQs expand/collapse,all3images load,no component overflow,footer follows. Physical phone and other viewport sizes were not tested in this copy-only change.
+
+The preexisting1305 vs1304 review exactly matched9,606chars of Home/sharedheader/footer accessible text/labels. This excluded hrefs and was not a fullsite/configurationdiff. Both flat native sources matched their published baselines before editing. No restore,rename,rebuild or lifecycle modification was performed.
+
+## Continuation
+
+After explicit approval to publish this tested Wix saved version,confirm no later unrelated save,perform one native Publish,verify native publication plus anonymous permanent-URL source and browser behavior,then update the canonical receipt/checkpoint. If a timeout occurs,read state before retrying. Do not bypass an approval rejection.
+
+`QA_RECEIPT.json` records bounded verification. Main Facials,About,named-review cleanup and other audit tasks are separate pending work and have not been installed by this correction.
