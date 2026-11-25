@@ -13,7 +13,8 @@
     {
       "href": "https://www.matrixmassage.net/black-friday-deals-salem-wi",
       "target": "_top",
-      "text": "View Black Friday spa offers"
+      "text": "View Black Friday spa offers",
+      "style": "text-decoration:underline"
     }
   ],
   "protectedRouteCounts": {
@@ -40,5 +41,21 @@
   "cssUnchanged": true,
   "metadataSchema": "No head/SEO/schema edits proposed. Current title/canonical/meta/FAQPage+WebPage/Breadcrumb baseline captured in before/public-extraction.json.",
   "namesQuotesReviews": "No removal, replacement or new claim; removing only the appended paragraph recovers the exact existing body.",
-  "nativeBrowserQa": "NOT TESTED by this subagent; root to check holiday-note wrapping, pointer/keyboard navigation, all purchase/utility destinations and footer/FAQ flow after install."
+  "nativeBrowserQa": "NOT TESTED by this subagent; root to check holiday-note wrapping, pointer/keyboard navigation, all purchase/utility destinations and footer/FAQ flow after install.",
+  "checkedAtUtc": "2026-11-25T02:11:37.465587+00:00",
+  "newAnchorInlineStyle": "text-decoration:underline",
+  "computedBrowserUnderline": "NOT TESTED; root native QA required",
+  "allOriginalSourceRecoveredByRemovingOnlyAddedParagraph": true,
+  "allPreviousCandidateRecoveredByRemovingOnlyAddedStyleAttribute": true,
+  "currentSemanticChecks": {
+    "baselineHasNoBlackFridayLink": true,
+    "oneNewBlackFridayLink": true,
+    "newLinkLabelAndTargetExact": true,
+    "allOriginalLinksAttributesTextOrderPreserved": true,
+    "linkCountsMatchApprovedCandidate": true,
+    "oneUnchangedH1": true,
+    "imagesUnchanged": true,
+    "idsUnchanged": true,
+    "faqCountUnchanged": true
+  }
 }

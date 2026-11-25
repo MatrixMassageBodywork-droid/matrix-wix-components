@@ -31,12 +31,12 @@ Added text:
 
 > View Black Friday spa offers. Regular dollar-value gift cards are purchased separately using the gift-card buttons on this page.
 
-Only “View Black Friday spa offers” is the new link. Exact href: https://www.matrixmassage.net/black-friday-deals-salem-wi ; target: _top. The paragraph uses the existing gc-small class and inherited underlined link styling. No CSS rule, promotion price, discount, bonus, expiry, eligibility condition, gift-card amount, or FAQ is added or changed.
+Only “View Black Friday spa offers” is the new link. Exact href: https://www.matrixmassage.net/black-friday-deals-salem-wi ; target: _top. The paragraph uses the existing gc-small class. The new anchor alone includes style="text-decoration:underline" so it remains visibly identifiable under the Wix link reset. No CSS rule, promotion price, discount, bonus, expiry, eligibility condition, gift-card amount, or FAQ is added or changed.
 
 ## Files and source merge
 
-- candidate/renderer.js: complete current renderer with only that body-string insertion. SHA256 67138b7b4ae05a4cd29bb1c4e50df6ee40fe01a93b56f3f925c2210028bfc3cd.
-- candidate/WIX_PAGE_CODE.js: complete current page code with the identical insertion in #matrixGiftCards.seoMarkup. SHA256 d48245955008bffe3956849a7573ef594a6f5cb0b600cc54810f71f09906e098.
+- candidate/renderer.js: complete current renderer with only that body-string insertion. SHA256 a1a55fb63ed305188767bb18248aa8414b8486c8ebc9fa14c84b498361bbf9a3.
+- candidate/WIX_PAGE_CODE.js: complete current page code with the identical insertion in #matrixGiftCards.seoMarkup. SHA256 0c50c14a8f96534b3fac7b8a75e31783d0aa6093a2a8fa2769f5e16e38afdbb0.
 - candidate/body.html and candidate/style.css: readable body and exact unchanged CSS.
 - diffs/body.html.diff is the small semantic edit; renderer/page-code diffs have long lines because their existing bodies are serialized JSON string literals.
 
@@ -64,3 +64,7 @@ For a versioned archive, proposed new repository directory: pages/gift-cards/bla
 - JavaScript syntax/isolated VM mount, single ready event and page-code execution pass.
 - Existing Black Friday destination returned HTTP 200 with its expected title and self-canonical URL.
 - Browser visual/navigation, native save, release and post-release verification remain with root.
+
+## Targeted QA correction after first Test Site deployment
+
+Root observed the new Gift link's computed textDecoration was none. The revised candidate adds only style="text-decoration:underline" to the new Black Friday anchor, identically in renderer and SEO mirror. All original candidate files and evidence were snapshotted to prior-candidate-before-underline before editing. No other CSS, text, link, amount or handler changed. Root must commit this revised source, verify its immutable CDN bytes, rebind the same existing component, install the matching revised page code, save/read back, redeploy the zero-exposure Test Site and require computed text-decoration-line: underline plus the existing link/layout checks before publication.

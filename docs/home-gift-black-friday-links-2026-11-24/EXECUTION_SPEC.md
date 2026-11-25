@@ -32,6 +32,14 @@ Gift Cards: page t538a; element comp-mw59f0pm, Velo ID matrixGiftCards, tag matr
 
 ## Stop conditions and receipts
 
+### Targeted native source-field correction
+
+Readback after editor reload confirmed that both page-code changes were saved, but Home's external source remained at its old 14f2 pin. The earlier typed-field echo plus Tab/Escape did not persist that source setting. Do not repeat page-code replacement. For each affected source field, first read the persisted old URL. Enter the exact already-verified 0f15614f candidate URL, explicitly commit with Return, click a different field inside the same source panel, then close with the panel close control (not Escape). Reopen Choose Source immediately and require the exact new URL and unchanged tag before Save. Save, reopen or reload, and repeat the readback. If this still fails, stop the source edit and capture the observed UI; do not change component type or create a replacement element.
+
+### Gift Cards link visibility correction
+
+Test revision1315 displayed the new Gift Cards paragraph with the correct destination, one H1, nineteen links, eleven FAQs, no horizontal overflow at1348px and a16px footer gap. Computed link text-decoration was none, so the new link looked like surrounding prose. Add only style="text-decoration:underline" to the new BF anchor. Do not alter existing anchors or CSS rules. Revised renderer SHA256 a1a55fb63ed305188767bb18248aa8414b8486c8ebc9fa14c84b498361bbf9a3; revised page-code SHA256 0c50c14a8f96534b3fac7b8a75e31783d0aa6093a2a8fa2769f5e16e38afdbb0. Save the exact revised sources in GitHub, verify the new pinned renderer, and apply only that binding and full matching Gift page code. Native readback must match the revised hash, and desktop/mobile checks must confirm the link is visibly underlined. The original candidate is retained under gift/prior-candidate-before-underline.
+
 Stop the affected mutation if a baseline differs, the source URL/tag cannot be identified, an unexpected draft or active test exposure exists, Save/readback fails, source HTTP/hash differs, layout/click QA fails, or publication is rejected. Diagnose and prepare a targeted correction outside the browser. If an operation times out, read persisted state before retrying. Never restore, rebuild, duplicate or delete to resolve uncertainty.
 
 Receipt must distinguish PREPARED, SAVED, VERIFIED, TESTED, PUBLISHED and any NOT TESTED/BLOCKED items. Include source commit/pins, native page-code hashes, save/test/production revisions, before/after scope, desktop/mobile QA, exact live URLs, preservation of founder/reviews and separate gift-card routes. Update the current canonical checkpoint using its current revision guard, preserve historical evidence, and save the completed receipt in the project folder.

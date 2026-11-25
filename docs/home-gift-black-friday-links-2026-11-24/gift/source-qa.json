@@ -7,5 +7,7 @@
   "mountFlag": "true",
   "display": "block",
   "height": "auto",
-  "limitations": "Isolated source checks only; no browser layout/visual/navigation QA or remote write."
+  "newLinkInlineUnderlineExactlyOnce": true,
+  "limitations": "Isolated source checks only; computed browser underline, layout and navigation require root native QA. No remote write.",
+  "checkedAtUtc": "2026-11-25T02:11:20.418Z"
 }

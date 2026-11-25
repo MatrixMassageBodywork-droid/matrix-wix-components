@@ -1,5 +1,5 @@
 {
-  "status": "PREPARED_NOT_INSTALLED",
+  "status": "TARGETED_VISIBILITY_CORRECTION_PREPARED_NOT_INSTALLED",
   "baseProductionRevision": 1309,
   "repository": "MatrixMassageBodywork-droid/matrix-wix-components",
   "repositoryMainHead": "f4dea83c23a60cf3dd817e7604460b062ac9b8f8",
@@ -22,12 +22,13 @@
   "change": {
     "placement": "Append exactly one paragraph in existing #gc-holidays .gc-holiday-note immediately after its existing gc-small offer note",
     "existingParagraph": "<p class=\"gc-small\">Looking for gift-card deals? Ask about current offers before you buy. Only active promotions apply.</p>",
-    "addedHTML": "<p class=\"gc-small\"><a target=\"_top\" href=\"https://www.matrixmassage.net/black-friday-deals-salem-wi\">View Black Friday spa offers</a>. Regular dollar-value gift cards are purchased separately using the gift-card buttons on this page.</p>",
+    "addedHTML": "<p class=\"gc-small\"><a target=\"_top\" href=\"https://www.matrixmassage.net/black-friday-deals-salem-wi\" style=\"text-decoration:underline\">View Black Friday spa offers</a>. Regular dollar-value gift cards are purchased separately using the gift-card buttons on this page.</p>",
     "addedVisibleText": "View Black Friday spa offers. Regular dollar-value gift cards are purchased separately using the gift-card buttons on this page.",
     "newHref": "https://www.matrixmassage.net/black-friday-deals-salem-wi",
     "newLinkCount": 1,
     "newTarget": "_top",
-    "newCSSRules": 0
+    "newCSSRules": 0,
+    "newAnchorInlineStyle": "text-decoration:underline"
   },
   "verifiedPreservation": {
     "deployedRendererMatchesGitHubBaseline": true,
@@ -41,18 +42,18 @@
   "candidateFiles": [
     {
       "path": "/workspace/scratch/813614799d50/home_gift_bf_links_20261124/gift/candidate/renderer.js",
-      "bytes": 25585,
-      "sha256": "67138b7b4ae05a4cd29bb1c4e50df6ee40fe01a93b56f3f925c2210028bfc3cd"
+      "bytes": 25621,
+      "sha256": "a1a55fb63ed305188767bb18248aa8414b8486c8ebc9fa14c84b498361bbf9a3"
     },
     {
       "path": "/workspace/scratch/813614799d50/home_gift_bf_links_20261124/gift/candidate/WIX_PAGE_CODE.js",
-      "bytes": 14841,
-      "sha256": "d48245955008bffe3956849a7573ef594a6f5cb0b600cc54810f71f09906e098"
+      "bytes": 14877,
+      "sha256": "0c50c14a8f96534b3fac7b8a75e31783d0aa6093a2a8fa2769f5e16e38afdbb0"
     },
     {
       "path": "/workspace/scratch/813614799d50/home_gift_bf_links_20261124/gift/candidate/body.html",
-      "bytes": 13995,
-      "sha256": "46cbec2256ff5db6df0dee7c9c210adb587c3e402b485ee7c39a110f28c5b319"
+      "bytes": 14029,
+      "sha256": "58dc55cb3f6c20c884b0a5aeb0f2adbc50e836d15a65302cae887de9035e2423"
     },
     {
       "path": "/workspace/scratch/813614799d50/home_gift_bf_links_20261124/gift/candidate/style.css",
@@ -61,5 +62,14 @@
     }
   ],
   "remoteMutation": false,
-  "nativeReadbackStatus": "NOT PERFORMED by this subagent; root must compare the current saved page code and source binding before installing."
+  "nativeReadbackStatus": "NOT PERFORMED by this subagent; root must compare the current saved page code and source binding before installing.",
+  "targetedRevision": {
+    "preparedAtUtc": "2026-11-25T02:10:41.374341+00:00",
+    "reason": "Root observed the new link had computed textDecoration:none in native desktop QA because the existing Wix reset removes the inherited underline.",
+    "scope": "Only add style=\"text-decoration:underline\" to the newly added Black Friday anchor, identically in renderer body and seoMarkup; preserve all other bytes.",
+    "priorCandidateSnapshot": "/workspace/scratch/813614799d50/home_gift_bf_links_20261124/gift/prior-candidate-before-underline",
+    "priorSourceCommit": "0f15614f0dd0fe8bf425bd0a3b04e7b99ee86a3a",
+    "newSourceCommit": "NOT ASSIGNED; root must commit and verify immutable CDN bytes before rebinding",
+    "computedBrowserStyleAfterCorrection": "NOT TESTED"
+  }
 }
