@@ -53,3 +53,7 @@ Acceptance: fresh browser document renders38Home body links including the one BF
 Stop the affected mutation if a baseline differs, the source URL/tag cannot be identified, an unexpected draft or active test exposure exists, Save/readback fails, source HTTP/hash differs, layout/click QA fails, or publication is rejected. Diagnose and prepare a targeted correction outside the browser. If an operation times out, read persisted state before retrying. Never restore, rebuild, duplicate or delete to resolve uncertainty.
 
 Receipt must distinguish PREPARED, SAVED, VERIFIED, TESTED, PUBLISHED and any NOT TESTED/BLOCKED items. Include source commit/pins, native page-code hashes, save/test/production revisions, before/after scope, desktop/mobile QA, exact live URLs, preservation of founder/reviews and separate gift-card routes. Update the current canonical checkpoint using its current revision guard, preserve historical evidence, and save the completed receipt in the project folder.
+
+## Current gate — native publication blocked
+
+All approved source changes are saved and tested in revision 1318. Automatic approval review rejected native Publish because explicit approval of this specific production publication was not established. No publication retry or exposure change was performed. The Home startup API save remains recorded separately. NEXT_PUBLISH_INSTRUCTIONS.md is the current remaining execution package; earlier steps above are historical/completed and must not be rerun.

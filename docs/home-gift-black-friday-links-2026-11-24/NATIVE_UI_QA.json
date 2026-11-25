@@ -1,0 +1,85 @@
+{
+  "date_local": "2026-11-24",
+  "timezone": "America/Chicago",
+  "status": "SAVED / VERIFIED / TESTED / PUBLISH BLOCKED",
+  "native_release_manager": {
+    "live_revision": 1309,
+    "live_time": "2026-11-24 18:32 America/Chicago",
+    "live_exposure_percent": 100,
+    "test_revision": 1318,
+    "test_time": "2026-11-24 20:21 America/Chicago",
+    "test_exposure_percent": 0
+  },
+  "desktop": {
+    "viewport_px": 1348,
+    "home": {
+      "document_width_px": 1348,
+      "body_links": 38,
+      "h1": 1,
+      "faq": 11,
+      "footer_gap_px": 0,
+      "link_target": "_top",
+      "named_review_preserved": true
+    },
+    "gift_cards": {
+      "document_width_px": 1348,
+      "body_links": 19,
+      "h1": 1,
+      "faq": 11,
+      "footer_gap_px": 16,
+      "link_target": "_top",
+      "link_text_decoration": "underline"
+    }
+  },
+  "native_wix_mobile_preview": {
+    "viewport_px": 320,
+    "physical_device_test": false,
+    "home": {
+      "document_width_px": 320,
+      "body_links": 38,
+      "h1": 1,
+      "faq": 11,
+      "link_x_px": 20,
+      "link_width_px": 201.28125,
+      "link_visible_in_screenshot": true
+    },
+    "gift_cards": {
+      "document_width_px": 320,
+      "body_links": 19,
+      "h1": 1,
+      "faq": 11,
+      "link_x_px": 52,
+      "link_width_px": 163.546875,
+      "link_text_decoration": "underline",
+      "affected_section_visual_review": true
+    }
+  },
+  "interaction_checks": {
+    "home_first_faq_open_close": "PASS",
+    "gift_first_faq_open_close": "PASS",
+    "home_offer_link_click": "PASS",
+    "gift_offer_link_click": "PASS",
+    "actual_test_destination": "https://www.matrixmassage.net/black-friday-deals-salem-wi?rc=test-site",
+    "gift_review_url": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi?rc=test-site#gc-holidays"
+  },
+  "publication": {
+    "attempt": "Native Wix Publish",
+    "result": "REJECTED_BY_AUTOMATIC_APPROVAL_REVIEW",
+    "reason": "The user authorized proceeding with the link work but did not clearly and explicitly approve this specific production publication.",
+    "retry_performed": false,
+    "production_click_qa": "NOT TESTED"
+  },
+  "transactions": "No purchase, appointment, payment or customer message performed",
+  "google_indexing": "No new indexing request or ranking result claimed",
+  "production_held_readonly": {
+    "observed_utc_start": "2026-11-25T02:31:50Z",
+    "observed_utc_end": "2026-11-25T02:32:25Z",
+    "home_revision": 1309,
+    "gift_revision": 1309,
+    "home_startup_candidate_publicly_served": true,
+    "home_startup_links": 38,
+    "home_renderer_seo_code": "Exact 1309 baseline, 37-link SEO body without BF link",
+    "gift_renderer_seo_code": "Exact 1309 baseline, 18-link body without BF link",
+    "publication_workaround": false
+  }
+}

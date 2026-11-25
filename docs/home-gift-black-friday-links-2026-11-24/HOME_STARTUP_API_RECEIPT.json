@@ -1,0 +1,56 @@
+{
+  "status": "SAVED_VERIFIED",
+  "checks": {
+    "exactBaseline": true,
+    "id": true,
+    "name": true,
+    "enabled": true,
+    "loadOnce": true,
+    "position": true,
+    "category": true,
+    "pageFilter": true,
+    "revision": true,
+    "candidateLength": true
+  },
+  "patchStatus": 200,
+  "readbackStatus": 200,
+  "beforeRevision": "1",
+  "afterRevision": "2",
+  "beforeCharacters": 12656,
+  "afterCharacters": 12817,
+  "exactReadback": true,
+  "metadataUnchanged": true,
+  "beforeMetadata": {
+    "id": "f222d34c-8cac-4b08-af23-5b47c7451c20",
+    "name": "Matrix HOME — instant content 2 of 2",
+    "enabled": true,
+    "loadOnce": false,
+    "position": "HEAD",
+    "embedData": {
+      "category": "ESSENTIAL"
+    },
+    "pageFilter": {
+      "pageIds": [
+        "ghmgt"
+      ]
+    }
+  },
+  "afterMetadata": {
+    "id": "f222d34c-8cac-4b08-af23-5b47c7451c20",
+    "name": "Matrix HOME — instant content 2 of 2",
+    "enabled": true,
+    "loadOnce": false,
+    "position": "HEAD",
+    "embedData": {
+      "category": "ESSENTIAL"
+    },
+    "pageFilter": {
+      "pageIds": [
+        "ghmgt"
+      ]
+    }
+  },
+  "sourceBackupCommit": "8ab71d6f7dad889f6b8f9d77f5054d9e659ec71e",
+  "candidateSha256": "d3418a93d083556987ecdaf62ee34dc068af7867821abb11d635ac491cb21a7b",
+  "receiptRecordedUtc": "2026-11-25T02:21:19.615Z"
+}

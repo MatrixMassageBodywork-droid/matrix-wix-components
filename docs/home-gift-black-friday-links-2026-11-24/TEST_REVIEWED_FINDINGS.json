@@ -1,0 +1,38 @@
+{
+  "reviewedAtUtc": "2026-11-25T02:25:17.271692+00:00",
+  "testRevision": 1318,
+  "originalStrictReceiptPreserved": true,
+  "sourceContentParityAndExistingLinksVerified": true,
+  "strictMetadataException": {
+    "page": "home",
+    "field": "meta[property=og:url] content",
+    "before": "https://www.matrixmassage.net",
+    "after": "https://www.matrixmassage.net/",
+    "assessment": "Equivalent root HTTPS URL. Canonical, title, description, robots, complete schema and native SEO configuration remain exact baseline values. No page/source correction is indicated by the trailing slash."
+  },
+  "sharedMasterComparisons": {
+    "homeDesktop": "Exact parsed JSON equality to its1309 baseline",
+    "giftOther": "Exact parsed JSON equality to its own1309 baseline; original cross-device comparison superseded by shared/master-features-diff-1-correct-baseline.json"
+  },
+  "targetPageFeatures": "Only the exact approved external renderer URL changed on each target page",
+  "pagePayloadInventory": {
+    "totalBefore": 42,
+    "totalAfter": 42,
+    "changedPageIds": [
+      "ghmgt",
+      "t538a",
+      "masterPage"
+    ],
+    "unchangedOtherIds": 39,
+    "meaning": "Internal page payload identifiers, not sitemap URL/landing-page count"
+  },
+  "viewerModelReview": {
+    "testContext": "RELEASE_MANAGER flow and rc=test-site request/context URLs",
+    "deploymentContext": "Site revision1318 and global code-app/bundle reference versions; both target original page code bodies independently match candidates",
+    "requestContext": "Session/request/signature/CSRF fields vary in public response snapshots",
+    "platformContext": "Wix experiment flag differences remain recorded in original per-page viewer-model diffs; not attributed to authored content edits",
+    "scopeLimit": "No claim that all other page code bodies, CMS/backend/authenticated settings or unpublished drafts are unchanged"
+  },
+  "requestScope": "Two exact test URLs plus their observed resources; one additional immutable Gift1309 master resource GET corrected the comparison context. No permanent-page recheck or remote mutation.",
+  "browserChecks": "Owned by root; this source check does not execute layout, computed styling, or clicks."
+}
