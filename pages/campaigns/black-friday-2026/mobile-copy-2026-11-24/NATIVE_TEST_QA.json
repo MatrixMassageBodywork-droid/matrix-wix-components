@@ -1,0 +1,269 @@
+{
+  "mobile": {
+    "cardCount": 6,
+    "faqCount": 5,
+    "h1Count": 1,
+    "hostWidth": 320,
+    "images": [
+      {
+        "alt": "Matrix Massage & Bodywork approved logo",
+        "loaded": true
+      },
+      {
+        "alt": "Head Spa + Express Facial service imagery",
+        "loaded": false
+      },
+      {
+        "alt": "Massage + Head Spa service imagery",
+        "loaded": false
+      },
+      {
+        "alt": "Massage + Facial service imagery",
+        "loaded": false
+      },
+      {
+        "alt": "Lash extension service imagery",
+        "loaded": true
+      },
+      {
+        "alt": "Classic lash extension style image",
+        "loaded": true
+      },
+      {
+        "alt": "Hybrid lash extension style image",
+        "loaded": true
+      },
+      {
+        "alt": "Volume lash extension style image",
+        "loaded": false
+      }
+    ],
+    "links": [
+      "#pairings",
+      "sms:+12629399325",
+      "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/KCPFX5WH2RD3ZGF7MLR3QYFR",
+      "sms:+12629399325",
+      "sms:+12629399325",
+      "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/62DUXAO3FORLYQ67CWJDSVJV",
+      "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/ZRVT6JC3N6L5CH2MRUT2DUPQ",
+      "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/H3MLEFE3PQ6F6M7F666DRVY2",
+      "sms:+12629399325",
+      "https://app.squareup.com/gift/MLJ7B3VJVPBSS/order",
+      "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+      "sms:+12629399325",
+      "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+      "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+      "https://www.matrixmassage.net/"
+    ],
+    "mainScrollWidth": 320,
+    "mainWidth": 320,
+    "prices": [
+      {
+        "flexShrink": "0",
+        "insideRow": true,
+        "labelBelow": null,
+        "oneLine": true,
+        "rects": [
+          {
+            "height": 47,
+            "left": 46,
+            "right": 132.375,
+            "top": 1731.171875,
+            "width": 86.375
+          }
+        ],
+        "text": "$135",
+        "whiteSpace": "nowrap"
+      },
+      {
+        "flexShrink": "0",
+        "insideRow": true,
+        "labelBelow": null,
+        "oneLine": true,
+        "rects": [
+          {
+            "height": 47,
+            "left": 46,
+            "right": 132.375,
+            "top": 2625.5625,
+            "width": 86.375
+          }
+        ],
+        "text": "$175",
+        "whiteSpace": "nowrap"
+      },
+      {
+        "flexShrink": "0",
+        "insideRow": true,
+        "labelBelow": null,
+        "oneLine": true,
+        "rects": [
+          {
+            "height": 47,
+            "left": 46,
+            "right": 132.375,
+            "top": 3519.953125,
+            "width": 86.375
+          }
+        ],
+        "text": "$165",
+        "whiteSpace": "nowrap"
+      },
+      {
+        "flexShrink": "0",
+        "insideRow": true,
+        "labelBelow": true,
+        "oneLine": true,
+        "rects": [
+          {
+            "height": 47,
+            "left": 47,
+            "right": 133.375,
+            "top": 5014.5,
+            "width": 86.375
+          }
+        ],
+        "text": "$170",
+        "whiteSpace": "nowrap"
+      },
+      {
+        "flexShrink": "0",
+        "insideRow": true,
+        "labelBelow": true,
+        "oneLine": true,
+        "rects": [
+          {
+            "height": 47,
+            "left": 47,
+            "right": 133.375,
+            "top": 6013.765625,
+            "width": 86.375
+          }
+        ],
+        "text": "$190",
+        "whiteSpace": "nowrap"
+      },
+      {
+        "flexShrink": "0",
+        "insideRow": true,
+        "labelBelow": true,
+        "oneLine": true,
+        "rects": [
+          {
+            "height": 47,
+            "left": 47,
+            "right": 133.375,
+            "top": 7013.03125,
+            "width": 86.375
+          }
+        ],
+        "text": "$210",
+        "whiteSpace": "nowrap"
+      }
+    ],
+    "scrollWidth": 320,
+    "width": 320
+  },
+  "desktop": {
+    "documentClientWidth": 1348,
+    "documentScrollWidth": 1348,
+    "faqs": 5,
+    "footerTop": 4956,
+    "h1": 1,
+    "hostWidth": 1348,
+    "images": [
+      {
+        "alt": "Matrix Massage & Bodywork approved logo",
+        "loaded": true
+      },
+      {
+        "alt": "Head Spa + Express Facial service imagery",
+        "loaded": true
+      },
+      {
+        "alt": "Massage + Head Spa service imagery",
+        "loaded": true
+      },
+      {
+        "alt": "Massage + Facial service imagery",
+        "loaded": true
+      },
+      {
+        "alt": "Lash extension service imagery",
+        "loaded": true
+      },
+      {
+        "alt": "Classic lash extension style image",
+        "loaded": true
+      },
+      {
+        "alt": "Hybrid lash extension style image",
+        "loaded": true
+      },
+      {
+        "alt": "Volume lash extension style image",
+        "loaded": true
+      }
+    ],
+    "mainScrollWidth": 1348,
+    "mainWidth": 1348,
+    "prices": [
+      {
+        "insideRow": true,
+        "labelBelow": null,
+        "lineCount": 1,
+        "text": "$135",
+        "whiteSpace": "nowrap"
+      },
+      {
+        "insideRow": true,
+        "labelBelow": null,
+        "lineCount": 1,
+        "text": "$175",
+        "whiteSpace": "nowrap"
+      },
+      {
+        "insideRow": true,
+        "labelBelow": null,
+        "lineCount": 1,
+        "text": "$165",
+        "whiteSpace": "nowrap"
+      },
+      {
+        "insideRow": true,
+        "labelBelow": true,
+        "lineCount": 1,
+        "text": "$170",
+        "whiteSpace": "nowrap"
+      },
+      {
+        "insideRow": true,
+        "labelBelow": true,
+        "lineCount": 1,
+        "text": "$190",
+        "whiteSpace": "nowrap"
+      },
+      {
+        "insideRow": true,
+        "labelBelow": true,
+        "lineCount": 1,
+        "text": "$210",
+        "whiteSpace": "nowrap"
+      }
+    ],
+    "sectionBottom": 4956,
+    "url": "https://www.matrixmassage.net/black-friday-deals-salem-wi?rc=test-site",
+    "viewport": 1363
+  },
+  "faq": {
+    "allFaqsOpen": true,
+    "documentClientWidth": 1348,
+    "documentScrollWidth": 1348,
+    "faqCount": 5,
+    "footerTop": 1227.859375,
+    "sectionBottom": 1227.859375
+  },
+  "testRevision": 1322,
+  "testExposure": 0,
+  "productionBefore": 1319
+}

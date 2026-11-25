@@ -1,3 +1,7 @@
+## Verified publication
+
+The frozen candidate below was published as Wix revision 1323 on November 24, 2026 at 9:56 PM Central. See RELEASE_RECEIPT.md and the accompanying verification records. No source or binding change is introduced by this documentation update.
+
 # Black Friday mobile price layout and descriptive copy
 
 Frozen source archive for the existing https://www.matrixmassage.net/black-friday-deals-salem-wi page. Baseline: production revision 1319. A Git source archive does not establish Wix installation or publication.

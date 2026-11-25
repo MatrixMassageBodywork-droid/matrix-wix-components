@@ -1,0 +1,87 @@
+{
+  "revision": 1323,
+  "publishedAtCentral": "2026-11-24 21:56",
+  "checks": {
+    "clientWidth": 1348,
+    "faqCount": 5,
+    "footerTop": 3576,
+    "h1": 1,
+    "hostWidth": 1348,
+    "images": [
+      {
+        "alt": "Matrix Massage & Bodywork approved logo",
+        "loaded": true
+      },
+      {
+        "alt": "Head Spa + Express Facial service imagery",
+        "loaded": true
+      },
+      {
+        "alt": "Massage + Head Spa service imagery",
+        "loaded": true
+      },
+      {
+        "alt": "Massage + Facial service imagery",
+        "loaded": true
+      },
+      {
+        "alt": "Lash extension service imagery",
+        "loaded": true
+      },
+      {
+        "alt": "Classic lash extension style image",
+        "loaded": true
+      },
+      {
+        "alt": "Hybrid lash extension style image",
+        "loaded": true
+      },
+      {
+        "alt": "Volume lash extension style image",
+        "loaded": true
+      }
+    ],
+    "prices": [
+      {
+        "insideRow": true,
+        "lines": 1,
+        "text": "$135",
+        "whiteSpace": "nowrap"
+      },
+      {
+        "insideRow": true,
+        "lines": 1,
+        "text": "$175",
+        "whiteSpace": "nowrap"
+      },
+      {
+        "insideRow": true,
+        "lines": 1,
+        "text": "$165",
+        "whiteSpace": "nowrap"
+      },
+      {
+        "insideRow": true,
+        "lines": 1,
+        "text": "$170",
+        "whiteSpace": "nowrap"
+      },
+      {
+        "insideRow": true,
+        "lines": 1,
+        "text": "$190",
+        "whiteSpace": "nowrap"
+      },
+      {
+        "insideRow": true,
+        "lines": 1,
+        "text": "$210",
+        "whiteSpace": "nowrap"
+      }
+    ],
+    "scrollWidth": 1348,
+    "sectionBottom": 3576,
+    "url": "https://www.matrixmassage.net/black-friday-deals-salem-wi"
+  },
+  "zoomAttempt": "ctrl+plus had no effect; 200% NOT TESTED"
+}
