@@ -1,0 +1,24 @@
+{
+  "baselineRevision": 1319,
+  "url": "https://www.matrixmassage.net/black-friday-deals-salem-wi",
+  "pageId": "wx6vr",
+  "componentId": "comp-mwnos144",
+  "sectionId": "comp-mwnoo6p1",
+  "veloId": "matrixBlackFridayCampaign",
+  "tag": "matrix-black-friday",
+  "sourcePath": "public/custom-elements/matrixBlackFriday2026.js",
+  "architecture": "existing Velo-hosted shadow renderer and complete page seoMarkup",
+  "files": {
+    "body.html": "5ddcc0e8d6691b8173d34fdb919ab8a2c3fc36ed3e1889ae63765f5eeefded16",
+    "style.css": "868b1bd45b7c809f1a2edea92306d079016d2d9c94feab5211578490e060bab3",
+    "copy.json": "d9b8a117c559e25c90cf464faf37156ea108a221cb52a248b213d38f87cc5854",
+    "matrixBlackFriday2026.js": "e29949f29b2382c221bc640993435d531bdd5e11155d0ceaf803301ac61860b8",
+    "WIX_PAGE_CODE.js": "d322c5cc18cf51c52fb9811954ab96e5ecb944d3bd4897abac9340e28b58a9fb",
+    "page-config.json": "b15f41b9f1657ea1388ba403f512cf59d393de593eea1413d3dc9c7e34a4b43a"
+  },
+  "metadataChanged": false,
+  "offerAmountsChanged": false,
+  "bookingDestinationsChanged": false,
+  "imageSourcesChanged": false,
+  "schemaChanged": false
+}

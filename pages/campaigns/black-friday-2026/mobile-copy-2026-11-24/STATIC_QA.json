@@ -1,0 +1,72 @@
+{
+  "status": "FROZEN SOURCE STATIC QA PASSED; WIX INSTALLATION/PUBLICATION NOT CLAIMED",
+  "checkedAtUtc": "2026-11-25T03:41:57.815999+00:00",
+  "baselineRevision": 1319,
+  "checks": {
+    "frozenRendererHash": true,
+    "frozenPageCodeHash": true,
+    "frozenBodyHash": true,
+    "rendererStyleBodyExact": true,
+    "completeSeoBodyExact": true,
+    "rendererWrapperUnchangedExceptInnerHtml": true,
+    "pageCodeWrapperUnchangedExceptSeo": true,
+    "sixUnchangedMainPrices": true,
+    "oneH1": true,
+    "sixOfferCards": true,
+    "fiveFaqs": true,
+    "fifteenHrefsPreserved": true,
+    "onlyHeroHrefOrderChanged": true,
+    "eightImagesAllAttributesPreserved": true,
+    "idsUnchangedUnique": true,
+    "internalAnchorsValid": true,
+    "backgroundAssetsPreserved": true,
+    "priceSizeUnchanged": true,
+    "minimumCardWidthGrid": true,
+    "priceNonshrinkingUnbroken": true,
+    "finalLashPriceRowIsColumn": true,
+    "strictBalancedMarkup": true,
+    "matrixBlackFriday2026.jsSyntax": true,
+    "WIX_PAGE_CODE.jsSyntax": true
+  },
+  "prices": [
+    "$135",
+    "$175",
+    "$165",
+    "$170",
+    "$190",
+    "$210"
+  ],
+  "links": [
+    "#pairings",
+    "sms:+12629399325",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/KCPFX5WH2RD3ZGF7MLR3QYFR",
+    "sms:+12629399325",
+    "sms:+12629399325",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/62DUXAO3FORLYQ67CWJDSVJV",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/ZRVT6JC3N6L5CH2MRUT2DUPQ",
+    "https://book.squareup.com/appointments/m9m6r64pq02ode/location/LGNQ4P8GPMSEQ/services/H3MLEFE3PQ6F6M7F666DRVY2",
+    "sms:+12629399325",
+    "https://app.squareup.com/gift/MLJ7B3VJVPBSS/order",
+    "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+    "sms:+12629399325",
+    "https://www.matrixmassage.net/massage-therapy-services-salem-wi",
+    "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+    "https://www.matrixmassage.net/"
+  ],
+  "imageCount": 8,
+  "faqCount": 5,
+  "candidateHashes": {
+    "matrixBlackFriday2026.js": "e29949f29b2382c221bc640993435d531bdd5e11155d0ceaf803301ac61860b8",
+    "WIX_PAGE_CODE.js": "d322c5cc18cf51c52fb9811954ab96e5ecb944d3bd4897abac9340e28b58a9fb",
+    "body.html": "5ddcc0e8d6691b8173d34fdb919ab8a2c3fc36ed3e1889ae63765f5eeefded16",
+    "style.css": "868b1bd45b7c809f1a2edea92306d079016d2d9c94feab5211578490e060bab3"
+  },
+  "privateEditorialRecord": {
+    "copy.json": "Not archived; digest retained in exact candidate manifest; complete body preserves customer-facing copy"
+  },
+  "limitations": [
+    "Static checks do not establish rendered glyph geometry, text scaling, screenshots, image loading or live navigation.",
+    "Native saved/tested/published status and browser QA are recorded separately.",
+    "The alternate builder renderer is not used; original shadow-renderer wrapper remains exact."
+  ]
+}

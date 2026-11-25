@@ -1,0 +1,14 @@
+{
+  "serviceName": "Matrix Black Friday Offers",
+  "revision": "mobile-copy-2026-11-24-r1",
+  "tagName": "matrix-black-friday",
+  "elementId": "matrixBlackFridayCampaign",
+  "rootClass": "matrix-bf",
+  "pageUrl": "https://www.matrixmassage.net/black-friday-deals-salem-wi",
+  "seoTitle": "Black Friday Spa Deals in Salem, WI | Matrix",
+  "seoDescription": "Explore Early Bird Black Friday spa deals at Matrix in Salem, WI: Head Spa + Express Facial, lash sets with a fill included, and massage packages.",
+  "seoSource": "../baseline/head.json (preserved native metadata)",
+  "bodyFile": "body.html",
+  "cssFile": "style.css",
+  "expectedFaqCount": 5
+}
