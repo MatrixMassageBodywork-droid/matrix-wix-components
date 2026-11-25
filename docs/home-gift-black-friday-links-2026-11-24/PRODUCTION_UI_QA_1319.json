@@ -1,0 +1,71 @@
+{
+  "status": "SAVED / VERIFIED / TESTED / PUBLISHED-RELEASED",
+  "owner_approval": {
+    "reply": "What yep",
+    "context": "Direct affirmative reply to: May I publish the verified Home and Gift Cards changes to the live Matrix website now?"
+  },
+  "preflight": {
+    "live_revision": 1309,
+    "live_exposure_percent": 100,
+    "test_revision": 1318,
+    "test_exposure_percent": 0,
+    "latest_history_entry": "2026-11-24 20:21 America/Chicago Release Candidate",
+    "intervening_unexpected_changes": false
+  },
+  "publication": {
+    "native_publish_clicks": 1,
+    "success_text": "Congratulations \u2014 Your site is published and live online",
+    "site_history_revision": 1319,
+    "site_history_time_local": "2026-11-24 21:02 America/Chicago",
+    "site_history_time_utc": "2026-11-25 03:02 UTC",
+    "release_manager_live_revision": 1319,
+    "live_exposure_percent": 100,
+    "test_revision": 1318,
+    "test_exposure_percent": 0
+  },
+  "live_ui": {
+    "home": {
+      "permanent_url": "https://www.matrixmassage.net/",
+      "review_url": "https://www.matrixmassage.net/#hm-specials",
+      "viewport_px": 1348,
+      "document_width_px": 1348,
+      "body_links": 38,
+      "h1": 1,
+      "faqs": 11,
+      "footer_gap_px": 0,
+      "href": "https://www.matrixmassage.net/black-friday-deals-salem-wi",
+      "target": "_top",
+      "named_review_preserved": true
+    },
+    "gift_cards": {
+      "permanent_url": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+      "review_url": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi#gc-holidays",
+      "viewport_px": 1348,
+      "document_width_px": 1348,
+      "body_links": 19,
+      "h1": 1,
+      "faqs": 11,
+      "footer_gap_px": 16,
+      "href": "https://www.matrixmassage.net/black-friday-deals-salem-wi",
+      "target": "_top",
+      "text_decoration": "underline",
+      "separate_regular_gift_card_note": true
+    }
+  },
+  "actual_navigation": {
+    "home_new_link": "PASS",
+    "gift_new_link": "PASS",
+    "both_final_url": "https://www.matrixmassage.net/black-friday-deals-salem-wi",
+    "test_query_present": false,
+    "six_offer_prices_visible_usd": [
+      135,
+      175,
+      165,
+      170,
+      190,
+      210
+    ]
+  },
+  "mobile": "Prior native Wix 320px preview applies to the exact identical source verified after publication; not physical-phone testing.",
+  "changes_during_publication": "No code edits, repeated embed mutation, test redeploy, checkout, booking, customer edit, message or indexing request."
+}

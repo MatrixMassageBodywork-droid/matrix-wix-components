@@ -57,3 +57,7 @@ Receipt must distinguish PREPARED, SAVED, VERIFIED, TESTED, PUBLISHED and any NO
 ## Current gate — native publication blocked
 
 All approved source changes are saved and tested in revision 1318. Automatic approval review rejected native Publish because explicit approval of this specific production publication was not established. No publication retry or exposure change was performed. The Home startup API save remains recorded separately. NEXT_PUBLISH_INSTRUCTIONS.md is the current remaining execution package; earlier steps above are historical/completed and must not be rerun.
+
+## Current outcome — publication completed at revision 1319
+
+The owner gave an affirmative reply to the specific production publication question. Native Publish succeeded once on November 24, 2026 at 9:02 PM America/Chicago (November 25 at 03:02 UTC). Site History and Release Manager confirm live1319 at100% and test1318 at0%. Both permanent page links reach the permanent Black Friday campaign. Independent production content/metadata checks pass against the exact tested sources. The earlier blocked state is historical and superseded. Do not repeat publication, source installation, Test Site deployment or the Home embed mutation. See the current receipt and verification/PRODUCTION_UI_QA_1319.json.

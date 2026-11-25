@@ -1,4 +1,18 @@
-# Home and Gift Cards — remaining publication instructions
+# COMPLETED — Home and Gift Cards publication
+
+## Completion addendum — November 24, 2026, 9:02 PM Central
+
+**SAVED / VERIFIED / TESTED / PUBLISHED-RELEASED. DO NOT REPUBLISH OR RERUN THE STEPS BELOW.**
+
+The owner directly approved the specific production publication after the earlier approval-review block. Native preflight still showed live 1309 / Test 1318. One native Wix Publish succeeded, with a success modal; Site History and Release Manager now show **revision 1319, published November 24 at 9:02 PM America/Chicago / November 25 at 03:02 UTC, 100% live exposure**. Test revision 1318 remains at **0%**.
+
+Both permanent pages returned 200/revision 1319 and passed exact source, page-code, body, metadata and schema verification. Live desktop QA at 1348 px passed, and both real Home/Gift campaign-link clicks reached the permanent Black Friday URL without the Test Site query. The previously tested native 320 px source is unchanged. No code replacement, Test Site redeployment or Custom Embed mutation was repeated during this final publication phase.
+
+The current record is `MATRIX_Home_Gift_Black_Friday_Link_Receipt_2026-11-24.md`, supported by `verification/production-release-20261125/`. The approval-pending text and execution steps below describe the former held state and are retained as history only. They must not trigger another publication, embed PATCH, code installation or test deployment.
+
+---
+
+# Historical publication instructions — completed and no longer active
 
 ## State and gate
 

@@ -1,0 +1,230 @@
+{
+  "status": "PUBLISHED-RELEASED / INDEPENDENT PRODUCTION SOURCE VERIFIED",
+  "reviewedAtUtc": "2026-11-25T03:08:03.996298+00:00",
+  "verificationStartedAtUtc": "2026-11-25T03:03:51.114795+00:00",
+  "verificationCompletedAtUtc": "2026-11-25T03:04:22.719811+00:00",
+  "nativeCheckpointReportedByRoot": {
+    "revision": 1319,
+    "publicationTimeCentral": "November 24, 2026, 9:02 PM",
+    "publicationTimeUtc": "November 25, 2026, 03:02 UTC",
+    "liveExposurePercent": 100,
+    "testRevision": 1318,
+    "testExposurePercent": 0
+  },
+  "allObservedPagesMatchNativeRevision": true,
+  "pages": {
+    "home": {
+      "url": "https://www.matrixmassage.net/",
+      "revision": 1319,
+      "renderer": {
+        "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@0f15614f0dd0fe8bf425bd0a3b04e7b99ee86a3a/pages/home/black-friday-links-2026-11-24/renderer.js",
+        "sha256": "3180efff9d1595d30c3551c8e1e01199f97911c75c2dd4c0a2cf723f9022b1ca",
+        "bytes": 38556
+      },
+      "seoBody": [
+        {
+          "path": "/platform/ssrPropsUpdates/0/comp-mw5v2dtc/seoMarkup",
+          "sha256": "8be11bec8b2dc5cff98c2b51e29c01b33e4034427eaa3c8304029ffff1913864",
+          "bytes": 23480
+        }
+      ],
+      "pageCodeSha256": "c430696ba6464596e2e77619ba4bf76f845219c59c57b3c552a03ccae670f806",
+      "allChecksPassed": true,
+      "linkCount": 38,
+      "h1": [
+        "Japanese Head Spa, Facials & Massage in Salem, WI"
+      ],
+      "faqCount": 11,
+      "giftPurchaseRouteCount": 1,
+      "giftBalanceRouteCount": 0,
+      "giftReloadRouteCount": 0
+    },
+    "gift": {
+      "url": "https://www.matrixmassage.net/massage-spa-gift-cards-salem-wi",
+      "revision": 1319,
+      "renderer": {
+        "url": "https://cdn.jsdelivr.net/gh/MatrixMassageBodywork-droid/matrix-wix-components@379632446b389709772a28dffa9991649b11df0b/pages/gift-cards/black-friday-links-2026-11-24/renderer.js",
+        "sha256": "a1a55fb63ed305188767bb18248aa8414b8486c8ebc9fa14c84b498361bbf9a3",
+        "bytes": 25621
+      },
+      "seoBody": [
+        {
+          "path": "/platform/ssrPropsUpdates/0/comp-mw59f0pm/seoMarkup",
+          "sha256": "58dc55cb3f6c20c884b0a5aeb0f2adbc50e836d15a65302cae887de9035e2423",
+          "bytes": 14029
+        }
+      ],
+      "pageCodeSha256": "0c50c14a8f96534b3fac7b8a75e31783d0aa6093a2a8fa2769f5e16e38afdbb0",
+      "allChecksPassed": true,
+      "linkCount": 19,
+      "h1": [
+        "Massage & Spa Gift Cards in Salem, WI"
+      ],
+      "faqCount": 11,
+      "giftPurchaseRouteCount": 5,
+      "giftBalanceRouteCount": 1,
+      "giftReloadRouteCount": 1
+    }
+  },
+  "metadata": {
+    "allTitlesDescriptionsCanonicalsRobotsNativeSeoSchemaAndNonReleaseMetaExactBaseline": true,
+    "homeOgUrlSlashExceptionPresent": false,
+    "xRobotsTagHeaderPresent": false
+  },
+  "startup": {
+    "id": "f222d34c-8cac-4b08-af23-5b47c7451c20",
+    "candidateSha256": "d3418a93d083556987ecdaf62ee34dc068af7867821abb11d635ac491cb21a7b",
+    "combinedBodyEqualsHomeRendererAndSeo": true,
+    "allOtherCustomEmbedContentMetadataAndSettingsUnchanged": true
+  },
+  "publicConfiguration": {
+    "targetPageFeatures": "Exactly one intended external renderer URL change per page; no other differences",
+    "sharedMasterFeatures": "Zero differences for both own request-matched1309 baseline variants",
+    "internalPagePayloadIdentifiers": {
+      "before": 42,
+      "after": 42,
+      "changed": [
+        "ghmgt",
+        "t538a",
+        "masterPage"
+      ],
+      "unchangedOther": 39
+    },
+    "automaticReviewFlagsClassified": {
+      "platform_experiment_entry": 10,
+      "request_csrf_value": 3,
+      "verified_deployment_code_app_reference": 8
+    },
+    "classifiedFlagPaths": [
+      {
+        "page": "home",
+        "path": "/experiments/hamburgerMenuTopLayer",
+        "assessment": "platform_experiment_entry"
+      },
+      {
+        "page": "home",
+        "path": "/experiments/omriTest2",
+        "assessment": "platform_experiment_entry"
+      },
+      {
+        "page": "home",
+        "path": "/experiments/specs.thunderbolt.fedops_enableSampleRateForAppNames",
+        "assessment": "platform_experiment_entry"
+      },
+      {
+        "page": "home",
+        "path": "/siteFeaturesConfigs/dynamicPages/prefixToRouterFetchData/facial-goals/optionsData/headers/X-XSRF-TOKEN",
+        "assessment": "request_csrf_value"
+      },
+      {
+        "page": "home",
+        "path": "/siteFeaturesConfigs/dynamicPages/prefixToRouterFetchData/facial-goals/optionsData/headers/x-wix-grid-app-id",
+        "assessment": "verified_deployment_code_app_reference"
+      },
+      {
+        "page": "home",
+        "path": "/siteFeaturesConfigs/dynamicPages/prefixToRouterFetchData/facial-goals/urlData/queryParams",
+        "assessment": "verified_deployment_code_app_reference"
+      },
+      {
+        "page": "home",
+        "path": "/siteFeaturesConfigs/dynamicPages/prefixToRouterFetchData/offers/optionsData/headers/X-XSRF-TOKEN",
+        "assessment": "request_csrf_value"
+      },
+      {
+        "page": "home",
+        "path": "/siteFeaturesConfigs/dynamicPages/prefixToRouterFetchData/offers/optionsData/headers/x-wix-grid-app-id",
+        "assessment": "verified_deployment_code_app_reference"
+      },
+      {
+        "page": "home",
+        "path": "/siteFeaturesConfigs/dynamicPages/prefixToRouterFetchData/offers/urlData/queryParams",
+        "assessment": "verified_deployment_code_app_reference"
+      },
+      {
+        "page": "home",
+        "path": "/siteFeaturesConfigs/platform/bootstrapData/essentials/appsConductedExperiments/1380b703-ce81-ff05-f115-39571d94dfcd/storesProductPageSkipStoreMetaDataInSsr",
+        "assessment": "platform_experiment_entry"
+      },
+      {
+        "page": "home",
+        "path": "/siteFeaturesConfigs/platform/bootstrapData/window/csrfToken",
+        "assessment": "request_csrf_value"
+      },
+      {
+        "page": "home",
+        "path": "/siteFeaturesConfigs/seo/context/platformAppsExperiments/1380b703-ce81-ff05-f115-39571d94dfcd/storesProductPageSkipStoreMetaDataInSsr",
+        "assessment": "platform_experiment_entry"
+      },
+      {
+        "page": "gift",
+        "path": "/experiments/clearMemberSessionOnLogout",
+        "assessment": "platform_experiment_entry"
+      },
+      {
+        "page": "gift",
+        "path": "/experiments/omitSmSessionCookieFromConfig",
+        "assessment": "platform_experiment_entry"
+      },
+      {
+        "page": "gift",
+        "path": "/experiments/omriTest2",
+        "assessment": "platform_experiment_entry"
+      },
+      {
+        "page": "gift",
+        "path": "/experiments/specs.thunderbolt.globalVarsRefactor23",
+        "assessment": "platform_experiment_entry"
+      },
+      {
+        "page": "gift",
+        "path": "/siteAssets/beckyExperiments/specs.thunderbolt.globalVarsRefactor23",
+        "assessment": "platform_experiment_entry"
+      },
+      {
+        "page": "gift",
+        "path": "/siteFeaturesConfigs/dynamicPages/prefixToRouterFetchData/facial-goals/optionsData/headers/x-wix-grid-app-id",
+        "assessment": "verified_deployment_code_app_reference"
+      },
+      {
+        "page": "gift",
+        "path": "/siteFeaturesConfigs/dynamicPages/prefixToRouterFetchData/facial-goals/urlData/queryParams",
+        "assessment": "verified_deployment_code_app_reference"
+      },
+      {
+        "page": "gift",
+        "path": "/siteFeaturesConfigs/dynamicPages/prefixToRouterFetchData/offers/optionsData/headers/x-wix-grid-app-id",
+        "assessment": "verified_deployment_code_app_reference"
+      },
+      {
+        "page": "gift",
+        "path": "/siteFeaturesConfigs/dynamicPages/prefixToRouterFetchData/offers/urlData/queryParams",
+        "assessment": "verified_deployment_code_app_reference"
+      }
+    ],
+    "interpretation": "Remaining flagged viewer-model fields are platform experiment entries, per-request CSRF values, and dynamic-router references to the same code-app identifier used by the verified Test Site and production bundles. Both target original code bodies match approved candidates. No additional authored change is observed in the compared page/master feature payloads.",
+    "limits": "This is not proof that every other code body, CMS/backend/authenticated setting or unpublished draft is unchanged. Native pending-scope/history review and browser QA are separate root evidence."
+  },
+  "rootReportedBrowserQa": {
+    "home": {
+      "links": 38,
+      "h1": 1,
+      "faqs": 11,
+      "desktopWidth": 1348,
+      "horizontalOverflow": false,
+      "footerGapPixels": 0,
+      "newLinkNavigatesToPermanentCampaign": true
+    },
+    "gift": {
+      "links": 19,
+      "h1": 1,
+      "faqs": 11,
+      "desktopWidth": 1348,
+      "horizontalOverflow": false,
+      "footerGapPixels": 16,
+      "newAnchorUnderlined": true,
+      "newLinkNavigatesToPermanentCampaign": true
+    }
+  },
+  "requestScope": "One production verifier run on two exact permanent URLs and observed resources. No further public requests after completion; no mutation, transaction or indexing action by this subagent."
+}
