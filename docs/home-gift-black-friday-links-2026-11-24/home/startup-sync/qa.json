@@ -1,0 +1,139 @@
+{
+  "status": "PREPARED / STATIC VERIFIED / NOT APPLIED",
+  "currentTestRevision": 1315,
+  "sourcePath": "wix-viewer-model.siteFeaturesConfigs.codeEmbed.htmlEmbeds[2].content.html",
+  "customEmbedId": "f222d34c-8cac-4b08-af23-5b47c7451c20",
+  "name": "Matrix HOME \u2014 instant content 2 of 2",
+  "pages": [
+    "ghmgt"
+  ],
+  "position": "head",
+  "loadOnce": false,
+  "category": {
+    "enumClass": "com.wixpress.live.site.data.types.CustomContentCategory",
+    "value": "ESSENTIAL"
+  },
+  "exactChange": "<p class=\"hm-copy\"><a class=\"hm-link\" href=\"https://www.matrixmassage.net/black-friday-deals-salem-wi\" target=\"_top\">View Black Friday spa offers</a></p>",
+  "checks": {
+    "startupPartsOriginallyEqualPublishedBaseline": true,
+    "onlyExactApprovedAdditionToPart1": true,
+    "part0Unchanged": true,
+    "allCodeOutsidePart1BodyLiteralUnchanged": true,
+    "combinedStartupBodyEqualsCurrentRendererAndSeoCandidate": true,
+    "sameStateKey": true,
+    "sameCustomTagAndLifecycle": true,
+    "externalRendererUnchanged": true,
+    "pageCodeUnchanged": true,
+    "otherCustomEmbedMetadataUnchanged": true
+  },
+  "files": {
+    "startup-part-0.unchanged.html": {
+      "bytes": 12685,
+      "chars": 12671,
+      "sha256": "247cc0d4dcf7ffe04f64133442d4706e60bfe5fc1c6c0fd6b4ec3202b474f1df"
+    },
+    "startup-part-1.before.html": {
+      "bytes": 12689,
+      "chars": 12656,
+      "sha256": "410b5eb538ea6e16acbc79802c3771ef1f1aacaa0c7df8ade1cfff8175f7984a"
+    },
+    "startup-part-1.candidate.html": {
+      "bytes": 12850,
+      "chars": 12817,
+      "sha256": "d3418a93d083556987ecdaf62ee34dc068af7867821abb11d635ac491cb21a7b"
+    },
+    "combined-body.before.html": {
+      "bytes": 23327,
+      "chars": 23280,
+      "sha256": "abb3069b9579dee11365400bde9ed17f332108880435c26d097e0bd12d519c63"
+    },
+    "combined-body.candidate.html": {
+      "bytes": 23480,
+      "chars": 23433,
+      "sha256": "8be11bec8b2dc5cff98c2b51e29c01b33e4034427eaa3c8304029ffff1913864"
+    }
+  },
+  "unchangedOtherEmbedIds": [
+    "34f066d2-340b-4755-b4b3-3b537b1db21c",
+    "efc38ff7-bf28-4170-8685-b2bff22bbe79"
+  ],
+  "nativeApiNote": "public-config files are captured runtime shapes, not verified API request envelopes. Root must use the official CustomEmbeds current-revision schema and fresh readback.",
+  "limitations": [
+    "No remote mutation or browser inspection by this agent.",
+    "Static body equality does not establish post-update browser rendering.",
+    "Existing browser documents keep their already-registered custom-element class until a fresh document load."
+  ],
+  "unchangedOtherEmbeds": [
+    {
+      "id": "34f066d2-340b-4755-b4b3-3b537b1db21c",
+      "name": "Matrix HOME \u2014 faster images and accessible footer",
+      "htmlSha256": "02066c9d1724aef559202d953e428a86b9fb2e70a4fbf771862bf4622505850e",
+      "htmlBytes": 14601
+    },
+    {
+      "id": "efc38ff7-bf28-4170-8685-b2bff22bbe79",
+      "name": "Matrix HOME \u2014 instant content 1 of 2",
+      "htmlSha256": "247cc0d4dcf7ffe04f64133442d4706e60bfe5fc1c6c0fd6b4ec3202b474f1df",
+      "htmlBytes": 12685
+    }
+  ],
+  "runtimeReproduction": {
+    "status": "ALL FIVE OFFLINE REGISTRATION-ORDER CHECKS PASSED",
+    "scope": "Isolated Node JavaScript VM with minimal HTMLElement/customElements stubs; no browser, network or remote mutation",
+    "results": [
+      {
+        "name": "Existing startup first reproduces old DIV-only body despite new external renderer",
+        "passed": true,
+        "bfLabelCount": 0,
+        "containsStyleChild": false,
+        "readyVersion": "home-startup-2026-11-09",
+        "connectedWritesIncludingReconnect": 1,
+        "linkCount": 37,
+        "exactExpectedBody": true
+      },
+      {
+        "name": "A guard-only external-renderer change cannot replace the class already registered by startup",
+        "passed": true,
+        "bfLabelCount": 0,
+        "containsStyleChild": false,
+        "readyVersion": "home-startup-2026-11-09",
+        "connectedWritesIncludingReconnect": 1,
+        "linkCount": 37,
+        "exactExpectedBody": true
+      },
+      {
+        "name": "Updated part1, normal startup order, existing external renderer unchanged",
+        "passed": true,
+        "bfLabelCount": 1,
+        "containsStyleChild": false,
+        "readyVersion": "home-startup-2026-11-09",
+        "connectedWritesIncludingReconnect": 1,
+        "linkCount": 38,
+        "exactExpectedBody": true
+      },
+      {
+        "name": "Updated part1, reversed startup-part arrival order",
+        "passed": true,
+        "bfLabelCount": 1,
+        "containsStyleChild": false,
+        "readyVersion": "home-startup-2026-11-09",
+        "connectedWritesIncludingReconnect": 1,
+        "linkCount": 38,
+        "exactExpectedBody": true
+      },
+      {
+        "name": "External renderer arrives first; updated startup does not replace it",
+        "passed": true,
+        "bfLabelCount": 1,
+        "containsStyleChild": true,
+        "readyVersion": "home-performance-complete-2026-11-09",
+        "connectedWritesIncludingReconnect": 1,
+        "linkCount": 38,
+        "exactExpectedBody": true
+      }
+    ],
+    "limitations": [
+      "Does not test Wix script scheduling, CSS rendering, browser geometry or live save/publication"
+    ]
+  }
+}

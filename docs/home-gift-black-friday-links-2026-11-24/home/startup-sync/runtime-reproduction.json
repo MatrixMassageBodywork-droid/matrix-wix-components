@@ -1,0 +1,59 @@
+{
+  "status": "ALL FIVE OFFLINE REGISTRATION-ORDER CHECKS PASSED",
+  "scope": "Isolated Node JavaScript VM with minimal HTMLElement/customElements stubs; no browser, network or remote mutation",
+  "results": [
+    {
+      "name": "Existing startup first reproduces old DIV-only body despite new external renderer",
+      "passed": true,
+      "bfLabelCount": 0,
+      "containsStyleChild": false,
+      "readyVersion": "home-startup-2026-11-09",
+      "connectedWritesIncludingReconnect": 1,
+      "linkCount": 37,
+      "exactExpectedBody": true
+    },
+    {
+      "name": "A guard-only external-renderer change cannot replace the class already registered by startup",
+      "passed": true,
+      "bfLabelCount": 0,
+      "containsStyleChild": false,
+      "readyVersion": "home-startup-2026-11-09",
+      "connectedWritesIncludingReconnect": 1,
+      "linkCount": 37,
+      "exactExpectedBody": true
+    },
+    {
+      "name": "Updated part1, normal startup order, existing external renderer unchanged",
+      "passed": true,
+      "bfLabelCount": 1,
+      "containsStyleChild": false,
+      "readyVersion": "home-startup-2026-11-09",
+      "connectedWritesIncludingReconnect": 1,
+      "linkCount": 38,
+      "exactExpectedBody": true
+    },
+    {
+      "name": "Updated part1, reversed startup-part arrival order",
+      "passed": true,
+      "bfLabelCount": 1,
+      "containsStyleChild": false,
+      "readyVersion": "home-startup-2026-11-09",
+      "connectedWritesIncludingReconnect": 1,
+      "linkCount": 38,
+      "exactExpectedBody": true
+    },
+    {
+      "name": "External renderer arrives first; updated startup does not replace it",
+      "passed": true,
+      "bfLabelCount": 1,
+      "containsStyleChild": true,
+      "readyVersion": "home-performance-complete-2026-11-09",
+      "connectedWritesIncludingReconnect": 1,
+      "linkCount": 38,
+      "exactExpectedBody": true
+    }
+  ],
+  "limitations": [
+    "Does not test Wix script scheduling, CSS rendering, browser geometry or live save/publication"
+  ]
+}
